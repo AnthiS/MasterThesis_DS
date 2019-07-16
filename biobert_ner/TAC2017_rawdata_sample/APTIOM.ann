@@ -1,0 +1,398 @@
+T1	AdverseReaction 151 168	Suicidal Behavior
+T2	AdverseReaction 151 159;173 181	Suicidal Behavior and Ideation
+T3	Severity 229 236	Serious
+T4	AdverseReaction 237 259	Dermatologic Reactions
+T5	AdverseReaction 307 360	Drug Reaction with Eosinophilia and Systemic Symptoms
+T6	AdverseReaction 362 367	DRESS
+T7	AdverseReaction 369 396	Multiorgan Hypersensitivity
+T8	AdverseReaction 444 466	Anaphylactic Reactions
+T9	AdverseReaction 471 481	Angioedema
+T10	AdverseReaction 529 541	Hyponatremia
+T11	AdverseReaction 589 619	Neurological Adverse Reactions
+T12	AdverseReaction 667 692	Drug Induced Liver Injury
+T13	AdverseReaction 740 771	Abnormal Thyroid Function Tests
+T14	AdverseReaction 929 938	dizziness
+T15	AdverseReaction 940 950	somnolence
+T16	AdverseReaction 952 958	nausea
+T17	AdverseReaction 960 968	headache
+T18	AdverseReaction 970 978	diplopia
+T19	AdverseReaction 980 988	vomiting
+T20	AdverseReaction 990 997	fatigue
+T21	AdverseReaction 999 1006	vertigo
+T22	AdverseReaction 1008 1014	ataxia
+T23	AdverseReaction 1016 1030	blurred vision
+T24	AdverseReaction 1036 1042	tremor
+T25	AdverseReaction 2739 2751	hyponatremia
+T26	AdverseReaction 3010 3019	Dizziness
+T27	AdverseReaction 3021 3027	nausea
+T28	AdverseReaction 3029 3039	somnolence
+T29	AdverseReaction 3045 3052	fatigue
+T30	AdverseReaction 3647 3656	dizziness
+T31	AdverseReaction 3658 3664	nausea
+T32	AdverseReaction 3666 3674	vomiting
+T33	AdverseReaction 3676 3682	ataxia
+T34	AdverseReaction 3684 3692	diplopia
+T35	AdverseReaction 3694 3704	somnolence
+T36	AdverseReaction 3706 3714	headache
+T37	AdverseReaction 3716 3730	blurred vision
+T38	AdverseReaction 3732 3739	vertigo
+T39	AdverseReaction 3741 3749	asthenia
+T40	AdverseReaction 3751 3758	fatigue
+T41	AdverseReaction 3760 3764	rash
+T42	AdverseReaction 3766 3776	dysarthria
+T43	AdverseReaction 3782 3788	tremor
+T44	AdverseReaction 3942 3951	dizziness
+T45	AdverseReaction 3953 3963	somnolence
+T46	AdverseReaction 3965 3971	nausea
+T47	AdverseReaction 3973 3981	headache
+T48	AdverseReaction 3983 3991	diplopia
+T49	AdverseReaction 3993 4001	vomiting
+T50	AdverseReaction 4003 4010	fatigue
+T51	AdverseReaction 4012 4019	vertigo
+T52	AdverseReaction 4021 4027	ataxia
+T53	AdverseReaction 4029 4043	blurred vision
+T54	AdverseReaction 4049 4055	tremor
+T55	AdverseReaction 4994 5001	Vertigo
+T56	AdverseReaction 5089 5097	Diplopia
+T57	AdverseReaction 5102 5116	Blurred vision
+T58	AdverseReaction 5121 5138	Visual impairment
+T59	AdverseReaction 5321 5327	Nausea
+T60	AdverseReaction 5332 5340	Vomiting
+T61	AdverseReaction 5345 5353	Diarrhea
+T62	AdverseReaction 5358 5370	Constipation
+T63	AdverseReaction 5375 5389	Abdominal pain
+T64	AdverseReaction 5394 5403	Gastritis
+T65	AdverseReaction 5598 5605	Fatigue
+T66	AdverseReaction 5610 5618	Asthenia
+T67	AdverseReaction 5623 5639	Gait disturbance
+T68	AdverseReaction 5644 5660	Peripheral edema
+T69	AdverseReaction 5761 5785	Urinary tract infections
+T70	AdverseReaction 5974 5978	Fall
+T71	AdverseReaction 6192 6204	Hyponatremia
+T72	AdverseReaction 6325 6334	Dizziness
+T73	AdverseReaction 6339 6349	Somnolence
+T74	AdverseReaction 6354 6362	Headache
+T75	AdverseReaction 6367 6373	Ataxia
+T76	AdverseReaction 6378 6394	Balance disorder
+T77	AdverseReaction 6399 6405	Tremor
+T78	AdverseReaction 6410 6420	Dysarthria
+T79	AdverseReaction 6425 6442	Memory impairment
+T80	AdverseReaction 6447 6456	Nystagmus
+T81	AdverseReaction 6551 6561	Depression
+T82	AdverseReaction 6566 6574	Insomnia
+T83	AdverseReaction 6764 6769	Cough
+T84	AdverseReaction 6911 6915	Rash
+T85	AdverseReaction 7007 7019	Hypertension
+T86	AdverseReaction 7713 7730	Suicidal Behavior
+T87	AdverseReaction 7713 7721;7735 7743	Suicidal Behavior and Ideation
+T88	Severity 7803 7810	Serious
+T89	AdverseReaction 7811 7833	Dermatologic Reactions
+T90	AdverseReaction 7835 7888	Drug Reaction with Eosinophilia and Systemic Symptoms
+T91	AdverseReaction 7890 7895	DRESS
+T92	AdverseReaction 7898 7920	Anaphylactic Reactions
+T93	AdverseReaction 7925 7935	Angioedema
+T94	AdverseReaction 8032 8044	Hyponatremia
+T95	AdverseReaction 8151 8181	Neurological Adverse Reactions
+T96	AdverseReaction 8519 8544	Drug Induced Liver Injury
+T97	Factor 8753 8757	risk
+T98	AdverseReaction 8761 8778	suicidal thoughts
+T99	AdverseReaction 8761 8769;8782 8790	suicidal thoughts or behavior
+T100	AdverseReaction 9306 9323	suicidal thinking
+T101	AdverseReaction 9306 9314;9327 9335	suicidal thinking or behavior
+T102	AdverseReaction 9475 9492	suicidal behavior
+T103	AdverseReaction 9475 9483;9496 9504	suicidal behavior or ideation
+T104	AdverseReaction 9661 9678	suicidal thinking
+T105	AdverseReaction 9661 9669;9682 9690	suicidal thinking or behavior
+T106	AdverseReaction 9739 9747	suicides
+T107	Factor 9833 9886	number of events is too small to allow any conclusion
+T108	AdverseReaction 9908 9915	suicide
+T109	Factor 9935 9939	risk
+T110	AdverseReaction 9943 9960	suicidal thoughts
+T111	AdverseReaction 9943 9951;9964 9972	suicidal thoughts or behavior
+T112	Factor 10187 10191	risk
+T113	AdverseReaction 10195 10212	suicidal thoughts
+T114	AdverseReaction 10195 10203;10216 10224	suicidal thoughts or behavior
+T115	Factor 10272 10276	risk
+T116	AdverseReaction 10280 10297	suicidal thoughts
+T117	AdverseReaction 10280 10288;10301 10309	suicidal thoughts or behavior
+T118	Factor 10732 10736	Risk
+T119	AdverseReaction 10740 10757	Suicidal Thoughts
+T120	AdverseReaction 10740 10748;10761 10770	Suicidal Thoughts or Behaviors
+T121	AdverseReaction 11593 11610	suicidal thoughts
+T122	AdverseReaction 11593 11601;11614 11622	suicidal thoughts or behavior
+T123	Negation 11984 12023	illnesses for which AEDs are prescribed
+T124	AdverseReaction 12055 12064	morbidity
+T125	AdverseReaction 12069 12078	mortality
+T126	AdverseReaction 12104 12121	suicidal thoughts
+T127	AdverseReaction 12104 12112;12126 12134	suicidal thoughts and behavior
+T128	AdverseReaction 12833 12855	dermatologic reactions
+T129	AdverseReaction 12866 12890	Stevens-Johnson Syndrome
+T130	AdverseReaction 12892 12895	SJS
+T131	Severity 12948 12955	Serious
+T132	AdverseReaction 12970 12975	fatal
+T133	AdverseReaction 12976 12998	dermatologic reactions
+T134	AdverseReaction 13010 13036	toxic epidermal necrolysis
+T135	AdverseReaction 13038 13041	TEN
+T136	AdverseReaction 13047 13050	SJS
+T137	DrugClass 13089 13102	oxcarbazepine
+T138	Severity 13342 13349	serious
+T139	AdverseReaction 13350 13372	dermatologic reactions
+T140	Negation 13394 13397	not
+T141	AdverseReaction 13814 13867	Drug Reaction with Eosinophilia and Systemic Symptoms
+T142	AdverseReaction 13869 13874	DRESS
+T143	AdverseReaction 13891 13918	Multiorgan Hypersensitivity
+T144	AdverseReaction 13965 13970	DRESS
+T145	AdverseReaction 13965 13970	DRESS
+T146	AdverseReaction 13978 13983	fatal
+T147	Severity 13987 14003	life-threatening
+T148	AdverseReaction 14005 14010	DRESS
+T149	AdverseReaction 14062 14067	fever
+T150	AdverseReaction 14069 14073	rash
+T151	AdverseReaction 14082 14097	lymphadenopathy
+T152	AdverseReaction 14159 14168	hepatitis
+T153	AdverseReaction 14170 14179	nephritis
+T154	AdverseReaction 14181 14208	hematological abnormalities
+T155	AdverseReaction 14210 14221	myocarditis
+T156	AdverseReaction 14226 14234	myositis
+T157	AdverseReaction 14282 14294	Eosinophilia
+T158	AdverseReaction 14471 14487	hypersensitivity
+T159	AdverseReaction 14497 14502	fever
+T160	AdverseReaction 14506 14521	lymphadenopathy
+T161	AdverseReaction 14550 14554	rash
+T162	Negation 14558 14569	not evident
+T163	AdverseReaction 14990 15001	anaphylaxis
+T164	AdverseReaction 15006 15016	angioedema
+T165	AdverseReaction 15063 15074	Anaphylaxis
+T166	AdverseReaction 15079 15089	angioedema
+T167	AdverseReaction 15106 15121	laryngeal edema
+T168	Factor 15122 15125	can
+T169	AdverseReaction 15129 15134	fatal
+T170	AdverseReaction 15449 15461	hyponatremia
+T171	AdverseReaction 15880 15906	decreases in sodium values
+T172	Severity 15920 15928	10 mEq/L
+T173	Severity 16060 16076	life-threatening
+T174	AdverseReaction 16128 16140	hyponatremia
+T175	AdverseReaction 16128 16140	hyponatremia
+T176	Severity 16152 16161	112 mEq/L
+T177	AdverseReaction 16173 16181	seizures
+T178	Severity 16183 16189	severe
+T179	AdverseReaction 16190 16196	nausea
+T180	AdverseReaction 16197 16205	vomiting
+T181	AdverseReaction 16217 16228	dehydration
+T182	Severity 16230 16236	severe
+T183	AdverseReaction 16237 16253	gait instability
+T184	AdverseReaction 16259 16265	injury
+T185	AdverseReaction 16348 16361	hypochloremia
+T186	AdverseReaction 16396 16408	hyponatremia
+T187	AdverseReaction 16512 16524	Hyponatremia
+T188	AdverseReaction 17174 17183	dizziness
+T189	AdverseReaction 17188 17207	disturbance in gait
+T190	AdverseReaction 17188 17202;17212 17224	disturbance in gait and coordination
+T191	AdverseReaction 17226 17235	dizziness
+T192	AdverseReaction 17237 17243	ataxia
+T193	AdverseReaction 17245 17252	vertigo
+T194	AdverseReaction 17254 17270	balance disorder
+T195	AdverseReaction 17272 17288	gait disturbance
+T196	AdverseReaction 17290 17299	nystagmus
+T197	AdverseReaction 17305 17326	abnormal coordination
+T198	AdverseReaction 17603 17612	dizziness
+T199	AdverseReaction 17617 17636	disturbance in gait
+T200	AdverseReaction 17617 17631;17641 17653	disturbance in gait and coordination
+T201	AdverseReaction 18118 18124	Nausea
+T202	AdverseReaction 18129 18137	vomiting
+T203	AdverseReaction 18171 18180	Dizziness
+T204	AdverseReaction 18185 18204	disturbance in gait
+T205	AdverseReaction 18185 18199;18209 18221	disturbance in gait and coordination
+T206	AdverseReaction 18285 18294	dizziness
+T207	AdverseReaction 18682 18692	somnolence
+T208	AdverseReaction 18697 18704	fatigue
+T209	AdverseReaction 18732 18739	fatigue
+T210	AdverseReaction 18741 18749	asthenia
+T211	AdverseReaction 18751 18758	malaise
+T212	AdverseReaction 18760 18771	hypersomnia
+T213	AdverseReaction 18773 18781	sedation
+T214	AdverseReaction 18787 18795	lethargy
+T215	AdverseReaction 19018 19028	Somnolence
+T216	AdverseReaction 19033 19055	fatigue-related events
+T217	AdverseReaction 19229 19239	Somnolence
+T218	AdverseReaction 19244 19251	fatigue
+T219	AdverseReaction 19371 19392	cognitive dysfunction
+T220	AdverseReaction 19409 19426	memory impairment
+T221	AdverseReaction 19428 19452	disturbance in attention
+T222	AdverseReaction 19454 19461	amnesia
+T223	AdverseReaction 19463 19480	confusional state
+T224	AdverseReaction 19482 19489	aphasia
+T225	AdverseReaction 19491 19506	speech disorder
+T226	AdverseReaction 19508 19527	slowness of thought
+T227	AdverseReaction 19529 19543	disorientation
+T228	AdverseReaction 19549 19572	psychomotor retardation
+T229	AdverseReaction 19792 19813	Cognitive dysfunction
+T230	AdverseReaction 19792 19813	Cognitive dysfunction
+T231	Severity 19834 19841	serious
+T232	AdverseReaction 20008 20029	Cognitive dysfunction
+T233	AdverseReaction 20167 20181	visual changes
+T234	AdverseReaction 20192 20200	diplopia
+T235	AdverseReaction 20202 20216	blurred vision
+T236	AdverseReaction 20222 20237	impaired vision
+T237	AdverseReaction 20396 20406	Eye events
+T238	AdverseReaction 20396 20406	Eye events
+T239	Severity 20412 20419	serious
+T240	AdverseReaction 20794 20802	diplopia
+T241	AdverseReaction 21016 21030	visual changes
+T242	Severity 21557 21561	mild
+T243	Severity 21557 21573	mild to moderate
+T244	Severity 21565 21573	moderate
+T245	AdverseReaction 21574 21601	elevations in transaminases
+T246	Severity 21604 21637	3 times the upper limit of normal
+T247	AdverseReaction 21670 21699	elevations of total bilirubin
+T248	Severity 21702 21735	2 times the upper limit of normal
+T249	AdverseReaction 21856 21879	transaminase elevations
+T250	AdverseReaction 21884 21902	elevated bilirubin
+T251	Severity 21988 21994	severe
+T252	AdverseReaction 21995 22007	liver injury
+T253	AdverseReaction 22203 22224;22233 22237	decreases in serum T3 and T4 (free
+T254	AdverseReaction 22203 22221;22229 22231;22233 22237	decreases in serum T3 and T4 (free
+T255	AdverseReaction 22203 22221;22229 22231;22242 22247	decreases in serum T3 and T4 (free and total
+T256	AdverseReaction 22203 22224;22242 22247	decreases in serum T3 and T4 (free and total
+T257	Negation 22321 22324	not
+T258	AdverseReaction 22347 22372	abnormal thyroid function
+T259	AdverseReaction 22390 22404	hypothyroidism
+R1	Effect arg1:T4 arg2:T3
+R2	Effect arg1:T89 arg2:T88
+R3	Hypothetical arg1:T98 arg2:T97
+R4	Hypothetical arg1:T99 arg2:T97
+R5	Negated arg1:T108 arg2:T107
+R6	Hypothetical arg1:T110 arg2:T109
+R7	Hypothetical arg1:T111 arg2:T109
+R8	Hypothetical arg1:T113 arg2:T112
+R9	Hypothetical arg1:T114 arg2:T112
+R10	Hypothetical arg1:T116 arg2:T115
+R11	Hypothetical arg1:T117 arg2:T115
+R12	Hypothetical arg1:T119 arg2:T118
+R13	Hypothetical arg1:T120 arg2:T118
+R14	Negated arg1:T124 arg2:T123
+R15	Negated arg1:T125 arg2:T123
+R16	Negated arg1:T126 arg2:T123
+R17	Negated arg1:T127 arg2:T123
+R18	Hypothetical arg1:T132 arg2:T137
+R19	Hypothetical arg1:T133 arg2:T137
+R20	Effect arg1:T133 arg2:T131
+R21	Hypothetical arg1:T134 arg2:T137
+R22	Hypothetical arg1:T135 arg2:T137
+R23	Hypothetical arg1:T136 arg2:T137
+R24	Negated arg1:T139 arg2:T140
+R25	Effect arg1:T139 arg2:T138
+R26	Effect arg1:T145 arg2:T147
+R27	Negated arg1:T161 arg2:T162
+R28	Hypothetical arg1:T169 arg2:T168
+R29	Effect arg1:T171 arg2:T172
+R30	Effect arg1:T175 arg2:T173
+R31	Effect arg1:T175 arg2:T176
+R32	Effect arg1:T179 arg2:T178
+R33	Effect arg1:T180 arg2:T178
+R34	Effect arg1:T183 arg2:T182
+R35	Effect arg1:T230 arg2:T231
+R36	Effect arg1:T238 arg2:T239
+R37	Effect arg1:T245 arg2:T242
+R38	Effect arg1:T245 arg2:T243
+R39	Effect arg1:T245 arg2:T244
+R40	Effect arg1:T245 arg2:T246
+R41	Effect arg1:T247 arg2:T248
+R42	Effect arg1:T252 arg2:T251
+R43	Negated arg1:T258 arg2:T257
+R44	Negated arg1:T259 arg2:T257
+N1	Reference T1 meddra:10065604	Suicidal behaviour
+N2	Reference T2 meddra:10042458	Suicidal ideation
+N3	Reference T4 meddra:10040914	Skin reaction
+N4	Reference T5 meddra:10073508	Drug reaction with eosinophilia and systemic symptoms
+N5	Reference T6 meddra:10073508	Drug reaction with eosinophilia and systemic symptoms
+N6	Reference T7 meddra:10073508	Drug reaction with eosinophilia and systemic symptoms
+N7	Reference T8 meddra:10002198	Anaphylactic reaction
+N8	Reference T9 meddra:10002424	Angioedema
+N9	Reference T10 meddra:10021036	Hyponatraemia
+N10	Reference T11 meddra:10060860	Neurological symptom
+N11	Reference T12 meddra:10072268	Drug-induced liver injury
+N12	Reference T13 meddra:10043730	Thyroid function test abnormal
+N13	Reference T14 meddra:10013573	Dizziness
+N14	Reference T15 meddra:10041349	Somnolence
+N15	Reference T16 meddra:10028813	Nausea
+N16	Reference T17 meddra:10019211	Headache
+N17	Reference T18 meddra:10013036	Diplopia
+N18	Reference T19 meddra:10047700	Vomiting
+N19	Reference T20 meddra:10016256	Fatigue
+N20	Reference T21 meddra:10047340	Vertigo
+N21	Reference T22 meddra:10003591	Ataxia
+N22	Reference T23 meddra:10047513	Vision blurred
+N23	Reference T24 meddra:10044565	Tremor
+N24	Reference T39 meddra:10003549	Asthenia
+N25	Reference T41 meddra:10037844	Rash
+N26	Reference T42 meddra:10013887	Dysarthria
+N27	Reference T58 meddra:10047571	Visual impairment
+N28	Reference T61 meddra:10012735	Diarrhoea
+N29	Reference T62 meddra:10010774	Constipation
+N30	Reference T63 meddra:10000081	Abdominal pain
+N31	Reference T64 meddra:10017853	Gastritis
+N32	Reference T67 meddra:10017577	Gait disturbance
+N33	Reference T68 meddra:10030124	Oedema peripheral
+N34	Reference T69 meddra:10046571	Urinary tract infection
+N35	Reference T70 meddra:10016173	Fall
+N36	Reference T76 meddra:10049848	Balance disorder
+N37	Reference T79 meddra:10027175	Memory impairment
+N38	Reference T80 meddra:10029864	Nystagmus
+N39	Reference T81 meddra:10012378	Depression
+N40	Reference T82 meddra:10022437	Insomnia
+N41	Reference T83 meddra:10011224	Cough
+N42	Reference T85 meddra:10020772	Hypertension
+N43	Reference T98 meddra:10042458	Suicidal ideation
+N44	Reference T100 meddra:10042458	Suicidal ideation
+N45	Reference T106 meddra:10010144	Completed suicide
+N46	Reference T120 meddra:10065604	Suicidal behaviour
+N47	Reference T129 meddra:10042033	Stevens-Johnson syndrome
+N48	Reference T130 meddra:10042033	Stevens-Johnson syndrome
+N49	Reference T132 meddra:10011906	Death
+N50	Reference T149 meddra:10037660	Pyrexia
+N51	Reference T151 meddra:10025197	Lymphadenopathy
+N52	Reference T152 meddra:10019717	Hepatitis
+N53	Reference T153 meddra:10029117	Nephritis
+N54	Reference T154 meddra:10057755	Haematology test abnormal
+N55	Reference T155 meddra:10028606	Myocarditis
+N56	Reference T156 meddra:10028653	Myositis
+N57	Reference T157 meddra:10014950	Eosinophilia
+N58	Reference T158 meddra:10020751	Hypersensitivity
+N59	Reference T163 meddra:10002198	Anaphylactic reaction
+N60	Reference T167 meddra:10023845	Laryngeal oedema
+N61	Reference T171 meddra:10005802	Blood sodium decreased
+N62	Reference T177 meddra:10039906	Seizure
+N63	Reference T181 meddra:10012174	Dehydration
+N64	Reference T183 meddra:10017577	Gait disturbance
+N65	Reference T184 meddra:10022116	Injury
+N66	Reference T185 meddra:10020955	Hypochloraemia
+N67	Reference T189 meddra:10017577	Gait disturbance
+N68	Reference T190 meddra:10010947	Coordination abnormal
+N69	Reference T197 meddra:10010947	Coordination abnormal
+N70	Reference T211 meddra:10025482	Malaise
+N71	Reference T212 meddra:10020765	Hypersomnia
+N72	Reference T213 meddra:10039897	Sedation
+N73	Reference T214 meddra:10024264	Lethargy
+N74	Reference T216 meddra:10016256	Fatigue
+N75	Reference T219 meddra:10057668	Cognitive disorder
+N76	Reference T221 meddra:10013496	Disturbance in attention
+N77	Reference T222 meddra:10001949	Amnesia
+N78	Reference T223 meddra:10010305	Confusional state
+N79	Reference T224 meddra:10002948	Aphasia
+N80	Reference T225 meddra:10041466	Speech disorder
+N81	Reference T226 meddra:10050012	Bradyphrenia
+N82	Reference T227 meddra:10013395	Disorientation
+N83	Reference T228 meddra:10037213	Psychomotor retardation
+N84	Reference T233 meddra:10047571	Visual impairment
+N85	Reference T236 meddra:10047571	Visual impairment
+N86	Reference T237 meddra:10075536	Eye symptom
+N87	Reference T245 meddra:10054889	Transaminases increased
+N88	Reference T247 meddra:10005364	Blood bilirubin increased
+N89	Reference T249 meddra:10054889	Transaminases increased
+N90	Reference T250 meddra:10005364	Blood bilirubin increased
+N91	Reference T252 meddra:10067125	Liver injury
+N92	Reference T253 meddra:10053791	Tri-iodothyronine free decreased
+N93	Reference T254 meddra:10055162	Thyroxine free decreased
+N94	Reference T255 meddra:10043816	Thyroxine decreased
+N95	Reference T256 meddra:10044594	Tri-iodothyronine decreased

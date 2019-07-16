@@ -1,0 +1,405 @@
+T1	AdverseReaction 121 151	Distant Spread of Toxin Effect
+T2	AdverseReaction 279 307	Spread of Effects from Toxin
+T3	AdverseReaction 351 360	Dysphagia
+T4	AdverseReaction 365 387	Breathing Difficulties
+T5	AdverseReaction 658 685	Intradermal Immune Reaction
+T6	AdverseReaction 833 850	muscular weakness
+T7	AdverseReaction 852 861	dysphagia
+T8	AdverseReaction 863 872	dry mouth
+T9	AdverseReaction 874 899	injection site discomfort
+T10	AdverseReaction 901 908	fatigue
+T11	AdverseReaction 910 918	headache
+T12	AdverseReaction 920 929	neck pain
+T13	AdverseReaction 931 951	musculoskeletal pain
+T14	AdverseReaction 953 962	dysphonia
+T15	AdverseReaction 964 983	injection site pain
+T16	AdverseReaction 989 1002	eye disorders
+T17	AdverseReaction 1097 1112	nasopharyngitis
+T18	AdverseReaction 1114 1122	headache
+T19	AdverseReaction 1124 1143	injection site pain
+T20	AdverseReaction 1145 1168	injection site reaction
+T21	AdverseReaction 1170 1203	upper respiratory tract infection
+T22	AdverseReaction 1205 1217	eyelid edema
+T23	AdverseReaction 1219 1232	eyelid ptosis
+T24	AdverseReaction 1234 1243	sinusitis
+T25	AdverseReaction 1249 1255	nausea
+T26	AdverseReaction 1356 1379	urinary tract infection
+T27	AdverseReaction 1381 1396	nasopharyngitis
+T28	AdverseReaction 1398 1415	muscular weakness
+T29	AdverseReaction 1417 1437	musculoskeletal pain
+T30	AdverseReaction 1439 1448	dizziness
+T31	AdverseReaction 1450 1454	fall
+T32	AdverseReaction 1459 1469	depression
+T33	AdverseReaction 2754 2771	muscular weakness
+T34	AdverseReaction 2773 2782	dysphagia
+T35	AdverseReaction 2784 2793	dry mouth
+T36	AdverseReaction 2795 2820	injection site discomfort
+T37	AdverseReaction 2822 2829	fatigue
+T38	AdverseReaction 2831 2839	headache
+T39	AdverseReaction 2841 2850	neck pain
+T40	AdverseReaction 2852 2872	musculoskeletal pain
+T41	AdverseReaction 2874 2883	dysphonia
+T42	AdverseReaction 2885 2904	injection site pain
+T43	AdverseReaction 2910 2923	eye disorders
+T44	AdverseReaction 2939 2953	blurred vision
+T45	AdverseReaction 2955 2963	diplopia
+T46	AdverseReaction 2969 2990	reduced visual acuity
+T47	AdverseReaction 2969 2983;2995 3008	reduced visual acuity and accommodation
+T48	AdverseReaction 3022 3046	injection site reactions
+T49	AdverseReaction 3410 3434	disturbance in attention
+T50	AdverseReaction 3436 3451	eyelid disorder
+T51	AdverseReaction 3453 3469	feeling abnormal
+T52	AdverseReaction 3474 3482	headache
+T53	AdverseReaction 3512 3521	dysphagia
+T54	AdverseReaction 4331 4356	Injection site discomfort
+T55	AdverseReaction 4440 4447	Fatigue
+T56	AdverseReaction 4549 4568	Injection site pain
+T57	AdverseReaction 4768 4785	Muscular weakness
+T58	AdverseReaction 4877 4897	Musculoskeletal pain
+T59	AdverseReaction 5095 5104	Dysphagia
+T60	AdverseReaction 5204 5213	Dry mouth
+T61	AdverseReaction 5422 5430	Headache
+T62	AdverseReaction 5750 5759	Dysphonia
+T63	AdverseReaction 6580 6589	Dysphagia
+T64	AdverseReaction 6693 6702	Dry Mouth
+T65	AdverseReaction 6806 6823	Muscular Weakness
+T66	AdverseReaction 6919 6944	Injection Site Discomfort
+T67	AdverseReaction 7032 7041	Dysphonia
+T68	AdverseReaction 7145 7159	Facial Paresis
+T69	AdverseReaction 7414 7439	Injection site discomfort
+T70	AdverseReaction 7444 7463	injection site pain
+T71	AdverseReaction 7686 7708	Breathing difficulties
+T72	AdverseReaction 7904 7911	dyspnea
+T73	AdverseReaction 8212 8221	dizziness
+T74	AdverseReaction 8309 8323	muscle atrophy
+T75	Severity 8500 8505	small
+T76	AdverseReaction 8506 8514;8542 8563	increase from baseline (0.23 mol/L) in mean blood glucose
+T77	AdverseReaction 8973 8996	reduction in heart rate
+T78	AdverseReaction 9277 9292	nasopharyngitis
+T79	AdverseReaction 9294 9302	headache
+T80	AdverseReaction 9304 9323	injection site pain
+T81	AdverseReaction 9325 9348	injection site reaction
+T82	AdverseReaction 9350 9383	upper respiratory tract infection
+T83	AdverseReaction 9385 9397	eyelid edema
+T84	AdverseReaction 9399 9412	eyelid ptosis
+T85	AdverseReaction 9414 9423	sinusitis
+T86	AdverseReaction 9429 9435	nausea
+T87	AdverseReaction 10329 10341	Eyelid Edema
+T88	AdverseReaction 10438 10451	Eyelid Ptosis
+T89	AdverseReaction 10656 10662	Nausea
+T90	AdverseReaction 10880 10899	Injection Site Pain
+T91	AdverseReaction 10989 11012	Injection Site Reaction
+T92	AdverseReaction 11207 11222	Nasopharyngitis
+T93	AdverseReaction 11316 11349	Upper Respiratory Tract Infection
+T94	AdverseReaction 11425 11434	Sinusitis
+T95	AdverseReaction 11643 11665	Blood Present in Urine
+T96	AdverseReaction 11861 11869	Headache
+T97	AdverseReaction 12212 12220	headache
+T98	AdverseReaction 12222 12237	nasopharyngitis
+T99	AdverseReaction 12239 12258	injection site pain
+T100	AdverseReaction 12260 12269	sinusitis
+T101	AdverseReaction 12271 12274	URI
+T102	AdverseReaction 12276 12299	injection site bruising
+T103	AdverseReaction 12305 12328	injection site reaction
+T104	AdverseReaction 12305 12319;12330 12338	injection site reaction (numbness
+T105	AdverseReaction 12305 12319;12340 12350	injection site reaction (numbness, discomfort
+T106	AdverseReaction 12305 12319;12352 12360	injection site reaction (numbness, discomfort, erythema
+T107	AdverseReaction 12305 12319;12362 12372	injection site reaction (numbness, discomfort, erythema, tenderness
+T108	AdverseReaction 12305 12319;12374 12382	injection site reaction (numbness, discomfort, erythema, tenderness, tingling
+T109	AdverseReaction 12305 12319;12384 12391	injection site reaction (numbness, discomfort, erythema, tenderness, tingling, itching
+T110	AdverseReaction 12305 12319;12393 12401	injection site reaction (numbness, discomfort, erythema, tenderness, tingling, itching, stinging
+T111	AdverseReaction 12305 12319;12403 12409	injection site reaction (numbness, discomfort, erythema, tenderness, tingling, itching, stinging, warmth
+T112	AdverseReaction 12305 12319;12411 12421	injection site reaction (numbness, discomfort, erythema, tenderness, tingling, itching, stinging, warmth, irritation
+T113	AdverseReaction 12305 12319;12423 12432	injection site reaction (numbness, discomfort, erythema, tenderness, tingling, itching, stinging, warmth, irritation, tightness
+T114	AdverseReaction 12305 12319;12434 12442	injection site reaction (numbness, discomfort, erythema, tenderness, tingling, itching, stinging, warmth, irritation, tightness, swelling
+T115	AdverseReaction 12542 12552	bronchitis
+T116	AdverseReaction 12554 12563	influenza
+T117	AdverseReaction 12565 12587	pharyngolaryngeal pain
+T118	AdverseReaction 12589 12594	cough
+T119	AdverseReaction 12596 12614	contact dermatitis
+T120	AdverseReaction 12616 12639	injection site swelling
+T121	AdverseReaction 12645 12670	injection site discomfort
+T122	AdverseReaction 12693 12706	eyelid ptosis
+T123	AdverseReaction 12845 12858	eyelid ptosis
+T124	AdverseReaction 12845 12858	eyelid ptosis
+T125	Severity 12864 12868	mild
+T126	Severity 12872 12880	moderate
+T127	AdverseReaction 13749 13764	Nasopharyngitis
+T128	AdverseReaction 13860 13883	Urinary tract infection
+T129	AdverseReaction 13971 13980	Influenza
+T130	AdverseReaction 14082 14091	Infection
+T131	AdverseReaction 14304 14321	Muscular weakness
+T132	AdverseReaction 14415 14432	Pain in extremity
+T133	AdverseReaction 14526 14546	Musculoskeletal pain
+T134	AdverseReaction 14637 14646	Back pain
+T135	AdverseReaction 14859 14867	Headache
+T136	AdverseReaction 14970 14979	Dizziness
+T137	AdverseReaction 15081 15091	Convulsion
+T138	AdverseReaction 15192 15199	Syncope
+T139	AdverseReaction 15303 15316	Hypoaesthesia
+T140	AdverseReaction 15414 15430	Partial seizures
+T141	AdverseReaction 15637 15644	Fatigue
+T142	AdverseReaction 15748 15756	Asthenia
+T143	AdverseReaction 15970 15974	Fall
+T144	AdverseReaction 16081 16087	Injury
+T145	AdverseReaction 16192 16201	Contusion
+T146	AdverseReaction 16414 16422	Diarrhea
+T147	AdverseReaction 16525 16531	Nausea
+T148	AdverseReaction 16636 16648	Constipation
+T149	AdverseReaction 16858 16887	Blood triglycerides increased
+T150	AdverseReaction 17080 17085	Cough
+T151	AdverseReaction 17302 17314	Hypertension
+T152	AdverseReaction 17524 17534	Depression
+T153	AdverseReaction 17677 17701	Injection site reactions
+T154	AdverseReaction 17677 17691;17708 17712	Injection site reactions (e.g. pain
+T155	AdverseReaction 17677 17691;17714 17722	Injection site reactions (e.g. pain, bruising
+T156	AdverseReaction 17677 17691;17724 17735	Injection site reactions (e.g. pain, bruising, haemorrhage
+T157	AdverseReaction 17737 17760	injection site erythema
+T158	AdverseReaction 17737 17751;17761 17770	injection site erythema/haematoma
+T159	AdverseReaction 18029 18038	dysphagia
+T160	AdverseReaction 18045 18061	gait disturbance
+T161	AdverseReaction 18068 18078	hypertonia
+T162	AdverseReaction 18089 18111	sensation of heaviness
+T163	AdverseReaction 18461 18468	vertigo
+T164	AdverseReaction 18470 18481	photophobia
+T165	AdverseReaction 18483 18505	influenza-like illness
+T166	AdverseReaction 18507 18517	amyotrophy
+T167	AdverseReaction 18519 18536	burning sensation
+T168	AdverseReaction 18538 18552	facial paresis
+T169	AdverseReaction 18554 18566	hypoesthesia
+T170	AdverseReaction 18568 18576	erythema
+T171	AdverseReaction 18582 18610	excessive granulation tissue
+T172	AdverseReaction 20489 20519	DISTANT SPREAD OF TOXIN EFFECT
+T173	AdverseReaction 20532 20562	DISTANT SPREAD OF TOXIN EFFECT
+T174	Factor 20663 20666	may
+T175	AdverseReaction 20667 20673;20747 20760	spread from the area of injection to produce symptoms consistent with botulinum toxin effects
+T176	Factor 20768 20771	may
+T177	AdverseReaction 20780 20788	asthenia
+T178	AdverseReaction 20790 20817	generalized muscle weakness
+T179	AdverseReaction 20819 20827	diplopia
+T180	AdverseReaction 20829 20843	blurred vision
+T181	AdverseReaction 20845 20851	ptosis
+T182	AdverseReaction 20853 20862	dysphagia
+T183	AdverseReaction 20864 20873	dysphonia
+T184	AdverseReaction 20875 20885	dysarthria
+T185	AdverseReaction 20887 20907	urinary incontinence
+T186	AdverseReaction 20912 20934	breathing difficulties
+T187	AdverseReaction 21002 21012;21027 21039	Swallowing and breathing difficulties
+T188	AdverseReaction 21017 21039	breathing difficulties
+T189	AdverseReaction 21095 21100	death
+T190	AdverseReaction 21629 21659	DISTANT SPREAD OF TOXIN EFFECT
+T191	Factor 21794 21797	may
+T192	AdverseReaction 21798 21804;21878 21891	spread from the area of injection to produce symptoms consistent with botulinum toxin effects
+T193	AdverseReaction 21959 21969;21984 21996	Swallowing and breathing difficulties
+T194	AdverseReaction 21974 21996	breathing difficulties
+T195	AdverseReaction 22052 22057	death
+T196	AdverseReaction 22743 22754;22777 22789	respiratory, speech or swallowing difficulties
+T197	AdverseReaction 22756 22762;22777 22789	speech or swallowing difficulties
+T198	AdverseReaction 22766 22789	swallowing difficulties
+T199	Factor 22943 22947	risk
+T200	AdverseReaction 22968 22993	Creutzfeldt-Jakob disease
+T201	AdverseReaction 22995 22998	CJD
+T202	Negation 23009 23011;23021 23033	no cases of transmission
+T203	AdverseReaction 23037 23051	viral diseases
+T204	AdverseReaction 23055 23058	CJD
+T205	AdverseReaction 23718 23731;23764 23798	toxin effects may, in some cases, be observed beyond the site of local injection
+T206	Factor 23732 23735	may
+T207	Factor 23880 23883	may
+T208	AdverseReaction 23892 23900	asthenia
+T209	AdverseReaction 23902 23929	generalized muscle weakness
+T210	AdverseReaction 23931 23939	diplopia
+T211	AdverseReaction 23941 23955	blurred vision
+T212	AdverseReaction 23957 23963	ptosis
+T213	AdverseReaction 23965 23974	dysphagia
+T214	AdverseReaction 23976 23985	dysphonia
+T215	AdverseReaction 23987 23997	dysarthria
+T216	AdverseReaction 23999 24019	urinary incontinence
+T217	AdverseReaction 24024 24046	breathing difficulties
+T218	AdverseReaction 24114 24124;24139 24151	Swallowing and breathing difficulties
+T219	AdverseReaction 24129 24151	breathing difficulties
+T220	AdverseReaction 24207 24212	death
+T221	AdverseReaction 24224 24247	spread of toxin effects
+T222	AdverseReaction 24632 24654	spread of toxin effect
+T223	Factor 24865 24868	can
+T224	AdverseReaction 24879 24889;24903 24915	swallowing or breathing difficulties
+T225	AdverseReaction 24893 24915	breathing difficulties
+T226	AdverseReaction 25282 25288	Deaths
+T227	Severity 25310 25316	severe
+T228	AdverseReaction 25317 25326	dysphagia
+T229	AdverseReaction 25384 25393	Dysphagia
+T230	AdverseReaction 25505 25515	Aspiration
+T231	Factor 25516 25519	may
+T232	Severity 25532 25538	severe
+T233	AdverseReaction 25539 25548	dysphagia
+T234	Factor 25721 25724	may
+T235	AdverseReaction 25725 25744	weaken neck muscles
+T236	Factor 25798 25801	may
+T237	Severity 25814 25822	critical
+T238	AdverseReaction 25823 25849	loss of breathing capacity
+T239	Severity 25991 25998	serious
+T240	AdverseReaction 25999 26021	breathing difficulties
+T241	AdverseReaction 26033 26052	respiratory failure
+T242	Factor 26058 26066	Patients
+T243	Factor 27023 27030	DYSPORT
+T244	AdverseReaction 27150 27163	eyelid ptosis
+T245	Factor 27516 27520	risk
+T246	Severity 27565 27571	severe
+T247	AdverseReaction 27572 27581	dysphagia
+T248	AdverseReaction 27586 27608	respiratory compromise
+T249	Factor 27873 27877	risk
+T250	AdverseReaction 27898 27912	viral diseases
+T251	Factor 27928 27932	risk
+T252	AdverseReaction 27953 27978	Creutzfeldt-Jakob disease
+T253	AdverseReaction 27980 27983	CJD
+T254	Negation 28022 28024;28034 28046	No cases of transmission
+T255	AdverseReaction 28050 28064	viral diseases
+T256	AdverseReaction 28068 28071	CJD
+R1	Effect arg1:T76 arg2:T75
+R2	Effect arg1:T124 arg2:T125
+R3	Effect arg1:T124 arg2:T126
+R4	Hypothetical arg1:T175 arg2:T174
+R5	Hypothetical arg1:T177 arg2:T176
+R6	Hypothetical arg1:T178 arg2:T176
+R7	Hypothetical arg1:T179 arg2:T176
+R8	Hypothetical arg1:T180 arg2:T176
+R9	Hypothetical arg1:T181 arg2:T176
+R10	Hypothetical arg1:T182 arg2:T176
+R11	Hypothetical arg1:T183 arg2:T176
+R12	Hypothetical arg1:T184 arg2:T176
+R13	Hypothetical arg1:T185 arg2:T176
+R14	Hypothetical arg1:T186 arg2:T176
+R15	Hypothetical arg1:T192 arg2:T191
+R16	Hypothetical arg1:T200 arg2:T199
+R17	Negated arg1:T203 arg2:T202
+R18	Negated arg1:T204 arg2:T202
+R19	Hypothetical arg1:T205 arg2:T206
+R20	Hypothetical arg1:T208 arg2:T207
+R21	Hypothetical arg1:T209 arg2:T207
+R22	Hypothetical arg1:T210 arg2:T207
+R23	Hypothetical arg1:T211 arg2:T207
+R24	Hypothetical arg1:T212 arg2:T207
+R25	Hypothetical arg1:T213 arg2:T207
+R26	Hypothetical arg1:T214 arg2:T207
+R27	Hypothetical arg1:T215 arg2:T207
+R28	Hypothetical arg1:T216 arg2:T207
+R29	Hypothetical arg1:T217 arg2:T207
+R30	Hypothetical arg1:T224 arg2:T223
+R31	Hypothetical arg1:T225 arg2:T223
+R32	Effect arg1:T228 arg2:T227
+R33	Hypothetical arg1:T230 arg2:T231
+R34	Effect arg1:T233 arg2:T232
+R35	Hypothetical arg1:T235 arg2:T234
+R36	Effect arg1:T238 arg2:T237
+R37	Hypothetical arg1:T238 arg2:T236
+R38	Effect arg1:T240 arg2:T239
+R39	Effect arg1:T247 arg2:T246
+R40	Hypothetical arg1:T247 arg2:T245
+R41	Hypothetical arg1:T250 arg2:T249
+R42	Hypothetical arg1:T252 arg2:T251
+R43	Negated arg1:T255 arg2:T254
+R44	Negated arg1:T256 arg2:T254
+N1	Reference T1 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N2	Reference T2 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N3	Reference T3 meddra:10013950	Dysphagia
+N4	Reference T4 meddra:10013968	Dyspnoea
+N5	Reference T5 meddra:10012434	Dermatitis allergic
+N6	Reference T6 meddra:10028372	Muscular weakness
+N7	Reference T8 meddra:10013781	Dry mouth
+N8	Reference T9 meddra:10054266	Injection site discomfort
+N9	Reference T10 meddra:10016256	Fatigue
+N10	Reference T11 meddra:10019211	Headache
+N11	Reference T12 meddra:10028836	Neck pain
+N12	Reference T13 meddra:10028391	Musculoskeletal pain
+N13	Reference T14 meddra:10013952	Dysphonia
+N14	Reference T15 meddra:10022086	Injection site pain
+N15	Reference T16 meddra:10015916	Eye disorder
+N16	Reference T17 meddra:10028810	Nasopharyngitis
+N17	Reference T20 meddra:10022095	Injection site reaction
+N18	Reference T21 meddra:10046306	Upper respiratory tract infection
+N19	Reference T22 meddra:10015993	Eyelid oedema
+N20	Reference T23 meddra:10015995	Eyelid ptosis
+N21	Reference T24 meddra:10040753	Sinusitis
+N22	Reference T25 meddra:10028813	Nausea
+N23	Reference T26 meddra:10046571	Urinary tract infection
+N24	Reference T30 meddra:10013573	Dizziness
+N25	Reference T31 meddra:10016173	Fall
+N26	Reference T32 meddra:10012378	Depression
+N27	Reference T44 meddra:10047513	Vision blurred
+N28	Reference T45 meddra:10013036	Diplopia
+N29	Reference T46 meddra:10047531	Visual acuity reduced
+N30	Reference T47 meddra:10000389	Accommodation disorder
+N31	Reference T48 meddra:10022095	Injection site reaction
+N32	Reference T49 meddra:10013496	Disturbance in attention
+N33	Reference T50 meddra:10061130	Eyelid disorder
+N34	Reference T51 meddra:10016322	Feeling abnormal
+N35	Reference T68 meddra:10051267	Facial paresis
+N36	Reference T72 meddra:10013968	Dyspnoea
+N37	Reference T74 meddra:10028289	Muscle atrophy
+N38	Reference T76 meddra:10005557	Blood glucose increased
+N39	Reference T77 meddra:10019301	Heart rate decreased
+N40	Reference T95 meddra:10018870	Blood urine present
+N41	Reference T101 meddra:10046306	Upper respiratory tract infection
+N42	Reference T102 meddra:10022052	Injection site bruising
+N43	Reference T104 meddra:10074586	Injection site hypoaesthesia
+N44	Reference T106 meddra:10022061	Injection site erythema
+N45	Reference T107 meddra:10022086	Injection site pain
+N46	Reference T108 meddra:10022088	Injection site paraesthesia
+N47	Reference T109 meddra:10022093	Injection site pruritus
+N48	Reference T110 meddra:10022086	Injection site pain
+N49	Reference T111 meddra:10022112	Injection site warmth
+N50	Reference T112 meddra:10022079	Injection site irritation
+N51	Reference T113 meddra:10022095	Injection site reaction
+N52	Reference T114 meddra:10053425	Injection site swelling
+N53	Reference T115 meddra:10006451	Bronchitis
+N54	Reference T116 meddra:10022000	Influenza
+N55	Reference T117 meddra:10023848	Laryngeal pain
+N56	Reference T118 meddra:10011224	Cough
+N57	Reference T119 meddra:10012442	Dermatitis contact
+N58	Reference T130 meddra:10021789	Infection
+N59	Reference T132 meddra:10033425	Pain in extremity
+N60	Reference T134 meddra:10003988	Back pain
+N61	Reference T137 meddra:10039906	Seizure
+N62	Reference T138 meddra:10042772	Syncope
+N63	Reference T139 meddra:10020937	Hypoaesthesia
+N64	Reference T140 meddra:10061334	Partial seizures
+N65	Reference T142 meddra:10003549	Asthenia
+N66	Reference T144 meddra:10022116	Injury
+N67	Reference T145 meddra:10050584	Contusion
+N68	Reference T146 meddra:10012735	Diarrhoea
+N69	Reference T148 meddra:10010774	Constipation
+N70	Reference T149 meddra:10005839	Blood triglycerides increased
+N71	Reference T151 meddra:10020772	Hypertension
+N72	Reference T156 meddra:10022067	Injection site haemorrhage
+N73	Reference T158 meddra:10022066	Injection site haematoma
+N74	Reference T160 meddra:10017577	Gait disturbance
+N75	Reference T161 meddra:10020852	Hypertonia
+N76	Reference T162 meddra:10013082	Discomfort
+N77	Reference T163 meddra:10047340	Vertigo
+N78	Reference T164 meddra:10034960	Photophobia
+N79	Reference T165 meddra:10022004	Influenza like illness
+N80	Reference T166 meddra:10002027	Amyotrophy
+N81	Reference T167 meddra:10006784	Burning sensation
+N82	Reference T169 meddra:10020937	Hypoaesthesia
+N83	Reference T170 meddra:10015150	Erythema
+N84	Reference T171 meddra:10063560	Excessive granulation tissue
+N85	Reference T175 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N86	Reference T178 meddra:10028372	Muscular weakness
+N87	Reference T181 meddra:10015995	Eyelid ptosis
+N88	Reference T184 meddra:10013887	Dysarthria
+N89	Reference T185 meddra:10046543	Urinary incontinence
+N90	Reference T187 meddra:10013950	Dysphagia
+N91	Reference T189 meddra:10011906	Death
+N92	Reference T196 meddra:10013968	Dyspnoea
+N93	Reference T197 meddra:10041466	Speech disorder
+N94	Reference T200 meddra:10011384	Creutzfeldt-Jakob disease
+N95	Reference T201 meddra:10011384	Creutzfeldt-Jakob disease
+N96	Reference T205 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N97	Reference T221 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N98	Reference T222 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N99	Reference T226 meddra:10011906	Death
+N100	Reference T230 meddra:10003504	Aspiration
+N101	Reference T235 meddra:10028372	Muscular weakness
+N102	Reference T238 meddra:10044100	Total lung capacity decreased
+N103	Reference T241 meddra:10038695	Respiratory failure
+N104	Reference T248 meddra:10038695	Respiratory failure
+N105	Reference T203 meddra:10047461	Viral infection

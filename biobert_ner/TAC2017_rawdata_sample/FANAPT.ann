@@ -1,0 +1,585 @@
+T1	AdverseReaction 133 142	dizziness
+T2	AdverseReaction 144 153	dry mouth
+T3	AdverseReaction 155 162	fatigue
+T4	AdverseReaction 164 180	nasal congestion
+T5	AdverseReaction 182 205	orthostatic hypotension
+T6	AdverseReaction 207 217	somnolence
+T7	AdverseReaction 219 230	tachycardia
+T8	AdverseReaction 236 252	weight increased
+T9	AdverseReaction 3286 3296	Arthralgia
+T10	AdverseReaction 3358 3365	Fatigue
+T11	AdverseReaction 3429 3454	Musculoskeletal Stiffness
+T12	AdverseReaction 3516 3532	Weight Increased
+T13	AdverseReaction 3671 3682	Tachycardia
+T14	AdverseReaction 3817 3831	Vision Blurred
+T15	AdverseReaction 3979 3985	Nausea
+T16	AdverseReaction 4050 4059	Dry Mouth
+T17	AdverseReaction 4121 4129	Diarrhea
+T18	AdverseReaction 4192 4212	Abdominal Discomfort
+T19	AdverseReaction 4345 4360	Nasopharyngitis
+T20	AdverseReaction 4422 4455	Upper Respiratory Tract Infection
+T21	AdverseReaction 4601 4610	Dizziness
+T22	AdverseReaction 4672 4682	Somnolence
+T23	AdverseReaction 4744 4767	Extrapyramidal Disorder
+T24	AdverseReaction 4829 4835	Tremor
+T25	AdverseReaction 4900 4908	Lethargy
+T26	AdverseReaction 5050 5069	Ejaculation Failure
+T27	AdverseReaction 5202 5218	Nasal Congestion
+T28	AdverseReaction 5280 5287	Dyspnea
+T29	AdverseReaction 5422 5426	Rash
+T30	AdverseReaction 5571 5594	Orthostatic Hypotension
+T31	AdverseReaction 5656 5667	Hypotension
+T32	AdverseReaction 6380 6400	abdominal discomfort
+T33	AdverseReaction 6402 6411	dizziness
+T34	AdverseReaction 6413 6424	hypotension
+T35	AdverseReaction 6426 6451	musculoskeletal stiffness
+T36	AdverseReaction 6453 6464	tachycardia
+T37	AdverseReaction 6470 6486	weight increased
+T38	AdverseReaction 6813 6822	dizziness
+T39	AdverseReaction 6824 6833	dry mouth
+T40	AdverseReaction 6835 6842	fatigue
+T41	AdverseReaction 6844 6860	nasal congestion
+T42	AdverseReaction 6862 6872	somnolence
+T43	AdverseReaction 6874 6885	tachycardia
+T44	AdverseReaction 6887 6910	orthostatic hypotension
+T45	AdverseReaction 6916 6932	weight increased
+T46	AdverseReaction 6934 6943	Dizziness
+T47	AdverseReaction 6945 6956	tachycardia
+T48	AdverseReaction 6962 6978	weight increased
+T49	AdverseReaction 7251 7254	EPS
+T50	AdverseReaction 7333 7359	EPS-related adverse events
+T51	AdverseReaction 7408 7411	EPS
+T52	AdverseReaction 7679 7688	Akathisia
+T53	AdverseReaction 7750 7762	Bradykinesia
+T54	AdverseReaction 7821 7831	Dyskinesia
+T55	AdverseReaction 7892 7900	Dystonia
+T56	AdverseReaction 7963 7975	Parkinsonism
+T57	AdverseReaction 8034 8040	Tremor
+T58	AdverseReaction 9216 9226;9245 9276	hematocrit at least one time below the extended normal range
+T59	AdverseReaction 10925 10931	anemia
+T60	AdverseReaction 10933 10955	iron deficiency anemia
+T61	AdverseReaction 10966 10976	leukopenia
+T62	AdverseReaction 11014 11026	palpitations
+T63	AdverseReaction 11037 11047	arrhythmia
+T64	AdverseReaction 11049 11071	atrioventricular block
+T65	Severity 11072 11084	first degree
+T66	AdverseReaction 11086 11101	cardiac failure
+T67	AdverseReaction 11086 11101;11113 11123	cardiac failure (including congestive
+T68	AdverseReaction 11086 11101;11128 11133	cardiac failure (including congestive and acute
+T69	AdverseReaction 11185 11192	vertigo
+T70	AdverseReaction 11194 11202	tinnitus
+T71	AdverseReaction 11244 11258	hypothyroidism
+T72	AdverseReaction 11292 11306	conjunctivitis
+T73	AdverseReaction 11292 11306;11318 11326	conjunctivitis (including allergic
+T74	AdverseReaction 11344 11351	dry eye
+T75	AdverseReaction 11353 11364	blepharitis
+T76	AdverseReaction 11366 11378	eyelid edema
+T77	AdverseReaction 11380 11392	eye swelling
+T78	AdverseReaction 11394 11414	lenticular opacities
+T79	AdverseReaction 11416 11424	cataract
+T80	AdverseReaction 11426 11435	hyperemia
+T81	AdverseReaction 11426 11435;11447 11459	hyperemia (including conjunctival
+T82	AdverseReaction 11509 11518	gastritis
+T83	AdverseReaction 11520 11543	salivary hypersecretion
+T84	AdverseReaction 11545 11563	fecal incontinence
+T85	AdverseReaction 11565 11581	mouth ulceration
+T86	AdverseReaction 11594 11613	aphthous stomatitis
+T87	AdverseReaction 11615 11629	duodenal ulcer
+T88	AdverseReaction 11631 11644	hiatus hernia
+T89	AdverseReaction 11646 11662	hyperchlorhydria
+T90	AdverseReaction 11664 11678	lip ulceration
+T91	AdverseReaction 11680 11698	reflux esophagitis
+T92	AdverseReaction 11700 11710	stomatitis
+T93	AdverseReaction 11785 11790	edema
+T94	AdverseReaction 11785 11790;11792 11799	edema (general
+T95	AdverseReaction 11785 11790;11801 11808	edema (general, pitting
+T96	AdverseReaction 11835 11856	difficulty in walking
+T97	AdverseReaction 11858 11864	thirst
+T98	AdverseReaction 11875 11887	hyperthermia
+T99	AdverseReaction 11933 11947	cholelithiasis
+T100	AdverseReaction 11982 11998	weight decreased
+T101	AdverseReaction 12015 12035	hemoglobin decreased
+T102	AdverseReaction 12037 12063	neutrophil count increased
+T103	AdverseReaction 12065 12085	hematocrit decreased
+T104	AdverseReaction 12146 12164	increased appetite
+T105	AdverseReaction 12166 12177	dehydration
+T106	AdverseReaction 12179 12190	hypokalemia
+T107	AdverseReaction 12192 12207	fluid retention
+T108	AdverseReaction 12275 12282	myalgia
+T109	AdverseReaction 12284 12297	muscle spasms
+T110	AdverseReaction 12308 12319	torticollis
+T111	AdverseReaction 12367 12378	paresthesia
+T112	AdverseReaction 12380 12405	psychomotor hyperactivity
+T113	AdverseReaction 12407 12419	restlessness
+T114	AdverseReaction 12421 12428	amnesia
+T115	AdverseReaction 12430 12439	nystagmus
+T116	AdverseReaction 12450 12472	restless legs syndrome
+T117	AdverseReaction 12514 12526	restlessness
+T118	AdverseReaction 12528 12538	aggression
+T119	AdverseReaction 12540 12548	delusion
+T120	AdverseReaction 12565 12574	hostility
+T121	AdverseReaction 12576 12592	libido decreased
+T122	AdverseReaction 12594 12602	paranoia
+T123	AdverseReaction 12604 12614	anorgasmia
+T124	AdverseReaction 12616 12633	confusional state
+T125	AdverseReaction 12635 12640	mania
+T126	AdverseReaction 12642 12651	catatonia
+T127	AdverseReaction 12653 12664	mood swings
+T128	AdverseReaction 12666 12678	panic attack
+T129	AdverseReaction 12680 12709	obsessive-compulsive disorder
+T130	AdverseReaction 12711 12726	bulimia nervosa
+T131	AdverseReaction 12728 12736	delirium
+T132	AdverseReaction 12738 12760	polydipsia psychogenic
+T133	AdverseReaction 12762 12786	impulse-control disorder
+T134	AdverseReaction 12788 12804	major depression
+T135	AdverseReaction 12852 12872	urinary incontinence
+T136	AdverseReaction 12889 12896	dysuria
+T137	AdverseReaction 12898 12909	pollakiuria
+T138	AdverseReaction 12911 12919	enuresis
+T139	AdverseReaction 12921 12936	nephrolithiasis
+T140	AdverseReaction 12947 12964	urinary retention
+T141	AdverseReaction 12966 12985	renal failure acute
+T142	AdverseReaction 13046 13066	erectile dysfunction
+T143	AdverseReaction 13083 13098	testicular pain
+T144	AdverseReaction 13100 13110	amenorrhea
+T145	AdverseReaction 13112 13123	breast pain
+T146	AdverseReaction 13135 13157	menstruation irregular
+T147	AdverseReaction 13159 13171	gynecomastia
+T148	AdverseReaction 13173 13184	menorrhagia
+T149	AdverseReaction 13186 13198	metrorrhagia
+T150	AdverseReaction 13200 13225	postmenopausal hemorrhage
+T151	AdverseReaction 13227 13238	prostatitis
+T152	AdverseReaction 13309 13318	epistaxis
+T153	AdverseReaction 13320 13326	asthma
+T154	AdverseReaction 13328 13338	rhinorrhea
+T155	AdverseReaction 13340 13356	sinus congestion
+T156	AdverseReaction 13358 13371	nasal dryness
+T157	AdverseReaction 13382 13392	dry throat
+T158	AdverseReaction 13394 13414	sleep apnea syndrome
+T159	AdverseReaction 13416 13434	dyspnea exertional
+T160	AdverseReaction 13566 13588	retrograde ejaculation
+T161	AdverseReaction 13826 13835	MORTALITY
+T162	AdverseReaction 13912 13921	MORTALITY
+T163	DrugClass 14043 14062	antipsychotic drugs
+T164	AdverseReaction 14091 14096	death
+T165	Factor 14241 14245	risk
+T166	AdverseReaction 14249 14254	death
+T167	AdverseReaction 14426 14431	death
+T168	AdverseReaction 14551 14556	death
+T169	AdverseReaction 14582 14588	deaths
+T170	AdverseReaction 14633 14646	heart failure
+T171	AdverseReaction 14648 14660	sudden death
+T172	AdverseReaction 14683 14692	pneumonia
+T173	AdverseReaction 15221 15230	MORTALITY
+T174	DrugClass 15427 15446	antipsychotic drugs
+T175	AdverseReaction 15475 15480	death
+T176	DrugClass 15697 15725	atypical antipsychotic drugs
+T177	AdverseReaction 15754 15759	death
+T178	AdverseReaction 15764 15802	cerebrovascular-related adverse events
+T179	AdverseReaction 15814 15820	stroke
+T180	AdverseReaction 15838 15853	QT prolongation
+T181	AdverseReaction 15855 15875	Prolongs QT interval
+T182	Factor 15880 15883	may
+T183	AdverseReaction 15903 15913	arrhythmia
+T184	AdverseReaction 15918 15930	sudden death
+T185	AdverseReaction 16308 16338	Neuroleptic Malignant Syndrome
+T186	AdverseReaction 16424 16442	Tardive dyskinesia
+T187	AdverseReaction 16502 16515	Hyperglycemia
+T188	AdverseReaction 16520 16537	diabetes mellitus
+T189	AdverseReaction 16720 16732	Dyslipidemia
+T190	AdverseReaction 16843 16854	Weight Gain
+T191	AdverseReaction 16918 16935	Metabolic Changes
+T192	DrugClass 16937 16965	Atypical antipsychotic drugs
+T193	AdverseReaction 17028 17042;17059 17063	cardiovascular/cerebrovascular risk
+T194	AdverseReaction 17043 17063	cerebrovascular risk
+T195	AdverseReaction 17071 17088	metabolic changes
+T196	AdverseReaction 17097 17110	hyperglycemia
+T197	AdverseReaction 17112 17124	dyslipidemia
+T198	AdverseReaction 17130 17141	weight gain
+T199	AdverseReaction 17159 17167	Seizures
+T200	AdverseReaction 17288 17311	Orthostatic hypotension
+T201	AdverseReaction 17313 17322	Dizziness
+T202	AdverseReaction 17324 17335	tachycardia
+T203	AdverseReaction 17341 17348	syncope
+T204	Factor 17349 17352	can
+T205	AdverseReaction 17390 17400	Leukopenia
+T206	AdverseReaction 17402 17413	Neutropenia
+T207	AdverseReaction 17419 17434	Agranulocytosis
+T208	DrugClass 17459 17473	antipsychotics
+T209	AdverseReaction 17808 17815	Suicide
+T210	AdverseReaction 17875 17883	Priapism
+T211	Factor 17965 17974	Potential
+T212	AdverseReaction 17979 17988;17999 18009	cognitive and motor impairment
+T213	AdverseReaction 17993 18009	motor impairment
+T214	DrugClass 18323 18351	atypical antipsychotic drugs
+T215	AdverseReaction 18380 18385	death
+T216	AdverseReaction 18737 18767	cerebrovascular adverse events
+T217	AdverseReaction 18769 18794	cerebrovascular accidents
+T218	AdverseReaction 18799 18825	transient ischemic attacks
+T219	AdverseReaction 18837 18847	fatalities
+T220	AdverseReaction 19159 19175	QTc prolongation
+T221	AdverseReaction 19539 19552	QTcF increase
+T222	Negation 19589 19591	No
+T223	AdverseReaction 19601 19619	torsade de pointes
+T224	Severity 19629 19635	severe
+T225	AdverseReaction 19636 19655	cardiac arrhythmias
+T226	AdverseReaction 21909 21939	Neuroleptic Malignant Syndrome
+T227	AdverseReaction 21941 21944	NMS
+T228	AdverseReaction 22073 22085	hyperpyrexia
+T229	AdverseReaction 22087 22102	muscle rigidity
+T230	AdverseReaction 22104 22125	altered mental status
+T231	AdverseReaction 22137 22152	catatonic signs
+T232	AdverseReaction 22170 22191	autonomic instability
+T233	AdverseReaction 22193 22208	irregular pulse
+T234	AdverseReaction 22193 22202;22212 22226	irregular pulse or blood pressure
+T235	AdverseReaction 22228 22239	tachycardia
+T236	AdverseReaction 22241 22252	diaphoresis
+T237	AdverseReaction 22258 22277	cardiac dysrhythmia
+T238	Factor 22297 22300	may
+T239	AdverseReaction 22309 22340	elevated creatine phosphokinase
+T240	AdverseReaction 22342 22355	myoglobinuria
+T241	AdverseReaction 22357 22371	rhabdomyolysis
+T242	AdverseReaction 22378 22397	acute renal failure
+T243	AdverseReaction 23616 23634	Tardive dyskinesia
+T244	AdverseReaction 23689 23722	involuntary, dyskinetic movements
+T245	DrugClass 23767 23786	antipsychotic drugs
+T246	DrugClass 25854 25882	Atypical antipsychotic drugs
+T247	AdverseReaction 25936 25959;25976 25980	increase cardiovascular/cerebrovascular risk
+T248	AdverseReaction 25936 25944;25960 25980	increase cardiovascular/cerebrovascular risk
+T249	AdverseReaction 26014 26027	hyperglycemia
+T250	AdverseReaction 26029 26041	dyslipidemia
+T251	AdverseReaction 26047 26063	body weight gain
+T252	AdverseReaction 26306 26319	Hyperglycemia
+T253	AdverseReaction 26306 26319	Hyperglycemia
+T254	Severity 26335 26342	extreme
+T255	AdverseReaction 26363 26375	ketoacidosis
+T256	AdverseReaction 26379 26396	hyperosmolar coma
+T257	AdverseReaction 26400 26405	death
+T258	AdverseReaction 27008 27044	hyperglycemia-related adverse events
+T259	DrugClass 27074 27097	atypical antipsychotics
+T260	AdverseReaction 29315 29348	Undesirable alterations in lipids
+T261	DrugClass 29393 29416	atypical antipsychotics
+T262	AdverseReaction 31804 31815	Weight gain
+T263	DrugClass 31839 31861	atypical antipsychotic
+T264	AdverseReaction 32093 32112	gain in body weight
+T265	AdverseReaction 32878 32886	seizures
+T266	Factor 33345 33348	can
+T267	AdverseReaction 33356 33379	orthostatic hypotension
+T268	AdverseReaction 33396 33405	dizziness
+T269	AdverseReaction 33407 33418	tachycardia
+T270	AdverseReaction 33424 33431	syncope
+T271	AdverseReaction 33606 33613	syncope
+T272	AdverseReaction 33716 33739	Orthostatic hypotension
+T273	AdverseReaction 34535 34545	leukopenia
+T274	AdverseReaction 34546 34557	neutropenia
+T275	DrugClass 34599 34619	antipsychotic agents
+T276	AdverseReaction 34621 34636	Agranulocytosis
+T277	AdverseReaction 34648 34653	fatal
+T278	AdverseReaction 34715 34725	leukopenia
+T279	AdverseReaction 34726 34737	neutropenia
+T280	AdverseReaction 35562 35587	elevates prolactin levels
+T281	AdverseReaction 35594 35612	Hyperprolactinemia
+T282	Factor 35613 35616	may
+T283	AdverseReaction 35617 35643	suppress hypothalamic GnRH
+T284	AdverseReaction 35658 35698	reduced pituitary gonadotropin secretion
+T285	Factor 35715 35718	may
+T286	AdverseReaction 35719 35748	inhibit reproductive function
+T287	AdverseReaction 35752 35784	impairing gonadalsteroidogenesis
+T288	AdverseReaction 35819 35831	Galactorrhea
+T289	AdverseReaction 35833 35843	amenorrhea
+T290	AdverseReaction 35845 35857	gynecomastia
+T291	AdverseReaction 35863 35872	impotence
+T292	DrugClass 35897 35926	prolactin-elevating compounds
+T293	AdverseReaction 35928 35960	Long-standing hyperprolactinemia
+T294	AdverseReaction 35982 35994	hypogonadism
+T295	Factor 35995 35998	may
+T296	AdverseReaction 36007 36029	decreased bone density
+T297	AdverseReaction 36330 36365	Mammary gland proliferative changes
+T298	AdverseReaction 36370 36398	increases in serum prolactin
+T299	Animal 36412 36416	mice
+T300	Animal 36421 36425	rats
+T301	AdverseReaction 36845 36868;36915 36923	plasma prolactin levels for the FANAPT 24 mg/day-treated group was an increase
+T302	Severity 36927 36936	2.6 ng/mL
+T303	AdverseReaction 37010 37042	elevated plasma prolactin levels
+T304	Severity 37185 37198	modest levels
+T305	AdverseReaction 37202 37221	prolactin elevation
+T306	Severity 37234 37241	greater
+T307	AdverseReaction 37242 37262	prolactin elevations
+T308	DrugClass 37282 37308	other antipsychotic agents
+T309	AdverseReaction 37422 37434	gynecomastia
+T310	AdverseReaction 37522 37534	galactorrhea
+T311	AdverseReaction 37691 37755	Disruption of the body's ability to reduce core body temperature
+T312	DrugClass 37779 37799	antipsychotic agents
+T313	AdverseReaction 38149 38171	Esophageal dysmotility
+T314	AdverseReaction 38176 38186	aspiration
+T315	DrugClass 38213 38231	antipsychotic drug
+T316	AdverseReaction 38892 38900	priapism
+T317	DrugClass 38951 38995	Drugs with alpha-adrenergic blocking effects
+T318	AdverseReaction 39025 39033	priapism
+T319	Severity 39078 39084	Severe
+T320	AdverseReaction 39085 39093	priapism
+T321	Factor 39238 39247	potential
+T322	AdverseReaction 39251 39266	impair judgment
+T323	AdverseReaction 39251 39257;39268 39276	impair judgment, thinking
+T324	AdverseReaction 39251 39257;39280 39292	impair judgment, thinking or motor skills
+T325	AdverseReaction 39336 39346	somnolence
+T326	AdverseReaction 39358 39366	sedation
+R1	Effect arg1:T64 arg2:T65
+R2	Hypothetical arg1:T164 arg2:T163
+R3	Hypothetical arg1:T166 arg2:T165
+R4	Hypothetical arg1:T175 arg2:T174
+R5	Hypothetical arg1:T177 arg2:T176
+R6	Hypothetical arg1:T178 arg2:T176
+R7	Hypothetical arg1:T179 arg2:T176
+R8	Hypothetical arg1:T183 arg2:T182
+R9	Hypothetical arg1:T184 arg2:T182
+R10	Hypothetical arg1:T193 arg2:T192
+R11	Hypothetical arg1:T194 arg2:T192
+R12	Hypothetical arg1:T201 arg2:T204
+R13	Hypothetical arg1:T202 arg2:T204
+R14	Hypothetical arg1:T203 arg2:T204
+R15	Hypothetical arg1:T205 arg2:T208
+R16	Hypothetical arg1:T206 arg2:T208
+R17	Hypothetical arg1:T207 arg2:T208
+R18	Hypothetical arg1:T212 arg2:T211
+R19	Hypothetical arg1:T213 arg2:T211
+R20	Hypothetical arg1:T215 arg2:T214
+R21	Negated arg1:T223 arg2:T222
+R22	Effect arg1:T225 arg2:T224
+R23	Negated arg1:T225 arg2:T222
+R24	Hypothetical arg1:T239 arg2:T238
+R25	Hypothetical arg1:T240 arg2:T238
+R26	Hypothetical arg1:T241 arg2:T238
+R27	Hypothetical arg1:T242 arg2:T238
+R28	Hypothetical arg1:T244 arg2:T245
+R29	Hypothetical arg1:T247 arg2:T246
+R30	Hypothetical arg1:T248 arg2:T246
+R31	Effect arg1:T253 arg2:T254
+R32	Hypothetical arg1:T258 arg2:T259
+R33	Hypothetical arg1:T260 arg2:T261
+R34	Hypothetical arg1:T262 arg2:T263
+R35	Hypothetical arg1:T267 arg2:T266
+R36	Hypothetical arg1:T268 arg2:T266
+R37	Hypothetical arg1:T269 arg2:T266
+R38	Hypothetical arg1:T270 arg2:T266
+R39	Hypothetical arg1:T273 arg2:T275
+R40	Hypothetical arg1:T274 arg2:T275
+R41	Hypothetical arg1:T283 arg2:T282
+R42	Hypothetical arg1:T286 arg2:T285
+R43	Hypothetical arg1:T288 arg2:T292
+R44	Hypothetical arg1:T289 arg2:T292
+R45	Hypothetical arg1:T290 arg2:T292
+R46	Hypothetical arg1:T291 arg2:T292
+R47	Hypothetical arg1:T296 arg2:T295
+R48	Hypothetical arg1:T297 arg2:T300
+R49	Hypothetical arg1:T297 arg2:T299
+R50	Hypothetical arg1:T298 arg2:T299
+R51	Hypothetical arg1:T298 arg2:T300
+R52	Effect arg1:T301 arg2:T302
+R53	Effect arg1:T305 arg2:T304
+R54	Effect arg1:T307 arg2:T306
+R55	Hypothetical arg1:T307 arg2:T308
+R56	Hypothetical arg1:T311 arg2:T312
+R57	Hypothetical arg1:T313 arg2:T315
+R58	Hypothetical arg1:T314 arg2:T315
+R59	Hypothetical arg1:T318 arg2:T317
+R60	Effect arg1:T320 arg2:T319
+R61	Hypothetical arg1:T322 arg2:T321
+R62	Hypothetical arg1:T323 arg2:T321
+R63	Hypothetical arg1:T324 arg2:T321
+N1	Reference T1 meddra:10013573	Dizziness
+N2	Reference T2 meddra:10013781	Dry mouth
+N3	Reference T3 meddra:10016256	Fatigue
+N4	Reference T4 meddra:10028735	Nasal congestion
+N5	Reference T5 meddra:10031127	Orthostatic hypotension
+N6	Reference T6 meddra:10041349	Somnolence
+N7	Reference T7 meddra:10043071	Tachycardia
+N8	Reference T8 meddra:10047899	Weight increased
+N9	Reference T9 meddra:10003239	Arthralgia
+N10	Reference T11 meddra:10052904	Musculoskeletal stiffness
+N11	Reference T14 meddra:10047513	Vision blurred
+N12	Reference T15 meddra:10028813	Nausea
+N13	Reference T17 meddra:10012735	Diarrhoea
+N14	Reference T18 meddra:10000059	Abdominal discomfort
+N15	Reference T19 meddra:10028810	Nasopharyngitis
+N16	Reference T20 meddra:10046306	Upper respiratory tract infection
+N17	Reference T23 meddra:10015832	Extrapyramidal disorder
+N18	Reference T24 meddra:10044565	Tremor
+N19	Reference T25 meddra:10024264	Lethargy
+N20	Reference T26 meddra:10014328	Ejaculation failure
+N21	Reference T28 meddra:10013968	Dyspnoea
+N22	Reference T29 meddra:10037844	Rash
+N23	Reference T31 meddra:10021097	Hypotension
+N24	Reference T49 meddra:10015832	Extrapyramidal disorder
+N25	Reference T50 meddra:10015832	Extrapyramidal disorder
+N26	Reference T52 meddra:10001540	Akathisia
+N27	Reference T53 meddra:10006100	Bradykinesia
+N28	Reference T54 meddra:10013916	Dyskinesia
+N29	Reference T55 meddra:10013983	Dystonia
+N30	Reference T56 meddra:10034010	Parkinsonism
+N31	Reference T58 meddra:10018838	Haematocrit decreased
+N32	Reference T59 meddra:10002034	Anaemia
+N33	Reference T60 meddra:10022972	Iron deficiency anaemia
+N34	Reference T61 meddra:10024384	Leukopenia
+N35	Reference T62 meddra:10033557	Palpitations
+N36	Reference T63 meddra:10003119	Arrhythmia
+N37	Reference T64 meddra:10003671	Atrioventricular block
+N38	Reference T66 meddra:10007554	Cardiac failure
+N39	Reference T67 meddra:10007559	Cardiac failure congestive
+N40	Reference T68 meddra:10007556	Cardiac failure acute
+N41	Reference T69 meddra:10047340	Vertigo
+N42	Reference T70 meddra:10043882	Tinnitus
+N43	Reference T71 meddra:10021114	Hypothyroidism
+N44	Reference T72 meddra:10010741	Conjunctivitis
+N45	Reference T73 meddra:10010744	Conjunctivitis allergic
+N46	Reference T74 meddra:10013774	Dry eye
+N47	Reference T75 meddra:10005148	Blepharitis
+N48	Reference T76 meddra:10015993	Eyelid oedema
+N49	Reference T77 meddra:10015967	Eye swelling
+N50	Reference T78 meddra:10024214	Lenticular opacities
+N51	Reference T79 meddra:10007739	Cataract
+N52	Reference T80 meddra:10020565	Hyperaemia
+N53	Reference T81 meddra:10051625	Conjunctival hyperaemia
+N54	Reference T82 meddra:10017853	Gastritis
+N55	Reference T83 meddra:10039424	Salivary hypersecretion
+N56	Reference T84 meddra:10016092	Faecal incontinence
+N57	Reference T85 meddra:10028034	Mouth ulceration
+N58	Reference T86 meddra:10002959	Aphthous ulcer
+N59	Reference T87 meddra:10013836	Duodenal ulcer
+N60	Reference T88 meddra:10020028	Hiatus hernia
+N61	Reference T89 meddra:10020601	Hyperchlorhydria
+N62	Reference T90 meddra:10024572	Lip ulceration
+N63	Reference T91 meddra:10017885	Gastrooesophageal reflux disease
+N64	Reference T92 meddra:10042128	Stomatitis
+N65	Reference T93 meddra:10030095	Oedema
+N66	Reference T94 meddra:10018092	Generalised oedema
+N67	Reference T95 meddra:10030095	Oedema
+N68	Reference T96 meddra:10017577	Gait disturbance
+N69	Reference T97 meddra:10043458	Thirst
+N70	Reference T98 meddra:10020843	Hyperthermia
+N71	Reference T99 meddra:10008629	Cholelithiasis
+N72	Reference T100 meddra:10047895	Weight decreased
+N73	Reference T101 meddra:10018884	Haemoglobin decreased
+N74	Reference T102 meddra:10029368	Neutrophil count increased
+N75	Reference T103 meddra:10018838	Haematocrit decreased
+N76	Reference T104 meddra:10021654	Increased appetite
+N77	Reference T105 meddra:10012174	Dehydration
+N78	Reference T106 meddra:10021015	Hypokalaemia
+N79	Reference T107 meddra:10016807	Fluid retention
+N80	Reference T108 meddra:10028411	Myalgia
+N81	Reference T109 meddra:10028334	Muscle spasms
+N82	Reference T110 meddra:10044074	Torticollis
+N83	Reference T111 meddra:10033775	Paraesthesia
+N84	Reference T112 meddra:10037211	Psychomotor hyperactivity
+N85	Reference T113 meddra:10038743	Restlessness
+N86	Reference T114 meddra:10001949	Amnesia
+N87	Reference T115 meddra:10029864	Nystagmus
+N88	Reference T116 meddra:10058920	Restless legs syndrome
+N89	Reference T118 meddra:10001488	Aggression
+N90	Reference T119 meddra:10012239	Delusion
+N91	Reference T120 meddra:10020400	Hostility
+N92	Reference T121 meddra:10024419	Libido decreased
+N93	Reference T122 meddra:10033864	Paranoia
+N94	Reference T123 meddra:10002652	Anorgasmia
+N95	Reference T124 meddra:10010305	Confusional state
+N96	Reference T125 meddra:10026749	Mania
+N97	Reference T126 meddra:10007776	Catatonia
+N98	Reference T127 meddra:10027951	Mood swings
+N99	Reference T128 meddra:10033664	Panic attack
+N100	Reference T129 meddra:10029898	Obsessive-compulsive disorder
+N101	Reference T130 meddra:10006550	Bulimia nervosa
+N102	Reference T131 meddra:10012218	Delirium
+N103	Reference T132 meddra:10036069	Polydipsia psychogenic
+N104	Reference T133 meddra:10061215	Impulse-control disorder
+N105	Reference T134 meddra:10057840	Major depression
+N106	Reference T135 meddra:10046543	Urinary incontinence
+N107	Reference T136 meddra:10013990	Dysuria
+N108	Reference T137 meddra:10036018	Pollakiuria
+N109	Reference T138 meddra:10014928	Enuresis
+N110	Reference T139 meddra:10029148	Nephrolithiasis
+N111	Reference T140 meddra:10046555	Urinary retention
+N112	Reference T141 meddra:10069339	Acute kidney injury
+N113	Reference T142 meddra:10061461	Erectile dysfunction
+N114	Reference T143 meddra:10043345	Testicular pain
+N115	Reference T144 meddra:10001928	Amenorrhoea
+N116	Reference T145 meddra:10006298	Breast pain
+N117	Reference T146 meddra:10027339	Menstruation irregular
+N118	Reference T147 meddra:10018800	Gynaecomastia
+N119	Reference T148 meddra:10027313	Menorrhagia
+N120	Reference T149 meddra:10027514	Metrorrhagia
+N121	Reference T150 meddra:10055870	Postmenopausal haemorrhage
+N122	Reference T151 meddra:10036978	Prostatitis
+N123	Reference T152 meddra:10015090	Epistaxis
+N124	Reference T153 meddra:10003553	Asthma
+N125	Reference T154 meddra:10039101	Rhinorrhoea
+N126	Reference T155 meddra:10040742	Sinus congestion
+N127	Reference T156 meddra:10028740	Nasal dryness
+N128	Reference T157 meddra:10013789	Dry throat
+N129	Reference T158 meddra:10040979	Sleep apnoea syndrome
+N130	Reference T159 meddra:10013971	Dyspnoea exertional
+N131	Reference T160 meddra:10038967	Retrograde ejaculation
+N132	Reference T161 meddra:10011906	Death
+N133	Reference T164 meddra:10011906	Death
+N134	Reference T169 meddra:10011906	Death
+N135	Reference T170 meddra:10007554	Cardiac failure
+N136	Reference T171 meddra:10042434	Sudden death
+N137	Reference T172 meddra:10035664	Pneumonia
+N138	Reference T180 meddra:10014387	Electrocardiogram QT prolonged
+N139	Reference T181 meddra:10014387	Electrocardiogram QT prolonged
+N140	Reference T185 meddra:10029282	Neuroleptic malignant syndrome
+N141	Reference T186 meddra:10043118	Tardive dyskinesia
+N142	Reference T187 meddra:10020635	Hyperglycaemia
+N143	Reference T188 meddra:10012601	Diabetes mellitus
+N144	Reference T189 meddra:10058108	Dyslipidaemia
+N145	Reference T190 meddra:10047899	Weight increased
+N146	Reference T191 meddra:10058097	Metabolic disorder
+N147	Reference T199 meddra:10039906	Seizure
+N148	Reference T203 meddra:10042772	Syncope
+N149	Reference T209 meddra:10010144	Completed suicide
+N150	Reference T210 meddra:10036661	Priapism
+N151	Reference T212 meddra:10057668	Cognitive disorder
+N152	Reference T213 meddra:10061296	Motor dysfunction
+N153	Reference T216 meddra:10008196	Cerebrovascular disorder
+N154	Reference T217 meddra:10008190	Cerebrovascular accident
+N155	Reference T218 meddra:10044390	Transient ischaemic attack
+N156	Reference T219 meddra:10011906	Death
+N157	Reference T220 meddra:10014387	Electrocardiogram QT prolonged
+N158	Reference T221 meddra:10014387	Electrocardiogram QT prolonged
+N159	Reference T227 meddra:10029282	Neuroleptic malignant syndrome
+N160	Reference T228 meddra:10020741	Hyperpyrexia
+N161	Reference T229 meddra:10028330	Muscle rigidity
+N162	Reference T230 meddra:10048294	Mental status changes
+N163	Reference T231 meddra:10007776	Catatonia
+N164	Reference T232 meddra:10003840	Autonomic nervous system imbalance
+N165	Reference T233 meddra:10019304	Heart rate irregular
+N166	Reference T234 meddra:10005746	Blood pressure fluctuation
+N167	Reference T236 meddra:10020642	Hyperhidrosis
+N168	Reference T237 meddra:10003119	Arrhythmia
+N169	Reference T239 meddra:10005470	Blood creatine phosphokinase increased
+N170	Reference T240 meddra:10028629	Myoglobinuria
+N171	Reference T241 meddra:10039020	Rhabdomyolysis
+N172	Reference T242 meddra:10069339	Acute kidney injury
+N173	Reference T251 meddra:10047899	Weight increased
+N174	Reference T255 meddra:10023379	Ketoacidosis
+N175	Reference T256 meddra:10010071	Coma
+N176	Reference T264 meddra:10047899	Weight increased
+N177	Reference T207 meddra:10001507	Agranulocytosis
+N178	Reference T277 meddra:10011906	Death
+N179	Reference T206 meddra:10029354	Neutropenia
+N180	Reference T280 meddra:10005780	Blood prolactin increased
+N181	Reference T281 meddra:10020737	Hyperprolactinaemia
+N182	Reference T283 meddra:10005562	Blood gonadotrophin decreased
+N183	Reference T284 meddra:10005562	Blood gonadotrophin decreased
+N184	Reference T286 meddra:10074268	Reproductive toxicity
+N185	Reference T287 meddra:10058359	Hypogonadism
+N186	Reference T293 meddra:10020737	Hyperprolactinaemia
+N187	Reference T294 meddra:10058359	Hypogonadism
+N188	Reference T296 meddra:10049470	Bone density decreased
+N189	Reference T301 meddra:10005780	Blood prolactin increased
+N190	Reference T303 meddra:10005780	Blood prolactin increased
+N191	Reference T305 meddra:10005780	Blood prolactin increased
+N192	Reference T288 meddra:10017600	Galactorrhoea
+N193	Reference T322 meddra:10023236	Judgement impaired
+N194	Reference T323 meddra:10043431	Thinking abnormal
+N195	Reference T324 meddra:10061296	Motor dysfunction
+N196	Reference T326 meddra:10039897	Sedation

@@ -1,0 +1,41 @@
+T1	AdverseReaction 225 234	dyspepsia
+T2	AdverseReaction 1582 1591	dyspepsia
+T3	Factor 1917 1921	RISK
+T4	AdverseReaction 1925 1946	MYOCARDIAL INFARCTION
+T5	Factor 2024 2028	RISK
+T6	AdverseReaction 2032 2053	MYOCARDIAL INFARCTION
+T7	AdverseReaction 2147 2168	myocardial infarction
+T8	Negation 2365 2367	no
+T9	AdverseReaction 2386 2407	myocardial infarction
+T10	Factor 2841 2845	RISK
+T11	AdverseReaction 2849 2870	MYOCARDIAL INFARCTION
+T12	AdverseReaction 3026 3047	myocardial infarction
+T13	AdverseReaction 3373 3395	myocardial infarctions
+T14	Factor 3765 3768	may
+T15	AdverseReaction 3780 3794	abdominal pain
+T16	AdverseReaction 3796 3802	nausea
+T17	AdverseReaction 3807 3815	vomiting
+T18	AdverseReaction 3821 3829	diarrhea
+T19	AdverseReaction 4304 4326	myocardial infarctions
+T20	AdverseReaction 4579 4601	myocardial infarctions
+T21	AdverseReaction 6687 6708;6726 6755	increased sensitivity would be related to the gastrointestinal tract
+T22	AdverseReaction 6763 6777	abdominal pain
+T23	AdverseReaction 6779 6785	nausea
+T24	AdverseReaction 6790 6798	vomiting
+T25	AdverseReaction 6800 6808	diarrhea
+R1	Hypothetical arg1:T4 arg2:T3
+R2	Hypothetical arg1:T6 arg2:T5
+R3	Negated arg1:T9 arg2:T8
+R4	Hypothetical arg1:T11 arg2:T10
+R5	Hypothetical arg1:T15 arg2:T14
+R6	Hypothetical arg1:T16 arg2:T14
+R7	Hypothetical arg1:T17 arg2:T14
+R8	Hypothetical arg1:T18 arg2:T14
+N1	Reference T1 meddra:10013946	Dyspepsia
+N2	Reference T4 meddra:10028596	Myocardial infarction
+N3	Reference T13 meddra:10028596	Myocardial infarction
+N4	Reference T15 meddra:10000081	Abdominal pain
+N5	Reference T16 meddra:10028813	Nausea
+N6	Reference T17 meddra:10047700	Vomiting
+N7	Reference T18 meddra:10012735	Diarrhoea
+N8	Reference T21 meddra:10070840	Gastrointestinal tract irritation

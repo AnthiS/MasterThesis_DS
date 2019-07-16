@@ -1,0 +1,219 @@
+T1	DrugClass 27 32	GBCAs
+T2	AdverseReaction 70 73	NSF
+T3	AdverseReaction 119 122	NSF
+T4	Negation 127 130	not
+T5	AdverseReaction 212 238	Hypersensitivity reactions
+T6	AdverseReaction 243 262	acute kidney injury
+T7	AdverseReaction 458 464	nausea
+T8	AdverseReaction 466 474	headache
+T9	AdverseReaction 476 495	injection site pain
+T10	AdverseReaction 497 520	injection site coldness
+T11	AdverseReaction 526 543	burning sensation
+T12	AdverseReaction 1832 1838	Nausea
+T13	AdverseReaction 1939 1947	Headache
+T14	AdverseReaction 2046 2065	Injection Site Pain
+T15	AdverseReaction 2153 2176	Injection Site Coldness
+T16	AdverseReaction 2260 2277	Burning Sensation
+T17	AdverseReaction 2476 2488	feeling cold
+T18	AdverseReaction 2490 2494	rash
+T19	AdverseReaction 2496 2506	somnolence
+T20	AdverseReaction 2508 2515	fatigue
+T21	AdverseReaction 2517 2526	dizziness
+T22	AdverseReaction 2528 2536	vomiting
+T23	AdverseReaction 2538 2546	pruritus
+T24	AdverseReaction 2548 2559	paresthesia
+T25	AdverseReaction 2561 2570	dysgeusia
+T26	AdverseReaction 2572 2589	pain in extremity
+T27	AdverseReaction 2591 2598	anxiety
+T28	AdverseReaction 2600 2612	hypertension
+T29	AdverseReaction 2614 2626	palpitations
+T30	AdverseReaction 2628 2652	oropharyngeal discomfort
+T31	AdverseReaction 2654 2680	serum creatinine increased
+T32	AdverseReaction 2685 2709	injection site reactions
+T33	AdverseReaction 2685 2694;2721 2738	injection site reactions, including site inflammation
+T34	AdverseReaction 2685 2699;2740 2753	injection site reactions, including site inflammation, extravasation
+T35	AdverseReaction 2685 2699;2755 2763	injection site reactions, including site inflammation, extravasation, pruritus
+T36	AdverseReaction 2685 2699;2769 2775	injection site reactions, including site inflammation, extravasation, pruritus, and warmth
+T37	AdverseReaction 3138 3146	headache
+T38	AdverseReaction 3827 3838	bradycardia
+T39	AdverseReaction 3840 3851	tachycardia
+T40	AdverseReaction 3853 3863	arrhythmia
+T41	AdverseReaction 3934 3950	hypersensitivity
+T42	AdverseReaction 3952 3975	anaphylactoid reactions
+T43	AdverseReaction 3986 4000	cardiac arrest
+T44	AdverseReaction 4002 4020	respiratory arrest
+T45	AdverseReaction 4022 4030	cyanosis
+T46	AdverseReaction 4031 4047	pharyngeal edema
+T47	AdverseReaction 4049 4061	laryngospasm
+T48	AdverseReaction 4063 4075	bronchospasm
+T49	AdverseReaction 4077 4087	angioedema
+T50	AdverseReaction 4089 4103	conjunctivitis
+T51	AdverseReaction 4105 4121	ocular hyperemia
+T52	AdverseReaction 4123 4135	eyelid edema
+T53	AdverseReaction 4137 4158	lacrimation increased
+T54	AdverseReaction 4160 4173	hyperhidrosis
+T55	AdverseReaction 4175 4184	urticaria
+T56	AdverseReaction 4233 4237	coma
+T57	AdverseReaction 4239 4249	convulsion
+T58	AdverseReaction 4251 4258	syncope
+T59	AdverseReaction 4260 4270	presyncope
+T60	AdverseReaction 4272 4280	parosmia
+T61	AdverseReaction 4282 4288	tremor
+T62	AdverseReaction 4349 4367	muscle contracture
+T63	AdverseReaction 4369 4384	muscle weakness
+T64	AdverseReaction 4456 4464	diarrhea
+T65	AdverseReaction 4466 4489	salivary hypersecretion
+T66	AdverseReaction 4577 4584	malaise
+T67	AdverseReaction 4586 4591	fever
+T68	AdverseReaction 4684 4687	NSF
+T69	DrugClass 4755 4760	GBCAs
+T70	Negation 4832 4834	No
+T71	AdverseReaction 4857 4860	NSF
+T72	AdverseReaction 4942 4963	superficial phlebitis
+T73	AdverseReaction 5035 5064	NEPHROGENIC SYSTEMIC FIBROSIS
+T74	AdverseReaction 5066 5069	NSF
+T75	AdverseReaction 5083 5112	NEPHROGENIC SYSTEMIC FIBROSIS
+T76	AdverseReaction 5114 5117	NSF
+T77	DrugClass 5124 5156	Gadolinium-based contrast agents
+T78	AdverseReaction 5187 5190	NSF
+T79	AdverseReaction 5393 5396	NSF
+T80	Factor 5397 5400	may
+T81	AdverseReaction 5411 5416	fatal
+T82	Severity 5420 5432	debilitating
+T83	AdverseReaction 5433 5441	fibrosis
+T84	Factor 5503 5507	risk
+T85	AdverseReaction 5512 5515	NSF
+T86	AdverseReaction 6182 6211	NEPHROGENIC SYSTEMIC FIBROSIS
+T87	AdverseReaction 6213 6216	NSF
+T88	DrugClass 6298 6330	Gadolinium-based contrast agents
+T89	AdverseReaction 6361 6364	NSF
+T90	Factor 6580 6584	risk
+T91	AdverseReaction 6589 6592	NSF
+T92	AdverseReaction 7058 7087	Nephrogenic Systemic Fibrosis
+T93	AdverseReaction 7241 7257	Hypersensitivity
+T94	AdverseReaction 7259 7272;7286 7295	Anaphylactoid/anaphylactic reactions
+T95	AdverseReaction 7273 7295	anaphylactic reactions
+T96	AdverseReaction 7301 7315;7342 7356	cardiovascular, respiratory or cutaneous manifestations
+T97	AdverseReaction 7317 7328;7342 7356	respiratory or cutaneous manifestations
+T98	AdverseReaction 7332 7356	cutaneous manifestations
+T99	Severity 7371 7375	mild
+T100	Severity 7379 7385	severe
+T101	AdverseReaction 7397 7402	death
+T102	DrugClass 7565 7597	Gadolinium-based contrast agents
+T103	AdverseReaction 7628 7657	nephrogenic systemic fibrosis
+T104	AdverseReaction 7659 7662	NSF
+T105	DrugClass 7871 7875	GBCA
+T106	AdverseReaction 7887 7890	NSF
+T107	AdverseReaction 8244 8247	NSF
+T108	Factor 8248 8251	may
+T109	AdverseReaction 8262 8267	fatal
+T110	Severity 8271 8283	debilitating
+T111	AdverseReaction 8284 8292	fibrosis
+T112	AdverseReaction 9881 9893;9912 9921	Anaphylactic and anaphylactoid reactions
+T113	AdverseReaction 9898 9921	anaphylactoid reactions
+T114	AdverseReaction 10053 10073	circulatory collapse
+T115	AdverseReaction 10078 10082	died
+T116	Factor 10411 10414	may
+T117	AdverseReaction 10444 10469	hypersensitivity reaction
+T118	AdverseReaction 10892 10911	acute kidney injury
+T119	DrugClass 10960 10965	GBCAs
+T120	AdverseReaction 11469 11483;11498 11515	administration may result in tissue irritation
+T121	Factor 11484 11487	may
+R1	Hypothetical arg1:T2 arg2:T1
+R2	Negated arg1:T3 arg2:T4
+R3	Hypothetical arg1:T68 arg2:T69
+R4	Negated arg1:T71 arg2:T70
+R5	Hypothetical arg1:T78 arg2:T77
+R6	Hypothetical arg1:T81 arg2:T80
+R7	Hypothetical arg1:T83 arg2:T80
+R8	Effect arg1:T83 arg2:T82
+R9	Hypothetical arg1:T85 arg2:T84
+R10	Hypothetical arg1:T89 arg2:T88
+R11	Hypothetical arg1:T91 arg2:T90
+R12	Effect arg1:T96 arg2:T99
+R13	Effect arg1:T96 arg2:T100
+R14	Effect arg1:T97 arg2:T99
+R15	Effect arg1:T97 arg2:T100
+R16	Effect arg1:T98 arg2:T99
+R17	Effect arg1:T98 arg2:T100
+R18	Hypothetical arg1:T103 arg2:T102
+R19	Hypothetical arg1:T104 arg2:T102
+R20	Hypothetical arg1:T106 arg2:T105
+R21	Hypothetical arg1:T107 arg2:T108
+R22	Hypothetical arg1:T109 arg2:T108
+R23	Hypothetical arg1:T111 arg2:T108
+R24	Effect arg1:T111 arg2:T110
+R25	Hypothetical arg1:T117 arg2:T116
+R26	Hypothetical arg1:T118 arg2:T119
+R27	Hypothetical arg1:T120 arg2:T121
+N1	Reference T5 meddra:10020751	Hypersensitivity
+N2	Reference T6 meddra:10069339	Acute kidney injury
+N3	Reference T7 meddra:10028813	Nausea
+N4	Reference T8 meddra:10019211	Headache
+N5	Reference T9 meddra:10022086	Injection site pain
+N6	Reference T10 meddra:10050082	Injection site coldness
+N7	Reference T11 meddra:10006784	Burning sensation
+N8	Reference T17 meddra:10016326	Feeling cold
+N9	Reference T18 meddra:10037844	Rash
+N10	Reference T19 meddra:10041349	Somnolence
+N11	Reference T20 meddra:10016256	Fatigue
+N12	Reference T21 meddra:10013573	Dizziness
+N13	Reference T22 meddra:10047700	Vomiting
+N14	Reference T23 meddra:10037087	Pruritus
+N15	Reference T24 meddra:10033775	Paraesthesia
+N16	Reference T25 meddra:10013911	Dysgeusia
+N17	Reference T26 meddra:10033425	Pain in extremity
+N18	Reference T27 meddra:10002855	Anxiety
+N19	Reference T28 meddra:10020772	Hypertension
+N20	Reference T29 meddra:10033557	Palpitations
+N21	Reference T30 meddra:10068318	Oropharyngeal discomfort
+N22	Reference T31 meddra:10005483	Blood creatinine increased
+N23	Reference T32 meddra:10022095	Injection site reaction
+N24	Reference T33 meddra:10022078	Injection site inflammation
+N25	Reference T34 meddra:10022062	Injection site extravasation
+N26	Reference T35 meddra:10022093	Injection site pruritus
+N27	Reference T36 meddra:10022112	Injection site warmth
+N28	Reference T38 meddra:10006093	Bradycardia
+N29	Reference T39 meddra:10043071	Tachycardia
+N30	Reference T40 meddra:10003119	Arrhythmia
+N31	Reference T41 meddra:10020751	Hypersensitivity
+N32	Reference T42 meddra:10002216	Anaphylactoid reaction
+N33	Reference T43 meddra:10007515	Cardiac arrest
+N34	Reference T44 meddra:10038669	Respiratory arrest
+N35	Reference T45 meddra:10011703	Cyanosis
+N36	Reference T46 meddra:10034829	Pharyngeal oedema
+N37	Reference T47 meddra:10023891	Laryngospasm
+N38	Reference T48 meddra:10006482	Bronchospasm
+N39	Reference T49 meddra:10002424	Angioedema
+N40	Reference T50 meddra:10010741	Conjunctivitis
+N41	Reference T51 meddra:10030041	Ocular hyperaemia
+N42	Reference T52 meddra:10015993	Eyelid oedema
+N43	Reference T53 meddra:10023644	Lacrimation increased
+N44	Reference T54 meddra:10020642	Hyperhidrosis
+N45	Reference T55 meddra:10046735	Urticaria
+N46	Reference T56 meddra:10010071	Coma
+N47	Reference T57 meddra:10039906	Seizure
+N48	Reference T58 meddra:10042772	Syncope
+N49	Reference T59 meddra:10036653	Presyncope
+N50	Reference T60 meddra:10034018	Parosmia
+N51	Reference T61 meddra:10044565	Tremor
+N52	Reference T62 meddra:10062575	Muscle contracture
+N53	Reference T63 meddra:10028372	Muscular weakness
+N54	Reference T64 meddra:10012735	Diarrhoea
+N55	Reference T65 meddra:10039424	Salivary hypersecretion
+N56	Reference T66 meddra:10025482	Malaise
+N57	Reference T67 meddra:10037660	Pyrexia
+N58	Reference T72 meddra:10034902	Phlebitis superficial
+N59	Reference T73 meddra:10067467	Nephrogenic systemic fibrosis
+N60	Reference T2 meddra:10067467	Nephrogenic systemic fibrosis
+N61	Reference T81 meddra:10011906	Death
+N62	Reference T83 meddra:10016642	Fibrosis
+N63	Reference T95 meddra:10002198	Anaphylactic reaction
+N64	Reference T96 meddra:10075534	Cardiovascular symptom
+N65	Reference T97 meddra:10075535	Respiratory symptom
+N66	Reference T98 meddra:10075531	Cutaneous symptom
+N67	Reference T101 meddra:10011906	Death
+N68	Reference T114 meddra:10009192	Circulatory collapse
+N69	Reference T115 meddra:10011906	Death
+N70	Reference T117 meddra:10020751	Hypersensitivity
+N71	Reference T120 meddra:10075941	Administration site irritation

@@ -1,0 +1,411 @@
+T1	AdverseReaction 135 160	Cytokine Release Syndrome
+T2	AdverseReaction 208 231	Neurological Toxicities
+T3	AdverseReaction 279 289	Infections
+T4	AdverseReaction 337 357	Tumor Lysis Syndrome
+T5	AdverseReaction 405 416	Neutropenia
+T6	AdverseReaction 421 440	Febrile Neutropenia
+T7	AdverseReaction 488 515	Effects on Ability to Drive
+T8	AdverseReaction 488 509;520 532	Effects on Ability to Drive and Use Machines
+T9	AdverseReaction 580 602	Elevated Liver Enzymes
+T10	AdverseReaction 650 669	Leukoencephalopathy
+T11	AdverseReaction 853 860	pyrexia
+T12	AdverseReaction 862 870	headache
+T13	AdverseReaction 872 888	peripheral edema
+T14	AdverseReaction 890 909	febrile neutropenia
+T15	AdverseReaction 911 917	nausea
+T16	AdverseReaction 919 930	hypokalemia
+T17	AdverseReaction 932 938	tremor
+T18	AdverseReaction 940 944	rash
+T19	AdverseReaction 950 962	constipation
+T20	AdverseReaction 1909 1916	pyrexia
+T21	AdverseReaction 1924 1932	headache
+T22	AdverseReaction 1940 1956	peripheral edema
+T23	AdverseReaction 1964 1983	febrile neutropenia
+T24	AdverseReaction 1991 1997	nausea
+T25	AdverseReaction 2005 2016	hypokalemia
+T26	AdverseReaction 2028 2040	constipation
+T27	AdverseReaction 2171 2190	febrile neutropenia
+T28	AdverseReaction 2192 2199	pyrexia
+T29	AdverseReaction 2201 2210	pneumonia
+T30	AdverseReaction 2212 2218	sepsis
+T31	AdverseReaction 2220 2231	neutropenia
+T32	AdverseReaction 2233 2257	device-related infection
+T33	AdverseReaction 2259 2265	tremor
+T34	AdverseReaction 2267 2281	encephalopathy
+T35	AdverseReaction 2283 2292	infection
+T36	AdverseReaction 2294 2302	overdose
+T37	AdverseReaction 2304 2313	confusion
+T38	AdverseReaction 2316 2342	Staphylococcal  bacteremia
+T39	AdverseReaction 2348 2356	headache
+T40	AdverseReaction 2641 2655	encephalopathy
+T41	AdverseReaction 2660 2666	sepsis
+T42	AdverseReaction 2668 2673	Fatal
+T43	AdverseReaction 2752 2762	infections
+T44	Negation 2764 2766	No
+T45	AdverseReaction 2767 2772	fatal
+T46	AdverseReaction 3286 3305	Febrile neutropenia
+T47	AdverseReaction 3310 3316	Anemia
+T48	AdverseReaction 3321 3332	Neutropenia
+T49	AdverseReaction 3337 3353	Thrombocytopenia
+T50	AdverseReaction 3358 3368	Leukopenia
+T51	AdverseReaction 3447 3453	Nausea
+T52	AdverseReaction 3458 3470	Constipation
+T53	AdverseReaction 3475 3483	Diarrhea
+T54	AdverseReaction 3483 3491	Diarrhea
+T55	AdverseReaction 3522 3529	colitis
+T56	AdverseReaction 3531 3539	diarrhea
+T57	AdverseReaction 3541 3550	enteritis
+T58	AdverseReaction 3556 3575	neutropenic colitis
+T59	AdverseReaction 3581 3595	Abdominal pain
+T60	AdverseReaction 3600 3608	Vomiting
+T61	AdverseReaction 3712 3719	Pyrexia
+T62	AdverseReaction 3724 3740	Peripheral edema
+T63	AdverseReaction 3745 3752	Fatigue
+T64	AdverseReaction 3757 3763	Chills
+T65	AdverseReaction 3768 3778	Chest pain
+T66	AdverseReaction 3854 3879	Cytokine release syndrome
+T67	AdverseReaction 3959 3969	infections
+T68	AdverseReaction 3974 3994	Bacterial infections
+T69	AdverseReaction 3999 4016	Fungal infections
+T70	AdverseReaction 4021 4037	Viral infections
+T71	AdverseReaction 4042 4051	Pneumonia
+T72	AdverseReaction 4056 4062	Sepsis
+T73	AdverseReaction 4122 4156	Increased alanine aminotransferase
+T74	AdverseReaction 4161 4197	Increased aspartate aminotransferase
+T75	AdverseReaction 4202 4218	Increased weight
+T76	AdverseReaction 4291 4302	Hypokalemia
+T77	AdverseReaction 4307 4321	Hypomagnesemia
+T78	AdverseReaction 4326 4339	Hyperglycemia
+T79	AdverseReaction 4344 4362	Decreased appetite
+T80	AdverseReaction 4367 4383	Hypophosphatemia
+T81	AdverseReaction 4483 4492	Back pain
+T82	AdverseReaction 4497 4514	Pain in extremity
+T83	AdverseReaction 4519 4528	Bone pain
+T84	AdverseReaction 4533 4543	Arthralgia
+T85	AdverseReaction 4614 4622	Headache
+T86	AdverseReaction 4627 4633	Tremor
+T87	AdverseReaction 4633 4639	Tremor
+T88	AdverseReaction 4670 4684	resting tremor
+T89	AdverseReaction 4689 4695	tremor
+T90	AdverseReaction 4701 4710	Dizziness
+T91	AdverseReaction 4775 4783	Insomnia
+T92	AdverseReaction 4868 4873	Cough
+T93	AdverseReaction 4878 4885	Dyspnea
+T94	AdverseReaction 4885 4892	Dyspnea
+T95	AdverseReaction 4923 4948	acute respiratory failure
+T96	AdverseReaction 4950 4973	bronchial hyperactivity
+T97	AdverseReaction 4975 4987	bronchospasm
+T98	AdverseReaction 4989 4996	dyspnea
+T99	AdverseReaction 4998 5016	dyspnea exertional
+T100	AdverseReaction 5018 5038	respiratory distress
+T101	AdverseReaction 5040 5059	respiratory failure
+T102	AdverseReaction 5065 5073	wheezing
+T103	AdverseReaction 5154 5158	Rash
+T104	AdverseReaction 5158 5162	Rash
+T105	AdverseReaction 5193 5201	erythema
+T106	AdverseReaction 5203 5207	rash
+T107	AdverseReaction 5209 5226	erythematous rash
+T108	AdverseReaction 5228 5244	generalized rash
+T109	AdverseReaction 5246 5258	macular rash
+T110	AdverseReaction 5260 5279	maculo-papular rash
+T111	AdverseReaction 5281 5293	papular rash
+T112	AdverseReaction 5299 5313	vesicular rash
+T113	AdverseReaction 5364 5375	Hypotension
+T114	AdverseReaction 5380 5392	Hypertension
+T115	AdverseReaction 5585 5597	leukocytosis
+T116	AdverseReaction 5604 5615	lymphopenia
+T117	AdverseReaction 5647 5658	tachycardia
+T118	AdverseReaction 5725 5730	edema
+T119	AdverseReaction 5768 5782	cytokine storm
+T120	AdverseReaction 5811 5836	decreased immunoglobulins
+T121	AdverseReaction 5843 5868	increased blood bilirubin
+T122	AdverseReaction 5875 5911	increased gamma-glutamyl-transferase
+T123	AdverseReaction 5918 5941	increased liver enzymes
+T124	AdverseReaction 5990 6010	tumor lysis syndrome
+T125	AdverseReaction 6017 6032	hypoalbuminemia
+T126	AdverseReaction 6071 6085	encephalopathy
+T127	AdverseReaction 6092 6103	paresthesia
+T128	AdverseReaction 6110 6117	aphasia
+T129	AdverseReaction 6124 6134	convulsion
+T130	AdverseReaction 6141 6158	memory impairment
+T131	AdverseReaction 6165 6183	cognitive disorder
+T132	AdverseReaction 6190 6205	speech disorder
+T133	AdverseReaction 6243 6252	confusion
+T134	AdverseReaction 6259 6273	disorientation
+T135	AdverseReaction 6310 6333	capillary leak syndrome
+T136	AdverseReaction 6346 6372	Hypersensitivity reactions
+T137	AdverseReaction 6408 6424	hypersensitivity
+T138	AdverseReaction 6434 6446	bronchospasm
+T139	AdverseReaction 8134 8159	CYTOKINE RELEASE SYNDROME
+T140	AdverseReaction 8165 8188	NEUROLOGICAL TOXICITIES
+T141	AdverseReaction 8203 8228	CYTOKINE RELEASE SYNDROME
+T142	AdverseReaction 8234 8257	NEUROLOGICAL TOXICITIES
+T143	AdverseReaction 8268 8293	Cytokine Release Syndrome
+T144	AdverseReaction 8268 8293	Cytokine Release Syndrome
+T145	AdverseReaction 8295 8298	CRS
+T146	AdverseReaction 8295 8298	CRS
+T147	Factor 8307 8310	may
+T148	Severity 8314 8330	life-threatening
+T149	AdverseReaction 8334 8339	fatal
+T150	AdverseReaction 8512 8535	Neurological toxicities
+T151	AdverseReaction 8512 8535	Neurological toxicities
+T152	Factor 8543 8546	may
+T153	Severity 8550 8556	severe
+T154	Severity 8558 8574	life-threatening
+T155	AdverseReaction 8579 8584	fatal
+T156	AdverseReaction 8777 8802	CYTOKINE RELEASE SYNDROME
+T157	AdverseReaction 8807 8830	NEUROLOGICAL TOXICITIES
+T158	AdverseReaction 8908 8933	Cytokine Release Syndrome
+T159	AdverseReaction 8908 8933	Cytokine Release Syndrome
+T160	AdverseReaction 8935 8938	CRS
+T161	AdverseReaction 8935 8938	CRS
+T162	Factor 8947 8950	may
+T163	Severity 8954 8970	life-threatening
+T164	AdverseReaction 8974 8979	fatal
+T165	AdverseReaction 9090 9113	Neurological toxicities
+T166	AdverseReaction 9090 9113	Neurological toxicities
+T167	Factor 9121 9124	may
+T168	Severity 9128 9134	severe
+T169	Severity 9136 9152	life-threatening
+T170	AdverseReaction 9157 9162	fatal
+T171	AdverseReaction 9322 9332	Infections
+T172	AdverseReaction 9413 9440	Effects on Ability to Drive
+T173	AdverseReaction 9413 9434;9445 9457	Effects on Ability to Drive and Use Machines
+T174	AdverseReaction 9849 9874	Cytokine Release Syndrome
+T175	AdverseReaction 9849 9874	Cytokine Release Syndrome
+T176	AdverseReaction 9876 9879	CRS
+T177	AdverseReaction 9876 9879	CRS
+T178	Factor 9888 9891	may
+T179	Severity 9895 9911	life-threatening
+T180	AdverseReaction 9915 9920	fatal
+T181	AdverseReaction 9968 9986	Infusion reactions
+T182	AdverseReaction 10155 10158	CRS
+T183	AdverseReaction 10168 10175	pyrexia
+T184	AdverseReaction 10177 10185	headache
+T185	AdverseReaction 10187 10193	nausea
+T186	AdverseReaction 10195 10203	asthenia
+T187	AdverseReaction 10205 10216	hypotension
+T188	AdverseReaction 10218 10252	increased alanine aminotransferase
+T189	AdverseReaction 10254 10290	increased aspartate aminotransferase
+T190	AdverseReaction 10296 10321	increased total bilirubin
+T191	Severity 10382 10398	Life-threatening
+T192	AdverseReaction 10402 10407	fatal
+T193	AdverseReaction 10408 10411	CRS
+T194	AdverseReaction 10408 10411	CRS
+T195	AdverseReaction 10485 10523	disseminated intravascular coagulation
+T196	AdverseReaction 10525 10528	DIC
+T197	AdverseReaction 10531 10554	capillary leak syndrome
+T198	AdverseReaction 10556 10559	CLS
+T199	AdverseReaction 10566 10600	hemophagocytic lymphohistiocytosis
+T200	AdverseReaction 10601 10631	macrophage activation syndrome
+T201	AdverseReaction 10633 10636	HLH
+T202	AdverseReaction 10637 10640	MAS
+T203	AdverseReaction 10679 10682	CRS
+T204	AdverseReaction 11005 11028	neurological toxicities
+T205	Severity 11143 11150	Grade 3
+T206	Severity 11162 11168	severe
+T207	Severity 11170 11186	life-threatening
+T208	AdverseReaction 11191 11196	fatal
+T209	AdverseReaction 11198 11221	neurological toxicities
+T210	AdverseReaction 11325 11339	encephalopathy
+T211	AdverseReaction 11341 11352	convulsions
+T212	AdverseReaction 11354 11370	speech disorders
+T213	AdverseReaction 11372 11401	disturbances in consciousness
+T214	AdverseReaction 11403 11412	confusion
+T215	AdverseReaction 11417 11431	disorientation
+T216	AdverseReaction 11437 11449;11462 11471	coordination and balance disorders
+T217	AdverseReaction 11454 11471	balance disorders
+T218	Severity 11864 11871	serious
+T219	AdverseReaction 11872 11882	infections
+T220	AdverseReaction 11891 11897	sepsis
+T221	AdverseReaction 11891 11897	sepsis
+T222	AdverseReaction 11899 11908	pneumonia
+T223	AdverseReaction 11899 11908	pneumonia
+T224	AdverseReaction 11910 11920	bacteremia
+T225	AdverseReaction 11910 11920	bacteremia
+T226	AdverseReaction 11922 11946	opportunistic infections
+T227	AdverseReaction 11922 11946	opportunistic infections
+T228	AdverseReaction 11952 11976	catheter-site infections
+T229	AdverseReaction 11952 11976	catheter-site infections
+T230	Severity 12044 12060	life-threatening
+T231	AdverseReaction 12064 12069	fatal
+T232	AdverseReaction 12307 12327	Tumor lysis syndrome
+T233	AdverseReaction 12307 12327	Tumor lysis syndrome
+T234	AdverseReaction 12329 12332	TLS
+T235	AdverseReaction 12329 12332	TLS
+T236	Factor 12341 12344	may
+T237	Severity 12348 12364	life-threatening
+T238	AdverseReaction 12368 12373	fatal
+T239	AdverseReaction 12841 12852	Neutropenia
+T240	AdverseReaction 12841 12852	Neutropenia
+T241	AdverseReaction 12857 12876	febrile neutropenia
+T242	AdverseReaction 12857 12876	febrile neutropenia
+T243	Severity 12888 12904	life-threatening
+T244	Factor 13234 13243	potential
+T245	AdverseReaction 13248 13265	neurologic events
+T246	AdverseReaction 13277 13285	seizures
+T247	Factor 13322 13326	risk
+T248	AdverseReaction 13331 13352	loss of consciousness
+T249	Severity 13674 13683	transient
+T250	AdverseReaction 13684 13711	elevations in liver enzymes
+T251	AdverseReaction 13783 13786	CRS
+T252	Severity 13940 13947	Grade 3
+T253	AdverseReaction 13959 13986	elevations in liver enzymes
+T254	Negation 14028 14035	outside
+T255	AdverseReaction 14051 14054	CRS
+T256	AdverseReaction 14582 14601	leukoencephalopathy
+R1	Negated arg1:T45 arg2:T44
+R2	Effect arg1:T144 arg2:T148
+R3	Effect arg1:T146 arg2:T148
+R4	Hypothetical arg1:T149 arg2:T147
+R5	Effect arg1:T151 arg2:T153
+R6	Effect arg1:T151 arg2:T154
+R7	Hypothetical arg1:T155 arg2:T152
+R8	Effect arg1:T159 arg2:T163
+R9	Effect arg1:T161 arg2:T163
+R10	Hypothetical arg1:T164 arg2:T162
+R11	Effect arg1:T166 arg2:T168
+R12	Effect arg1:T166 arg2:T169
+R13	Hypothetical arg1:T170 arg2:T167
+R14	Effect arg1:T175 arg2:T179
+R15	Effect arg1:T177 arg2:T179
+R16	Hypothetical arg1:T180 arg2:T178
+R17	Effect arg1:T194 arg2:T191
+R18	Effect arg1:T209 arg2:T207
+R19	Effect arg1:T209 arg2:T206
+R20	Effect arg1:T209 arg2:T205
+R21	Effect arg1:T219 arg2:T218
+R22	Effect arg1:T221 arg2:T230
+R23	Effect arg1:T223 arg2:T230
+R24	Effect arg1:T225 arg2:T230
+R25	Effect arg1:T227 arg2:T230
+R26	Effect arg1:T229 arg2:T230
+R27	Effect arg1:T233 arg2:T237
+R28	Effect arg1:T235 arg2:T237
+R29	Hypothetical arg1:T238 arg2:T236
+R30	Effect arg1:T240 arg2:T243
+R31	Effect arg1:T242 arg2:T243
+R32	Hypothetical arg1:T245 arg2:T244
+R33	Hypothetical arg1:T246 arg2:T244
+R34	Hypothetical arg1:T248 arg2:T247
+R35	Effect arg1:T250 arg2:T249
+R36	Effect arg1:T253 arg2:T252
+R37	Negated arg1:T255 arg2:T254
+N1	Reference T1 meddra:10052015	Cytokine release syndrome
+N2	Reference T2 meddra:10029350	Neurotoxicity
+N3	Reference T3 meddra:10021789	Infection
+N4	Reference T4 meddra:10045170	Tumour lysis syndrome
+N5	Reference T5 meddra:10029354	Neutropenia
+N6	Reference T6 meddra:10016288	Febrile neutropenia
+N7	Reference T7 meddra:10049564	Impaired driving ability
+N8	Reference T8 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N9	Reference T9 meddra:10060795	Hepatic enzyme increased
+N10	Reference T10 meddra:10024382	Leukoencephalopathy
+N11	Reference T11 meddra:10037660	Pyrexia
+N12	Reference T12 meddra:10019211	Headache
+N13	Reference T13 meddra:10030124	Oedema peripheral
+N14	Reference T15 meddra:10028813	Nausea
+N15	Reference T16 meddra:10021015	Hypokalaemia
+N16	Reference T17 meddra:10044565	Tremor
+N17	Reference T18 meddra:10037844	Rash
+N18	Reference T19 meddra:10010774	Constipation
+N19	Reference T29 meddra:10035664	Pneumonia
+N20	Reference T30 meddra:10040047	Sepsis
+N21	Reference T32 meddra:10064687	Device related infection
+N22	Reference T34 meddra:10014625	Encephalopathy
+N23	Reference T35 meddra:10021789	Infection
+N24	Reference T36 meddra:10033295	Overdose
+N25	Reference T37 meddra:10010305	Confusional state
+N26	Reference T38 meddra:10051017	Staphylococcal bacteraemia
+N27	Reference T42 meddra:10011906	Death
+N28	Reference T47 meddra:10002034	Anaemia
+N29	Reference T49 meddra:10043554	Thrombocytopenia
+N30	Reference T50 meddra:10024384	Leukopenia
+N31	Reference T53 meddra:10012735	Diarrhoea
+N32	Reference T55 meddra:10009887	Colitis
+N33	Reference T57 meddra:10014866	Enteritis
+N34	Reference T58 meddra:10062959	Neutropenic colitis
+N35	Reference T59 meddra:10000081	Abdominal pain
+N36	Reference T60 meddra:10047700	Vomiting
+N37	Reference T63 meddra:10016256	Fatigue
+N38	Reference T64 meddra:10008531	Chills
+N39	Reference T65 meddra:10008479	Chest pain
+N40	Reference T68 meddra:10060945	Bacterial infection
+N41	Reference T69 meddra:10017533	Fungal infection
+N42	Reference T70 meddra:10047461	Viral infection
+N43	Reference T73 meddra:10001551	Alanine aminotransferase increased
+N44	Reference T74 meddra:10003481	Aspartate aminotransferase increased
+N45	Reference T75 meddra:10047899	Weight increased
+N46	Reference T77 meddra:10021027	Hypomagnesaemia
+N47	Reference T78 meddra:10020635	Hyperglycaemia
+N48	Reference T79 meddra:10061428	Decreased appetite
+N49	Reference T80 meddra:10021058	Hypophosphataemia
+N50	Reference T81 meddra:10003988	Back pain
+N51	Reference T82 meddra:10033425	Pain in extremity
+N52	Reference T83 meddra:10006002	Bone pain
+N53	Reference T84 meddra:10003239	Arthralgia
+N54	Reference T88 meddra:10071390	Resting tremor
+N55	Reference T90 meddra:10013573	Dizziness
+N56	Reference T91 meddra:10022437	Insomnia
+N57	Reference T92 meddra:10011224	Cough
+N58	Reference T93 meddra:10013968	Dyspnoea
+N59	Reference T95 meddra:10001053	Acute respiratory failure
+N60	Reference T96 meddra:10066091	Bronchial hyperreactivity
+N61	Reference T97 meddra:10006482	Bronchospasm
+N62	Reference T99 meddra:10013971	Dyspnoea exertional
+N63	Reference T100 meddra:10038687	Respiratory distress
+N64	Reference T101 meddra:10038695	Respiratory failure
+N65	Reference T102 meddra:10047924	Wheezing
+N66	Reference T105 meddra:10015150	Erythema
+N67	Reference T107 meddra:10037855	Rash erythematous
+N68	Reference T108 meddra:10037858	Rash generalised
+N69	Reference T109 meddra:10037867	Rash macular
+N70	Reference T110 meddra:10037868	Rash maculo-papular
+N71	Reference T111 meddra:10037876	Rash papular
+N72	Reference T112 meddra:10037898	Rash vesicular
+N73	Reference T113 meddra:10021097	Hypotension
+N74	Reference T114 meddra:10020772	Hypertension
+N75	Reference T115 meddra:10024378	Leukocytosis
+N76	Reference T116 meddra:10025327	Lymphopenia
+N77	Reference T117 meddra:10043071	Tachycardia
+N78	Reference T118 meddra:10030095	Oedema
+N79	Reference T119 meddra:10050685	Cytokine storm
+N80	Reference T120 meddra:10021499	Immunoglobulins decreased
+N81	Reference T121 meddra:10005364	Blood bilirubin increased
+N82	Reference T122 meddra:10017693	Gamma-glutamyltransferase increased
+N83	Reference T123 meddra:10060795	Hepatic enzyme increased
+N84	Reference T125 meddra:10020942	Hypoalbuminaemia
+N85	Reference T127 meddra:10033775	Paraesthesia
+N86	Reference T128 meddra:10002948	Aphasia
+N87	Reference T129 meddra:10039906	Seizure
+N88	Reference T130 meddra:10027175	Memory impairment
+N89	Reference T131 meddra:10057668	Cognitive disorder
+N90	Reference T132 meddra:10041466	Speech disorder
+N91	Reference T134 meddra:10013395	Disorientation
+N92	Reference T135 meddra:10007196	Capillary leak syndrome
+N93	Reference T136 meddra:10020751	Hypersensitivity
+N94	Reference T137 meddra:10020751	Hypersensitivity
+N95	Reference T145 meddra:10052015	Cytokine release syndrome
+N96	Reference T181 meddra:10051792	Infusion related reaction
+N97	Reference T186 meddra:10003549	Asthenia
+N98	Reference T190 meddra:10005364	Blood bilirubin increased
+N99	Reference T195 meddra:10013442	Disseminated intravascular coagulation
+N100	Reference T196 meddra:10013442	Disseminated intravascular coagulation
+N101	Reference T198 meddra:10007196	Capillary leak syndrome
+N102	Reference T199 meddra:10048595	Histiocytosis haematophagic
+N103	Reference T200 meddra:10048595	Histiocytosis haematophagic
+N104	Reference T201 meddra:10048595	Histiocytosis haematophagic
+N105	Reference T202 meddra:10048595	Histiocytosis haematophagic
+N106	Reference T211 meddra:10039906	Seizure
+N107	Reference T212 meddra:10041466	Speech disorder
+N108	Reference T213 meddra:10001854	Altered state of consciousness
+N109	Reference T216 meddra:10010947	Coordination abnormal
+N110	Reference T217 meddra:10049848	Balance disorder
+N111	Reference T224 meddra:10003997	Bacteraemia
+N112	Reference T226 meddra:10030901	Opportunistic infection
+N113	Reference T228 meddra:10056520	Catheter site infection
+N114	Reference T234 meddra:10045170	Tumour lysis syndrome
+N115	Reference T245 meddra:10060860	Neurological symptom
+N116	Reference T246 meddra:10039906	Seizure
+N117	Reference T248 meddra:10024855	Loss of consciousness
+N118	Reference T250 meddra:10060795	Hepatic enzyme increased

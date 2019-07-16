@@ -1,0 +1,64 @@
+T1	AdverseReaction 75 85	Infections
+T2	AdverseReaction 87 95	vomiting
+T3	AdverseReaction 97 111	abdominal pain
+T4	AdverseReaction 113 120	pyrexia
+T5	AdverseReaction 122 132	tonsilitis
+T6	AdverseReaction 134 140	anemia
+T7	AdverseReaction 142 155	ear infection
+T8	AdverseReaction 157 165	diarrhea
+T9	AdverseReaction 167 182	nasopharyngitis
+T10	AdverseReaction 188 196	headache
+T11	AdverseReaction 561 571	Infections
+T12	AdverseReaction 573 581	vomiting
+T13	AdverseReaction 583 597	abdominal pain
+T14	AdverseReaction 599 606	pyrexia
+T15	AdverseReaction 608 618	tonsilitis
+T16	AdverseReaction 620 626	anemia
+T17	AdverseReaction 628 641	ear infection
+T18	AdverseReaction 643 651	diarrhea
+T19	AdverseReaction 653 668	nasopharyngitis
+T20	AdverseReaction 674 682	headache
+T21	AdverseReaction 1439 1445	Anemia
+T22	AdverseReaction 1653 1666	Ear infection
+T23	AdverseReaction 1867 1881	Abdominal pain
+T24	AdverseReaction 1974 1982	Diarrhea
+T25	AdverseReaction 2081 2089	Vomiting
+T26	AdverseReaction 2188 2197	Dysgeusia
+T27	AdverseReaction 2402 2410	Asthenia
+T28	AdverseReaction 2509 2522	Hyperhidrosis
+T29	AdverseReaction 2616 2623	Pyrexia
+T30	AdverseReaction 2830 2839	Infection
+T31	AdverseReaction 2937 2946	Influenza
+T32	AdverseReaction 3044 3059	Nasopharyngitis
+T33	AdverseReaction 3151 3160	Pneumonia
+T34	AdverseReaction 3258 3269	Tonsillitis
+T35	AdverseReaction 3472 3492	Hemoglobin decreased
+T36	AdverseReaction 3579 3595	Weight decreased
+T37	AdverseReaction 3793 3801	Anorexia
+T38	AdverseReaction 4007 4015	Headache
+T39	AdverseReaction 4114 4124	Somnolence
+T40	AdverseReaction 4328 4332	Rash
+T41	AdverseReaction 4447 4461	Hyperammonemia
+N1	Reference T1 meddra:10021789	Infection
+N2	Reference T2 meddra:10047700	Vomiting
+N3	Reference T3 meddra:10000081	Abdominal pain
+N4	Reference T4 meddra:10037660	Pyrexia
+N5	Reference T5 meddra:10044008	Tonsillitis
+N6	Reference T6 meddra:10002034	Anaemia
+N7	Reference T7 meddra:10014011	Ear infection
+N8	Reference T8 meddra:10012735	Diarrhoea
+N9	Reference T9 meddra:10028810	Nasopharyngitis
+N10	Reference T10 meddra:10019211	Headache
+N11	Reference T26 meddra:10013911	Dysgeusia
+N12	Reference T27 meddra:10003549	Asthenia
+N13	Reference T28 meddra:10020642	Hyperhidrosis
+N14	Reference T30 meddra:10021789	Infection
+N15	Reference T31 meddra:10022000	Influenza
+N16	Reference T33 meddra:10035664	Pneumonia
+N17	Reference T34 meddra:10044008	Tonsillitis
+N18	Reference T35 meddra:10018884	Haemoglobin decreased
+N19	Reference T36 meddra:10047895	Weight decreased
+N20	Reference T37 meddra:10061428	Decreased appetite
+N21	Reference T39 meddra:10041349	Somnolence
+N22	Reference T40 meddra:10037844	Rash
+N23	Reference T41 meddra:10020575	Hyperammonaemia

@@ -1,0 +1,166 @@
+T1	DrugClass 61 80	ophthalmic steroids
+T2	AdverseReaction 89 118	elevated intraocular pressure
+T3	AdverseReaction 149 167	optic nerve damage
+T4	AdverseReaction 169 182;193 200	visual acuity and field defects
+T5	AdverseReaction 169 175;187 200	visual acuity and field defects
+T6	AdverseReaction 202 242	posterior subcapsular cataract formation
+T7	AdverseReaction 244 270	secondary ocular infection
+T8	AdverseReaction 244 270;296 310	secondary ocular infection from pathogens including herpes simplex
+T9	AdverseReaction 316 340	perforation of the globe
+T10	AdverseReaction 418 442	Ocular adverse reactions
+T11	AdverseReaction 516 529	corneal edema
+T12	AdverseReaction 531 538;556 565	ciliary and conjunctival hyperemia
+T13	AdverseReaction 543 565	conjunctival hyperemia
+T14	AdverseReaction 567 575	eye pain
+T15	AdverseReaction 577 588	photophobia
+T16	AdverseReaction 590 621	posterior capsule opacification
+T17	AdverseReaction 623 645	anterior chamber cells
+T18	AdverseReaction 647 669	anterior chamber flare
+T19	AdverseReaction 671 689	conjunctival edema
+T20	AdverseReaction 695 706	blepharitis
+T21	AdverseReaction 779 800	reduced visual acuity
+T22	AdverseReaction 802 820	punctate keratitis
+T23	AdverseReaction 822 838	eye inflammation
+T24	AdverseReaction 844 850	iritis
+T25	AdverseReaction 917 944	application site discomfort
+T26	AdverseReaction 917 933;948 958	application site discomfort or irritation
+T27	AdverseReaction 960 980	corneal pigmentation
+T28	AdverseReaction 960 967;985 991	corneal pigmentation and striae
+T29	AdverseReaction 993 1005	episcleritis
+T30	AdverseReaction 1007 1019	eye pruritis
+T31	AdverseReaction 1021 1038	eyelid irritation
+T32	AdverseReaction 1021 1027;1043 1051	eyelid irritation and crusting
+T33	AdverseReaction 1053 1075	foreign body sensation
+T34	AdverseReaction 1077 1098	increased lacrimation
+T35	AdverseReaction 1100 1113	macular edema
+T36	AdverseReaction 1115 1131	sclera hyperemia
+T37	AdverseReaction 1137 1144	uveitis
+T38	AdverseReaction 1503 1517	blurred vision
+T39	AdverseReaction 1519 1533	eye irritation
+T40	AdverseReaction 1535 1543	eye pain
+T41	AdverseReaction 1545 1553	headache
+T42	AdverseReaction 1555 1568	increased IOP
+T43	AdverseReaction 1570 1576	iritis
+T44	AdverseReaction 1578 1584;1602 1611	limbal and conjunctival hyperemia
+T45	AdverseReaction 1589 1611	conjunctival hyperemia
+T46	AdverseReaction 1613 1631	punctate keratitis
+T47	AdverseReaction 1637 1644	uveitis
+T48	AdverseReaction 1704 1726	anterior chamber flare
+T49	AdverseReaction 1728 1741	corneal edema
+T50	AdverseReaction 1743 1750	dry eye
+T51	AdverseReaction 1752 1765	iridocyclitis
+T52	AdverseReaction 1767 1778	photophobia
+T53	AdverseReaction 1784 1805	reduced visual acuity
+T54	AdverseReaction 1860 1880;1887 1895	Intraocular pressure (IOP) increase
+T55	AdverseReaction 1882 1885;1887 1895	IOP) increase
+T56	DrugClass 1914 1929	corticosteroids
+T57	AdverseReaction 1944 1952	glaucoma
+T58	AdverseReaction 1958 1983	damage to the optic nerve
+T59	AdverseReaction 1985 2009	defects in visual acuity
+T60	AdverseReaction 1985 1992;2014 2030	defects in visual acuity and fields of vision
+T61	DrugClass 2148 2163	corticosteroids
+T62	AdverseReaction 2178 2208	posterior subcapsular cataract
+T63	DrugClass 2268 2276	steroids
+T64	AdverseReaction 2304 2317	delay healing
+T65	AdverseReaction 2322 2330;2348 2362	increase the incidence of bleb formation
+T66	AdverseReaction 2424 2436	perforations
+T67	DrugClass 2486 2494	steroids
+T68	DrugClass 2807 2822	corticosteroids
+T69	AdverseReaction 2827 2853	suppress the host response
+T70	AdverseReaction 2886 2913	secondary ocular infections
+T71	DrugClass 3272 3280	steroids
+T72	AdverseReaction 3312 3322;3344 3371	exacerbate the severity of many viral infections of the eye
+T73	AdverseReaction 3312 3322;3383 3397	exacerbate the severity of many viral infections of the eye (including herpes simplex
+T74	AdverseReaction 3439 3470	Fungal infections of the cornea
+T75	DrugClass 3541 3548	steroid
+T76	DrugClass 3887 3902	corticosteroids
+T77	AdverseReaction 3917 3925	glaucoma
+T78	AdverseReaction 3931 3956	damage to the optic nerve
+T79	AdverseReaction 3958 3982	defects in visual acuity
+T80	AdverseReaction 3958 3965;3987 4003	defects in visual acuity and fields of vision
+T81	DrugClass 4193 4208	corticosteroids
+T82	AdverseReaction 4223 4253	posterior subcapsular cataract
+T83	DrugClass 4308 4316	steroids
+T84	AdverseReaction 4344 4357	delay healing
+T85	AdverseReaction 4362 4370;4388 4402	increase the incidence of bleb formation
+T86	AdverseReaction 4464 4476	perforations
+T87	DrugClass 4526 4534	steroids
+T88	DrugClass 4842 4857	corticosteroids
+T89	AdverseReaction 4862 4888	suppress the host response
+T90	AdverseReaction 4921 4948	secondary ocular infections
+T91	DrugClass 5302 5310	steroids
+T92	AdverseReaction 5342 5352;5374 5401	exacerbate the severity of many viral infections of the eye
+T93	AdverseReaction 5342 5352;5413 5427	exacerbate the severity of many viral infections of the eye (including herpes simplex
+T94	AdverseReaction 5464 5495	Fungal infections of the cornea
+T95	DrugClass 5566 5573	steroid
+R1	Hypothetical arg1:T2 arg2:T1
+R2	Hypothetical arg1:T3 arg2:T1
+R3	Hypothetical arg1:T4 arg2:T1
+R4	Hypothetical arg1:T5 arg2:T1
+R5	Hypothetical arg1:T6 arg2:T1
+R6	Hypothetical arg1:T7 arg2:T1
+R7	Hypothetical arg1:T8 arg2:T1
+R8	Hypothetical arg1:T9 arg2:T1
+R9	Hypothetical arg1:T57 arg2:T56
+R10	Hypothetical arg1:T58 arg2:T56
+R11	Hypothetical arg1:T59 arg2:T56
+R12	Hypothetical arg1:T60 arg2:T56
+R13	Hypothetical arg1:T62 arg2:T61
+R14	Hypothetical arg1:T64 arg2:T63
+R15	Hypothetical arg1:T65 arg2:T63
+R16	Hypothetical arg1:T66 arg2:T67
+R17	Hypothetical arg1:T69 arg2:T68
+R18	Hypothetical arg1:T70 arg2:T68
+R19	Hypothetical arg1:T72 arg2:T71
+R20	Hypothetical arg1:T73 arg2:T71
+R21	Hypothetical arg1:T74 arg2:T75
+R22	Hypothetical arg1:T77 arg2:T76
+R23	Hypothetical arg1:T78 arg2:T76
+R24	Hypothetical arg1:T79 arg2:T76
+R25	Hypothetical arg1:T80 arg2:T76
+R26	Hypothetical arg1:T82 arg2:T81
+R27	Hypothetical arg1:T84 arg2:T83
+R28	Hypothetical arg1:T85 arg2:T83
+R29	Hypothetical arg1:T86 arg2:T87
+R30	Hypothetical arg1:T89 arg2:T88
+R31	Hypothetical arg1:T90 arg2:T88
+R32	Hypothetical arg1:T92 arg2:T91
+R33	Hypothetical arg1:T93 arg2:T91
+R34	Hypothetical arg1:T94 arg2:T95
+N1	Reference T10 meddra:10075536	Eye symptom
+N2	Reference T11 meddra:10011033	Corneal oedema
+N3	Reference T12 meddra:10052129	Ciliary hyperaemia
+N4	Reference T13 meddra:10051625	Conjunctival hyperaemia
+N5	Reference T14 meddra:10015958	Eye pain
+N6	Reference T15 meddra:10034960	Photophobia
+N7	Reference T16 meddra:10036346	Posterior capsule opacification
+N8	Reference T17 meddra:10053781	Anterior chamber cell
+N9	Reference T18 meddra:10052127	Anterior chamber flare
+N10	Reference T19 meddra:10010726	Conjunctival oedema
+N11	Reference T20 meddra:10005148	Blepharitis
+N12	Reference T21 meddra:10047531	Visual acuity reduced
+N13	Reference T22 meddra:10037508	Punctate keratitis
+N14	Reference T23 meddra:10015943	Eye inflammation
+N15	Reference T24 meddra:10022955	Iritis
+N16	Reference T25 meddra:10063072	Application site discomfort
+N17	Reference T26 meddra:10003046	Application site irritation
+N18	Reference T27 meddra:10011040	Corneal pigmentation
+N19	Reference T28 meddra:10052118	Corneal striae
+N20	Reference T29 meddra:10015084	Episcleritis
+N21	Reference T30 meddra:10052140	Eye pruritus
+N22	Reference T31 meddra:10057385	Eyelid irritation
+N23	Reference T32 meddra:10052132	Eyelid margin crusting
+N24	Reference T33 meddra:10061549	Sensation of foreign body
+N25	Reference T34 meddra:10023644	Lacrimation increased
+N26	Reference T35 meddra:10025415	Macular oedema
+N27	Reference T36 meddra:10059096	Scleral hyperaemia
+N28	Reference T37 meddra:10046851	Uveitis
+N29	Reference T38 meddra:10047513	Vision blurred
+N30	Reference T39 meddra:10015946	Eye irritation
+N31	Reference T41 meddra:10019211	Headache
+N32	Reference T42 meddra:10022806	Intraocular pressure increased
+N33	Reference T44 meddra:10052129	Ciliary hyperaemia
+N34	Reference T50 meddra:10013774	Dry eye
+N35	Reference T51 meddra:10022941	Iridocyclitis
+N36	Reference T54 meddra:10022806	Intraocular pressure increased
+N37	Reference T55 meddra:10022806	Intraocular pressure increased

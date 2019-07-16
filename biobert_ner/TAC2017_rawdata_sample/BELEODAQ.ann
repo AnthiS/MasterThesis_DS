@@ -1,0 +1,174 @@
+T1	AdverseReaction 155 175	Hematologic Toxicity
+T2	AdverseReaction 227 236	Infection
+T3	AdverseReaction 286 300	Hepatotoxicity
+T4	AdverseReaction 350 370	Tumor Lysis Syndrome
+T5	AdverseReaction 420 445	Gastrointestinal Toxicity
+T6	AdverseReaction 621 627	nausea
+T7	AdverseReaction 629 636	fatigue
+T8	AdverseReaction 638 645	pyrexia
+T9	AdverseReaction 647 653	anemia
+T10	AdverseReaction 659 667	vomiting
+T11	AdverseReaction 773 779	nausea
+T12	AdverseReaction 781 788	fatigue
+T13	AdverseReaction 790 797	pyrexia
+T14	AdverseReaction 799 805	anemia
+T15	AdverseReaction 811 819	vomiting
+T16	AdverseReaction 2294 2300	Nausea
+T17	AdverseReaction 2403 2410	Fatigue
+T18	AdverseReaction 2512 2519	Pyrexia
+T19	AdverseReaction 2621 2627	Anemia
+T20	AdverseReaction 2730 2738	Vomiting
+T21	AdverseReaction 2839 2851	Constipation
+T22	AdverseReaction 2948 2956	Diarrhea
+T23	AdverseReaction 3057 3064	Dyspnea
+T24	AdverseReaction 3166 3170	Rash
+T25	AdverseReaction 3275 3291	Peripheral Edema
+T26	AdverseReaction 3384 3389	Cough
+T27	AdverseReaction 3493 3509	Thrombocytopenia
+T28	AdverseReaction 3602 3610	Pruritus
+T29	AdverseReaction 3711 3717	Chills
+T30	AdverseReaction 3820 3857	Increased Blood Lactate Dehydrogenase
+T31	AdverseReaction 3929 3947	Decreased Appetite
+T32	AdverseReaction 4038 4046	Headache
+T33	AdverseReaction 4147 4165	Infusion Site Pain
+T34	AdverseReaction 4256 4267	Hypokalemia
+T35	AdverseReaction 4365 4377	Prolonged QT
+T36	AdverseReaction 4474 4488	Abdominal pain
+T37	AdverseReaction 4583 4594	Hypotension
+T38	AdverseReaction 4692 4701	Phlebitis
+T39	AdverseReaction 4801 4810	Dizziness
+T40	AdverseReaction 5465 5474	pneumonia
+T41	AdverseReaction 5476 5483	pyrexia
+T42	AdverseReaction 5485 5494	infection
+T43	AdverseReaction 5496 5502	anemia
+T44	AdverseReaction 5504 5524	increased creatinine
+T45	AdverseReaction 5526 5542	thrombocytopenia
+T46	AdverseReaction 5548 5567	multi-organ failure
+T47	AdverseReaction 5591 5596	death
+T48	AdverseReaction 5613 5628	hepatic failure
+T49	Severity 5730 5737	Grade 4
+T50	AdverseReaction 5738 5758	tumor lysis syndrome
+T51	AdverseReaction 5799 5803	died
+T52	AdverseReaction 5811 5830	multi-organ failure
+T53	AdverseReaction 5852 5857	death
+T54	AdverseReaction 5863 5887	ventricular fibrillation
+T55	Negation 5967 5983	did not identify
+T56	AdverseReaction 5984 6000	QTc prolongation
+T57	AdverseReaction 6251 6257	anemia
+T58	AdverseReaction 6259 6278	febrile neutropenia
+T59	AdverseReaction 6280 6287	fatigue
+T60	AdverseReaction 6293 6312	multi-organ failure
+T61	AdverseReaction 6530 6546	Thrombocytopenia
+T62	AdverseReaction 6548 6558	leukopenia
+T63	AdverseReaction 6560 6571	neutropenia
+T64	AdverseReaction 6576 6587	lymphopenia
+T65	AdverseReaction 6594 6600	anemia
+T66	AdverseReaction 6696 6705	Infection
+T67	Severity 6707 6714	Serious
+T68	AdverseReaction 6719 6724	fatal
+T69	AdverseReaction 6725 6735	infections
+T70	AdverseReaction 6725 6735	infections
+T71	AdverseReaction 6743 6752	pneumonia
+T72	AdverseReaction 6757 6763	sepsis
+T73	AdverseReaction 6785 6799	Hepatotoxicity
+T74	Factor 6810 6813	may
+T75	AdverseReaction 6820 6836	hepatic toxicity
+T76	AdverseReaction 6841 6874	liver function test abnormalities
+T77	AdverseReaction 6982 7002	Tumor lysis syndrome
+T78	AdverseReaction 7127 7148	Embryo-fetal toxicity
+T79	Factor 7159 7162	may
+T80	AdverseReaction 7169 7179	fetal harm
+T81	Factor 7375 7378	can
+T82	AdverseReaction 7385 7401	thrombocytopenia
+T83	AdverseReaction 7403 7413	leukopenia
+T84	AdverseReaction 7415 7426	neutropenia
+T85	AdverseReaction 7431 7442	lymphopenia
+T86	AdverseReaction 7452 7458	anemia
+T87	Severity 7646 7653	Serious
+T88	AdverseReaction 7668 7673	fatal
+T89	AdverseReaction 7674 7684	infections
+T90	AdverseReaction 7674 7684	infections
+T91	AdverseReaction 7696 7705	pneumonia
+T92	AdverseReaction 7710 7716	sepsis
+T93	Factor 8005 8008	can
+T94	AdverseReaction 8015 8020	fatal
+T95	AdverseReaction 8021 8035	hepatotoxicity
+T96	AdverseReaction 8040 8073	liver function test abnormalities
+T97	AdverseReaction 8409 8429	Tumor lysis syndrome
+T98	AdverseReaction 8774 8780	Nausea
+T99	AdverseReaction 8782 8790	vomiting
+T100	AdverseReaction 8795 8803	diarrhea
+T101	Factor 8976 8979	can
+T102	AdverseReaction 8986 8996	fetal harm
+T103	Factor 9045 9048	may
+T104	AdverseReaction 9055 9069	teratogenicity
+T105	AdverseReaction 9077 9099	embryo-fetal lethality
+T106	AdverseReaction 9114 9123	genotoxic
+R1	Effect arg1:T50 arg2:T49
+R2	Negated arg1:T56 arg2:T55
+R3	Effect arg1:T70 arg2:T67
+R4	Hypothetical arg1:T75 arg2:T74
+R5	Hypothetical arg1:T76 arg2:T74
+R6	Hypothetical arg1:T80 arg2:T79
+R7	Hypothetical arg1:T82 arg2:T81
+R8	Hypothetical arg1:T83 arg2:T81
+R9	Hypothetical arg1:T84 arg2:T81
+R10	Hypothetical arg1:T85 arg2:T81
+R11	Hypothetical arg1:T86 arg2:T81
+R12	Effect arg1:T90 arg2:T87
+R13	Hypothetical arg1:T94 arg2:T93
+R14	Hypothetical arg1:T95 arg2:T93
+R15	Hypothetical arg1:T96 arg2:T93
+R16	Hypothetical arg1:T102 arg2:T101
+R17	Hypothetical arg1:T104 arg2:T103
+R18	Hypothetical arg1:T105 arg2:T103
+N1	Reference T1 meddra:10061188	Haematotoxicity
+N2	Reference T2 meddra:10021789	Infection
+N3	Reference T3 meddra:10019851	Hepatotoxicity
+N4	Reference T4 meddra:10045170	Tumour lysis syndrome
+N5	Reference T5 meddra:10059024	Gastrointestinal toxicity
+N6	Reference T6 meddra:10028813	Nausea
+N7	Reference T7 meddra:10016256	Fatigue
+N8	Reference T8 meddra:10037660	Pyrexia
+N9	Reference T9 meddra:10002034	Anaemia
+N10	Reference T10 meddra:10047700	Vomiting
+N11	Reference T21 meddra:10010774	Constipation
+N12	Reference T22 meddra:10012735	Diarrhoea
+N13	Reference T23 meddra:10013968	Dyspnoea
+N14	Reference T24 meddra:10037844	Rash
+N15	Reference T25 meddra:10030124	Oedema peripheral
+N16	Reference T26 meddra:10011224	Cough
+N17	Reference T27 meddra:10043554	Thrombocytopenia
+N18	Reference T28 meddra:10037087	Pruritus
+N19	Reference T29 meddra:10008531	Chills
+N20	Reference T30 meddra:10005630	Blood lactate dehydrogenase increased
+N21	Reference T31 meddra:10061428	Decreased appetite
+N22	Reference T32 meddra:10019211	Headache
+N23	Reference T33 meddra:10053483	Infusion site pain
+N24	Reference T34 meddra:10021015	Hypokalaemia
+N25	Reference T35 meddra:10014387	Electrocardiogram QT prolonged
+N26	Reference T36 meddra:10000081	Abdominal pain
+N27	Reference T37 meddra:10021097	Hypotension
+N28	Reference T38 meddra:10034879	Phlebitis
+N29	Reference T39 meddra:10013573	Dizziness
+N30	Reference T40 meddra:10035664	Pneumonia
+N31	Reference T44 meddra:10005483	Blood creatinine increased
+N32	Reference T46 meddra:10028154	Multi-organ failure
+N33	Reference T47 meddra:10011906	Death
+N34	Reference T48 meddra:10019663	Hepatic failure
+N35	Reference T51 meddra:10011906	Death
+N36	Reference T54 meddra:10047290	Ventricular fibrillation
+N37	Reference T58 meddra:10016288	Febrile neutropenia
+N38	Reference T62 meddra:10024384	Leukopenia
+N39	Reference T63 meddra:10029354	Neutropenia
+N40	Reference T64 meddra:10025327	Lymphopenia
+N41	Reference T68 meddra:10011906	Death
+N42	Reference T69 meddra:10021789	Infection
+N43	Reference T72 meddra:10040047	Sepsis
+N44	Reference T75 meddra:10019851	Hepatotoxicity
+N45	Reference T76 meddra:10024690	Liver function test abnormal
+N46	Reference T78 meddra:10026923	Maternal drugs affecting foetus
+N47	Reference T80 meddra:10016852	Foetal damage
+N48	Reference T104 meddra:10043275	Teratogenicity
+N49	Reference T105 meddra:10055690	Foetal death
+N50	Reference T106 meddra:DEFAULT_TERM_ID	DEFAULT_TERM

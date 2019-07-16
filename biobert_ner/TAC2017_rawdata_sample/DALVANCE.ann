@@ -1,0 +1,150 @@
+T1	AdverseReaction 375 381	nausea
+T2	AdverseReaction 390 398	headache
+T3	AdverseReaction 411 419	diarrhea
+T4	AdverseReaction 1613 1619	nausea
+T5	AdverseReaction 1628 1636	headache
+T6	AdverseReaction 1649 1657	diarrhea
+T7	AdverseReaction 2074 2080	Nausea
+T8	AdverseReaction 2128 2136	Vomiting
+T9	AdverseReaction 2182 2190	Diarrhea
+T10	AdverseReaction 2236 2244	Headache
+T11	AdverseReaction 2290 2294	Rash
+T12	AdverseReaction 2344 2352	Pruritus
+T13	AdverseReaction 2666 2672	anemia
+T14	AdverseReaction 2674 2692	hemorrhagic anemia
+T15	AdverseReaction 2694 2704	leucopenia
+T16	AdverseReaction 2706 2717	neutropenia
+T17	AdverseReaction 2719 2735	thrombocytopenia
+T18	AdverseReaction 2737 2746	petechiae
+T19	AdverseReaction 2748 2760	eosinophilia
+T20	AdverseReaction 2762 2776	thrombocytosis
+T21	AdverseReaction 2813 2840	gastrointestinal hemorrhage
+T22	AdverseReaction 2842 2848	melena
+T23	AdverseReaction 2850 2862	hematochezia
+T24	AdverseReaction 2864 2878	abdominal pain
+T25	AdverseReaction 2941 2967	infusion-related reactions
+T26	AdverseReaction 3001 3015	hepatotoxicity
+T27	AdverseReaction 3049 3071	anaphylactoid reaction
+T28	AdverseReaction 3110 3140	Clostridium difficile  colitis
+T29	AdverseReaction 3142 3158	oral candidiasis
+T30	AdverseReaction 3160 3190	vulvovaginal mycotic infection
+T31	AdverseReaction 3215 3246	hepatic transaminases increased
+T32	AdverseReaction 3248 3284	blood alkaline phosphatase increased
+T33	AdverseReaction 3286 3326	international normalized ratio increased
+T34	AdverseReaction 3371 3383	hypoglycemia
+T35	AdverseReaction 3418 3427	dizziness
+T36	AdverseReaction 3485 3497	bronchospasm
+T37	AdverseReaction 3546 3555	urticaria
+T38	AdverseReaction 3584 3592	flushing
+T39	AdverseReaction 3594 3603	phlebitis
+T40	AdverseReaction 3605 3621	wound hemorrhage
+T41	AdverseReaction 3623 3643	spontaneous hematoma
+T42	AdverseReaction 3818 3832	ALT elevations
+T43	Severity 3846 3879	3 times the upper limit of normal
+T44	AdverseReaction 3968 4004	ALT values greater than 10 times ULN
+T45	AdverseReaction 4281 4295	ALT elevations
+T46	Severity 4309 4321	20 times ULN
+T47	AdverseReaction 4323 4337	ALT elevations
+T48	Negation 4371 4373	No
+T49	AdverseReaction 4454 4467	ALT elevation
+T50	Severity 4481 4493	10 times ULN
+T51	Severity 4547 4554	Serious
+T52	AdverseReaction 4555 4571;4596 4605	hypersensitivity (anaphylactic) and skin reactions
+T53	AdverseReaction 4573 4585;4596 4605	anaphylactic) and skin reactions
+T54	AdverseReaction 4591 4605	skin reactions
+T55	AdverseReaction 4793 4801;4849 4858	infusion of glycopeptide antibacterial agents can cause reactions
+T56	Factor 4839 4842	can
+T57	AdverseReaction 4875 4889	ALT elevations
+T58	AdverseReaction 4964 5006	Clostridium difficile -associated diarrhea
+T59	AdverseReaction 5008 5012	CDAD
+T60	Severity 5186 5193	Serious
+T61	AdverseReaction 5194 5210;5235 5244	hypersensitivity (anaphylactic) and skin reactions
+T62	AdverseReaction 5212 5224;5235 5244	anaphylactic) and skin reactions
+T63	AdverseReaction 5230 5244	skin reactions
+T64	Factor 5874 5877	can
+T65	AdverseReaction 5909 5925	Red-Man Syndrome
+T66	AdverseReaction 5938 5964	flushing of the upper body
+T67	AdverseReaction 5966 5975	urticaria
+T68	AdverseReaction 5977 5985	pruritus
+T69	AdverseReaction 5994 5998	rash
+T70	AdverseReaction 6250 6274;6281 6290	alanine aminotransferase (ALT) elevation
+T71	AdverseReaction 6276 6279;6281 6290	ALT) elevation
+T72	Severity 6304 6337	3 times the upper limit of normal
+T73	AdverseReaction 6354 6370;6384 6387	abnormalities in liver tests (ALT
+T74	AdverseReaction 6354 6370;6389 6392	abnormalities in liver tests (ALT, AST
+T75	AdverseReaction 6354 6370;6394 6403	abnormalities in liver tests (ALT, AST, bilirubin
+T76	AdverseReaction 6574 6617	Clostridium difficile  -associated diarrhea
+T77	AdverseReaction 6619 6623	CDAD
+T78	Severity 6743 6747	mild
+T79	AdverseReaction 6748 6756	diarrhea
+T80	AdverseReaction 6760 6765	fatal
+T81	AdverseReaction 6766 6773	colitis
+R1	Effect arg1:T42 arg2:T43
+R2	Effect arg1:T45 arg2:T46
+R3	Effect arg1:T49 arg2:T50
+R4	Negated arg1:T49 arg2:T48
+R5	Effect arg1:T52 arg2:T51
+R6	Effect arg1:T53 arg2:T51
+R7	Hypothetical arg1:T55 arg2:T56
+R8	Effect arg1:T61 arg2:T60
+R9	Effect arg1:T62 arg2:T60
+R10	Hypothetical arg1:T65 arg2:T64
+R11	Hypothetical arg1:T66 arg2:T64
+R12	Hypothetical arg1:T67 arg2:T64
+R13	Hypothetical arg1:T68 arg2:T64
+R14	Hypothetical arg1:T69 arg2:T64
+R15	Effect arg1:T70 arg2:T72
+R16	Effect arg1:T71 arg2:T72
+R17	Effect arg1:T79 arg2:T78
+N1	Reference T1 meddra:10028813	Nausea
+N2	Reference T2 meddra:10019211	Headache
+N3	Reference T3 meddra:10012735	Diarrhoea
+N4	Reference T8 meddra:10047700	Vomiting
+N5	Reference T11 meddra:10037844	Rash
+N6	Reference T12 meddra:10037087	Pruritus
+N7	Reference T13 meddra:10002034	Anaemia
+N8	Reference T14 meddra:10052293	Haemorrhagic anaemia
+N9	Reference T15 meddra:10024384	Leukopenia
+N10	Reference T16 meddra:10029354	Neutropenia
+N11	Reference T17 meddra:10043554	Thrombocytopenia
+N12	Reference T18 meddra:10034754	Petechiae
+N13	Reference T19 meddra:10014950	Eosinophilia
+N14	Reference T20 meddra:10043563	Thrombocytosis
+N15	Reference T21 meddra:10017955	Gastrointestinal haemorrhage
+N16	Reference T22 meddra:10027141	Melaena
+N17	Reference T23 meddra:10018836	Haematochezia
+N18	Reference T24 meddra:10000081	Abdominal pain
+N19	Reference T25 meddra:10051792	Infusion related reaction
+N20	Reference T26 meddra:10019851	Hepatotoxicity
+N21	Reference T27 meddra:10002216	Anaphylactoid reaction
+N22	Reference T28 meddra:10009657	Clostridium difficile colitis
+N23	Reference T29 meddra:10030963	Oral candidiasis
+N24	Reference T30 meddra:10064899	Vulvovaginal mycotic infection
+N25	Reference T31 meddra:10054889	Transaminases increased
+N26	Reference T32 meddra:10059570	Blood alkaline phosphatase increased
+N27	Reference T33 meddra:10022595	International normalised ratio increased
+N28	Reference T34 meddra:10020993	Hypoglycaemia
+N29	Reference T35 meddra:10013573	Dizziness
+N30	Reference T36 meddra:10006482	Bronchospasm
+N31	Reference T37 meddra:10046735	Urticaria
+N32	Reference T38 meddra:10016825	Flushing
+N33	Reference T39 meddra:10034879	Phlebitis
+N34	Reference T40 meddra:10051373	Wound haemorrhage
+N35	Reference T41 meddra:10065304	Spontaneous haematoma
+N36	Reference T42 meddra:10001551	Alanine aminotransferase increased
+N37	Reference T44 meddra:10001551	Alanine aminotransferase increased
+N38	Reference T52 meddra:10020751	Hypersensitivity
+N39	Reference T53 meddra:10002198	Anaphylactic reaction
+N40	Reference T54 meddra:10040914	Skin reaction
+N41	Reference T55 meddra:10051792	Infusion related reaction
+N42	Reference T58 meddra:10009657	Clostridium difficile colitis
+N43	Reference T59 meddra:10009657	Clostridium difficile colitis
+N44	Reference T65 meddra:10038192	Red man syndrome
+N45	Reference T66 meddra:10016825	Flushing
+N46	Reference T70 meddra:10001551	Alanine aminotransferase increased
+N47	Reference T49 meddra:10001551	Alanine aminotransferase increased
+N48	Reference T73 meddra:10001547	Alanine aminotransferase abnormal
+N49	Reference T74 meddra:10003477	Aspartate aminotransferase abnormal
+N50	Reference T75 meddra:10058477	Blood bilirubin abnormal
+N51	Reference T80 meddra:10011906	Death
+N52	Reference T81 meddra:10009887	Colitis

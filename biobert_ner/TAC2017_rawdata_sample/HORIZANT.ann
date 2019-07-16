@@ -1,0 +1,246 @@
+T1	AdverseReaction 152 162	Somnolence
+T2	AdverseReaction 163 171	sedation
+T3	AdverseReaction 176 185	dizziness
+T4	AdverseReaction 326 336	somnolence
+T5	AdverseReaction 337 345	sedation
+T6	AdverseReaction 350 359	dizziness
+T7	AdverseReaction 451 460	dizziness
+T8	AdverseReaction 462 472	somnolence
+T9	AdverseReaction 478 486	headache
+T10	AdverseReaction 2100 2110	somnolence
+T11	AdverseReaction 2111 2119	sedation
+T12	AdverseReaction 2124 2133	dizziness
+T13	AdverseReaction 2729 2739	Somnolence
+T14	AdverseReaction 2740 2748	sedation
+T15	AdverseReaction 2840 2849	Dizziness
+T16	AdverseReaction 2951 2959	Headache
+T17	AdverseReaction 3174 3180	Nausea
+T18	AdverseReaction 3285 3294	Dry mouth
+T19	AdverseReaction 3396 3406	Flatulence
+T20	AdverseReaction 3645 3652	Fatigue
+T21	AdverseReaction 3756 3768	Irritability
+T22	AdverseReaction 3867 3880	Feeling drunk
+T23	AdverseReaction 3978 3994	Feeling abnormal
+T24	AdverseReaction 4089 4105	Peripheral edema
+T25	AdverseReaction 4322 4338	Weight increased
+T26	AdverseReaction 4433 4451	Increased appetite
+T27	AdverseReaction 4657 4664	Vertigo
+T28	AdverseReaction 4879 4889	Depression
+T29	AdverseReaction 4990 5006	Libido decreased
+T30	AdverseReaction 5626 5642	balance disorder
+T31	AdverseReaction 5644 5658	blurred vision
+T32	AdverseReaction 5660 5674	disorientation
+T33	AdverseReaction 5676 5689	feeling drunk
+T34	AdverseReaction 5691 5699	lethargy
+T35	AdverseReaction 5705 5712	vertigo
+T36	AdverseReaction 5769 5779	somnolence
+T37	AdverseReaction 5780 5788	sedation
+T38	AdverseReaction 5790 5799	dizziness
+T39	AdverseReaction 5801 5814	feeling drunk
+T40	AdverseReaction 5816 5832	libido decreased
+T41	AdverseReaction 5834 5844	depression
+T42	AdverseReaction 5846 5854	headache
+T43	AdverseReaction 5856 5872	peripheral edema
+T44	AdverseReaction 5878 5885	vertigo
+T45	AdverseReaction 6859 6868	dizziness
+T46	AdverseReaction 6870 6880	somnolence
+T47	AdverseReaction 6886 6894	headache
+T48	AdverseReaction 7587 7596	Dizziness
+T49	AdverseReaction 7725 7735	Somnolence
+T50	AdverseReaction 7863 7871	Headache
+T51	AdverseReaction 8141 8147	Nausea
+T52	AdverseReaction 8445 8452	Fatigue
+T53	AdverseReaction 8453 8461	Asthenia
+T54	AdverseReaction 8583 8599	Peripheral edema
+T55	AdverseReaction 8859 8867	Insomnia
+T56	AdverseReaction 9147 9163	Weight increased
+T57	AdverseReaction 9423 9437	Blurred vision
+T58	AdverseReaction 9718 9734	balance disorder
+T59	AdverseReaction 9736 9753	confusional state
+T60	AdverseReaction 9755 9765	depression
+T61	AdverseReaction 9767 9776	dry mouth
+T62	AdverseReaction 9778 9788	flatulence
+T63	AdverseReaction 9790 9808	increased appetite
+T64	AdverseReaction 9810 9822	irritability
+T65	AdverseReaction 9828 9835	vertigo
+T66	AdverseReaction 9837 9846	Dizziness
+T67	AdverseReaction 9848 9858	somnolence
+T68	AdverseReaction 9860 9867	fatigue
+T69	AdverseReaction 9873 9881	insomnia
+T70	AdverseReaction 10101 10119	breast enlargement
+T71	AdverseReaction 10121 10133	gynecomastia
+T72	AdverseReaction 10139 10163	elevated creatine kinase
+T73	AdverseReaction 10220 10238	Driving impairment
+T74	AdverseReaction 10400 10410	Somnolence
+T75	AdverseReaction 10411 10419	sedation
+T76	AdverseReaction 10424 10433	dizziness
+T77	Factor 10435 10438	May
+T78	AdverseReaction 10439 10445;10460 10496	impair the patient's ability to operate complex machinery
+T79	AdverseReaction 10596 10613	Suicidal thoughts
+T80	AdverseReaction 10596 10604;10617 10626	Suicidal thoughts or behaviors
+T81	DrugClass 10694 10698	AEDs
+T82	AdverseReaction 10720 10737	suicidal thoughts
+T83	AdverseReaction 10720 10728;10741 10750	suicidal thoughts or behaviors
+T84	Factor 10857 10860	may
+T85	Severity 10867 10878	significant
+T86	AdverseReaction 10879 10897	driving impairment
+T87	AdverseReaction 10951 10969	driving impairment
+T88	AdverseReaction 11414 11424	somnolence
+T89	AdverseReaction 11574 11584	somnolence
+T90	AdverseReaction 11585 11593	sedation
+T91	AdverseReaction 11598 11607	dizziness
+T92	AdverseReaction 11901 11911	somnolence
+T93	AdverseReaction 11912 11920	sedation
+T94	AdverseReaction 12094 12104	somnolence
+T95	AdverseReaction 12110 12120	somnolence
+T96	AdverseReaction 12228 12237	Dizziness
+T97	AdverseReaction 12408 12417	dizziness
+T98	AdverseReaction 12469 12479	Somnolence
+T99	AdverseReaction 12480 12488	sedation
+T100	AdverseReaction 12563 12572	Dizziness
+T101	AdverseReaction 12807 12817	somnolence
+T102	AdverseReaction 12940 12947	Fatigue
+T103	AdverseReaction 12948 12956	asthenia
+T104	AdverseReaction 13151 13161	somnolence
+T105	AdverseReaction 13173 13183	somnolence
+T106	AdverseReaction 13291 13300	Dizziness
+T107	AdverseReaction 13494 13503	dizziness
+T108	AdverseReaction 13554 13564	Somnolence
+T109	AdverseReaction 13689 13698	Dizziness
+T110	DrugClass 14385 14389	AEDs
+T111	AdverseReaction 14411 14428	suicidal thoughts
+T112	AdverseReaction 14411 14419;14432 14440	suicidal thoughts or behavior
+T113	DrugClass 14930 14934	AEDs
+T114	AdverseReaction 15040 15057	suicidal thinking
+T115	AdverseReaction 15040 15048;15061 15069	suicidal thinking or behavior
+T116	AdverseReaction 15216 15233	suicidal behavior
+T117	AdverseReaction 15216 15224;15237 15245	suicidal behavior or ideation
+T118	AdverseReaction 15402 15419	suicidal thinking
+T119	AdverseReaction 15402 15410;15423 15431	suicidal thinking or behavior
+T120	AdverseReaction 15477 15485	suicides
+T121	Factor 15571 15590	number is too small
+T122	AdverseReaction 15636 15643	suicide
+T123	AdverseReaction 15671 15688	suicidal thoughts
+T124	AdverseReaction 15671 15679;15692 15700	suicidal thoughts or behavior
+T125	DrugClass 15706 15710	AEDs
+T126	Factor 16003 16007	risk
+T127	AdverseReaction 16011 16028	suicidal thoughts
+T128	AdverseReaction 16011 16019;16032 16040	suicidal thoughts or behavior
+T129	Factor 17368 17372	risk
+T130	AdverseReaction 17377 17394	suicidal thoughts
+T131	AdverseReaction 17377 17385;17398 17406	suicidal thoughts or behavior
+T132	AdverseReaction 18668 18721	Drug Reaction with Eosinophilia and Systemic Symptoms
+T133	AdverseReaction 18723 18728	DRESS
+T134	AdverseReaction 18745 18772	multiorgan hypersensitivity
+T135	DrugClass 18811 18830	antiepileptic drugs
+T136	AdverseReaction 18922 18927	fatal
+T137	AdverseReaction 18949 18954	DRESS
+T138	AdverseReaction 19006 19011	fever
+T139	AdverseReaction 19013 19017	rash
+T140	AdverseReaction 19026 19041	lymphadenopathy
+T141	AdverseReaction 19103 19112	hepatitis
+T142	AdverseReaction 19114 19123	nephritis
+T143	AdverseReaction 19125 19152	hematological abnormalities
+T144	AdverseReaction 19154 19165	myocarditis
+T145	AdverseReaction 19170 19178	myositis
+T146	AdverseReaction 19226 19238	Eosinophilia
+T147	AdverseReaction 19419 19435	hypersensitivity
+T148	AdverseReaction 19445 19450	fever
+T149	AdverseReaction 19454 19469	lymphadenopathy
+T150	Factor 19471 19474	may
+T151	AdverseReaction 19498 19502	rash
+T152	Negation 19506 19517	not evident
+T153	AdverseReaction 20409 20439	pancreatic acinar cell adenoma
+T154	AdverseReaction 20409 20431;20444 20453	pancreatic acinar cell adenoma and carcinoma
+T155	Animal 20473 20477	rats
+T156	AdverseReaction 20724 20730	tumors
+T157	AdverseReaction 20724 20730;20763 20769	tumors were reported in 10 patients (2 breast
+T158	AdverseReaction 20724 20730;20773 20778	tumors were reported in 10 patients (2 breast, 3 brain
+T159	AdverseReaction 20724 20730;20782 20786	tumors were reported in 10 patients (2 breast, 3 brain, 2 lung
+T160	AdverseReaction 20724 20730;20790 20797	tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal
+T161	AdverseReaction 20801 20823	non-Hodgkin's lymphoma
+T162	AdverseReaction 20827 20856	endometrial carcinoma in situ
+T163	AdverseReaction 20875 20890;20909 20914	tumors worsened in 11 patients (9 brain
+T164	AdverseReaction 20875 20890;20918 20924	tumors worsened in 11 patients (9 brain, 1 breast
+T165	AdverseReaction 20875 20890;20928 20936	tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate
+R1	Hypothetical arg1:T78 arg2:T77
+R2	Hypothetical arg1:T82 arg2:T81
+R3	Hypothetical arg1:T83 arg2:T81
+R4	Effect arg1:T86 arg2:T85
+R5	Hypothetical arg1:T86 arg2:T84
+R6	Hypothetical arg1:T111 arg2:T110
+R7	Hypothetical arg1:T112 arg2:T110
+R8	Hypothetical arg1:T114 arg2:T113
+R9	Hypothetical arg1:T115 arg2:T113
+R10	Negated arg1:T122 arg2:T121
+R11	Hypothetical arg1:T123 arg2:T125
+R12	Hypothetical arg1:T124 arg2:T125
+R13	Hypothetical arg1:T127 arg2:T126
+R14	Hypothetical arg1:T128 arg2:T126
+R15	Hypothetical arg1:T130 arg2:T129
+R16	Hypothetical arg1:T131 arg2:T129
+R17	Hypothetical arg1:T132 arg2:T135
+R18	Hypothetical arg1:T133 arg2:T135
+R19	Hypothetical arg1:T134 arg2:T135
+R20	Hypothetical arg1:T148 arg2:T150
+R21	Hypothetical arg1:T149 arg2:T150
+R22	Negated arg1:T151 arg2:T152
+R23	Hypothetical arg1:T153 arg2:T155
+R24	Hypothetical arg1:T154 arg2:T155
+N1	Reference T1 meddra:10041349	Somnolence
+N2	Reference T2 meddra:10039897	Sedation
+N3	Reference T3 meddra:10013573	Dizziness
+N4	Reference T9 meddra:10019211	Headache
+N5	Reference T17 meddra:10028813	Nausea
+N6	Reference T18 meddra:10013781	Dry mouth
+N7	Reference T19 meddra:10016766	Flatulence
+N8	Reference T20 meddra:10016256	Fatigue
+N9	Reference T21 meddra:10022998	Irritability
+N10	Reference T22 meddra:10016330	Feeling drunk
+N11	Reference T23 meddra:10016322	Feeling abnormal
+N12	Reference T24 meddra:10030124	Oedema peripheral
+N13	Reference T25 meddra:10047899	Weight increased
+N14	Reference T26 meddra:10021654	Increased appetite
+N15	Reference T27 meddra:10047340	Vertigo
+N16	Reference T28 meddra:10012378	Depression
+N17	Reference T29 meddra:10024419	Libido decreased
+N18	Reference T30 meddra:10049848	Balance disorder
+N19	Reference T31 meddra:10047513	Vision blurred
+N20	Reference T32 meddra:10013395	Disorientation
+N21	Reference T34 meddra:10024264	Lethargy
+N22	Reference T53 meddra:10003549	Asthenia
+N23	Reference T55 meddra:10022437	Insomnia
+N24	Reference T59 meddra:10010305	Confusional state
+N25	Reference T70 meddra:10006242	Breast enlargement
+N26	Reference T71 meddra:10018800	Gynaecomastia
+N27	Reference T72 meddra:10005470	Blood creatine phosphokinase increased
+N28	Reference T73 meddra:10049564	Impaired driving ability
+N29	Reference T78 meddra:10052302	Impaired work ability
+N30	Reference T79 meddra:10042458	Suicidal ideation
+N31	Reference T80 meddra:10065604	Suicidal behaviour
+N32	Reference T112 meddra:10065604	Suicidal behaviour
+N33	Reference T117 meddra:10042458	Suicidal ideation
+N34	Reference T114 meddra:10042458	Suicidal ideation
+N35	Reference T120 meddra:10010144	Completed suicide
+N36	Reference T136 meddra:10011906	Death
+N37	Reference T133 meddra:10073508	Drug reaction with eosinophilia and systemic symptoms
+N38	Reference T138 meddra:10037660	Pyrexia
+N39	Reference T139 meddra:10037844	Rash
+N40	Reference T140 meddra:10025197	Lymphadenopathy
+N41	Reference T141 meddra:10019717	Hepatitis
+N42	Reference T142 meddra:10029117	Nephritis
+N43	Reference T143 meddra:10057755	Haematology test abnormal
+N44	Reference T144 meddra:10028606	Myocarditis
+N45	Reference T145 meddra:10028653	Myositis
+N46	Reference T146 meddra:10014950	Eosinophilia
+N47	Reference T147 meddra:10020751	Hypersensitivity
+N48	Reference T156 meddra:10028980	Neoplasm
+N49	Reference T157 meddra:10006279	Breast neoplasm
+N50	Reference T158 meddra:10061019	Brain neoplasm
+N51	Reference T159 meddra:10062042	Lung neoplasm
+N52	Reference T160 meddra:10061588	Adrenal neoplasm
+N53	Reference T161 meddra:10029547	Non-Hodgkin's lymphoma
+N54	Reference T162 meddra:10014737	Endometrial cancer stage 0
+N55	Reference T163 meddra:10061019	Brain neoplasm
+N56	Reference T164 meddra:10006187	Breast cancer
+N57	Reference T165 meddra:10060862	Prostate cancer

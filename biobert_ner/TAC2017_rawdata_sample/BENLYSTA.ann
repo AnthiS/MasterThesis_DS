@@ -1,0 +1,243 @@
+T1	AdverseReaction 423 432	Mortality
+T2	Severity 485 492	Serious
+T3	AdverseReaction 493 503	Infections
+T4	AdverseReaction 556 566	Malignancy
+T5	AdverseReaction 619 645	Hypersensitivity Reactions
+T6	AdverseReaction 657 668	Anaphylaxis
+T7	AdverseReaction 721 739	Infusion Reactions
+T8	AdverseReaction 792 802	Depression
+T9	AdverseReaction 922 928	nausea
+T10	AdverseReaction 930 938	diarrhea
+T11	AdverseReaction 940 947	pyrexia
+T12	AdverseReaction 949 964	nasopharyngitis
+T13	AdverseReaction 966 976	bronchitis
+T14	AdverseReaction 978 986	insomnia
+T15	AdverseReaction 988 1005	pain in extremity
+T16	AdverseReaction 1007 1017	depression
+T17	AdverseReaction 1019 1027	migraine
+T18	AdverseReaction 1033 1044	pharyngitis
+T19	Severity 2382 2389	serious
+T20	AdverseReaction 2390 2400	infections
+T21	AdverseReaction 2621 2627	nausea
+T22	AdverseReaction 2629 2637	diarrhea
+T23	AdverseReaction 2639 2646	pyrexia
+T24	AdverseReaction 2648 2663	nasopharyngitis
+T25	AdverseReaction 2665 2675	bronchitis
+T26	AdverseReaction 2677 2685	insomnia
+T27	AdverseReaction 2687 2704	pain in extremity
+T28	AdverseReaction 2706 2716	depression
+T29	AdverseReaction 2718 2726	migraine
+T30	AdverseReaction 2732 2743	pharyngitis
+T31	AdverseReaction 3081 3099	infusion reactions
+T32	AdverseReaction 3134 3149	lupus nephritis
+T33	AdverseReaction 3188 3198	infections
+T34	AdverseReaction 3863 3869	Nausea
+T35	AdverseReaction 3973 3981	Diarrhea
+T36	AdverseReaction 4083 4090	Pyrexia
+T37	AdverseReaction 4193 4208	Nasopharyngitis
+T38	AdverseReaction 4303 4313	Bronchitis
+T39	AdverseReaction 4413 4421	Insomnia
+T40	AdverseReaction 4523 4540	Pain in extremity
+T41	AdverseReaction 4633 4643	Depression
+T42	AdverseReaction 4743 4751	Migraine
+T43	AdverseReaction 4853 4864	Pharyngitis
+T44	AdverseReaction 4963 4971	Cystitis
+T45	AdverseReaction 5073 5083	Leukopenia
+T46	AdverseReaction 5183 5204	Gastroenteritis viral
+T47	Severity 5809 5813	mild
+T48	AdverseReaction 5814 5832	infusion reactions
+T49	AdverseReaction 5836 5842	nausea
+T50	AdverseReaction 5844 5861	erythematous rash
+T51	AdverseReaction 5863 5871	pruritus
+T52	AdverseReaction 5873 5885	eyelid edema
+T53	AdverseReaction 5887 5895	headache
+T54	AdverseReaction 5901 5908	dyspnea
+T55	AdverseReaction 6905 6910	Fatal
+T56	AdverseReaction 6911 6922	anaphylaxis
+T57	AdverseReaction 7021 7030	Mortality
+T58	AdverseReaction 7048 7054	deaths
+T59	Severity 7162 7169	Serious
+T60	AdverseReaction 7170 7180	Infections
+T61	Severity 7182 7189	Serious
+T62	AdverseReaction 7204 7209	fatal
+T63	AdverseReaction 7210 7220	infections
+T64	AdverseReaction 7210 7220	infections
+T65	AdverseReaction 7491 7533	Progressive Multifocal Leukoencephalopathy
+T66	AdverseReaction 7535 7538	PML
+T67	AdverseReaction 7796 7822	Hypersensitivity Reactions
+T68	AdverseReaction 7834 7845	Anaphylaxis
+T69	Severity 7847 7854	Serious
+T70	AdverseReaction 7859 7864	fatal
+T71	AdverseReaction 8104 8114	Depression
+T72	AdverseReaction 8116 8126	Depression
+T73	AdverseReaction 8131 8142	suicidality
+T74	AdverseReaction 8493 8499	deaths
+T75	AdverseReaction 8652 8658	deaths
+T76	AdverseReaction 8788 8794	deaths
+T77	AdverseReaction 8920 8925	death
+T78	AdverseReaction 8960 8969	infection
+T79	AdverseReaction 8971 8993	cardiovascular disease
+T80	AdverseReaction 8999 9006	suicide
+T81	Severity 9043 9050	Serious
+T82	AdverseReaction 9065 9070	fatal
+T83	AdverseReaction 9071 9081	infections
+T84	AdverseReaction 9071 9081	infections
+T85	AdverseReaction 9596 9606	infections
+T86	AdverseReaction 9719 9729	infections
+T87	AdverseReaction 9772 9805	upper respiratory tract infection
+T88	AdverseReaction 9807 9830	urinary tract infection
+T89	AdverseReaction 9832 9847	nasopharyngitis
+T90	AdverseReaction 9849 9858	sinusitis
+T91	AdverseReaction 9860 9870	bronchitis
+T92	AdverseReaction 9876 9885	influenza
+T93	Severity 9887 9894	Serious
+T94	AdverseReaction 9895 9905	infections
+T95	Severity 10021 10028	serious
+T96	AdverseReaction 10029 10039	infections
+T97	AdverseReaction 10049 10058	pneumonia
+T98	AdverseReaction 10060 10083	urinary tract infection
+T99	AdverseReaction 10085 10095	cellulitis
+T100	AdverseReaction 10101 10111	bronchitis
+T101	AdverseReaction 10113 10123	Infections
+T102	AdverseReaction 10252 10262	Infections
+T103	AdverseReaction 10276 10281	death
+T104	AdverseReaction 10463 10471	JC virus
+T105	AdverseReaction 10483 10486	PML
+T106	AdverseReaction 10500 10521	neurological deficits
+T107	AdverseReaction 10533 10538	fatal
+T108	AdverseReaction 11135 11147	malignancies
+T109	Factor 11151 11160	not known
+T110	AdverseReaction 11197 11209	malignancies
+T111	AdverseReaction 11221 11246	non-melanoma skin cancers
+T112	AdverseReaction 11376 11388	malignancies
+T113	Factor 11589 11593	risk
+T114	AdverseReaction 11617 11629	malignancies
+T115	AdverseReaction 11697 11729	Acute hypersensitivity reactions
+T116	AdverseReaction 11741 11752	anaphylaxis
+T117	AdverseReaction 11757 11762	death
+T118	AdverseReaction 11916 11942	hypersensitivity reactions
+T119	AdverseReaction 11953 11957	rash
+T120	AdverseReaction 11959 11965	nausea
+T121	AdverseReaction 11967 11974	fatigue
+T122	AdverseReaction 11976 11983	myalgia
+T123	AdverseReaction 11985 11993	headache
+T124	AdverseReaction 11999 12011	facial edema
+T125	AdverseReaction 12104 12120	Hypersensitivity
+T126	AdverseReaction 12104 12120	Hypersensitivity
+T127	Severity 12132 12139	serious
+T128	AdverseReaction 12399 12425	hypersensitivity reactions
+T129	AdverseReaction 12578 12589	Anaphylaxis
+T130	AdverseReaction 12724 12735	hypotension
+T131	AdverseReaction 12737 12747	angioedema
+T132	AdverseReaction 12749 12758	urticaria
+T133	AdverseReaction 12768 12772	rash
+T134	AdverseReaction 12774 12782	pruritus
+T135	AdverseReaction 12788 12795	dyspnea
+T136	AdverseReaction 12878 12904	hypersensitivity reactions
+T137	AdverseReaction 12909 12927	infusion reactions
+T138	AdverseReaction 13813 13856	adverse events associated with the infusion
+T139	Severity 14013 14020	Serious
+T140	AdverseReaction 14021 14039	infusion reactions
+T141	Negation 14041 14050	excluding
+T142	AdverseReaction 14051 14077	hypersensitivity reactions
+T143	AdverseReaction 14184 14195	bradycardia
+T144	AdverseReaction 14197 14204	myalgia
+T145	AdverseReaction 14206 14214	headache
+T146	AdverseReaction 14216 14220	rash
+T147	AdverseReaction 14222 14231	urticaria
+T148	AdverseReaction 14237 14248	hypotension
+T149	AdverseReaction 14266 14284	infusion reactions
+T150	AdverseReaction 14328 14336	headache
+T151	AdverseReaction 14338 14344	nausea
+T152	AdverseReaction 14350 14364	skin reactions
+T153	AdverseReaction 14447 14473	hypersensitivity reactions
+T154	AdverseReaction 14478 14496	infusion reactions
+T155	AdverseReaction 15229 15247	psychiatric events
+T156	AdverseReaction 15344 15354	depression
+T157	AdverseReaction 15404 15412	insomnia
+T158	AdverseReaction 15451 15458	anxiety
+T159	Severity 15493 15500	Serious
+T160	AdverseReaction 15501 15519	psychiatric events
+T161	Severity 15663 15670	Serious
+T162	AdverseReaction 15671 15681	depression
+T163	AdverseReaction 15796 15804	suicides
+T164	Severity 15896 15903	serious
+T165	AdverseReaction 15904 15914	depression
+T166	AdverseReaction 15918 15935	suicidal behavior
+R1	Effect arg1:T3 arg2:T2
+R2	Effect arg1:T20 arg2:T19
+R3	Effect arg1:T48 arg2:T47
+R4	Effect arg1:T60 arg2:T59
+R5	Effect arg1:T64 arg2:T61
+R6	Effect arg1:T67 arg2:T69
+R7	Effect arg1:T84 arg2:T81
+R8	Effect arg1:T94 arg2:T93
+R9	Effect arg1:T96 arg2:T95
+R10	Negated arg1:T108 arg2:T109
+R11	Hypothetical arg1:T114 arg2:T113
+R12	Effect arg1:T126 arg2:T127
+R13	Effect arg1:T140 arg2:T139
+R14	Negated arg1:T142 arg2:T141
+R15	Effect arg1:T160 arg2:T159
+R16	Effect arg1:T162 arg2:T161
+R17	Effect arg1:T165 arg2:T164
+N1	Reference T1 meddra:10011906	Death
+N2	Reference T3 meddra:10021789	Infection
+N3	Reference T4 meddra:10028997	Neoplasm malignant
+N4	Reference T5 meddra:10020751	Hypersensitivity
+N5	Reference T6 meddra:10002198	Anaphylactic reaction
+N6	Reference T7 meddra:10051792	Infusion related reaction
+N7	Reference T8 meddra:10012378	Depression
+N8	Reference T9 meddra:10028813	Nausea
+N9	Reference T10 meddra:10012735	Diarrhoea
+N10	Reference T11 meddra:10037660	Pyrexia
+N11	Reference T12 meddra:10028810	Nasopharyngitis
+N12	Reference T13 meddra:10006451	Bronchitis
+N13	Reference T14 meddra:10022437	Insomnia
+N14	Reference T15 meddra:10033425	Pain in extremity
+N15	Reference T17 meddra:10027599	Migraine
+N16	Reference T18 meddra:10034835	Pharyngitis
+N17	Reference T32 meddra:10025140	Lupus nephritis
+N18	Reference T44 meddra:10011781	Cystitis
+N19	Reference T45 meddra:10024384	Leukopenia
+N20	Reference T46 meddra:10017918	Gastroenteritis viral
+N21	Reference T50 meddra:10037855	Rash erythematous
+N22	Reference T51 meddra:10037087	Pruritus
+N23	Reference T52 meddra:10015993	Eyelid oedema
+N24	Reference T53 meddra:10019211	Headache
+N25	Reference T54 meddra:10013968	Dyspnoea
+N26	Reference T55 meddra:10011906	Death
+N27	Reference T58 meddra:10011906	Death
+N28	Reference T65 meddra:10036807	Progressive multifocal leukoencephalopathy
+N29	Reference T66 meddra:10036807	Progressive multifocal leukoencephalopathy
+N30	Reference T73 meddra:10065604	Suicidal behaviour
+N31	Reference T77 meddra:10011906	Death
+N32	Reference T78 meddra:10021789	Infection
+N33	Reference T79 meddra:10007649	Cardiovascular disorder
+N34	Reference T80 meddra:10010144	Completed suicide
+N35	Reference T87 meddra:10046306	Upper respiratory tract infection
+N36	Reference T88 meddra:10046571	Urinary tract infection
+N37	Reference T90 meddra:10040753	Sinusitis
+N38	Reference T92 meddra:10022000	Influenza
+N39	Reference T97 meddra:10035664	Pneumonia
+N40	Reference T99 meddra:10007882	Cellulitis
+N41	Reference T104 meddra:10023163	JC virus infection
+N42	Reference T106 meddra:10029202	Nervous system disorder
+N43	Reference T108 meddra:10028997	Neoplasm malignant
+N44	Reference T111 meddra:10040808	Skin cancer
+N45	Reference T115 meddra:10020751	Hypersensitivity
+N46	Reference T119 meddra:10037844	Rash
+N47	Reference T121 meddra:10016256	Fatigue
+N48	Reference T122 meddra:10028411	Myalgia
+N49	Reference T124 meddra:10016029	Face oedema
+N50	Reference T125 meddra:10020751	Hypersensitivity
+N51	Reference T130 meddra:10021097	Hypotension
+N52	Reference T131 meddra:10002424	Angioedema
+N53	Reference T132 meddra:10046735	Urticaria
+N54	Reference T138 meddra:10051792	Infusion related reaction
+N55	Reference T143 meddra:10006093	Bradycardia
+N56	Reference T152 meddra:10040914	Skin reaction
+N57	Reference T155 meddra:10061472	Psychiatric symptom
+N58	Reference T158 meddra:10002855	Anxiety
+N59	Reference T163 meddra:10010144	Completed suicide
+N60	Reference T166 meddra:10065604	Suicidal behaviour

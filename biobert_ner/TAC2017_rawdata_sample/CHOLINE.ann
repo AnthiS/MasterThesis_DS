@@ -1,0 +1,21 @@
+T1	Severity 68 72	mild
+T2	AdverseReaction 73 96	injection site reaction
+T3	Severity 200 204	mild
+T4	AdverseReaction 205 228	injection site reaction
+T5	AdverseReaction 665 683	Allergic reactions
+T6	AdverseReaction 772 786	Radiation risk
+T7	AdverseReaction 2436 2454	allergic reactions
+T8	AdverseReaction 2459 2470	anaphylaxis
+T9	Factor 2471 2474	may
+T10	Factor 2781 2785	risk
+T11	AdverseReaction 2790 2796	cancer
+R1	Effect arg1:T2 arg2:T1
+R2	Effect arg1:T4 arg2:T3
+R3	Hypothetical arg1:T7 arg2:T9
+R4	Hypothetical arg1:T8 arg2:T9
+R5	Hypothetical arg1:T11 arg2:T10
+N1	Reference T2 meddra:10022095	Injection site reaction
+N2	Reference T5 meddra:10020751	Hypersensitivity
+N3	Reference T6 meddra:10073306	Exposure to radiation
+N4	Reference T8 meddra:10002198	Anaphylactic reaction
+N5	Reference T11 meddra:10028997	Neoplasm malignant

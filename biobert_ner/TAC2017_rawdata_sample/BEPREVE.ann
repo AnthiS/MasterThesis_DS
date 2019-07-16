@@ -1,0 +1,29 @@
+T1	Severity 121 125	mild
+T2	AdverseReaction 126 154	taste following instillation
+T3	AdverseReaction 220 234	eye irritation
+T4	AdverseReaction 236 244	headache
+T5	AdverseReaction 250 265	nasopharyngitis
+T6	Severity 841 845	mild
+T7	AdverseReaction 846 874	taste following instillation
+T8	AdverseReaction 935 949	eye irritation
+T9	AdverseReaction 951 959	headache
+T10	AdverseReaction 965 980	nasopharyngitis
+T11	AdverseReaction 1021 1047	Hypersensitivity reactions
+T12	AdverseReaction 1320 1346	hypersensitivity reactions
+T13	AdverseReaction 1355 1362	itching
+T14	AdverseReaction 1364 1373	body rash
+T15	AdverseReaction 1379 1395	swelling of lips
+T16	AdverseReaction 1379 1390;1397 1403	swelling of lips, tongue
+T17	AdverseReaction 1379 1390;1411 1417	swelling of lips, tongue and/or throat
+R1	Effect arg1:T2 arg2:T1
+R2	Effect arg1:T7 arg2:T6
+N1	Reference T2 meddra:10069227	Product taste abnormal
+N2	Reference T3 meddra:10015946	Eye irritation
+N3	Reference T4 meddra:10019211	Headache
+N4	Reference T5 meddra:10028810	Nasopharyngitis
+N5	Reference T11 meddra:10020751	Hypersensitivity
+N6	Reference T13 meddra:10037087	Pruritus
+N7	Reference T14 meddra:10037844	Rash
+N8	Reference T15 meddra:10024570	Lip swelling
+N9	Reference T16 meddra:10042727	Swollen tongue
+N10	Reference T17 meddra:10034829	Pharyngeal oedema

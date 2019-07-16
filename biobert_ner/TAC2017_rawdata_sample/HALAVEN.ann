@@ -1,0 +1,219 @@
+T1	AdverseReaction 102 113	neutropenia
+T2	AdverseReaction 115 121	anemia
+T3	AdverseReaction 123 131	asthenia
+T4	AdverseReaction 132 139	fatigue
+T5	AdverseReaction 141 149	alopecia
+T6	AdverseReaction 151 172	peripheral neuropathy
+T7	AdverseReaction 174 180	nausea
+T8	AdverseReaction 186 198	constipation
+T9	AdverseReaction 764 775	Neutropenia
+T10	AdverseReaction 829 850	Peripheral neuropathy
+T11	AdverseReaction 904 928	QT interval prolongation
+T12	AdverseReaction 1068 1079	neutropenia
+T13	AdverseReaction 1081 1087	anemia
+T14	AdverseReaction 1089 1097	asthenia
+T15	AdverseReaction 1098 1105	fatigue
+T16	AdverseReaction 1107 1115	alopecia
+T17	AdverseReaction 1117 1138	peripheral neuropathy
+T18	AdverseReaction 1140 1146	nausea
+T19	AdverseReaction 1152 1164	constipation
+T20	AdverseReaction 1252 1271	febrile neutropenia
+T21	AdverseReaction 1281 1292	neutropenia
+T22	AdverseReaction 1376 1397	peripheral neuropathy
+T23	AdverseReaction 2986 2997	Neutropenia
+T24	AdverseReaction 3074 3080	Anemia
+T25	AdverseReaction 3263 3284	Peripheral neuropathy
+T26	AdverseReaction 3365 3373	Headache
+T27	AdverseReaction 3582 3590	Asthenia
+T28	AdverseReaction 3591 3598	Fatigue
+T29	AdverseReaction 3674 3694	Mucosal inflammation
+T30	AdverseReaction 3770 3777	Pyrexia
+T31	AdverseReaction 3961 3973	Constipation
+T32	AdverseReaction 4049 4057	Diarrhea
+T33	AdverseReaction 4137 4143	Nausea
+T34	AdverseReaction 4225 4233	Vomiting
+T35	AdverseReaction 4437 4447	Arthralgia
+T36	AdverseReaction 4448 4455	Myalgia
+T37	AdverseReaction 4531 4540	Back pain
+T38	AdverseReaction 4619 4628	Bone pain
+T39	AdverseReaction 4707 4724	Pain in extremity
+T40	AdverseReaction 4891 4907	Weight decreased
+T41	AdverseReaction 5094 5102	Anorexia
+T42	AdverseReaction 5307 5312	Cough
+T43	AdverseReaction 5395 5402	Dyspnea
+T44	AdverseReaction 5598 5606	Alopecia
+T45	AdverseReaction 5790 5813	Urinary Tract Infection
+T46	AdverseReaction 5933 5954	neuropathy peripheral
+T47	AdverseReaction 5956 5966	neuropathy
+T48	AdverseReaction 5968 5995	peripheral motor neuropathy
+T49	AdverseReaction 5997 6011	polyneuropathy
+T50	AdverseReaction 6013 6041	peripheral sensoryneuropathy
+T51	AdverseReaction 6047 6059	paraesthesia
+T52	AdverseReaction 6134 6142	alopecia
+T53	Severity 6174 6181	Grade 3
+T54	AdverseReaction 6182 6193	neutropenia
+T55	Severity 6307 6314	Grade 4
+T56	AdverseReaction 6315 6326	neutropenia
+T57	AdverseReaction 6328 6347	Febrile neutropenia
+T58	AdverseReaction 6405 6409	died
+T59	AdverseReaction 6432 6451	febrile neutropenia
+T60	AdverseReaction 6475 6486	neutropenia
+T61	Severity 6651 6657	severe
+T62	AdverseReaction 6658 6669	neutropenia
+T63	Severity 6697 6704	Grade 3
+T64	AdverseReaction 6716 6732	thrombocytopenia
+T65	Severity 7000 7007	Grade 1
+T66	AdverseReaction 7008 7029	peripheral neuropathy
+T67	Severity 7053 7060	Grade 2
+T68	AdverseReaction 7061 7082	peripheral neuropathy
+T69	AdverseReaction 7118 7139	peripheral neuropathy
+T70	AdverseReaction 7248 7275	peripheral motor neuropathy
+T71	Severity 7326 7333	Grade 3
+T72	AdverseReaction 7334 7361	peripheral motor neuropathy
+T73	Severity 7506 7513	Grade 2
+T74	AdverseReaction 7525 7538	ALT elevation
+T75	Severity 7620 7627	Grade 2
+T76	AdverseReaction 7628 7651	elevations in bilirubin
+T77	AdverseReaction 7628 7641;7656 7659	elevations in bilirubin and ALT
+T78	AdverseReaction 7906 7927	increased lacrimation
+T79	AdverseReaction 7962 7971	dyspepsia
+T80	AdverseReaction 7973 7987	abdominal pain
+T81	AdverseReaction 7989 7999	stomatitis
+T82	AdverseReaction 8001 8010	dry mouth
+T83	AdverseReaction 8071 8087	peripheral edema
+T84	AdverseReaction 8123 8156	upper respiratory tract infection
+T85	AdverseReaction 8199 8210	hypokalemia
+T86	AdverseReaction 8269 8282	muscle spasms
+T87	AdverseReaction 8284 8301	muscular weakness
+T88	AdverseReaction 8334 8343	dysgeusia
+T89	AdverseReaction 8345 8354	dizziness
+T90	AdverseReaction 8384 8392	insomnia
+T91	AdverseReaction 8394 8404	depression
+T92	AdverseReaction 8451 8455	rash
+T93	AdverseReaction 8847 8858	lymphopenia
+T94	AdverseReaction 8893 8905	pancreatitis
+T95	AdverseReaction 8937 8951	hepatotoxicity
+T96	AdverseReaction 8988 9004	hypersensitivity
+T97	AdverseReaction 9040 9049	pneumonia
+T98	AdverseReaction 9051 9057	sepsis
+T99	AdverseReaction 9058 9076	neutropenic sepsis
+T100	AdverseReaction 9119 9133	hypomagnesemia
+T101	AdverseReaction 9135 9146	dehydration
+T102	AdverseReaction 9202 9227	interstitial lung disease
+T103	AdverseReaction 9274 9282	pruritus
+T104	AdverseReaction 9342 9353	Neutropenia
+T105	AdverseReaction 9454 9475	Peripheral Neuropathy
+T106	AdverseReaction 9579 9600	Embryo-Fetal Toxicity
+T107	AdverseReaction 9603 9613	Fetal harm
+T108	Factor 9614 9617	can
+T109	AdverseReaction 9688 9703	QT Prolongation
+T110	Severity 9972 9978	Severe
+T111	AdverseReaction 9979 9990	neutropenia
+T112	Severity 10312 10319	Grade 4
+T113	AdverseReaction 10320 10331	neutropenia
+T114	AdverseReaction 10336 10355	febrile neutropenia
+T115	Severity 10474 10481	Grade 4
+T116	AdverseReaction 10482 10493	neutropenia
+T117	AdverseReaction 10498 10517	febrile neutropenia
+T118	Severity 11017 11024	Grade 3
+T119	AdverseReaction 11025 11046	peripheral neuropathy
+T120	AdverseReaction 11025 11046	peripheral neuropathy
+T121	Severity 11088 11095	Grade 4
+T122	AdverseReaction 11136 11157	Peripheral neuropathy
+T123	AdverseReaction 11251 11261	Neuropathy
+T124	AdverseReaction 11396 11406	neuropathy
+T125	DrugClass 11883 11904	microtubule inhibitor
+T126	AdverseReaction 11941 11951	fetal harm
+T127	AdverseReaction 11991 12012	Embryo-fetal toxicity
+T128	AdverseReaction 12017 12031	teratogenicity
+T129	Animal 12044 12048	rats
+T130	Factor 12161 12163	If
+T131	Factor 12311 12316	fetus
+T132	AdverseReaction 12463 12478	QT prolongation
+T133	Negation 12546 12548	no
+T134	AdverseReaction 12549 12564	QT prolongation
+R1	Effect arg1:T54 arg2:T53
+R2	Effect arg1:T56 arg2:T55
+R3	Effect arg1:T62 arg2:T61
+R4	Effect arg1:T64 arg2:T63
+R5	Effect arg1:T66 arg2:T65
+R6	Effect arg1:T68 arg2:T67
+R7	Effect arg1:T72 arg2:T71
+R8	Effect arg1:T74 arg2:T73
+R9	Effect arg1:T76 arg2:T75
+R10	Effect arg1:T77 arg2:T75
+R11	Hypothetical arg1:T107 arg2:T108
+R12	Effect arg1:T111 arg2:T110
+R13	Effect arg1:T113 arg2:T112
+R14	Effect arg1:T116 arg2:T115
+R15	Effect arg1:T119 arg2:T118
+R16	Effect arg1:T120 arg2:T121
+R17	Hypothetical arg1:T126 arg2:T125
+R18	Hypothetical arg1:T127 arg2:T129
+R19	Hypothetical arg1:T128 arg2:T129
+R20	Negated arg1:T134 arg2:T133
+N1	Reference T1 meddra:10029354	Neutropenia
+N2	Reference T2 meddra:10002034	Anaemia
+N3	Reference T3 meddra:10003549	Asthenia
+N4	Reference T4 meddra:10016256	Fatigue
+N5	Reference T5 meddra:10001760	Alopecia
+N6	Reference T6 meddra:10029331	Neuropathy peripheral
+N7	Reference T7 meddra:10028813	Nausea
+N8	Reference T8 meddra:10010774	Constipation
+N9	Reference T11 meddra:10014387	Electrocardiogram QT prolonged
+N10	Reference T20 meddra:10016288	Febrile neutropenia
+N11	Reference T26 meddra:10019211	Headache
+N12	Reference T29 meddra:10028116	Mucosal inflammation
+N13	Reference T30 meddra:10037660	Pyrexia
+N14	Reference T32 meddra:10012735	Diarrhoea
+N15	Reference T34 meddra:10047700	Vomiting
+N16	Reference T35 meddra:10003239	Arthralgia
+N17	Reference T36 meddra:10028411	Myalgia
+N18	Reference T37 meddra:10003988	Back pain
+N19	Reference T38 meddra:10006002	Bone pain
+N20	Reference T39 meddra:10033425	Pain in extremity
+N21	Reference T40 meddra:10047895	Weight decreased
+N22	Reference T41 meddra:10061428	Decreased appetite
+N23	Reference T42 meddra:10011224	Cough
+N24	Reference T43 meddra:10013968	Dyspnoea
+N25	Reference T45 meddra:10046571	Urinary tract infection
+N26	Reference T46 meddra:10029331	Neuropathy peripheral
+N27	Reference T47 meddra:10029331	Neuropathy peripheral
+N28	Reference T48 meddra:10034580	Peripheral motor neuropathy
+N29	Reference T49 meddra:10036105	Polyneuropathy
+N30	Reference T50 meddra:10034620	Peripheral sensory neuropathy
+N31	Reference T51 meddra:10033775	Paraesthesia
+N32	Reference T58 meddra:10011906	Death
+N33	Reference T64 meddra:10043554	Thrombocytopenia
+N34	Reference T74 meddra:10001551	Alanine aminotransferase increased
+N35	Reference T76 meddra:10005364	Blood bilirubin increased
+N36	Reference T77 meddra:10001551	Alanine aminotransferase increased
+N37	Reference T78 meddra:10023644	Lacrimation increased
+N38	Reference T79 meddra:10013946	Dyspepsia
+N39	Reference T80 meddra:10000081	Abdominal pain
+N40	Reference T81 meddra:10042128	Stomatitis
+N41	Reference T82 meddra:10013781	Dry mouth
+N42	Reference T83 meddra:10030124	Oedema peripheral
+N43	Reference T84 meddra:10046306	Upper respiratory tract infection
+N44	Reference T85 meddra:10021015	Hypokalaemia
+N45	Reference T86 meddra:10028334	Muscle spasms
+N46	Reference T87 meddra:10028372	Muscular weakness
+N47	Reference T88 meddra:10013911	Dysgeusia
+N48	Reference T89 meddra:10013573	Dizziness
+N49	Reference T90 meddra:10022437	Insomnia
+N50	Reference T91 meddra:10012378	Depression
+N51	Reference T92 meddra:10037844	Rash
+N52	Reference T93 meddra:10025327	Lymphopenia
+N53	Reference T94 meddra:10033645	Pancreatitis
+N54	Reference T95 meddra:10019851	Hepatotoxicity
+N55	Reference T96 meddra:10020751	Hypersensitivity
+N56	Reference T97 meddra:10035664	Pneumonia
+N57	Reference T98 meddra:10040047	Sepsis
+N58	Reference T99 meddra:10049151	Neutropenic sepsis
+N59	Reference T100 meddra:10021027	Hypomagnesaemia
+N60	Reference T101 meddra:10012174	Dehydration
+N61	Reference T102 meddra:10022611	Interstitial lung disease
+N62	Reference T103 meddra:10037087	Pruritus
+N63	Reference T106 meddra:10026923	Maternal drugs affecting foetus
+N64	Reference T107 meddra:10016852	Foetal damage
+N65	Reference T109 meddra:10014387	Electrocardiogram QT prolonged

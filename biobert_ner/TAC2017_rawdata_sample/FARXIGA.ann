@@ -1,0 +1,247 @@
+T1	AdverseReaction 129 140	Hypotension
+T2	AdverseReaction 189 217	Impairment in Renal Function
+T3	AdverseReaction 266 278	Hypoglycemia
+T4	AdverseReaction 387 413	Genital Mycotic Infections
+T5	AdverseReaction 462 510	Increases in Low-Density Lipoprotein Cholesterol
+T6	AdverseReaction 567 581	Bladder Cancer
+T7	AdverseReaction 721 754	female genital mycotic infections
+T8	AdverseReaction 756 771	nasopharyngitis
+T9	AdverseReaction 777 801	urinary tract infections
+T10	AdverseReaction 3089 3115;3199 3206	Genital mycotic infections include the following adverse reactions, listed in order of frequency reported for females
+T11	AdverseReaction 3208 3238	vulvovaginal mycotic infection
+T12	AdverseReaction 3240 3257	vaginal infection
+T13	AdverseReaction 3259 3283	vulvovaginal candidiasis
+T14	AdverseReaction 3285 3299	vulvovaginitis
+T15	AdverseReaction 3301 3318	genital infection
+T16	AdverseReaction 3320 3339	genital candidiasis
+T17	AdverseReaction 3341 3365	fungal genital infection
+T18	AdverseReaction 3367 3375	vulvitis
+T19	AdverseReaction 3377 3406	genitourinary tract infection
+T20	AdverseReaction 3408 3422	vulval abscess
+T21	AdverseReaction 3428 3447	vaginitis bacterial
+T22	AdverseReaction 3586 3601	Nasopharyngitis
+T23	AdverseReaction 3721 3745	Urinary tract infections
+T24	AdverseReaction 3826 3849	urinary tract infection
+T25	AdverseReaction 3851 3859	cystitis
+T26	AdverseReaction 3861 3896	Escherichia urinary tract infection
+T27	AdverseReaction 3898 3927	genitourinary tract infection
+T28	AdverseReaction 3929 3943	pyelonephritis
+T29	AdverseReaction 3945 3955	trigonitis
+T30	AdverseReaction 3957 3967	urethritis
+T31	AdverseReaction 3969 3985	kidney infection
+T32	AdverseReaction 3991 4002	prostatitis
+T33	AdverseReaction 4074 4083	Back pain
+T34	AdverseReaction 4204 4223	Increased urination
+T35	AdverseReaction 4305 4316	pollakiuria
+T36	AdverseReaction 4318 4326	polyuria
+T37	AdverseReaction 4332 4354	urine output increased
+T38	AdverseReaction 4457 4483;4567 4572	Genital mycotic infections include the following adverse reactions, listed in order of frequency reported for males
+T39	AdverseReaction 4574 4583	balanitis
+T40	AdverseReaction 4585 4609	fungal genital infection
+T41	AdverseReaction 4611 4628	balanitis candida
+T42	AdverseReaction 4630 4649	genital candidiasis
+T43	AdverseReaction 4651 4673	genital infection male
+T44	AdverseReaction 4675 4691	penile infection
+T45	AdverseReaction 4693 4708	balanoposthitis
+T46	AdverseReaction 4710 4735	balanoposthitis infective
+T47	AdverseReaction 4737 4754	genital infection
+T48	AdverseReaction 4756 4765	posthitis
+T49	AdverseReaction 4902 4908	Nausea
+T50	AdverseReaction 5013 5022	Influenza
+T51	AdverseReaction 5124 5136	Dyslipidemia
+T52	AdverseReaction 5235 5247	Constipation
+T53	AdverseReaction 5346 5371	Discomfort with urination
+T54	AdverseReaction 5457 5474	Pain in extremity
+T55	AdverseReaction 6602 6618	osmotic diuresis
+T56	Factor 6626 6629	may
+T57	AdverseReaction 6638 6672	reductions in intravascular volume
+T58	AdverseReaction 6703 6719	volume depletion
+T59	AdverseReaction 6742 6753	dehydration
+T60	AdverseReaction 6755 6766	hypovolemia
+T61	AdverseReaction 6768 6791	orthostatic hypotension
+T62	AdverseReaction 6796 6807	hypotension
+T63	AdverseReaction 6976 6992	Volume Depletion
+T64	AdverseReaction 6992 7008	Volume depletion
+T65	AdverseReaction 7029 7040	dehydration
+T66	AdverseReaction 7042 7053	hypovolemia
+T67	AdverseReaction 7055 7078	orthostatic hypotension
+T68	AdverseReaction 7083 7094	hypotension
+T69	AdverseReaction 8136 8165	increases in serum creatinine
+T70	AdverseReaction 8170 8187	decreases in eGFR
+T71	AdverseReaction 8340 8371	Renal-related adverse reactions
+T72	AdverseReaction 8383 8396	renal failure
+T73	AdverseReaction 8401 8426	blood creatinine increase
+T74	AdverseReaction 10839 10880	Renal Impairment-Related Adverse Reaction
+T75	AdverseReaction 12080 12094	bone fractures
+T76	AdverseReaction 12139 12148	fractures
+T77	AdverseReaction 12279 12288	fractures
+T78	AdverseReaction 12379 12388	fractures
+T79	AdverseReaction 12497 12505	fracture
+T80	AdverseReaction 12550 12562	hypoglycemia
+T81	AdverseReaction 12626 12638	Hypoglycemia
+T82	Severity 12782 12787	Major
+T83	AdverseReaction 12800 12812	hypoglycemia
+T84	Severity 12901 12907	severe
+T85	AdverseReaction 12908 12935	impairment in consciousness
+T86	AdverseReaction 12908 12921;12939 12947	impairment in consciousness or behavior
+T87	AdverseReaction 12955 12964;12975 12998	capillary or plasma glucose value <54 mg/dL
+T88	AdverseReaction 12968 12998	plasma glucose value <54 mg/dL
+T89	Severity 13070 13075	Minor
+T90	AdverseReaction 13088 13100	hypoglycemia
+T91	AdverseReaction 13153 13162;13173 13202	capillary or plasma glucose measurement <63 mg/dL
+T92	AdverseReaction 13166 13202	plasma glucose measurement <63 mg/dL
+T93	AdverseReaction 13266 13275;13286 13315	capillary or plasma glucose measurement <63 mg/dL
+T94	AdverseReaction 13279 13315	plasma glucose measurement <63 mg/dL
+T95	AdverseReaction 13358 13370	Hypoglycemia
+T96	AdverseReaction 16292 16318	Genital mycotic infections
+T97	AdverseReaction 16362 16388	Genital mycotic infections
+T98	AdverseReaction 16559 16576	genital infection
+T99	AdverseReaction 16669 16679	Infections
+T100	AdverseReaction 16779 16805	genital mycotic infections
+T101	AdverseReaction 16811 16842	vulvovaginal mycotic infections
+T102	AdverseReaction 16858 16867	balanitis
+T103	AdverseReaction 16959 16984	genital mycotic infection
+T104	AdverseReaction 17188 17214	Hypersensitivity reactions
+T105	AdverseReaction 17222 17232	angioedema
+T106	AdverseReaction 17234 17243	urticaria
+T107	AdverseReaction 17245 17261	hypersensitivity
+T108	Severity 17330 17337	serious
+T109	AdverseReaction 17338 17360	anaphylactic reactions
+T110	Severity 17365 17371	severe
+T111	AdverseReaction 17372 17399	cutaneous adverse reactions
+T112	AdverseReaction 17404 17414	angioedema
+T113	AdverseReaction 17750 17759;17774 17799	increases from baseline in mean hematocrit values
+T114	AdverseReaction 17973 17980;17995 18008	changes from baseline in hematocrit
+T115	AdverseReaction 18092 18114	hematocrit values >55%
+T116	AdverseReaction 18307 18316;18331 18362	increases from baseline in mean serum phosphorus levels
+T117	AdverseReaction 18584 18601	hyperphosphatemia
+T118	AdverseReaction 18877 18884;18899 18919	changes from baseline in mean lipid values
+T119	AdverseReaction 19013 19020;19069 19090	changes from baseline at Week 24, were 0.0% versus 2.5% for total cholesterol
+T120	AdverseReaction 19013 19020;19113 19132	changes from baseline at Week 24, were 0.0% versus 2.5% for total cholesterol and -1.0% versus 2.9% for LDL cholesterol
+T121	AdverseReaction 19244 19255	Hypotension
+T122	AdverseReaction 19513 19541	Impairment in renal function
+T123	AdverseReaction 19599 19611	Hypoglycemia
+T124	AdverseReaction 19795 19821	Genital mycotic infections
+T125	AdverseReaction 19872 19887	Increased LDL-C
+T126	AdverseReaction 19946 19960	Bladder Cancer
+T127	AdverseReaction 19978 19993	bladder cancers
+T128	AdverseReaction 20421 20453	intravascular volume contraction
+T129	AdverseReaction 20455 20478	Symptomatic hypotension
+T130	Factor 20479 20482	can
+T131	AdverseReaction 20945 20971	increases serum creatinine
+T132	AdverseReaction 20976 20990	decreases eGFR
+T133	AdverseReaction 21093 21100;21122 21136	Adverse reactions related to renal function
+T134	Factor 21137 21140	can
+T135	Factor 21477 21480	can
+T136	AdverseReaction 21502 21514	hypoglycemia
+T137	Factor 21838 21842	risk
+T138	AdverseReaction 21846 21872	genital mycotic infections
+T139	AdverseReaction 21956 21982	genital mycotic infections
+T140	AdverseReaction 22125 22143	Increases in LDL-C
+T141	AdverseReaction 22354 22368	bladder cancer
+T142	AdverseReaction 22599 22613	bladder cancer
+R1	Hypothetical arg1:T57 arg2:T56
+R2	Effect arg1:T83 arg2:T82
+R3	Effect arg1:T85 arg2:T84
+R4	Effect arg1:T86 arg2:T84
+R5	Effect arg1:T90 arg2:T89
+R6	Effect arg1:T109 arg2:T108
+R7	Effect arg1:T111 arg2:T110
+R8	Hypothetical arg1:T129 arg2:T130
+R9	Hypothetical arg1:T133 arg2:T134
+R10	Hypothetical arg1:T136 arg2:T135
+R11	Hypothetical arg1:T138 arg2:T137
+N1	Reference T1 meddra:10021097	Hypotension
+N2	Reference T2 meddra:10062237	Renal impairment
+N3	Reference T3 meddra:10020993	Hypoglycaemia
+N4	Reference T4 meddra:10061180	Genital infection fungal
+N5	Reference T5 meddra:10024910	Low density lipoprotein increased
+N6	Reference T6 meddra:10005003	Bladder cancer
+N7	Reference T7 meddra:10061977	Genital infection female
+N8	Reference T8 meddra:10028810	Nasopharyngitis
+N9	Reference T9 meddra:10046571	Urinary tract infection
+N10	Reference T10 meddra:10061977	Genital infection female
+N11	Reference T11 meddra:10064899	Vulvovaginal mycotic infection
+N12	Reference T12 meddra:10046914	Vaginal infection
+N13	Reference T13 meddra:10047784	Vulvovaginal candidiasis
+N14	Reference T14 meddra:10047794	Vulvovaginitis
+N15	Reference T15 meddra:10048461	Genital infection
+N16	Reference T16 meddra:10018143	Genital candidiasis
+N17	Reference T17 meddra:10061180	Genital infection fungal
+N18	Reference T18 meddra:10047780	Vulvitis
+N19	Reference T19 meddra:10061182	Genitourinary tract infection
+N20	Reference T20 meddra:10047732	Vulval abscess
+N21	Reference T21 meddra:10062167	Vaginitis bacterial
+N22	Reference T24 meddra:10046571	Urinary tract infection
+N23	Reference T25 meddra:10011781	Cystitis
+N24	Reference T26 meddra:10052238	Escherichia urinary tract infection
+N25	Reference T28 meddra:10037596	Pyelonephritis
+N26	Reference T29 meddra:10044668	Trigonitis
+N27	Reference T30 meddra:10046480	Urethritis
+N28	Reference T31 meddra:10023424	Kidney infection
+N29	Reference T32 meddra:10036978	Prostatitis
+N30	Reference T33 meddra:10003988	Back pain
+N31	Reference T34 meddra:10036018	Pollakiuria
+N32	Reference T35 meddra:10036018	Pollakiuria
+N33	Reference T36 meddra:10036142	Polyuria
+N34	Reference T37 meddra:10059896	Urine output increased
+N35	Reference T38 meddra:10062521	Genital infection male
+N36	Reference T39 meddra:10004078	Balanoposthitis
+N37	Reference T41 meddra:10004074	Balanitis candida
+N38	Reference T43 meddra:10062521	Genital infection male
+N39	Reference T44 meddra:10061912	Penile infection
+N40	Reference T45 meddra:10004078	Balanoposthitis
+N41	Reference T46 meddra:10067741	Balanoposthitis infective
+N42	Reference T48 meddra:10004078	Balanoposthitis
+N43	Reference T49 meddra:10028813	Nausea
+N44	Reference T50 meddra:10022000	Influenza
+N45	Reference T51 meddra:10058108	Dyslipidaemia
+N46	Reference T52 meddra:10010774	Constipation
+N47	Reference T53 meddra:10013990	Dysuria
+N48	Reference T54 meddra:10033425	Pain in extremity
+N49	Reference T55 meddra:10036142	Polyuria
+N50	Reference T57 meddra:10021137	Hypovolaemia
+N51	Reference T58 meddra:10021137	Hypovolaemia
+N52	Reference T59 meddra:10012174	Dehydration
+N53	Reference T60 meddra:10021137	Hypovolaemia
+N54	Reference T61 meddra:10031127	Orthostatic hypotension
+N55	Reference T69 meddra:10005483	Blood creatinine increased
+N56	Reference T70 meddra:10018358	Glomerular filtration rate decreased
+N57	Reference T71 meddra:10062237	Renal impairment
+N58	Reference T72 meddra:10038435	Renal failure
+N59	Reference T73 meddra:10005483	Blood creatinine increased
+N60	Reference T74 meddra:10062237	Renal impairment
+N61	Reference T75 meddra:10017076	Fracture
+N62	Reference T76 meddra:10017076	Fracture
+N63	Reference T79 meddra:10017076	Fracture
+N64	Reference T85 meddra:10001854	Altered state of consciousness
+N65	Reference T86 meddra:10061422	Abnormal behaviour
+N66	Reference T87 meddra:10005555	Blood glucose decreased
+N67	Reference T88 meddra:10005555	Blood glucose decreased
+N68	Reference T91 meddra:10005555	Blood glucose decreased
+N69	Reference T92 meddra:10005555	Blood glucose decreased
+N70	Reference T99 meddra:10021789	Infection
+N71	Reference T101 meddra:10064899	Vulvovaginal mycotic infection
+N72	Reference T103 meddra:10061180	Genital infection fungal
+N73	Reference T104 meddra:10020751	Hypersensitivity
+N74	Reference T105 meddra:10002424	Angioedema
+N75	Reference T106 meddra:10046735	Urticaria
+N76	Reference T107 meddra:10020751	Hypersensitivity
+N77	Reference T109 meddra:10002198	Anaphylactic reaction
+N78	Reference T111 meddra:10040914	Skin reaction
+N79	Reference T113 meddra:10018840	Haematocrit increased
+N80	Reference T114 meddra:10049221	Haematocrit abnormal
+N81	Reference T115 meddra:10018840	Haematocrit increased
+N82	Reference T116 meddra:10050196	Blood phosphorus increased
+N83	Reference T117 meddra:10020711	Hyperphosphataemia
+N84	Reference T118 meddra:10024588	Lipids abnormal
+N85	Reference T119 meddra:10005423	Blood cholesterol abnormal
+N86	Reference T120 meddra:10024901	Low density lipoprotein abnormal
+N87	Reference T125 meddra:10024910	Low density lipoprotein increased
+N88	Reference T127 meddra:10005003	Bladder cancer
+N89	Reference T128 meddra:10021137	Hypovolaemia
+N90	Reference T129 meddra:10021097	Hypotension
+N91	Reference T131 meddra:10005483	Blood creatinine increased
+N92	Reference T132 meddra:10018358	Glomerular filtration rate decreased
+N93	Reference T133 meddra:10062237	Renal impairment
+N94	Reference T140 meddra:10024910	Low density lipoprotein increased

@@ -1,0 +1,114 @@
+T1	AdverseReaction 149 164	Splenic Rupture
+T2	AdverseReaction 214 249	Acute Respiratory Distress Syndrome
+T3	Severity 299 306	Serious
+T4	AdverseReaction 307 325	Allergic Reactions
+T5	AdverseReaction 465 488	Capillary Leak Syndrome
+T6	Factor 542 551	Potential
+T7	AdverseReaction 556 607	Tumor Growth Stimulatory Effects on Malignant Cells
+T8	AdverseReaction 894 903	bone pain
+T9	AdverseReaction 971 980	bone pain
+T10	AdverseReaction 2448 2457	Bone pain
+T11	AdverseReaction 2711 2720	bone pain
+T12	AdverseReaction 2870 2882	leukocytosis
+T13	AdverseReaction 2884 2916	WBC counts > 100,000 x 10  6  /L
+T14	AdverseReaction 3037 3049	leukocytosis
+T15	DrugClass 3189 3233	human granulocyte colony-stimulating factors
+T16	AdverseReaction 3242 3249	myalgia
+T17	AdverseReaction 3251 3259	headache
+T18	AdverseReaction 3261 3269	vomiting
+T19	AdverseReaction 3271 3287	Sweet's syndrome
+T20	AdverseReaction 3289 3326	acute febrile neutrophilic dermatosis
+T21	AdverseReaction 3329 3349	cutaneous vasculitis
+T22	AdverseReaction 3354 3370	thrombocytopenia
+T23	AdverseReaction 3632 3647	Splenic Rupture
+T24	AdverseReaction 3698 3733	Acute Respiratory Distress Syndrome
+T25	AdverseReaction 3735 3739	ARDS
+T26	AdverseReaction 3827 3845	Allergic reactions
+T27	AdverseReaction 3847 3866	angioneurotic edema
+T28	AdverseReaction 3868 3887	dermatitis allergic
+T29	AdverseReaction 3889 3910	drug hypersensitivity
+T30	AdverseReaction 3912 3928	hypersensitivity
+T31	AdverseReaction 3930 3934	rash
+T32	AdverseReaction 3936 3949	pruritic rash
+T33	AdverseReaction 3954 3963	urticaria
+T34	AdverseReaction 3982 4000	Sickle cell crisis
+T35	Severity 4002 4008	Severe
+T36	AdverseReaction 4023 4028	fatal
+T37	Factor 4036 4039	can
+T38	AdverseReaction 4096 4119	Capillary Leak Syndrome
+T39	AdverseReaction 4238 4253	Splenic rupture
+T40	AdverseReaction 4265 4270	fatal
+T41	Factor 4278 4281	can
+T42	AdverseReaction 4576 4611	Acute respiratory distress syndrome
+T43	AdverseReaction 4613 4617	ARDS
+T44	DrugClass 4651 4695	human granulocyte colony-stimulating factors
+T45	Severity 4889 4896	Serious
+T46	AdverseReaction 4897 4915	allergic reactions
+T47	AdverseReaction 4926 4937	anaphylaxis
+T48	DrugClass 4970 5014	human granulocyte colony-stimulating factors
+T49	AdverseReaction 5451 5456	fatal
+T50	AdverseReaction 5457 5475	sickle cell crises
+T51	Factor 5476 5479	can
+T52	AdverseReaction 5839 5862	Capillary leak syndrome
+T53	AdverseReaction 5864 5867	CLS
+T54	DrugClass 5901 5945	human granulocyte colony-stimulating factors
+T55	AdverseReaction 5970 5981	hypotension
+T56	AdverseReaction 5983 5998	hypoalbuminemia
+T57	AdverseReaction 6000 6005	edema
+T58	AdverseReaction 6010 6027	hemoconcentration
+T59	Factor 6500 6511	possibility
+T60	AdverseReaction 6534 6551;6556 6561	growth factor for any tumor
+T61	AdverseReaction 6578 6598	myeloid malignancies
+T62	AdverseReaction 6603 6617	myelodysplasia
+R1	Effect arg1:T4 arg2:T3
+R2	Hypothetical arg1:T7 arg2:T6
+R3	Hypothetical arg1:T16 arg2:T15
+R4	Hypothetical arg1:T17 arg2:T15
+R5	Hypothetical arg1:T18 arg2:T15
+R6	Hypothetical arg1:T19 arg2:T15
+R7	Hypothetical arg1:T20 arg2:T15
+R8	Hypothetical arg1:T21 arg2:T15
+R9	Hypothetical arg1:T22 arg2:T15
+R10	Effect arg1:T34 arg2:T35
+R11	Hypothetical arg1:T34 arg2:T37
+R12	Hypothetical arg1:T36 arg2:T37
+R13	Hypothetical arg1:T39 arg2:T41
+R14	Hypothetical arg1:T40 arg2:T41
+R15	Hypothetical arg1:T42 arg2:T44
+R16	Hypothetical arg1:T43 arg2:T44
+R17	Effect arg1:T46 arg2:T45
+R18	Hypothetical arg1:T46 arg2:T48
+R19	Hypothetical arg1:T47 arg2:T48
+R20	Hypothetical arg1:T49 arg2:T51
+R21	Hypothetical arg1:T50 arg2:T51
+R22	Hypothetical arg1:T52 arg2:T54
+R23	Hypothetical arg1:T53 arg2:T54
+R24	Hypothetical arg1:T60 arg2:T59
+R25	Hypothetical arg1:T61 arg2:T59
+R26	Hypothetical arg1:T62 arg2:T59
+N1	Reference T1 meddra:10041658	Splenic rupture
+N2	Reference T2 meddra:10001052	Acute respiratory distress syndrome
+N3	Reference T4 meddra:10020751	Hypersensitivity
+N4	Reference T5 meddra:10007196	Capillary leak syndrome
+N5	Reference T7 meddra:10028997	Neoplasm malignant
+N6	Reference T8 meddra:10006002	Bone pain
+N7	Reference T12 meddra:10024378	Leukocytosis
+N8	Reference T13 meddra:10047943	White blood cell count increased
+N9	Reference T25 meddra:10001052	Acute respiratory distress syndrome
+N10	Reference T27 meddra:10002424	Angioedema
+N11	Reference T28 meddra:10012434	Dermatitis allergic
+N12	Reference T29 meddra:10013700	Drug hypersensitivity
+N13	Reference T30 meddra:10020751	Hypersensitivity
+N14	Reference T31 meddra:10037844	Rash
+N15	Reference T32 meddra:10037884	Rash pruritic
+N16	Reference T33 meddra:10046735	Urticaria
+N17	Reference T34 meddra:10040642	Sickle cell anaemia with crisis
+N18	Reference T36 meddra:10011906	Death
+N19	Reference T50 meddra:10040642	Sickle cell anaemia with crisis
+N20	Reference T55 meddra:10021097	Hypotension
+N21	Reference T56 meddra:10020942	Hypoalbuminaemia
+N22	Reference T57 meddra:10030095	Oedema
+N23	Reference T58 meddra:10018873	Haemoconcentration
+N24	Reference T60 meddra:10028980	Neoplasm
+N25	Reference T61 meddra:10028561	Myeloid metaplasia
+N26	Reference T62 meddra:10028533	Myelodysplastic syndrome

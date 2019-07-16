@@ -1,0 +1,364 @@
+T1	Factor 115 119	risk
+T2	AdverseReaction 138 143	death
+T3	AdverseReaction 335 340	death
+T4	DrugClass 346 350	LABA
+T5	DrugClass 589 593	LABA
+T6	AdverseReaction 685 691	deaths
+T7	AdverseReaction 850 876	Candida albicans infection
+T8	Factor 932 936	risk
+T9	AdverseReaction 940 949	pneumonia
+T10	AdverseReaction 1003 1020	Immunosuppression
+T11	AdverseReaction 1066 1080	Hypercorticism
+T12	AdverseReaction 1085 1104	adrenal suppression
+T13	AdverseReaction 1150 1183	Reduction in bone mineral density
+T14	AdverseReaction 1598 1613	nasopharyngitis
+T15	AdverseReaction 1615 1648	upper respiratory tract infection
+T16	AdverseReaction 1650 1658	headache
+T17	AdverseReaction 1664 1680	oral candidiasis
+T18	AdverseReaction 1781 1796	nasopharyngitis
+T19	AdverseReaction 1798 1814	oral candidiasis
+T20	AdverseReaction 1816 1824	headache
+T21	AdverseReaction 1826 1835	influenza
+T22	AdverseReaction 1837 1870	upper respiratory tract infection
+T23	AdverseReaction 1872 1882	bronchitis
+T24	AdverseReaction 1884 1893	sinusitis
+T25	AdverseReaction 1895 1913	oropharyngeal pain
+T26	AdverseReaction 1915 1924	dysphonia
+T27	AdverseReaction 1930 1935	cough
+T28	AdverseReaction 4122 4137	Nasopharyngitis
+T29	AdverseReaction 4360 4393	Upper respiratory tract infection
+T30	AdverseReaction 4598 4623	Oropharyngeal candidiasis
+T31	AdverseReaction 4950 4958	Headache
+T32	AdverseReaction 5171 5187	oral candidiasis
+T33	AdverseReaction 5189 5214	oropharyngeal candidiasis
+T34	AdverseReaction 5216 5227	candidiasis
+T35	AdverseReaction 5233 5254	fungal oropharyngitis
+T36	AdverseReaction 6225 6234	back pain
+T37	AdverseReaction 6236 6245	pneumonia
+T38	AdverseReaction 6287 6297	bronchitis
+T39	AdverseReaction 6299 6308	sinusitis
+T40	AdverseReaction 6310 6315	cough
+T41	AdverseReaction 6317 6335	oropharyngeal pain
+T42	AdverseReaction 6337 6347	arthralgia
+T43	AdverseReaction 6349 6358	influenza
+T44	AdverseReaction 6360 6371	pharyngitis
+T45	AdverseReaction 6377 6384	pyrexia
+T46	AdverseReaction 7879 7894	Nasopharyngitis
+T47	AdverseReaction 8138 8154	Oral candidiasis
+T48	AdverseReaction 8508 8516	Headache
+T49	AdverseReaction 8881 8899	Oropharyngeal pain
+T50	AdverseReaction 9140 9149	Dysphonia
+T51	AdverseReaction 9373 9389	oral candidiasis
+T52	AdverseReaction 9394 9419	oropharyngeal candidiasis
+T53	AdverseReaction 10314 10322	Headache
+T54	AdverseReaction 10672 10687	Nasopharyngitis
+T55	AdverseReaction 10919 10928	Influenza
+T56	AdverseReaction 11166 11199	Upper respiratory tract infection
+T57	AdverseReaction 11413 11422	Sinusitis
+T58	AdverseReaction 11660 11670	Bronchitis
+T59	AdverseReaction 12024 12042	Oropharyngeal pain
+T60	AdverseReaction 12271 12276	Cough
+T61	AdverseReaction 13018 13051	viral respiratory tract infection
+T62	AdverseReaction 13053 13064	pharyngitis
+T63	AdverseReaction 13066 13073	pyrexia
+T64	AdverseReaction 13079 13089	arthralgia
+T65	AdverseReaction 13740 13747	pyrexia
+T66	AdverseReaction 13749 13758	back pain
+T67	AdverseReaction 13760 13773	extrasystoles
+T68	AdverseReaction 13775 13795	upper abdominal pain
+T69	AdverseReaction 13797 13824	respiratory tract infection
+T70	AdverseReaction 13826 13843	allergic rhinitis
+T71	AdverseReaction 13845 13856	pharyngitis
+T72	AdverseReaction 13858 13866	rhinitis
+T73	AdverseReaction 13868 13878	arthralgia
+T74	AdverseReaction 13880 13910	supraventricular extrasystoles
+T75	AdverseReaction 13912 13937	ventricular extrasystoles
+T76	AdverseReaction 13939 13954	acute sinusitis
+T77	AdverseReaction 13960 13969	pneumonia
+T78	Negation 15097 15099	no
+T79	AdverseReaction 15115 15121	deaths
+T80	AdverseReaction 15777 15789	Palpitations
+T81	AdverseReaction 15791 15802	tachycardia
+T82	AdverseReaction 15840 15866	Hypersensitivity reactions
+T83	AdverseReaction 15878 15889	anaphylaxis
+T84	AdverseReaction 15891 15901	angioedema
+T85	AdverseReaction 15903 15907	rash
+T86	AdverseReaction 15913 15922	urticaria
+T87	AdverseReaction 15984 15997	Muscle spasms
+T88	AdverseReaction 16036 16042	Tremor
+T89	AdverseReaction 16078 16089	Nervousness
+T90	AdverseReaction 16136 16141	DEATH
+T91	AdverseReaction 16169 16174	DEATH
+T92	DrugClass 16219 16223	LABA
+T93	AdverseReaction 16329 16334	death
+T94	DrugClass 16418 16422	LABA
+T95	AdverseReaction 16516 16522	deaths
+T96	AdverseReaction 16820 16825	death
+T97	DrugClass 16831 16835	LABA
+T98	AdverseReaction 17819 17824	DEATH
+T99	DrugClass 17940 17944	LABA
+T100	AdverseReaction 18003 18008	death
+T101	DrugClass 18050 18054	LABA
+T102	AdverseReaction 18105 18111	deaths
+T103	AdverseReaction 18380 18385	death
+T104	DrugClass 18391 18395	LABA
+T105	DrugClass 19257 19261	LABA
+T106	AdverseReaction 19298 19303	death
+T107	AdverseReaction 19639 19678	Candida albicans infection of the mouth
+T108	AdverseReaction 19639 19672;19683 19690	Candida albicans infection of the mouth and pharynx
+T109	Factor 19691 19694	may
+T110	Factor 19874 19878	risk
+T111	AdverseReaction 19882 19891	pneumonia
+T112	Factor 19986 19995	Potential
+T113	AdverseReaction 19996 20019	worsening of infections
+T114	AdverseReaction 19996 20005;20027 20048	worsening of infections (e.g., existing tuberculosis
+T115	AdverseReaction 19996 20005;20050 20056;20089 20099	worsening of infections (e.g., existing tuberculosis; fungal, bacterial, viral, or parasitic infections
+T116	AdverseReaction 19996 20005;20058 20067;20089 20099	worsening of infections (e.g., existing tuberculosis; fungal, bacterial, viral, or parasitic infections
+T117	AdverseReaction 19996 20005;20069 20074;20089 20099	worsening of infections (e.g., existing tuberculosis; fungal, bacterial, viral, or parasitic infections
+T118	AdverseReaction 19996 20005;20079 20099	worsening of infections (e.g., existing tuberculosis; fungal, bacterial, viral, or parasitic infections
+T119	AdverseReaction 19996 20005;20101 20122	worsening of infections (e.g., existing tuberculosis; fungal, bacterial, viral, or parasitic infections; ocular herpes simplex
+T120	Severity 20182 20189	serious
+T121	AdverseReaction 20198 20203	fatal
+T122	AdverseReaction 20214 20224	chickenpox
+T123	AdverseReaction 20228 20235	measles
+T124	Factor 20236 20239	can
+T125	Factor 20288 20292	Risk
+T126	AdverseReaction 20296 20321	impaired adrenal function
+T127	AdverseReaction 20473 20487	Hypercorticism
+T128	AdverseReaction 20492 20511	adrenal suppression
+T129	Factor 20512 20515	may
+T130	DrugClass 21303 21307	LABA
+T131	AdverseReaction 21412 21417	death
+T132	AdverseReaction 21609 21614	death
+T133	DrugClass 21620 21624	LABA
+T134	DrugClass 22598 22602	LABA
+T135	AdverseReaction 22703 22709	deaths
+T136	AdverseReaction 22918 22923	death
+T137	DrugClass 22956 22960	LABA
+T138	Factor 23031 23048	No trial adequate
+T139	AdverseReaction 23097 23102	death
+T140	Factor 23187 23200	not available
+T141	AdverseReaction 23234 23239	death
+T142	AdverseReaction 25829 25839	fatalities
+T143	DrugClass 25896 25925	inhaled sympathomimetic drugs
+T144	AdverseReaction 26203 26226;26239 26260	infections of the mouth and pharynx with Candida albicans
+T145	AdverseReaction 26203 26220;26231 26260	infections of the mouth and pharynx with Candida albicans
+T146	AdverseReaction 26752 26761	pneumonia
+T147	AdverseReaction 26893 26903	pneumonias
+T148	AdverseReaction 26959 26968	pneumonia
+T149	AdverseReaction 26981 26986	fatal
+T150	AdverseReaction 27334 27343	pneumonia
+T151	Negation 27621 27623	no
+T152	AdverseReaction 27624 27629	fatal
+T153	AdverseReaction 27630 27639	pneumonia
+T154	AdverseReaction 27732 27737	fatal
+T155	AdverseReaction 27738 27747	pneumonia
+T156	DrugClass 27936 27973	drugs that suppress the immune system
+T157	AdverseReaction 27998 28008	infections
+T158	AdverseReaction 28035 28045	Chickenpox
+T159	AdverseReaction 28050 28057	measles
+T160	Severity 28088 28095	serious
+T161	AdverseReaction 28104 28109	fatal
+T162	DrugClass 28157 28172	corticosteroids
+T163	Factor 32465 32468	may
+T164	AdverseReaction 32479 32494	HPA dysfunction
+T165	AdverseReaction 33000 33014	hypercorticism
+T166	AdverseReaction 33019 33038	adrenal suppression
+T167	AdverseReaction 33050 33064	adrenal crisis
+T168	Factor 33066 33069	may
+T169	Factor 34004 34007	can
+T170	AdverseReaction 34016 34040	paradoxical bronchospasm
+T171	AdverseReaction 34016 34040	paradoxical bronchospasm
+T172	Factor 34048 34051	may
+T173	Severity 34055 34071	life threatening
+T174	AdverseReaction 34385 34411	Hypersensitivity reactions
+T175	AdverseReaction 34420 34431	anaphylaxis
+T176	AdverseReaction 34433 34443	angioedema
+T177	AdverseReaction 34445 34449	rash
+T178	AdverseReaction 34455 34464	urticaria
+T179	Factor 34465 34468	may
+T180	AdverseReaction 34590 34612	anaphylactic reactions
+T181	DrugClass 34684 34721	powder medications containing lactose
+T182	Factor 34914 34917	can
+T183	AdverseReaction 35005 35028	increases in pulse rate
+T184	AdverseReaction 35005 35014;35030 35038;35052 35066	increases in pulse rate, systolic or diastolic blood pressure
+T185	AdverseReaction 35005 35014;35042 35066	increases in pulse rate, systolic or diastolic blood pressure
+T186	AdverseReaction 35077 35096	cardiac arrhythmias
+T187	AdverseReaction 35106 35134	supraventricular tachycardia
+T188	AdverseReaction 35139 35152	extrasystoles
+T189	DrugClass 35232 35245	beta-agonists
+T190	AdverseReaction 35276 35304	electrocardiographic changes
+T191	AdverseReaction 35314 35338	flattening of the T wave
+T192	AdverseReaction 35340 35372	prolongation of the QTc interval
+T193	AdverseReaction 35378 35399	ST segment depression
+T194	AdverseReaction 35466 35476	Fatalities
+T195	Severity 35826 35848	clinically significant
+T196	AdverseReaction 35849 35881	prolongation of the QTc interval
+T197	Factor 35897 35906	potential
+T198	AdverseReaction 35921 35944	ventricular arrhythmias
+T199	AdverseReaction 36202 36235	Decreases in bone mineral density
+T200	AdverseReaction 36202 36214;36237 36240	Decreases in bone mineral density (BMD
+T201	DrugClass 36322 36337	corticosteroids
+T202	AdverseReaction 37243 37251	Glaucoma
+T203	AdverseReaction 37253 37283	increased intraocular pressure
+T204	AdverseReaction 37289 37298	cataracts
+T205	DrugClass 37400 37415	corticosteroids
+T206	DrugClass 37856 37882	beta2-adrenoceptor agonist
+T207	AdverseReaction 37949 37988	aggravate preexisting diabetes mellitus
+T208	AdverseReaction 37949 37970;37993 38005	aggravate preexisting diabetes mellitus and ketoacidosis
+T209	Factor 38088 38091	may
+T210	Severity 38100 38111	significant
+T211	AdverseReaction 38112 38123	hypokalemia
+T212	AdverseReaction 38254 38281	decrease in serum potassium
+T213	DrugClass 38335 38359	Beta-agonist medications
+T214	Severity 38372 38381	transient
+T215	AdverseReaction 38382 38395	hyperglycemia
+T216	DrugClass 38599 38629	Orally inhaled corticosteroids
+T217	AdverseReaction 38642 38670	reduction in growth velocity
+R1	Hypothetical arg1:T2 arg2:T1
+R2	Hypothetical arg1:T3 arg2:T4
+R3	Hypothetical arg1:T6 arg2:T5
+R4	Hypothetical arg1:T9 arg2:T8
+R5	Negated arg1:T79 arg2:T78
+R6	Hypothetical arg1:T93 arg2:T92
+R7	Hypothetical arg1:T95 arg2:T94
+R8	Hypothetical arg1:T96 arg2:T97
+R9	Hypothetical arg1:T100 arg2:T99
+R10	Hypothetical arg1:T102 arg2:T101
+R11	Hypothetical arg1:T103 arg2:T104
+R12	Hypothetical arg1:T106 arg2:T105
+R13	Hypothetical arg1:T107 arg2:T109
+R14	Hypothetical arg1:T108 arg2:T109
+R15	Hypothetical arg1:T111 arg2:T110
+R16	Hypothetical arg1:T113 arg2:T112
+R17	Effect arg1:T122 arg2:T120
+R18	Hypothetical arg1:T122 arg2:T124
+R19	Effect arg1:T123 arg2:T120
+R20	Hypothetical arg1:T123 arg2:T124
+R21	Hypothetical arg1:T126 arg2:T125
+R22	Hypothetical arg1:T127 arg2:T129
+R23	Hypothetical arg1:T128 arg2:T129
+R24	Hypothetical arg1:T131 arg2:T130
+R25	Hypothetical arg1:T132 arg2:T133
+R26	Hypothetical arg1:T135 arg2:T134
+R27	Hypothetical arg1:T136 arg2:T137
+R28	Negated arg1:T139 arg2:T138
+R29	Negated arg1:T141 arg2:T140
+R30	Hypothetical arg1:T142 arg2:T143
+R31	Negated arg1:T152 arg2:T151
+R32	Negated arg1:T153 arg2:T151
+R33	Hypothetical arg1:T157 arg2:T156
+R34	Effect arg1:T158 arg2:T160
+R35	Hypothetical arg1:T158 arg2:T162
+R36	Effect arg1:T159 arg2:T160
+R37	Hypothetical arg1:T159 arg2:T162
+R38	Hypothetical arg1:T161 arg2:T162
+R39	Hypothetical arg1:T164 arg2:T163
+R40	Hypothetical arg1:T165 arg2:T168
+R41	Hypothetical arg1:T166 arg2:T168
+R42	Hypothetical arg1:T167 arg2:T168
+R43	Hypothetical arg1:T170 arg2:T169
+R44	Effect arg1:T171 arg2:T173
+R45	Hypothetical arg1:T171 arg2:T172
+R46	Hypothetical arg1:T174 arg2:T179
+R47	Hypothetical arg1:T175 arg2:T179
+R48	Hypothetical arg1:T176 arg2:T179
+R49	Hypothetical arg1:T177 arg2:T179
+R50	Hypothetical arg1:T178 arg2:T179
+R51	Hypothetical arg1:T180 arg2:T181
+R52	Hypothetical arg1:T183 arg2:T182
+R53	Hypothetical arg1:T184 arg2:T182
+R54	Hypothetical arg1:T185 arg2:T182
+R55	Hypothetical arg1:T186 arg2:T182
+R56	Hypothetical arg1:T187 arg2:T182
+R57	Hypothetical arg1:T188 arg2:T182
+R58	Hypothetical arg1:T190 arg2:T189
+R59	Hypothetical arg1:T191 arg2:T189
+R60	Hypothetical arg1:T192 arg2:T189
+R61	Hypothetical arg1:T193 arg2:T189
+R62	Effect arg1:T196 arg2:T195
+R63	Hypothetical arg1:T198 arg2:T197
+R64	Hypothetical arg1:T199 arg2:T201
+R65	Hypothetical arg1:T200 arg2:T201
+R66	Hypothetical arg1:T202 arg2:T205
+R67	Hypothetical arg1:T203 arg2:T205
+R68	Hypothetical arg1:T204 arg2:T205
+R69	Hypothetical arg1:T207 arg2:T206
+R70	Hypothetical arg1:T208 arg2:T206
+R71	Hypothetical arg1:T211 arg2:T209
+R72	Effect arg1:T211 arg2:T210
+R73	Hypothetical arg1:T215 arg2:T213
+R74	Effect arg1:T215 arg2:T214
+R75	Hypothetical arg1:T217 arg2:T216
+N1	Reference T2 meddra:10011906	Death
+N2	Reference T7 meddra:10074170	Candida infection
+N3	Reference T9 meddra:10035664	Pneumonia
+N4	Reference T10 meddra:10062016	Immunosuppression
+N5	Reference T11 meddra:10020564	Hyperadrenocorticism
+N6	Reference T12 meddra:10001382	Adrenal suppression
+N7	Reference T13 meddra:10049470	Bone density decreased
+N8	Reference T14 meddra:10028810	Nasopharyngitis
+N9	Reference T15 meddra:10046306	Upper respiratory tract infection
+N10	Reference T16 meddra:10019211	Headache
+N11	Reference T17 meddra:10030963	Oral candidiasis
+N12	Reference T21 meddra:10022000	Influenza
+N13	Reference T23 meddra:10006451	Bronchitis
+N14	Reference T24 meddra:10040753	Sinusitis
+N15	Reference T25 meddra:10068319	Oropharyngeal pain
+N16	Reference T26 meddra:10013952	Dysphonia
+N17	Reference T27 meddra:10011224	Cough
+N18	Reference T30 meddra:10050346	Oropharyngeal candidiasis
+N19	Reference T34 meddra:10074170	Candida infection
+N20	Reference T35 meddra:10061891	Oropharyngitis fungal
+N21	Reference T36 meddra:10003988	Back pain
+N22	Reference T42 meddra:10003239	Arthralgia
+N23	Reference T44 meddra:10034835	Pharyngitis
+N24	Reference T45 meddra:10037660	Pyrexia
+N25	Reference T61 meddra:10062106	Respiratory tract infection viral
+N26	Reference T67 meddra:10015856	Extrasystoles
+N27	Reference T68 meddra:10000087	Abdominal pain upper
+N28	Reference T69 meddra:10062352	Respiratory tract infection
+N29	Reference T70 meddra:10039085	Rhinitis allergic
+N30	Reference T72 meddra:10039083	Rhinitis
+N31	Reference T74 meddra:10042602	Supraventricular extrasystoles
+N32	Reference T75 meddra:10047289	Ventricular extrasystoles
+N33	Reference T76 meddra:10001076	Acute sinusitis
+N34	Reference T80 meddra:10033557	Palpitations
+N35	Reference T81 meddra:10043071	Tachycardia
+N36	Reference T82 meddra:10020751	Hypersensitivity
+N37	Reference T83 meddra:10002198	Anaphylactic reaction
+N38	Reference T84 meddra:10002424	Angioedema
+N39	Reference T85 meddra:10037844	Rash
+N40	Reference T86 meddra:10046735	Urticaria
+N41	Reference T87 meddra:10028334	Muscle spasms
+N42	Reference T88 meddra:10044565	Tremor
+N43	Reference T89 meddra:10029216	Nervousness
+N44	Reference T107 meddra:10074170	Candida infection
+N45	Reference T108 meddra:10050346	Oropharyngeal candidiasis
+N46	Reference T113 meddra:10021789	Infection
+N47	Reference T114 meddra:10044755	Tuberculosis
+N48	Reference T115 meddra:10017533	Fungal infection
+N49	Reference T116 meddra:10060945	Bacterial infection
+N50	Reference T117 meddra:10047461	Viral infection
+N51	Reference T118 meddra:10021857	Infection parasitic
+N52	Reference T119 meddra:10073938	Ophthalmic herpes simplex
+N53	Reference T121 meddra:10011906	Death
+N54	Reference T122 meddra:10046980	Varicella
+N55	Reference T123 meddra:10027011	Measles
+N56	Reference T126 meddra:10001347	Adrenal disorder
+N57	Reference T144 meddra:10030963	Oral candidiasis
+N58	Reference T145 meddra:10074170	Candida infection
+N59	Reference T147 meddra:10035664	Pneumonia
+N60	Reference T164 meddra:10074052	Hypothalamic pituitary adrenal axis suppression
+N61	Reference T167 meddra:10001389	Adrenocortical insufficiency acute
+N62	Reference T170 meddra:10006486	Bronchospasm paradoxical
+N63	Reference T183 meddra:10019303	Heart rate increased
+N64	Reference T184 meddra:10005760	Blood pressure systolic increased
+N65	Reference T185 meddra:10005739	Blood pressure diastolic increased
+N66	Reference T186 meddra:10003119	Arrhythmia
+N67	Reference T187 meddra:10042604	Supraventricular tachycardia
+N68	Reference T142 meddra:10011906	Death
+N69	Reference T192 meddra:10014387	Electrocardiogram QT prolonged
+N70	Reference T198 meddra:10047281	Ventricular arrhythmia
+N71	Reference T211 meddra:10021015	Hypokalaemia
+N72	Reference T212 meddra:10005724	Blood potassium decreased

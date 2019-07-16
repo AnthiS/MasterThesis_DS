@@ -1,0 +1,74 @@
+T1	AdverseReaction 85 92	fatigue
+T2	AdverseReaction 94 102	headache
+T3	AdverseReaction 104 110	nausea
+T4	AdverseReaction 112 120	diarrhea
+T5	AdverseReaction 122 131	back pain
+T6	AdverseReaction 133 152	pain in extremities
+T7	AdverseReaction 158 178	upper abdominal pain
+T8	AdverseReaction 776 783	fatigue
+T9	AdverseReaction 785 793	headache
+T10	AdverseReaction 795 801	nausea
+T11	AdverseReaction 803 811	diarrhea
+T12	AdverseReaction 813 822	back pain
+T13	AdverseReaction 824 843	pain in extremities
+T14	AdverseReaction 849 869	upper abdominal pain
+T15	AdverseReaction 1584 1594	Arthralgia
+T16	AdverseReaction 1693 1701	Headache
+T17	AdverseReaction 1802 1810	Migraine
+T18	AdverseReaction 1911 1921	Flatulence
+T19	AdverseReaction 2020 2026	Nausea
+T20	AdverseReaction 2129 2147	Oropharyngeal pain
+T21	AdverseReaction 3060 3067	Fatigue
+T22	AdverseReaction 3169 3177	Headache
+T23	AdverseReaction 3278 3284	Nausea
+T24	AdverseReaction 3387 3395	Diarrhea
+T25	AdverseReaction 3496 3505	Back pain
+T26	AdverseReaction 3714 3734	Upper abdominal pain
+T27	AdverseReaction 3823 3832	Dizziness
+T28	AdverseReaction 3932 3940	Asthenia
+T29	AdverseReaction 4041 4046	Cough
+T30	AdverseReaction 4150 4159	Dyspepsia
+T31	AdverseReaction 4259 4290	Gastroesophageal reflux disease
+T32	AdverseReaction 4368 4380	Constipation
+T33	AdverseReaction 4477 4489	Palpitations
+T34	AdverseReaction 4586 4590	Rash
+T35	AdverseReaction 4908 4919	ECG Changes
+T36	Factor 4924 4933	Potential
+T37	AdverseReaction 4938 4957	Cardiac Arrhythmias
+T38	AdverseReaction 5324 5336;5344 5346;5364 5381	prolongation of the PR, QTc, and/or QRS cardiac intervals
+T39	AdverseReaction 5324 5336;5348 5351;5364 5381	prolongation of the PR, QTc, and/or QRS cardiac intervals
+T40	AdverseReaction 5324 5336;5360 5381	prolongation of the PR, QTc, and/or QRS cardiac intervals
+T41	Factor 5387 5392	could
+T42	AdverseReaction 5403 5422	cardiac arrhythmias
+T43	AdverseReaction 5967 5993;5995 5997	increases in ECG intervals (PR
+T44	AdverseReaction 5967 5993;5999 6002	increases in ECG intervals (PR, QTc
+T45	AdverseReaction 5967 5993;6008 6011	increases in ECG intervals (PR, QTc, and QRS
+R1	Hypothetical arg1:T37 arg2:T36
+R2	Hypothetical arg1:T42 arg2:T41
+N1	Reference T1 meddra:10016256	Fatigue
+N2	Reference T2 meddra:10019211	Headache
+N3	Reference T3 meddra:10028813	Nausea
+N4	Reference T4 meddra:10012735	Diarrhoea
+N5	Reference T5 meddra:10003988	Back pain
+N6	Reference T6 meddra:10033425	Pain in extremity
+N7	Reference T7 meddra:10000087	Abdominal pain upper
+N8	Reference T15 meddra:10003239	Arthralgia
+N9	Reference T17 meddra:10027599	Migraine
+N10	Reference T18 meddra:10016766	Flatulence
+N11	Reference T20 meddra:10068319	Oropharyngeal pain
+N12	Reference T27 meddra:10013573	Dizziness
+N13	Reference T28 meddra:10003549	Asthenia
+N14	Reference T29 meddra:10011224	Cough
+N15	Reference T30 meddra:10013946	Dyspepsia
+N16	Reference T31 meddra:10017885	Gastrooesophageal reflux disease
+N17	Reference T32 meddra:10010774	Constipation
+N18	Reference T33 meddra:10033557	Palpitations
+N19	Reference T34 meddra:10037844	Rash
+N20	Reference T35 meddra:10061116	Electrocardiogram change
+N21	Reference T37 meddra:10003119	Arrhythmia
+N22	Reference T38 meddra:10053657	Electrocardiogram PR prolongation
+N23	Reference T39 meddra:10014387	Electrocardiogram QT prolonged
+N24	Reference T40 meddra:10014380	Electrocardiogram QRS complex prolonged
+N25	Reference T43 meddra:10053657	Electrocardiogram PR prolongation
+N26	Reference T44 meddra:10014387	Electrocardiogram QT prolonged
+N27	Reference T45 meddra:10014380	Electrocardiogram QRS complex prolonged

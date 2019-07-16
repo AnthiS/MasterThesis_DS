@@ -1,0 +1,422 @@
+T1	AdverseReaction 115 130	Bradyarrhythmia
+T2	AdverseReaction 135 158	Atrioventricular Blocks
+T3	AdverseReaction 202 212	Infections
+T4	AdverseReaction 256 298	Progressive multifocal leukoencephalopathy
+T5	AdverseReaction 342 355	Macular Edema
+T6	AdverseReaction 399 443	Posterior Reversible Encephalopathy Syndrome
+T7	AdverseReaction 487 506	Respiratory Effects
+T8	AdverseReaction 550 562	Liver Injury
+T9	AdverseReaction 682 690	Headache
+T10	AdverseReaction 692 720	liver transaminase elevation
+T11	AdverseReaction 722 730	diarrhea
+T12	AdverseReaction 732 737	cough
+T13	AdverseReaction 739 748	influenza
+T14	AdverseReaction 750 759	sinusitis
+T15	AdverseReaction 761 770	back pain
+T16	AdverseReaction 772 786	abdominal pain
+T17	AdverseReaction 792 809	pain in extremity
+T18	AdverseReaction 2070 2078	headache
+T19	AdverseReaction 2080 2108	liver transaminase elevation
+T20	AdverseReaction 2110 2118	diarrhea
+T21	AdverseReaction 2120 2125	cough
+T22	AdverseReaction 2127 2136	influenza
+T23	AdverseReaction 2138 2147	sinusitis
+T24	AdverseReaction 2149 2158	back pain
+T25	AdverseReaction 2160 2174	abdominal pain
+T26	AdverseReaction 2180 2197	pain in extremity
+T27	AdverseReaction 2320 2349	serum transaminase elevations
+T28	AdverseReaction 2387 2407	basal cell carcinoma
+T29	AdverseReaction 2903 2912	Influenza
+T30	AdverseReaction 2958 2967	Sinusitis
+T31	AdverseReaction 3012 3022	Bronchitis
+T32	AdverseReaction 3067 3080	Herpes zoster
+T33	AdverseReaction 3125 3141	Tinea versicolor
+T34	AdverseReaction 3246 3257	Bradycardia
+T35	AdverseReaction 3369 3377	Headache
+T36	AdverseReaction 3423 3431	Migraine
+T37	AdverseReaction 3546 3552	Nausea
+T38	AdverseReaction 3600 3608	Diarrhea
+T39	AdverseReaction 3654 3668	Abdominal pain
+T40	AdverseReaction 3808 3816	Asthenia
+T41	AdverseReaction 3952 3961	Back pain
+T42	AdverseReaction 4006 4023	Pain in extremity
+T43	AdverseReaction 4149 4157	Alopecia
+T44	AdverseReaction 4203 4220	Actinic keratosis
+T45	AdverseReaction 4322 4351	Liver transaminase elevations
+T46	AdverseReaction 4341 4351;4358 4361	elevations      (ALT
+T47	AdverseReaction 4341 4351;4362 4365	elevations      (ALT/GGT
+T48	AdverseReaction 4341 4351;4366 4369	elevations      (ALT/GGT/AST
+T49	AdverseReaction 4415 4444	Blood triglycerides increased
+T50	AdverseReaction 4580 4585	Cough
+T51	AdverseReaction 4634 4641	Dyspnea
+T52	AdverseReaction 4744 4758	Vision blurred
+T53	AdverseReaction 4864 4876	Hypertension
+T54	AdverseReaction 5000 5011	Lymphopenia
+T55	AdverseReaction 5056 5066	Leukopenia
+T56	AdverseReaction 5225 5239	Skin papilloma
+T57	AdverseReaction 5284 5304	Basal cell carcinoma
+T58	AdverseReaction 5372 5381	dizziness
+T59	AdverseReaction 5383 5392	pneumonia
+T60	AdverseReaction 5394 5400	eczema
+T61	AdverseReaction 5405 5413	pruritus
+T62	AdverseReaction 5750 5765	Vascular events
+T63	AdverseReaction 5777 5785;5802 5809	ischemic and hemorrhagic strokes
+T64	AdverseReaction 5790 5809	hemorrhagic strokes
+T65	AdverseReaction 5815 5852	peripheral arterial occlusive disease
+T66	AdverseReaction 6160 6168	lymphoma
+T67	AdverseReaction 6352 6363	Bradycardia
+T68	AdverseReaction 6371 6398	atrioventricular conduction
+T69	AdverseReaction 6456 6466	Infections
+T70	Factor 6493 6497	risk
+T71	AdverseReaction 6501 6511	infections
+T72	AdverseReaction 6718 6760	Progressive multifocal leukoencephalopathy
+T73	AdverseReaction 6762 6765	PML
+T74	AdverseReaction 6848 6861	Macular edema
+T75	AdverseReaction 7065 7109	Posterior reversible encephalopathy syndrome
+T76	AdverseReaction 7111 7115	PRES
+T77	AdverseReaction 7168 7204	Decrease in pulmonary function tests
+T78	AdverseReaction 7168 7179;7206 7209	Decrease in pulmonary function tests (PFT
+T79	AdverseReaction 7265 7277	Liver injury
+T80	AdverseReaction 7913 7932	heart rate decrease
+T81	AdverseReaction 7978 7999	decline in heart rate
+T82	AdverseReaction 8178 8197	heart rate decrease
+T83	AdverseReaction 8254 8273	heart rate decrease
+T84	AdverseReaction 8367 8404	Heart rates below 40 beats per minute
+T85	AdverseReaction 8479 8502	symptomatic bradycardia
+T86	AdverseReaction 8648 8659	bradycardia
+T87	AdverseReaction 8719 8730	hypotension
+T88	AdverseReaction 8732 8741	dizziness
+T89	AdverseReaction 8743 8750	fatigue
+T90	AdverseReaction 8752 8764	palpitations
+T91	AdverseReaction 8773 8783	chest pain
+T92	AdverseReaction 8889 8911	decrease in heart rate
+T93	Severity 9249 9258	transient
+T94	AdverseReaction 9259 9279	AV conduction delays
+T95	AdverseReaction 9312 9333	first-degree AV block
+T96	AdverseReaction 9579 9602	second-degree AV blocks
+T97	AdverseReaction 9593 9602;9604 9618	AV blocks (Mobitz Types I
+T98	AdverseReaction 9593 9602;9620 9630	AV blocks (Mobitz Types I [Wenckebach
+T99	AdverseReaction 9635 9648	2:1 AV blocks
+T100	AdverseReaction 9792 9804	2:1 AV block
+T101	AdverseReaction 9895 9918;9935 9948	second degree AV blocks on placebo were Mobitz Type I
+T102	Factor 9922 9929	placebo
+T103	AdverseReaction 10001 10025	conduction abnormalities
+T104	Severity 10039 10048	transient
+T105	AdverseReaction 10261 10282	third-degree AV block
+T106	AdverseReaction 10287 10295	AV block
+T107	AdverseReaction 10301 10318	junctional escape
+T108	Severity 10441 10450	transient
+T109	AdverseReaction 10451 10459	asystole
+T110	AdverseReaction 10476 10481	death
+T111	AdverseReaction 10671 10678	syncope
+T112	AdverseReaction 10820 10860	reduction in peripheral lymphocyte count
+T113	Severity 10864 10883	20%-30% of baseline
+T114	Severity 10902 10912	reversible
+T115	AdverseReaction 10913 10961	sequestration of lymphocytes in lymphoid tissues
+T116	Factor 10998 11002	risk
+T117	AdverseReaction 11006 11016	infections
+T118	AdverseReaction 11006 11016	infections
+T119	Severity 11023 11030	serious
+T120	AdverseReaction 11783 11793	infections
+T121	AdverseReaction 11846 11856	bronchitis
+T122	AdverseReaction 11858 11871	herpes zoster
+T123	AdverseReaction 11873 11882	influenza
+T124	AdverseReaction 11884 11893	sinusitis
+T125	AdverseReaction 11899 11908	pneumonia
+T126	Severity 11955 11962	Serious
+T127	AdverseReaction 11963 11973	infections
+T128	AdverseReaction 12139 12158	herpetic infections
+T129	AdverseReaction 12242 12246	died
+T130	AdverseReaction 12250 12269	herpetic infections
+T131	AdverseReaction 12300 12305	death
+T132	AdverseReaction 12317 12351	disseminated primary herpes zoster
+T133	AdverseReaction 12369 12396	herpes simplex encephalitis
+T134	Severity 12598 12605	Serious
+T135	Severity 12607 12623	life-threatening
+T136	AdverseReaction 12634 12663;12683 12693	disseminated varicella zoster and herpes simplex infections
+T137	AdverseReaction 12668 12693	herpes simplex infections
+T138	AdverseReaction 12714 12726	encephalitis
+T139	AdverseReaction 12731 12749	multiorgan failure
+T140	AdverseReaction 12839 12844	fatal
+T141	AdverseReaction 13059 13082	Cryptococcal infections
+T142	AdverseReaction 13103 13126	cryptococcal meningitis
+T143	Factor 13768 13772	risk
+T144	AdverseReaction 13776 13793	immunosuppression
+T145	AdverseReaction 14655 14697	progressive multifocal leukoencephalopathy
+T146	AdverseReaction 14699 14702	PML
+T147	Factor 14718 14726	probable
+T148	AdverseReaction 14727 14730	PML
+T149	AdverseReaction 14812 14815	PML
+T150	AdverseReaction 14822 14864	opportunistic viral infection of the brain
+T151	AdverseReaction 14879 14887	JC virus
+T152	AdverseReaction 14889 14892	JCV
+T153	Factor 14899 14908	typically
+T154	Factor 14969 14976	usually
+T155	AdverseReaction 14986 14991	death
+T156	Severity 14995 15001	severe
+T157	AdverseReaction 15002 15012	disability
+T158	AdverseReaction 15036 15039	PML
+T159	Factor 15118 15126	probable
+T160	AdverseReaction 15127 15130	PML
+T161	Factor 15196 15204	probable
+T162	AdverseReaction 15205 15208	PML
+T163	AdverseReaction 15256 15259;15264 15274	JCV DNA in the CSF
+T164	Negation 15282 15289	absence
+T165	AdverseReaction 15332 15335	PML
+T166	AdverseReaction 15415 15440	compromised immune system
+T167	Negation 15491 15502	natalizumab
+T168	AdverseReaction 15539 15542	PML
+T169	Factor 15821 15828	Typical
+T170	AdverseReaction 15854 15857	PML
+T171	AdverseReaction 15912 15956	progressive weakness on one side of the body
+T172	AdverseReaction 15960 15979	clumsiness of limbs
+T173	AdverseReaction 15981 16002	disturbance of vision
+T174	AdverseReaction 16008 16027	changes in thinking
+T175	AdverseReaction 16008 16018;16029 16035	changes in thinking, memory
+T176	AdverseReaction 16008 16018;16041 16052	changes in thinking, memory, and orientation
+T177	AdverseReaction 16064 16073	confusion
+T178	AdverseReaction 16078 16097	personality changes
+T179	Factor 16161 16165	risk
+T180	AdverseReaction 16169 16182	macular edema
+T181	Factor 16460 16464	risk
+T182	AdverseReaction 16468 16481	macular edema
+T183	AdverseReaction 16632 16645	macular edema
+T184	AdverseReaction 16662 16677	visual symptoms
+T185	AdverseReaction 16853 16866	Macular edema
+T186	AdverseReaction 17133 17146	macular edema
+T187	AdverseReaction 17156 17170	blurred vision
+T188	AdverseReaction 17175 17198	decreased visual acuity
+T189	AdverseReaction 17246 17259	macular edema
+T190	Negation 17282 17284	no
+T191	AdverseReaction 17285 17300	visual symptoms
+T192	AdverseReaction 17302 17315	Macular edema
+T193	AdverseReaction 17440 17458	visual acuity loss
+T194	AdverseReaction 17484 17497	macular edema
+T195	AdverseReaction 17499 17512	Macular edema
+T196	AdverseReaction 17702 17715	macular edema
+T197	Factor 18129 18133	risk
+T198	AdverseReaction 18137 18150	macular edema
+T199	AdverseReaction 18192 18205	macular edema
+T200	AdverseReaction 18350 18363	macular edema
+T201	AdverseReaction 18874 18918	posterior reversible encephalopathy syndrome
+T202	AdverseReaction 18920 18924	PRES
+T203	Severity 19009 19015	severe
+T204	AdverseReaction 19016 19024	headache
+T205	AdverseReaction 19026 19047	altered mental status
+T206	AdverseReaction 19049 19068	visual disturbances
+T207	AdverseReaction 19074 19081	seizure
+T208	AdverseReaction 19095 19099	PRES
+T209	Factor 19127 19130	may
+T210	AdverseReaction 19143 19158	ischemic stroke
+T211	AdverseReaction 19162 19181	cerebral hemorrhage
+T212	AdverseReaction 19371 19423	reductions in forced expiratory volume over 1 second
+T213	AdverseReaction 19371 19384;19425 19429	reductions in forced expiratory volume over 1 second (FEV1
+T214	AdverseReaction 19371 19384;19435 19478	reductions in forced expiratory volume over 1 second (FEV1) and diffusion lung capacity for carbon monoxide
+T215	AdverseReaction 19371 19384;19480 19484	reductions in forced expiratory volume over 1 second (FEV1) and diffusion lung capacity for carbon monoxide (DLCO
+T216	AdverseReaction 19622 19631;19681 19689	reduction from baseline in the percent of predicted values for FEV1
+T217	Severity 19733 19737	2.8%
+T218	AdverseReaction 19783 19787;19793 19802	DLCO, the reduction
+T219	Severity 19891 19895	3.3%
+T220	AdverseReaction 19941 19956	changes in FEV1
+T221	Severity 19970 19980	reversible
+T222	AdverseReaction 20086 20102	decrease of DLCO
+T223	AdverseReaction 20164 20171	dyspnea
+T224	AdverseReaction 20327 20334	dyspnea
+T225	AdverseReaction 20644 20671	Elevations of liver enzymes
+T226	Factor 20672 20675	may
+T227	AdverseReaction 20892 20924	elevation of liver transaminases
+T228	Severity 20928 20966	3-fold the upper limit of normal (ULN)
+T229	AdverseReaction 21442 21471	liver transaminase elevations
+T230	Factor 21861 21865	risk
+T231	AdverseReaction 21880 21902	elevated liver enzymes
+T232	Animal 22209 22215	animal
+T233	AdverseReaction 22243 22253	fetal harm
+T234	AdverseReaction 22604 22612;22653 22670	increase over placebo of approximately 3 mmHg in systolic pressure
+T235	AdverseReaction 22604 22612;22700 22718	increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure
+T236	Severity 22643 22649	3 mmHg
+T237	Severity 22690 22696	2 mmHg
+T238	AdverseReaction 22829 22841	Hypertension
+T239	AdverseReaction 23166 23193	decreased lymphocyte counts
+T240	Factor 23566 23570	risk
+T241	AdverseReaction 23583 23608	immunosuppressant effects
+R1	Hypothetical arg1:T71 arg2:T70
+R2	Effect arg1:T94 arg2:T93
+R3	Negated arg1:T101 arg2:T102
+R4	Effect arg1:T103 arg2:T104
+R5	Effect arg1:T109 arg2:T108
+R6	Effect arg1:T112 arg2:T113
+R7	Effect arg1:T115 arg2:T114
+R8	Hypothetical arg1:T117 arg2:T116
+R9	Effect arg1:T118 arg2:T119
+R10	Hypothetical arg1:T118 arg2:T116
+R11	Effect arg1:T127 arg2:T126
+R12	Effect arg1:T136 arg2:T134
+R13	Effect arg1:T136 arg2:T135
+R14	Effect arg1:T137 arg2:T135
+R15	Effect arg1:T137 arg2:T134
+R16	Hypothetical arg1:T144 arg2:T143
+R17	Hypothetical arg1:T148 arg2:T147
+R18	Hypothetical arg1:T149 arg2:T153
+R19	Hypothetical arg1:T150 arg2:T153
+R20	Hypothetical arg1:T151 arg2:T153
+R21	Hypothetical arg1:T155 arg2:T154
+R22	Hypothetical arg1:T157 arg2:T154
+R23	Effect arg1:T157 arg2:T156
+R24	Hypothetical arg1:T160 arg2:T159
+R25	Hypothetical arg1:T162 arg2:T161
+R26	Negated arg1:T165 arg2:T164
+R27	Negated arg1:T168 arg2:T167
+R28	Hypothetical arg1:T170 arg2:T169
+R29	Hypothetical arg1:T171 arg2:T169
+R30	Hypothetical arg1:T172 arg2:T169
+R31	Hypothetical arg1:T173 arg2:T169
+R32	Hypothetical arg1:T174 arg2:T169
+R33	Hypothetical arg1:T175 arg2:T169
+R34	Hypothetical arg1:T176 arg2:T169
+R35	Hypothetical arg1:T177 arg2:T169
+R36	Hypothetical arg1:T178 arg2:T169
+R37	Hypothetical arg1:T180 arg2:T179
+R38	Hypothetical arg1:T182 arg2:T181
+R39	Negated arg1:T191 arg2:T190
+R40	Hypothetical arg1:T198 arg2:T197
+R41	Effect arg1:T204 arg2:T203
+R42	Hypothetical arg1:T210 arg2:T209
+R43	Hypothetical arg1:T211 arg2:T209
+R44	Effect arg1:T216 arg2:T217
+R45	Effect arg1:T218 arg2:T219
+R46	Effect arg1:T220 arg2:T221
+R47	Hypothetical arg1:T225 arg2:T226
+R48	Effect arg1:T227 arg2:T228
+R49	Hypothetical arg1:T231 arg2:T230
+R50	Hypothetical arg1:T233 arg2:T232
+R51	Effect arg1:T234 arg2:T236
+R52	Effect arg1:T235 arg2:T237
+R53	Hypothetical arg1:T241 arg2:T240
+N1	Reference T1 meddra:10049765	Bradyarrhythmia
+N2	Reference T2 meddra:10003671	Atrioventricular block
+N3	Reference T3 meddra:10021789	Infection
+N4	Reference T4 meddra:10036807	Progressive multifocal leukoencephalopathy
+N5	Reference T5 meddra:10025415	Macular oedema
+N6	Reference T6 meddra:10071066	Posterior reversible encephalopathy syndrome
+N7	Reference T7 meddra:10038683	Respiratory disorder
+N8	Reference T8 meddra:10067125	Liver injury
+N9	Reference T9 meddra:10019211	Headache
+N10	Reference T10 meddra:10054889	Transaminases increased
+N11	Reference T11 meddra:10012735	Diarrhoea
+N12	Reference T12 meddra:10011224	Cough
+N13	Reference T13 meddra:10022000	Influenza
+N14	Reference T14 meddra:10040753	Sinusitis
+N15	Reference T15 meddra:10003988	Back pain
+N16	Reference T16 meddra:10000081	Abdominal pain
+N17	Reference T17 meddra:10033425	Pain in extremity
+N18	Reference T27 meddra:10054889	Transaminases increased
+N19	Reference T28 meddra:10004146	Basal cell carcinoma
+N20	Reference T31 meddra:10006451	Bronchitis
+N21	Reference T32 meddra:10019974	Herpes zoster
+N22	Reference T33 meddra:10056131	Tinea versicolour
+N23	Reference T34 meddra:10006093	Bradycardia
+N24	Reference T36 meddra:10027599	Migraine
+N25	Reference T37 meddra:10028813	Nausea
+N26	Reference T40 meddra:10003549	Asthenia
+N27	Reference T43 meddra:10001760	Alopecia
+N28	Reference T44 meddra:10000614	Actinic keratosis
+N29	Reference T45 meddra:10054889	Transaminases increased
+N30	Reference T46 meddra:10001551	Alanine aminotransferase increased
+N31	Reference T47 meddra:10017693	Gamma-glutamyltransferase increased
+N32	Reference T48 meddra:10003481	Aspartate aminotransferase increased
+N33	Reference T49 meddra:10005839	Blood triglycerides increased
+N34	Reference T51 meddra:10013968	Dyspnoea
+N35	Reference T52 meddra:10047513	Vision blurred
+N36	Reference T53 meddra:10020772	Hypertension
+N37	Reference T54 meddra:10025327	Lymphopenia
+N38	Reference T55 meddra:10024384	Leukopenia
+N39	Reference T56 meddra:10040907	Skin papilloma
+N40	Reference T58 meddra:10013573	Dizziness
+N41	Reference T59 meddra:10035664	Pneumonia
+N42	Reference T60 meddra:10014184	Eczema
+N43	Reference T61 meddra:10037087	Pruritus
+N44	Reference T62 meddra:10059245	Angiopathy
+N45	Reference T63 meddra:10061256	Ischaemic stroke
+N46	Reference T64 meddra:10019016	Haemorrhagic stroke
+N47	Reference T65 meddra:10062585	Peripheral arterial occlusive disease
+N48	Reference T66 meddra:10025310	Lymphoma
+N49	Reference T68 meddra:10003674	Atrioventricular block first degree
+N50	Reference T73 meddra:10036807	Progressive multifocal leukoencephalopathy
+N51	Reference T76 meddra:10071066	Posterior reversible encephalopathy syndrome
+N52	Reference T77 meddra:10061922	Pulmonary function test decreased
+N53	Reference T78 meddra:10061922	Pulmonary function test decreased
+N54	Reference T80 meddra:10019301	Heart rate decreased
+N55	Reference T81 meddra:10019301	Heart rate decreased
+N56	Reference T84 meddra:10019301	Heart rate decreased
+N57	Reference T85 meddra:10006093	Bradycardia
+N58	Reference T87 meddra:10021097	Hypotension
+N59	Reference T89 meddra:10016256	Fatigue
+N60	Reference T90 meddra:10033557	Palpitations
+N61	Reference T91 meddra:10008479	Chest pain
+N62	Reference T92 meddra:10019301	Heart rate decreased
+N63	Reference T94 meddra:10003674	Atrioventricular block first degree
+N64	Reference T95 meddra:10003674	Atrioventricular block first degree
+N65	Reference T96 meddra:10003677	Atrioventricular block second degree
+N66	Reference T97 meddra:10003677	Atrioventricular block second degree
+N67	Reference T98 meddra:10003677	Atrioventricular block second degree
+N68	Reference T99 meddra:10003671	Atrioventricular block
+N69	Reference T100 meddra:10003671	Atrioventricular block
+N70	Reference T103 meddra:10010276	Conduction disorder
+N71	Reference T105 meddra:10003673	Atrioventricular block complete
+N72	Reference T106 meddra:10003671	Atrioventricular block
+N73	Reference T107 meddra:10029470	Nodal rhythm
+N74	Reference T109 meddra:10007515	Cardiac arrest
+N75	Reference T110 meddra:10011906	Death
+N76	Reference T111 meddra:10042772	Syncope
+N77	Reference T112 meddra:10025256	Lymphocyte count decreased
+N78	Reference T115 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N79	Reference T128 meddra:10019973	Herpes virus infection
+N80	Reference T129 meddra:10011906	Death
+N81	Reference T132 meddra:10065038	Herpes zoster disseminated
+N82	Reference T133 meddra:10019953	Herpes simplex encephalitis
+N83	Reference T136 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N84	Reference T137 meddra:10019948	Herpes simplex
+N85	Reference T138 meddra:10014581	Encephalitis
+N86	Reference T139 meddra:10028154	Multi-organ failure
+N87	Reference T140 meddra:10011906	Death
+N88	Reference T141 meddra:10011486	Cryptococcal infections
+N89	Reference T142 meddra:10027209	Meningitis cryptococcal
+N90	Reference T144 meddra:10062016	Immunosuppression
+N91	Reference T150 meddra:10030901	Opportunistic infection
+N92	Reference T151 meddra:10023163	JC virus infection
+N93	Reference T152 meddra:10023163	JC virus infection
+N94	Reference T157 meddra:10013050	Disability
+N95	Reference T163 meddra:10023163	JC virus infection
+N96	Reference T166 meddra:10061598	Immunodeficiency
+N97	Reference T171 meddra:10028372	Muscular weakness
+N98	Reference T172 meddra:10009696	Clumsiness
+N99	Reference T173 meddra:10047571	Visual impairment
+N100	Reference T174 meddra:10043431	Thinking abnormal
+N101	Reference T175 meddra:10027175	Memory impairment
+N102	Reference T176 meddra:10013395	Disorientation
+N103	Reference T177 meddra:10010305	Confusional state
+N104	Reference T178 meddra:10034719	Personality change
+N105	Reference T184 meddra:10047571	Visual impairment
+N106	Reference T187 meddra:10047513	Vision blurred
+N107	Reference T188 meddra:10047531	Visual acuity reduced
+N108	Reference T193 meddra:10047531	Visual acuity reduced
+N109	Reference T205 meddra:10048294	Mental status changes
+N110	Reference T206 meddra:10047571	Visual impairment
+N111	Reference T207 meddra:10039906	Seizure
+N112	Reference T210 meddra:10061256	Ischaemic stroke
+N113	Reference T211 meddra:10008111	Cerebral haemorrhage
+N114	Reference T212 meddra:10016987	Forced expiratory volume decreased
+N115	Reference T213 meddra:10016987	Forced expiratory volume decreased
+N116	Reference T214 meddra:10065906	Carbon monoxide diffusing capacity decreased
+N117	Reference T215 meddra:10065906	Carbon monoxide diffusing capacity decreased
+N118	Reference T216 meddra:10016987	Forced expiratory volume decreased
+N119	Reference T218 meddra:10065906	Carbon monoxide diffusing capacity decreased
+N120	Reference T220 meddra:10016985	Forced expiratory volume abnormal
+N121	Reference T222 meddra:10065906	Carbon monoxide diffusing capacity decreased
+N122	Reference T225 meddra:10060795	Hepatic enzyme increased
+N123	Reference T227 meddra:10054889	Transaminases increased
+N124	Reference T231 meddra:10060795	Hepatic enzyme increased
+N125	Reference T234 meddra:10005760	Blood pressure systolic increased
+N126	Reference T235 meddra:10005739	Blood pressure diastolic increased
+N127	Reference T239 meddra:10025256	Lymphocyte count decreased
+N128	Reference T241 meddra:10062016	Immunosuppression

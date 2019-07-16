@@ -1,0 +1,245 @@
+    6. ADVERSE REACTIONS
+
+  The following adverse reactions are discussed in greater detail in other sections of the label:    
+
+
+
+ *  Cytokine Release Syndrome [see Warnings and Precautions (  5.1  )]  
+ *  Neurological Toxicities [see Warnings and Precautions (  5.2  )]  
+ *  Infections [see Warnings and Precautions (  5.3  )]  
+ *  Tumor Lysis Syndrome [see Warnings and Precautions (  5.4  )]  
+ *  Neutropenia and Febrile Neutropenia [see Warnings and Precautions (  5.5  )]  
+ *  Effects on Ability to Drive and Use Machines [see Warnings and Precautions (  5.6  )]  
+ *  Elevated Liver Enzymes [see Warnings and Precautions (  5.7  )]  
+ *  Leukoencephalopathy [see Warnings and Precautions (  5.8  )]  
+ *  Preparation and Administration Errors [see Warnings and Precautions (  5.9  )]  
+   *   The most common adverse reactions (>= 20%) were pyrexia, headache, peripheral edema, febrile neutropenia, nausea, hypokalemia, tremor, rash, and constipation. (  6.1  )
+ 
+      EXCERPT:   
+
+}}        To report SUSPECTED ADVERSE REACTIONS, contact Amgen Inc. at 1-800-77-AMGEN (1-800-772-6436) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.        
+
+
+
+ 
+
+  6.1     Clinical Trials Experience
+
+  Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+
+ The safety data described in this section reflect exposure to BLINCYTO in clinical trials in which 212 patients with relapsed or refractory ALL received up to 28 mcg/day. All patients received at least one dose of BLINCYTO. The median age of the study population was 37 years (range: 18 to 79 years), 63% were male, 79% were White, 3% were Asian, and 3% were Black or African American. 
+
+
+
+ The most common adverse reactions (>= 20%) were pyrexia (62%), headache (36%), peripheral edema (25%), febrile neutropenia (25%), nausea (25%), hypokalemia (23%), and constipation (20%).
+
+
+
+ Serious adverse reactions were reported in 65% of patients. The most common serious adverse reactions (>= 2%) included febrile neutropenia, pyrexia, pneumonia, sepsis, neutropenia, device-related infection, tremor, encephalopathy, infection, overdose, confusion,  Staphylococcal  bacteremia, and headache.
+
+
+
+ Adverse reactions of Grade 3 or higher were reported in 80% of patients. Discontinuation of therapy due to adverse reactions occurred in 18% of patients treated with BLINCYTO. The adverse reactions reported most frequently as the reason for discontinuation of treatment included encephalopathy and sepsis. Fatal adverse events occurred in 15% of patients. The majority of these events were infections. No fatal adverse events occurred on treatment among patients in remission.
+
+
+
+ The adverse reactions with >= 10% incidence for any grade or >= 5% incidence for Grade 3 or higher are summarized in Table 2.
+
+
+
+ Table 2. Adverse Reactions With >= 10% Incidence for Any Grade or >= 5% Incidence for Grade 3 or Higher (N = 212) 
+  Adverse Reaction    Any GradeGrading based on NCI Common Terminology Criteria for Adverse Events (CTCAE) version 4.0(%)    Grade 3 or Higher(%)    
+  
+  Blood and lymphatic system disorders       Febrile neutropenia     Anemia     Neutropenia     Thrombocytopenia     Leukopenia             251816119         23131588    
+  Gastrointestinal disorders       Nausea     Constipation     DiarrheaDiarrhea includes the following terms: colitis, diarrhea, enteritis, and neutropenic colitis.     Abdominal pain     Vomiting             2520201513        0< 1120    
+  General disorders and administration site conditions       Pyrexia     Peripheral edema     Fatigue     Chills     Chest pain              6225171511        7< 1101    
+  Immune system disorders       Cytokine release syndrome             11        1    
+  Infections and infestations       Other pathogen infections     Bacterial infections     Fungal infections     Viral infections     Pneumonia     Sepsis        4419151397        25127486    
+  Investigations     Increased alanine aminotransferase     Increased aspartate aminotransferase     Increased weight        121111        640    
+  Metabolism and nutrition disorders       Hypokalemia     Hypomagnesemia     Hyperglycemia     Decreased appetite     Hypophosphatemia              231211106           60735    
+  Musculoskeletal and connective tissue disorders       Back pain     Pain in extremity     Bone pain     Arthralgia             14121110        2132    
+  Nervous system disorders       Headache     TremorTremor includes the following terms: resting tremor and tremor.     Dizziness            362014       31< 1    
+  Psychiatric disorders       Insomnia            15        0    
+  Respiratory, thoracic, and mediastinal disorders       Cough     DyspneaDyspnea includes the following terms: acute respiratory failure, bronchial hyperactivity, bronchospasm, dyspnea, dyspnea exertional, respiratory distress, respiratory failure, and wheezing.              1915        05    
+  Skin and subcutaneous tissue disorders       RashRash includes the following terms: erythema, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, papular rash, and vesicular rash.        21       2    
+  Vascular disorders       Hypotension     Hypertension           118       25    
+         Additional important adverse reactions that did not meet the threshold criteria for inclusion in Table 2 were:
+ 
+
+   Blood and lymphatic system disorders:  leukocytosis (2%), lymphopenia (1%)
+
+
+
+   Cardiac disorders:  tachycardia (8%)
+
+
+
+   General disorders and administration site conditions:  edema (5%)
+
+
+
+   Immune system disorders:  cytokine storm (1%)
+
+
+
+   Investigations:  decreased immunoglobulins (9%), increased blood bilirubin (8%), increased gamma-glutamyl-transferase (6%), increased liver enzymes (1%)
+
+
+
+   Metabolism and nutrition disorders:  tumor lysis syndrome (4%), hypoalbuminemia (4%)
+
+
+
+   Nervous system disorders:  encephalopathy (5%), paresthesia (5%), aphasia (4%), convulsion (2%), memory impairment (2%), cognitive disorder (1%), speech disorder (< 1%)
+
+
+
+   Psychiatric disorders:  confusion (7%), disorientation (3%)
+
+
+
+   Vascular disorders    :  capillary leak syndrome (< 1%).
+
+
+
+ Hypersensitivity reactions related to BLINCYTO treatment were hypersensitivity (1%) and bronchospasm (< 1%).
+
+
+
+   6.2     Immunogenicity
+
+  As with all therapeutic proteins, there is potential for immunogenicity. The immunogenicity of BLINCYTO has been evaluated using either an electrochemiluminescence detection technology (ECL) or an enzyme-linked immunosorbent assay (ELISA) screening immunoassay for the detection of binding anti-blinatumomab antibodies. For patients whose sera tested positive in the screening immunoassay, an  in vitro  biological assay was performed to detect neutralizing antibodies.  
+
+
+
+ In clinical studies, less than 1% of patients treated with BLINCYTO tested positive for binding anti-blinatumomab antibodies. All patients who tested positive for binding antibodies also tested positive for neutralizing anti-blinatumomab antibodies.
+
+
+
+ Anti-blinatumomab antibody formation may affect pharmacokinetics of BLINCYTO. No association was seen between antibody development and development of adverse events. 
+
+
+
+ If formation of anti-blinatumomab antibodies with a clinically significant effect is suspected, contact Amgen at 1-800-77-AMGEN (1-800-772-6436) to discuss antibody testing.
+
+
+
+ The detection of anti-blinatumomab antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to blinatumomab with the incidence of antibodies to other products may be misleading.
+
+
+    BOXED WARNING: WARNING: CYTOKINE RELEASE SYNDROME and
+
+NEUROLOGICAL TOXICITIES
+
+    WARNING: CYTOKINE RELEASE SYNDROME and
+
+NEUROLOGICAL TOXICITIES  
+
+    *  Cytokine Release Syndrome (CRS), which may be life-threatening or fatal, occurred in patients receiving BLINCYTO. Interrupt or discontinue BLINCYTO as recommended. [See Dosage and Administration (2.3), Warnings and Precautions (5.1)].     
+ *  Neurological toxicities, which may be severe, life-threatening, or fatal, occurred in patients receiving BLINCYTO. Interrupt or discontinue BLINCYTO as recommended. [See Dosage and Administration (2.3), Warnings and Precautions (5.2)]. 
+      EXCERPT:     WARNING: CYTOKINE RELEASE SYNDROME and NEUROLOGICAL TOXICITIES      See full prescribing information for complete boxed warning.    
+ 
+
+ *  Cytokine Release Syndrome (CRS), which may be life-threatening or fatal, occurred in patients receiving BLINCYTO. Interrupt or discontinue BLINCYTO as recommended. (2.3), (5.1) 
+ *  Neurological toxicities, which may be severe, life-threatening, or fatal, occurred in patients receiving BLINCYTO. Interrupt or discontinue BLINCYTO as recommended. (2.3), (5.2) 
+    5. WARNINGS AND PRECAUTIONS
+
+
+
+   EXCERPT:    *  Infections: Monitor patients for signs or symptoms and treat appropriately. (  5.3  ) 
+ *  Effects on Ability to Drive and Use Machines: Advise patients to refrain from driving and engaging in hazardous occupations or activities such as operating heavy or potentially dangerous machinery while BLINCYTO is being administered. (  5.6  ) 
+ *  Preparation and Administration Errors: Strictly follow instructions for preparation (including admixing) and administration. (  5.9  ) 
+    
+ 
+
+   5.1     Cytokine Release Syndrome
+
+
+
+  Cytokine Release Syndrome (CRS), which may be life-threatening or fatal, occurred in patients receiving BLINCYTO. 
+
+
+
+ Infusion reactions have occurred with the BLINCYTO infusion and may be clinically indistinguishable from manifestations of CRS .   
+
+
+
+ Serious adverse events that may be associated with CRS included pyrexia, headache, nausea, asthenia, hypotension, increased alanine aminotransferase, increased aspartate aminotransferase, and increased total bilirubin; these events infrequently led to BLINCYTO discontinuation. Life-threatening or fatal CRS was infrequently reported in patients receiving BLINCYTO. In some cases, disseminated intravascular coagulation (DIC), capillary leak syndrome (CLS), and hemophagocytic lymphohistiocytosis/macrophage activation syndrome (HLH/MAS) have been reported in the setting of CRS. 
+
+
+
+ Patients should be closely monitored for signs or symptoms of these events. Management of these events may require either temporary interruption or discontinuation of BLINCYTO [see Dosage and Administration (  2.3  )]  .
+
+
+
+    5.2     Neurological Toxicities
+
+
+
+  In patients receiving BLINCYTO in clinical trials, neurological toxicities have occurred in approximately 50% of patients. The median time to onset of any neurological toxicity was 7 days. Grade 3 or higher (severe, life-threatening, or fatal) neurological toxicities following initiation of BLINCYTO administration occurred in approximately 15% of patients and included encephalopathy, convulsions, speech disorders, disturbances in consciousness, confusion and disorientation, and coordination and balance disorders. The majority of events resolved following interruption of BLINCYTO, but some resulted in treatment discontinuation. 
+
+
+
+ Monitor patients receiving BLINCYTO for signs and symptoms of neurological toxicities, and interrupt or discontinue BLINCYTO as recommended [see Dosage and Administration (  2.3  )].     
+
+
+
+    5.3     Infections
+
+
+
+  In patients receiving BLINCYTO in clinical trials, serious infections such as sepsis, pneumonia, bacteremia, opportunistic infections, and catheter-site infections were observed in approximately 25% of patients, some of which were life-threatening or fatal. As appropriate, administer prophylactic antibiotics and employ surveillance testing during treatment with BLINCYTO.  Monitor patients for signs and symptoms of infection and treat appropriately.
+
+
+
+    5.4     Tumor Lysis Syndrome
+
+
+
+  Tumor lysis syndrome (TLS), which may be life-threatening or fatal, has been observed in patients receiving BLINCYTO. Appropriate prophylactic measures, including pretreatment nontoxic cytoreduction and on-treatment hydration, should be used for the prevention of TLS during BLINCYTO treatment. Monitor for signs or symptoms of TLS. Management of these events may require either temporary interruption or discontinuation of BLINCYTO [see Dosage and Administration (  2.3  )]  .
+
+
+
+    5.5     Neutropenia and Febrile Neutropenia
+
+
+
+  Neutropenia and febrile neutropenia, including life-threatening cases, have been observed in patients receiving BLINCYTO. Monitor laboratory parameters (including, but not limited to, white blood cell count and absolute neutrophil count) during BLINCYTO infusion. Interrupt BLINCYTO if prolonged neutropenia occurs. 
+
+
+
+    5.6     Effects on Ability to Drive and Use Machines
+
+
+
+  Due to the potential for neurologic events, including seizures, patients receiving BLINCYTO are at risk for loss of consciousness [see Warnings and Precautions (  5.2  )]  . Advise patients to refrain from driving and engaging in hazardous occupations or activities such as operating heavy or potentially dangerous machinery while BLINCYTO is being administered. 
+
+
+
+    5.7     Elevated Liver Enzymes
+
+
+
+  Treatment with BLINCYTO was associated with transient elevations in liver enzymes. Although the majority of these events were observed in the setting of CRS, some were observed outside of this setting. For these events, the median time to onset was 15 days.  In patients receiving BLINCYTO in clinical trials, Grade 3 or greater elevations in liver enzymes occurred in approximately 6% of patients outside the setting of CRS and resulted in treatment discontinuation in less than 1% of patients.
+
+
+
+ Monitor alanine aminotransferase (ALT), aspartate aminotransferase (AST), gamma-glutamyl transferase (GGT), and total blood bilirubin prior to the start of and during BLINCYTO treatment. Interrupt BLINCYTO if the transaminases rise to greater than 5 times the upper limit of normal or if bilirubin rises to more than 3 times the upper limit of normal .  
+
+
+
+    5.8     Leukoencephalopathy
+
+
+
+  Cranial magnetic resonance imaging (MRI) changes showing leukoencephalopathy have been observed in patients receiving BLINCYTO, especially in patients with prior treatment with cranial irradiation and antileukemic chemotherapy (including systemic high-dose methotrexate or intrathecal cytarabine). The clinical significance of these imaging changes is unknown.    
+
+
+
+    5.9     Preparation and Administration Errors
+
+
+
+  Preparation and administration errors have occurred with BLINCYTO treatment. Follow instructions for preparation (including admixing) and administration strictly to minimize medication errors (including underdose and overdose) [see Dosage and Administration (  2.2  ) and (  2.4  )]  .

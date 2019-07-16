@@ -1,0 +1,130 @@
+T1	AdverseReaction 161 176	Endophthalmitis
+T2	AdverseReaction 181 200	retinal detachments
+T3	AdverseReaction 206 236	Increased intraocular pressure
+T4	AdverseReaction 242 263	Thromboembolic events
+T5	AdverseReaction 365 388	conjunctival hemorrhage
+T6	AdverseReaction 390 398	eye pain
+T7	AdverseReaction 400 408	cataract
+T8	AdverseReaction 410 427	vitreous floaters
+T9	AdverseReaction 429 459	intraocular pressure increased
+T10	AdverseReaction 465 484	vitreous detachment
+T11	AdverseReaction 1263 1278	endophthalmitis
+T12	AdverseReaction 1283 1301	retinal detachment
+T13	AdverseReaction 1386 1409	conjunctival hemorrhage
+T14	AdverseReaction 1411 1419	eye pain
+T15	AdverseReaction 1421 1429	cataract
+T16	AdverseReaction 1431 1448	vitreous floaters
+T17	AdverseReaction 1450 1480	intraocular pressure increased
+T18	AdverseReaction 1486 1505	vitreous detachment
+T19	AdverseReaction 2021 2044	Conjunctival hemorrhage
+T20	AdverseReaction 2130 2138	Eye pain
+T21	AdverseReaction 2239 2247	Cataract
+T22	AdverseReaction 2348 2367	Vitreous detachment
+T23	AdverseReaction 2457 2474	Vitreous floaters
+T24	AdverseReaction 2566 2596	Intraocular pressure increased
+T25	AdverseReaction 2675 2691	Ocular hyperemia
+T26	AdverseReaction 2784 2809	Corneal epithelium defect
+T27	AdverseReaction 2893 2937	Detachment of the retinal pigment epithelium
+T28	AdverseReaction 3006 3025	Injection site pain
+T29	AdverseReaction 3115 3145	Foreign body sensation in eyes
+T30	AdverseReaction 3224 3245	Lacrimation increased
+T31	AdverseReaction 3333 3347	Vision blurred
+T32	AdverseReaction 3442 3466	Intraocular inflammation
+T33	AdverseReaction 3551 3582	Retinal pigment epithelium tear
+T34	AdverseReaction 3660 3685	Injection site hemorrhage
+T35	AdverseReaction 3769 3781	Eyelid edema
+T36	AdverseReaction 3878 3891	Corneal edema
+T37	AdverseReaction 4089 4105	hypersensitivity
+T38	AdverseReaction 4107 4125	retinal detachment
+T39	AdverseReaction 4127 4139	retinal tear
+T40	AdverseReaction 4145 4160	endophthalmitis
+T41	AdverseReaction 4758 4766	Eye pain
+T42	AdverseReaction 4871 4894	Conjunctival hemorrhage
+T43	AdverseReaction 4984 5014	Intraocular pressure increased
+T44	AdverseReaction 5097 5122	Corneal epithelium defect
+T45	AdverseReaction 5210 5227	Vitreous floaters
+T46	AdverseReaction 5323 5339	Ocular hyperemia
+T47	AdverseReaction 5436 5466	Foreign body sensation in eyes
+T48	AdverseReaction 5549 5568	Vitreous detachment
+T49	AdverseReaction 5662 5683	Lacrimation increased
+T50	AdverseReaction 5775 5794	Injection site pain
+T51	AdverseReaction 5888 5902	Vision blurred
+T52	AdverseReaction 6001 6025	Intraocular inflammation
+T53	AdverseReaction 6114 6122	Cataract
+T54	AdverseReaction 6227 6239	Eyelid edema
+T55	AdverseReaction 6456 6469	corneal edema
+T56	AdverseReaction 6471 6483	retinal tear
+T57	AdverseReaction 6485 6501	hypersensitivity
+T58	AdverseReaction 6507 6522	endophthalmitis
+T59	AdverseReaction 7096 7119	Conjunctival hemorrhage
+T60	AdverseReaction 7209 7217	Eye pain
+T61	AdverseReaction 7322 7330	Cataract
+T62	AdverseReaction 7435 7452	Vitreous floaters
+T63	AdverseReaction 7548 7573	Corneal epithelium defect
+T64	AdverseReaction 7661 7691	Intraocular pressure increased
+T65	AdverseReaction 7774 7790	Ocular hyperemia
+T66	AdverseReaction 7887 7906	Vitreous detachment
+T67	AdverseReaction 8000 8030	Foreign body sensation in eyes
+T68	AdverseReaction 8113 8134	Lacrimation increased
+T69	AdverseReaction 8226 8240	Vision blurred
+T70	AdverseReaction 8339 8363	Intraocular inflammation
+T71	AdverseReaction 8452 8471	Injection site pain
+T72	AdverseReaction 8565 8577	Eyelid edema
+T73	AdverseReaction 8774 8790	hypersensitivity
+T74	AdverseReaction 8792 8810	retinal detachment
+T75	AdverseReaction 8812 8824	retinal tear
+T76	AdverseReaction 8826 8839	corneal edema
+T77	AdverseReaction 8845 8870	injection site hemorrhage
+T78	AdverseReaction 9979 9994	Endophthalmitis
+T79	AdverseReaction 9999 10018	retinal detachments
+T80	Factor 10019 10022	may
+T81	AdverseReaction 10231 10264	Increases in intraocular pressure
+T82	AdverseReaction 10368 10398	arterial thromboembolic events
+T83	DrugClass 10429 10444	VEGF inhibitors
+T84	AdverseReaction 10587 10602	endophthalmitis
+T85	AdverseReaction 10607 10626	retinal detachments
+T86	AdverseReaction 11023 11062	Acute increases in intraocular pressure
+T87	AdverseReaction 11178 11221	Sustained increases in intraocular pressure
+T88	DrugClass 11286 11320;11328 11338	vascular endothelial growth factor (VEGF) inhibitors
+T89	Factor 11549 11553	risk
+T90	AdverseReaction 11557 11587	arterial thromboembolic events
+T91	AdverseReaction 11589 11593	ATEs
+T92	AdverseReaction 11809 11830	thromboembolic events
+T93	Negation 12331 12333	no
+T94	AdverseReaction 12343 12364	thromboembolic events
+R1	Hypothetical arg1:T78 arg2:T80
+R2	Hypothetical arg1:T79 arg2:T80
+R3	Hypothetical arg1:T82 arg2:T83
+R4	Hypothetical arg1:T87 arg2:T88
+R5	Hypothetical arg1:T90 arg2:T89
+R6	Hypothetical arg1:T91 arg2:T89
+R7	Negated arg1:T94 arg2:T93
+N1	Reference T1 meddra:10014801	Endophthalmitis
+N2	Reference T2 meddra:10038848	Retinal detachment
+N3	Reference T3 meddra:10022806	Intraocular pressure increased
+N4	Reference T4 meddra:10061169	Embolism
+N5	Reference T5 meddra:10010719	Conjunctival haemorrhage
+N6	Reference T6 meddra:10015958	Eye pain
+N7	Reference T7 meddra:10007739	Cataract
+N8	Reference T8 meddra:10047654	Vitreous floaters
+N9	Reference T9 meddra:10022806	Intraocular pressure increased
+N10	Reference T10 meddra:10047650	Vitreous detachment
+N11	Reference T12 meddra:10038848	Retinal detachment
+N12	Reference T25 meddra:10030041	Ocular hyperaemia
+N13	Reference T26 meddra:10011010	Corneal epithelium defect
+N14	Reference T27 meddra:10052501	Detachment of retinal pigment epithelium
+N15	Reference T28 meddra:10022086	Injection site pain
+N16	Reference T29 meddra:10051116	Foreign body sensation in eyes
+N17	Reference T30 meddra:10023644	Lacrimation increased
+N18	Reference T31 meddra:10047513	Vision blurred
+N19	Reference T32 meddra:10015943	Eye inflammation
+N20	Reference T33 meddra:10062971	Retinal pigment epithelial tear
+N21	Reference T34 meddra:10022067	Injection site haemorrhage
+N22	Reference T35 meddra:10015993	Eyelid oedema
+N23	Reference T36 meddra:10011033	Corneal oedema
+N24	Reference T37 meddra:10020751	Hypersensitivity
+N25	Reference T39 meddra:10038897	Retinal tear
+N26	Reference T81 meddra:10022806	Intraocular pressure increased
+N27	Reference T86 meddra:10022806	Intraocular pressure increased
+N28	Reference T82 meddra:10014513	Embolism arterial
+N29	Reference T91 meddra:10014513	Embolism arterial

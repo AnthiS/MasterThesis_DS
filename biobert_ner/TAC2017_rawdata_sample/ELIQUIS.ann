@@ -1,0 +1,407 @@
+T1	Factor 169 173	risk
+T2	AdverseReaction 177 194	thrombotic events
+T3	AdverseReaction 272 280	Bleeding
+T4	AdverseReaction 471 479	bleeding
+T5	AdverseReaction 1656 1690	bleeding-related adverse reactions
+T6	Severity 2018 2023	major
+T7	AdverseReaction 2024 2032	bleeding
+T8	AdverseReaction 2069 2077	bleeding
+T9	AdverseReaction 2125 2133	bleeding
+T10	AdverseReaction 2207 2215	Bleeding
+T11	AdverseReaction 2432 2440	Bleeding
+T12	AdverseReaction 2567 2575	Bleeding
+T13	AdverseReaction 2715 2723	bleeding
+T14	AdverseReaction 2771 2793	decrease in hemoglobin
+T15	Severity 2799 2805	2 g/dL
+T16	AdverseReaction 2867 2894	bleeding at a critical site
+T17	AdverseReaction 2867 2875;2896 2908	bleeding at a critical site: intracranial
+T18	AdverseReaction 2867 2875;2910 2921	bleeding at a critical site: intracranial, intraspinal
+T19	AdverseReaction 2867 2875;2923 2934	bleeding at a critical site: intracranial, intraspinal, intraocular
+T20	AdverseReaction 2867 2875;2936 2947	bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial
+T21	AdverseReaction 2867 2875;2949 2964	bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular
+T22	AdverseReaction 2867 2875;2966 2979	bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular
+T23	AdverseReaction 2867 2875;3007 3022	bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal
+T24	AdverseReaction 2985 3005	compartment syndrome
+T25	AdverseReaction 3031 3044	fatal outcome
+T26	AdverseReaction 3053 3071	Intracranial bleed
+T27	AdverseReaction 3081 3094;3141 3149	intracerebral, intraventricular, subdural, and subarachnoid bleeding
+T28	AdverseReaction 3096 3112;3141 3149	intraventricular, subdural, and subarachnoid bleeding
+T29	AdverseReaction 3114 3122;3141 3149	subdural, and subarachnoid bleeding
+T30	AdverseReaction 3128 3149	subarachnoid bleeding
+T31	AdverseReaction 3163 3181	hemorrhagic stroke
+T32	AdverseReaction 3216 3228;3235 3240	intracranial major bleed
+T33	Severity 3229 3234	major
+T34	AdverseReaction 3360 3368	GI bleed
+T35	AdverseReaction 3378 3386;3409 3417	upper GI, lower GI, and rectal bleeding
+T36	AdverseReaction 3388 3396;3409 3417	lower GI, and rectal bleeding
+T37	AdverseReaction 3402 3417	rectal bleeding
+T38	AdverseReaction 3422 3427	Fatal
+T39	AdverseReaction 3428 3436	bleeding
+T40	AdverseReaction 3455 3460	death
+T41	AdverseReaction 3487 3492	death
+T42	AdverseReaction 3496 3517	intracranial bleeding
+T43	AdverseReaction 3521 3546	non-intracranial bleeding
+T44	AdverseReaction 3716 3719	ICH
+T45	AdverseReaction 3817 3835	Hemorrhagic stroke
+T46	AdverseReaction 3936 3939	ICH
+T47	AdverseReaction 4155 4160	Fatal
+T48	Severity 4531 4536	major
+T49	AdverseReaction 4537 4545	bleeding
+T50	AdverseReaction 4863 4867	bled
+T51	Severity 4959 4964	Major
+T52	AdverseReaction 4965 4973	Bleeding
+T53	AdverseReaction 5494 5502	Bleeding
+T54	AdverseReaction 5952 5957	Fatal
+T55	Severity 6194 6199	Major
+T56	AdverseReaction 6200 6208	Bleeding
+T57	AdverseReaction 6250 6276	Hypersensitivity reactions
+T58	AdverseReaction 6288 6309	drug hypersensitivity
+T59	AdverseReaction 6319 6328	skin rash
+T60	AdverseReaction 6334 6356	anaphylactic reactions
+T61	AdverseReaction 6366 6380	allergic edema
+T62	AdverseReaction 6386 6393	syncope
+T63	AdverseReaction 6921 6929	Bleeding
+T64	AdverseReaction 7013 7021	Bleeding
+T65	AdverseReaction 7124 7132	Bleeding
+T66	AdverseReaction 7381 7389	bleeding
+T67	AdverseReaction 7408 7430	surgical site bleeding
+T68	Severity 7464 7469	major
+T69	AdverseReaction 7470 7478	bleeding
+T70	Negation 7500 7521	before the first dose
+T71	Severity 7610 7615	major
+T72	AdverseReaction 7616 7624	bleeding
+T73	Negation 7646 7667	before the first dose
+T74	AdverseReaction 7903 7934	Bleeding into an operated joint
+T75	AdverseReaction 8024 8032	bleeding
+T76	AdverseReaction 8122 8145	intracranial hemorrhage
+T77	AdverseReaction 8961 8966	Fatal
+T78	AdverseReaction 9079 9091	Hgb decrease
+T79	Severity 9094 9100	2 g/dL
+T80	AdverseReaction 9344 9366	Bleed at critical site
+T81	AdverseReaction 10171 10177	Nausea
+T82	AdverseReaction 10280 10286	Anemia
+T83	AdverseReaction 10298 10311;10328 10334	postoperative and hemorrhagic anemia
+T84	AdverseReaction 10316 10334	hemorrhagic anemia
+T85	AdverseReaction 10429 10438	Contusion
+T86	AdverseReaction 10538 10548	Hemorrhage
+T87	AdverseReaction 10560 10568	hematoma
+T88	AdverseReaction 10574 10581;10595 10605	vaginal and urethral hemorrhage
+T89	AdverseReaction 10586 10605	urethral hemorrhage
+T90	AdverseReaction 10662 10687	Postprocedural hemorrhage
+T91	AdverseReaction 10699 10722	postprocedural hematoma
+T92	AdverseReaction 10724 10740	wound hemorrhage
+T93	AdverseReaction 10742 10771	vessel puncture site hematoma
+T94	AdverseReaction 10776 10800	catheter site hemorrhage
+T95	AdverseReaction 10857 10880	Transaminases increased
+T96	AdverseReaction 10892 10926	alanine aminotransferase increased
+T97	AdverseReaction 10931 10964	alanine aminotransferase abnormal
+T98	AdverseReaction 11021 11057	Aspartate aminotransferase increased
+T99	AdverseReaction 11130 11165	Gamma-glutamyltransferase increased
+T100	AdverseReaction 11436 11452	thrombocytopenia
+T101	AdverseReaction 11464 11488	platelet count decreases
+T102	AdverseReaction 11517 11528	hypotension
+T103	AdverseReaction 11540 11562	procedural hypotension
+T104	AdverseReaction 11621 11630	epistaxis
+T105	AdverseReaction 11666 11693	gastrointestinal hemorrhage
+T106	AdverseReaction 11705 11716	hematemesis
+T107	AdverseReaction 11721 11727	melena
+T108	AdverseReaction 11730 11742	hematochezia
+T109	AdverseReaction 11775 11803	liver function test abnormal
+T110	AdverseReaction 11805 11841	blood alkaline phosphatase increased
+T111	AdverseReaction 11843 11868	blood bilirubin increased
+T112	AdverseReaction 11905 11914	hematuria
+T113	AdverseReaction 12016 12031	wound secretion
+T114	AdverseReaction 12033 12057	incision-site hemorrhage
+T115	AdverseReaction 12069 12091	incision-site hematoma
+T116	AdverseReaction 12094 12114	operative hemorrhage
+T117	AdverseReaction 12260 12277	Gingival bleeding
+T118	AdverseReaction 12279 12289	hemoptysis
+T119	AdverseReaction 12291 12307	hypersensitivity
+T120	AdverseReaction 12309 12326	muscle hemorrhage
+T121	AdverseReaction 12328 12345	ocular hemorrhage
+T122	AdverseReaction 12357 12380	conjunctival hemorrhage
+T123	AdverseReaction 12383 12400	rectal hemorrhage
+T124	AdverseReaction 12778 12795	gingival bleeding
+T125	AdverseReaction 12797 12806	epistaxis
+T126	AdverseReaction 12808 12817	contusion
+T127	AdverseReaction 12819 12828	hematuria
+T128	AdverseReaction 12830 12847	rectal hemorrhage
+T129	AdverseReaction 12849 12857	hematoma
+T130	AdverseReaction 12859 12870	menorrhagia
+T131	AdverseReaction 12876 12886	hemoptysis
+T132	AdverseReaction 13056 13064	bleeding
+T133	AdverseReaction 13208 13216	bleeding
+T134	Severity 13462 13467	major
+T135	AdverseReaction 13468 13476	bleeding
+T136	AdverseReaction 13541 13549	Bleeding
+T137	AdverseReaction 13625 13633	Bleeding
+T138	AdverseReaction 13791 13795	CRNM
+T139	AdverseReaction 13798 13835	clinically relevant nonmajor bleeding
+T140	AdverseReaction 14090 14094	CRNM
+T141	AdverseReaction 14210 14214	CRNM
+T142	AdverseReaction 14861 14870	Epistaxis
+T143	AdverseReaction 14969 14978	Contusion
+T144	AdverseReaction 15077 15086	Hematuria
+T145	AdverseReaction 15185 15196	Menorrhagia
+T146	AdverseReaction 15293 15301	Hematoma
+T147	AdverseReaction 15401 15411	Hemoptysis
+T148	AdverseReaction 15509 15526	Rectal hemorrhage
+T149	AdverseReaction 15617 15634	Gingival bleeding
+T150	AdverseReaction 15906 15914	bleeding
+T151	AdverseReaction 16044 16052	bleeding
+T152	AdverseReaction 16199 16207	Bleeding
+T153	AdverseReaction 16287 16295	Bleeding
+T154	AdverseReaction 16455 16459	CRNM
+T155	AdverseReaction 16462 16499	clinically relevant nonmajor bleeding
+T156	AdverseReaction 16752 16756	CRNM
+T157	AdverseReaction 16872 16876	CRNM
+T158	AdverseReaction 17562 17571	Epistaxis
+T159	AdverseReaction 17674 17683	Hematuria
+T160	AdverseReaction 17786 17794	Hematoma
+T161	AdverseReaction 17898 17907	Contusion
+T162	AdverseReaction 18010 18027	Gingival bleeding
+T163	AdverseReaction 18343 18361	hemorrhagic anemia
+T164	AdverseReaction 18397 18409	hematochezia
+T165	AdverseReaction 18411 18434	hemorrhoidal hemorrhage
+T166	AdverseReaction 18436 18463	gastrointestinal hemorrhage
+T167	AdverseReaction 18465 18476	hematemesis
+T168	AdverseReaction 18478 18484	melena
+T169	AdverseReaction 18486 18501	anal hemorrhage
+T170	AdverseReaction 18558 18574	wound hemorrhage
+T171	AdverseReaction 18576 18601	postprocedural hemorrhage
+T172	AdverseReaction 18603 18621	traumatic hematoma
+T173	AdverseReaction 18623 18643	periorbital hematoma
+T174	AdverseReaction 18700 18717	muscle hemorrhage
+T175	AdverseReaction 18767 18785	vaginal hemorrhage
+T176	AdverseReaction 18787 18799	metrorrhagia
+T177	AdverseReaction 18801 18817	menometrorrhagia
+T178	AdverseReaction 18819 18837	genital hemorrhage
+T179	AdverseReaction 18866 18876	hemorrhage
+T180	AdverseReaction 18924 18934	ecchymosis
+T181	AdverseReaction 18936 18951	skin hemorrhage
+T182	AdverseReaction 18953 18962	petechiae
+T183	AdverseReaction 18985 19008	conjunctival hemorrhage
+T184	AdverseReaction 19010 19028	retinal hemorrhage
+T185	AdverseReaction 19030 19044	eye hemorrhage
+T186	AdverseReaction 19068 19087	blood urine present
+T187	AdverseReaction 19089 19110	occult blood positive
+T188	AdverseReaction 19112 19124	occult blood
+T189	AdverseReaction 19126 19156	red blood cells urine positive
+T190	AdverseReaction 19218 19241	injection-site hematoma
+T191	AdverseReaction 19243 19272	vessel puncture-site hematoma
+T192	Factor 19358 19362	RISK
+T193	AdverseReaction 19366 19383	THROMBOTIC EVENTS
+T194	AdverseReaction 19387 19393;19403 19411	SPINAL/EPIDURAL HEMATOMA
+T195	AdverseReaction 19394 19411	EPIDURAL HEMATOMA
+T196	Factor 19479 19483	RISK
+T197	AdverseReaction 19487 19504	THROMBOTIC EVENTS
+T198	AdverseReaction 19508 19514;19524 19532	SPINAL/EPIDURAL HEMATOMA
+T199	AdverseReaction 19515 19532	EPIDURAL HEMATOMA
+T200	Factor 19593 19597	RISK
+T201	AdverseReaction 19601 19618	THROMBOTIC EVENTS
+T202	Factor 19713 19717	risk
+T203	AdverseReaction 19721 19738	thrombotic events
+T204	AdverseReaction 20074 20082;20093 20102	Epidural or spinal hematomas
+T205	AdverseReaction 20086 20102	spinal hematomas
+T206	Factor 20103 20106	may
+T207	AdverseReaction 20222 20231	hematomas
+T208	Factor 20232 20235	may
+T209	AdverseReaction 20246 20255;20269 20278	long-term or permanent paralysis
+T210	AdverseReaction 20259 20278	permanent paralysis
+T211	Factor 20379 20383	risk
+T212	AdverseReaction 20398 20406;20417 20426	epidural or spinal hematomas
+T213	AdverseReaction 20410 20426	spinal hematomas
+T214	Factor 21359 21363	RISK
+T215	AdverseReaction 21367 21384	THROMBOTIC EVENTS
+T216	AdverseReaction 21388 21394;21404 21412	SPINAL/EPIDURAL HEMATOMA
+T217	AdverseReaction 21395 21412	EPIDURAL HEMATOMA
+T218	Factor 21543 21547	RISK
+T219	AdverseReaction 21551 21568	THROMBOTIC EVENTS
+T220	Factor 21656 21660	risk
+T221	AdverseReaction 21664 21681	thrombotic events
+T222	AdverseReaction 21927 21935;21946 21955	Epidural or spinal hematomas
+T223	AdverseReaction 21939 21955	spinal hematomas
+T224	Factor 21956 21959	may
+T225	AdverseReaction 22075 22084	hematomas
+T226	Factor 22085 22088	may
+T227	AdverseReaction 22099 22108;22122 22131	long-term or permanent paralysis
+T228	AdverseReaction 22112 22131	permanent paralysis
+T229	Factor 22271 22274	can
+T230	Severity 22281 22288	serious
+T231	Factor 22290 22301	potentially
+T232	AdverseReaction 22302 22307	fatal
+T233	AdverseReaction 22308 22316	bleeding
+T234	Factor 22667 22671	risk
+T235	AdverseReaction 22675 22692	thrombotic events
+T236	AdverseReaction 22715 22721	stroke
+T237	Factor 23109 23113	risk
+T238	AdverseReaction 23117 23125	bleeding
+T239	Factor 23130 23133	can
+T240	Severity 23140 23147	serious
+T241	Factor 23149 23160	potentially
+T242	AdverseReaction 23161 23166	fatal
+T243	AdverseReaction 23168 23176	bleeding
+T244	Factor 23316 23320	risk
+T245	AdverseReaction 23324 23332	bleeding
+T246	Factor 25120 25124	risk
+T247	AdverseReaction 25142 25150;25161 25169	epidural or spinal hematoma
+T248	AdverseReaction 25154 25169	spinal hematoma
+T249	Factor 25176 25179	can
+T250	AdverseReaction 25190 25199;25213 25222	long-term or permanent paralysis
+T251	AdverseReaction 25203 25222	permanent paralysis
+R1	Hypothetical arg1:T2 arg2:T1
+R2	Effect arg1:T7 arg2:T6
+R3	Effect arg1:T14 arg2:T15
+R4	Effect arg1:T32 arg2:T33
+R5	Effect arg1:T49 arg2:T48
+R6	Effect arg1:T52 arg2:T51
+R7	Effect arg1:T56 arg2:T55
+R8	Effect arg1:T69 arg2:T68
+R9	Negated arg1:T69 arg2:T70
+R10	Effect arg1:T72 arg2:T71
+R11	Negated arg1:T72 arg2:T73
+R12	Effect arg1:T78 arg2:T79
+R13	Effect arg1:T135 arg2:T134
+R14	Hypothetical arg1:T193 arg2:T192
+R15	Hypothetical arg1:T197 arg2:T196
+R16	Hypothetical arg1:T201 arg2:T200
+R17	Hypothetical arg1:T203 arg2:T202
+R18	Hypothetical arg1:T204 arg2:T206
+R19	Hypothetical arg1:T205 arg2:T206
+R20	Hypothetical arg1:T209 arg2:T208
+R21	Hypothetical arg1:T210 arg2:T208
+R22	Hypothetical arg1:T212 arg2:T211
+R23	Hypothetical arg1:T213 arg2:T211
+R24	Hypothetical arg1:T215 arg2:T214
+R25	Hypothetical arg1:T219 arg2:T218
+R26	Hypothetical arg1:T221 arg2:T220
+R27	Hypothetical arg1:T222 arg2:T224
+R28	Hypothetical arg1:T223 arg2:T224
+R29	Hypothetical arg1:T227 arg2:T226
+R30	Hypothetical arg1:T228 arg2:T226
+R31	Hypothetical arg1:T232 arg2:T231
+R32	Hypothetical arg1:T233 arg2:T229
+R33	Effect arg1:T233 arg2:T230
+R34	Hypothetical arg1:T235 arg2:T234
+R35	Hypothetical arg1:T238 arg2:T237
+R36	Hypothetical arg1:T242 arg2:T241
+R37	Effect arg1:T243 arg2:T240
+R38	Hypothetical arg1:T243 arg2:T239
+R39	Hypothetical arg1:T245 arg2:T244
+R40	Hypothetical arg1:T247 arg2:T246
+R41	Hypothetical arg1:T248 arg2:T246
+R42	Hypothetical arg1:T250 arg2:T249
+R43	Hypothetical arg1:T251 arg2:T249
+N1	Reference T2 meddra:10043607	Thrombosis
+N2	Reference T3 meddra:10055798	Haemorrhage
+N3	Reference T5 meddra:10055798	Haemorrhage
+N4	Reference T14 meddra:10018884	Haemoglobin decreased
+N5	Reference T16 meddra:10055798	Haemorrhage
+N6	Reference T17 meddra:10018985	Haemorrhage intracranial
+N7	Reference T18 meddra:10048992	Spinal cord haemorrhage
+N8	Reference T19 meddra:10015926	Eye haemorrhage
+N9	Reference T20 meddra:10034476	Pericardial haemorrhage
+N10	Reference T21 meddra:10018829	Haemarthrosis
+N11	Reference T22 meddra:10028309	Muscle haemorrhage
+N12	Reference T23 meddra:10038980	Retroperitoneal haemorrhage
+N13	Reference T24 meddra:10010121	Compartment syndrome
+N14	Reference T25 meddra:10011906	Death
+N15	Reference T26 meddra:10018985	Haemorrhage intracranial
+N16	Reference T27 meddra:10008111	Cerebral haemorrhage
+N17	Reference T28 meddra:10022840	Intraventricular haemorrhage
+N18	Reference T29 meddra:10042364	Subdural haemorrhage
+N19	Reference T30 meddra:10042316	Subarachnoid haemorrhage
+N20	Reference T31 meddra:10019016	Haemorrhagic stroke
+N21	Reference T34 meddra:10017955	Gastrointestinal haemorrhage
+N22	Reference T35 meddra:10046274	Upper gastrointestinal haemorrhage
+N23	Reference T36 meddra:10050953	Lower gastrointestinal haemorrhage
+N24	Reference T37 meddra:10038063	Rectal haemorrhage
+N25	Reference T38 meddra:10011906	Death
+N26	Reference T40 meddra:10011906	Death
+N27	Reference T42 meddra:10018985	Haemorrhage intracranial
+N28	Reference T43 meddra:10055798	Haemorrhage
+N29	Reference T44 meddra:10018985	Haemorrhage intracranial
+N30	Reference T50 meddra:10055798	Haemorrhage
+N31	Reference T57 meddra:10020751	Hypersensitivity
+N32	Reference T58 meddra:10013700	Drug hypersensitivity
+N33	Reference T59 meddra:10037844	Rash
+N34	Reference T60 meddra:10002198	Anaphylactic reaction
+N35	Reference T61 meddra:10060934	Allergic oedema
+N36	Reference T62 meddra:10042772	Syncope
+N37	Reference T67 meddra:10071229	Procedural haemorrhage
+N38	Reference T74 meddra:10018829	Haemarthrosis
+N39	Reference T76 meddra:10018985	Haemorrhage intracranial
+N40	Reference T78 meddra:10018884	Haemoglobin decreased
+N41	Reference T80 meddra:10055798	Haemorrhage
+N42	Reference T81 meddra:10028813	Nausea
+N43	Reference T82 meddra:10002034	Anaemia
+N44	Reference T83 meddra:10048861	Anaemia postoperative
+N45	Reference T84 meddra:10052293	Haemorrhagic anaemia
+N46	Reference T85 meddra:10050584	Contusion
+N47	Reference T86 meddra:10055798	Haemorrhage
+N48	Reference T87 meddra:10018852	Haematoma
+N49	Reference T88 meddra:10046910	Vaginal haemorrhage
+N50	Reference T89 meddra:10049710	Urethral haemorrhage
+N51	Reference T90 meddra:10051077	Post procedural haemorrhage
+N52	Reference T91 meddra:10063188	Post procedural haematoma
+N53	Reference T92 meddra:10051373	Wound haemorrhage
+N54	Reference T93 meddra:10065902	Vessel puncture site haematoma
+N55	Reference T94 meddra:10051099	Catheter site haemorrhage
+N56	Reference T95 meddra:10054889	Transaminases increased
+N57	Reference T96 meddra:10001551	Alanine aminotransferase increased
+N58	Reference T97 meddra:10001547	Alanine aminotransferase abnormal
+N59	Reference T98 meddra:10003481	Aspartate aminotransferase increased
+N60	Reference T99 meddra:10017693	Gamma-glutamyltransferase increased
+N61	Reference T100 meddra:10043554	Thrombocytopenia
+N62	Reference T101 meddra:10035528	Platelet count decreased
+N63	Reference T102 meddra:10021097	Hypotension
+N64	Reference T103 meddra:10062300	Procedural hypotension
+N65	Reference T104 meddra:10015090	Epistaxis
+N66	Reference T105 meddra:10017955	Gastrointestinal haemorrhage
+N67	Reference T106 meddra:10018830	Haematemesis
+N68	Reference T107 meddra:10027141	Melaena
+N69	Reference T108 meddra:10018836	Haematochezia
+N70	Reference T109 meddra:10024690	Liver function test abnormal
+N71	Reference T110 meddra:10059570	Blood alkaline phosphatase increased
+N72	Reference T111 meddra:10005364	Blood bilirubin increased
+N73	Reference T112 meddra:10018867	Haematuria
+N74	Reference T113 meddra:10048629	Wound secretion
+N75	Reference T114 meddra:10051100	Incision site haemorrhage
+N76	Reference T115 meddra:10059241	Incision site haematoma
+N77	Reference T116 meddra:10071229	Procedural haemorrhage
+N78	Reference T117 meddra:10018276	Gingival bleeding
+N79	Reference T118 meddra:10018964	Haemoptysis
+N80	Reference T119 meddra:10020751	Hypersensitivity
+N81	Reference T120 meddra:10028309	Muscle haemorrhage
+N82	Reference T121 meddra:10015926	Eye haemorrhage
+N83	Reference T122 meddra:10010719	Conjunctival haemorrhage
+N84	Reference T123 meddra:10038063	Rectal haemorrhage
+N85	Reference T130 meddra:10027313	Menorrhagia
+N86	Reference T138 meddra:10055798	Haemorrhage
+N87	Reference T139 meddra:10055798	Haemorrhage
+N88	Reference T165 meddra:10054787	Haemorrhoidal haemorrhage
+N89	Reference T169 meddra:10049555	Anal haemorrhage
+N90	Reference T172 meddra:10044522	Traumatic haematoma
+N91	Reference T173 meddra:10034544	Periorbital haematoma
+N92	Reference T176 meddra:10027514	Metrorrhagia
+N93	Reference T177 meddra:10027295	Menometrorrhagia
+N94	Reference T178 meddra:10061178	Genital haemorrhage
+N95	Reference T180 meddra:10014080	Ecchymosis
+N96	Reference T181 meddra:10064265	Skin haemorrhage
+N97	Reference T182 meddra:10034754	Petechiae
+N98	Reference T184 meddra:10038867	Retinal haemorrhage
+N99	Reference T185 meddra:10015926	Eye haemorrhage
+N100	Reference T186 meddra:10018870	Blood urine present
+N101	Reference T187 meddra:10061880	Occult blood positive
+N102	Reference T188 meddra:10061878	Occult blood
+N103	Reference T189 meddra:10038182	Red blood cells urine positive
+N104	Reference T190 meddra:10022066	Injection site haematoma
+N105	Reference T191 meddra:10065902	Vessel puncture site haematoma
+N106	Reference T194 meddra:10076051	Spinal cord haematoma
+N107	Reference T195 meddra:10015769	Extradural haematoma
+N108	Reference T204 meddra:10015769	Extradural haematoma
+N109	Reference T205 meddra:10076051	Spinal cord haematoma
+N110	Reference T207 meddra:10018852	Haematoma
+N111	Reference T209 meddra:10033799	Paralysis
+N112	Reference T210 meddra:10033799	Paralysis
+N113	Reference T236 meddra:10008190	Cerebrovascular accident

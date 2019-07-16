@@ -1,0 +1,26 @@
+T1	AdverseReaction 88 112	injection site reactions
+T2	AdverseReaction 259 266	pyrexia
+T3	AdverseReaction 268 289	transaminase increase
+T4	AdverseReaction 291 300	dizziness
+T5	AdverseReaction 306 310	rash
+T6	AdverseReaction 1959 1982	Injection site reaction
+T7	AdverseReaction 2068 2075	Pyrexia
+T8	AdverseReaction 2213 2235	Transaminase increased
+T9	AdverseReaction 2362 2371	Dizziness
+T10	AdverseReaction 3243 3247	rash
+T11	AdverseReaction 3249 3255	nausea
+T12	AdverseReaction 3261 3269	headache
+T13	Negation 3818 3820	No
+T14	AdverseReaction 3821 3837	hypersensitivity
+T15	AdverseReaction 3841 3863	anaphylactic reactions
+R1	Negated arg1:T14 arg2:T13
+R2	Negated arg1:T15 arg2:T13
+N1	Reference T1 meddra:10022095	Injection site reaction
+N2	Reference T2 meddra:10037660	Pyrexia
+N3	Reference T3 meddra:10054889	Transaminases increased
+N4	Reference T4 meddra:10013573	Dizziness
+N5	Reference T5 meddra:10037844	Rash
+N6	Reference T6 meddra:10022095	Injection site reaction
+N7	Reference T8 meddra:10054889	Transaminases increased
+N8	Reference T11 meddra:10028813	Nausea
+N9	Reference T12 meddra:10019211	Headache

@@ -1,0 +1,140 @@
+T1	AdverseReaction 140 166	Hypersensitivity reactions
+T2	AdverseReaction 213 225	Pancreatitis
+T3	AdverseReaction 272 291	Glucose intolerance
+T4	AdverseReaction 338 348	Thrombosis
+T5	AdverseReaction 353 363	hemorrhage
+T6	AdverseReaction 496 521	systemic hypersensitivity
+T7	AdverseReaction 523 536	hyperglycemia
+T8	AdverseReaction 538 560	transaminases abnormal
+T9	AdverseReaction 562 567	fever
+T10	AdverseReaction 569 581	pancreatitis
+T11	AdverseReaction 583 598	local reactions
+T12	AdverseReaction 600 608	vomiting
+T13	AdverseReaction 610 616	nausea
+T14	AdverseReaction 618 628	thrombosis
+T15	AdverseReaction 630 648	hyperbilirubinemia
+T16	AdverseReaction 650 664	abdominal pain
+T17	AdverseReaction 650 659;665 675	abdominal pain/discomfort
+T18	AdverseReaction 681 689	diarrhea
+T19	AdverseReaction 769 794	systemic hypersensitivity
+T20	AdverseReaction 796 809	hyperglycemia
+T21	AdverseReaction 811 833	transaminases abnormal
+T22	AdverseReaction 835 840	fever
+T23	AdverseReaction 842 854	pancreatitis
+T24	AdverseReaction 856 871	local reactions
+T25	AdverseReaction 873 881	vomiting
+T26	AdverseReaction 883 889	nausea
+T27	AdverseReaction 891 901	thrombosis
+T28	AdverseReaction 903 921	hyperbilirubinemia
+T29	AdverseReaction 923 937	abdominal pain
+T30	AdverseReaction 923 932;938 948	abdominal pain/discomfort
+T31	AdverseReaction 954 962	diarrhea
+T32	AdverseReaction 2759 2777	allergic reactions
+T33	AdverseReaction 4798 4805	allergy
+T34	AdverseReaction 4807 4819	pancreatitis
+T35	AdverseReaction 4821 4833	coagulopathy
+T36	AdverseReaction 4835 4845	hemorrhage
+T37	AdverseReaction 4847 4857	thrombosis
+T38	AdverseReaction 4861 4868	infarct
+T39	AdverseReaction 4871 4889	hyperbilirubinemia
+T40	AdverseReaction 4891 4904	hyperglycemia
+T41	AdverseReaction 4906 4920	hyperlipidemia
+T42	AdverseReaction 4922 4934	ketoacidosis
+T43	AdverseReaction 4940 4950	CNS events
+T44	AdverseReaction 4940 4943;4952 4962	CNS events (hemorrhage
+T45	AdverseReaction 4940 4943;4964 4974	CNS events (hemorrhage, thrombosis
+T46	AdverseReaction 4940 4943;4978 4988	CNS events (hemorrhage, thrombosis or infarction
+T47	AdverseReaction 4994 5020	cerebral venous thrombosis
+T48	Factor 5279 5319	forms specifically requested information
+T49	AdverseReaction 5337 5355	allergic reactions
+T50	AdverseReaction 5357 5374	thrombotic events
+T51	AdverseReaction 5376 5394	hemorrhagic events
+T52	AdverseReaction 5396 5419	hepatobiliary disorders
+T53	AdverseReaction 5421 5441	pancreatic disorders
+T54	AdverseReaction 5447 5460	hyperglycemia
+T55	AdverseReaction 6131 6156	hypersensitivity reaction
+T56	AdverseReaction 6473 6499	hypersensitivity reactions
+T57	Factor 6646 6650	risk
+T58	AdverseReaction 6654 6680	hypersensitivity reactions
+T59	Severity 7291 7298	Serious
+T60	AdverseReaction 7299 7325	hypersensitivity reactions
+T61	AdverseReaction 7337 7348	anaphylaxis
+T62	Severity 7354 7360	Severe
+T63	AdverseReaction 7364 7388	hemorrhagic pancreatitis
+T64	AdverseReaction 7376 7388	pancreatitis
+T65	AdverseReaction 7402 7421	Glucose intolerance
+T66	AdverseReaction 7402 7421	Glucose intolerance
+T67	Factor 7422 7425	can
+T68	Severity 7459 7471	irreversible
+T69	AdverseReaction 7568 7578	Thrombosis
+T70	AdverseReaction 7580 7590	hemorrhage
+T71	Severity 7679 7686	Grade 3
+T72	Severity 7679 7684;7691 7692	Grade 3 and 4
+T73	AdverseReaction 7693 7719	hypersensitivity reactions
+T74	AdverseReaction 8083 8095	Pancreatitis
+T75	AdverseReaction 8864 8883	glucose intolerance
+T76	AdverseReaction 8864 8883	glucose intolerance
+T77	Severity 8891 8903	irreversible
+T78	Severity 9098 9105	Serious
+T79	AdverseReaction 9106 9123	thrombotic events
+T80	AdverseReaction 9135 9160	sagittal sinus thrombosis
+T81	AdverseReaction 9165 9183	pulmonary embolism
+T82	AdverseReaction 9284 9304;9310 9319	coagulation proteins were decreased
+T83	AdverseReaction 9310 9319;9415 9425	decreased in the majority of patients after a 2-week course of ERWINAZE by intramuscular administration: fibrinogen
+T84	AdverseReaction 9310 9319;9427 9445	decreased in the majority of patients after a 2-week course of ERWINAZE by intramuscular administration: fibrinogen, protein C activity
+T85	AdverseReaction 9310 9319;9447 9465	decreased in the majority of patients after a 2-week course of ERWINAZE by intramuscular administration: fibrinogen, protein C activity, protein S activity
+T86	AdverseReaction 9310 9319;9471 9488	decreased in the majority of patients after a 2-week course of ERWINAZE by intramuscular administration: fibrinogen, protein C activity, protein S activity, and anti-thrombin III
+R1	Negated arg1:T49 arg2:T48
+R2	Negated arg1:T50 arg2:T48
+R3	Negated arg1:T51 arg2:T48
+R4	Negated arg1:T52 arg2:T48
+R5	Negated arg1:T53 arg2:T48
+R6	Negated arg1:T54 arg2:T48
+R7	Hypothetical arg1:T58 arg2:T57
+R8	Effect arg1:T60 arg2:T59
+R9	Effect arg1:T64 arg2:T62
+R10	Hypothetical arg1:T65 arg2:T67
+R11	Hypothetical arg1:T66 arg2:T67
+R12	Effect arg1:T66 arg2:T68
+R13	Effect arg1:T73 arg2:T72
+R14	Effect arg1:T73 arg2:T71
+R15	Effect arg1:T76 arg2:T77
+R16	Effect arg1:T79 arg2:T78
+N1	Reference T1 meddra:10020751	Hypersensitivity
+N2	Reference T2 meddra:10033645	Pancreatitis
+N3	Reference T3 meddra:10018429	Glucose tolerance impaired
+N4	Reference T4 meddra:10043607	Thrombosis
+N5	Reference T5 meddra:10055798	Haemorrhage
+N6	Reference T6 meddra:10020751	Hypersensitivity
+N7	Reference T7 meddra:10020635	Hyperglycaemia
+N8	Reference T8 meddra:10062688	Transaminases abnormal
+N9	Reference T9 meddra:10037660	Pyrexia
+N10	Reference T11 meddra:10024769	Local reaction
+N11	Reference T12 meddra:10047700	Vomiting
+N12	Reference T13 meddra:10028813	Nausea
+N13	Reference T15 meddra:10020578	Hyperbilirubinaemia
+N14	Reference T16 meddra:10000081	Abdominal pain
+N15	Reference T17 meddra:10000059	Abdominal discomfort
+N16	Reference T18 meddra:10012735	Diarrhoea
+N17	Reference T32 meddra:10020751	Hypersensitivity
+N18	Reference T33 meddra:10020751	Hypersensitivity
+N19	Reference T35 meddra:10009802	Coagulopathy
+N20	Reference T38 meddra:10061216	Infarction
+N21	Reference T41 meddra:10062060	Hyperlipidaemia
+N22	Reference T42 meddra:10023379	Ketoacidosis
+N23	Reference T43 meddra:10029202	Nervous system disorder
+N24	Reference T44 meddra:10072043	Central nervous system haemorrhage
+N25	Reference T45 meddra:10029202	Nervous system disorder
+N26	Reference T46 meddra:10029202	Nervous system disorder
+N27	Reference T47 meddra:10008138	Cerebral venous thrombosis
+N28	Reference T55 meddra:10020751	Hypersensitivity
+N29	Reference T61 meddra:10002198	Anaphylactic reaction
+N30	Reference T63 meddra:10033650	Pancreatitis haemorrhagic
+N31	Reference T50 meddra:10043607	Thrombosis
+N32	Reference T80 meddra:10042567	Superior sagittal sinus thrombosis
+N33	Reference T81 meddra:10037377	Pulmonary embolism
+N34	Reference T82 meddra:10009736	Coagulation factor decreased
+N35	Reference T83 meddra:10005520	Blood fibrinogen decreased
+N36	Reference T84 meddra:10037005	Protein C decreased
+N37	Reference T85 meddra:10051120	Protein S decreased
+N38	Reference T86 meddra:10049547	Antithrombin III decreased

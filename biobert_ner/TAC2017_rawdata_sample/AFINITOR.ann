@@ -1,0 +1,1044 @@
+T1	AdverseReaction 181 207	Non-infectious pneumonitis
+T2	AdverseReaction 252 262	Infections
+T3	AdverseReaction 307 317	Angioedema
+T4	AdverseReaction 401 416	Oral ulceration
+T5	AdverseReaction 461 474	Renal failure
+T6	AdverseReaction 519 541	Impaired wound healing
+T7	AdverseReaction 926 936	stomatitis
+T8	AdverseReaction 938 948	infections
+T9	AdverseReaction 950 954	rash
+T10	AdverseReaction 956 963	fatigue
+T11	AdverseReaction 965 973	diarrhea
+T12	AdverseReaction 975 980	edema
+T13	AdverseReaction 982 996	abdominal pain
+T14	AdverseReaction 998 1004	nausea
+T15	AdverseReaction 1006 1011	fever
+T16	AdverseReaction 1013 1021	asthenia
+T17	AdverseReaction 1023 1028	cough
+T18	AdverseReaction 1030 1038	headache
+T19	AdverseReaction 1043 1061	decreased appetite
+T20	AdverseReaction 1175 1185	stomatitis
+T21	AdverseReaction 1269 1279	stomatitis
+T22	AdverseReaction 1284 1311	respiratory tract infection
+T23	AdverseReaction 2096 2106	stomatitis
+T24	AdverseReaction 2108 2118	infections
+T25	AdverseReaction 2120 2124	rash
+T26	AdverseReaction 2126 2133	fatigue
+T27	AdverseReaction 2135 2143	diarrhea
+T28	AdverseReaction 2149 2167	decreased appetite
+T29	Severity 2185 2193	Grade 3/
+T30	Severity 2185 2190;2193 2194	Grade 3/4
+T31	AdverseReaction 2236 2246	stomatitis
+T32	AdverseReaction 2248 2258	infections
+T33	AdverseReaction 2260 2273	hyperglycemia
+T34	AdverseReaction 2275 2282	fatigue
+T35	AdverseReaction 2284 2291	dyspnea
+T36	AdverseReaction 2293 2304	pneumonitis
+T37	AdverseReaction 2310 2318	diarrhea
+T38	AdverseReaction 2385 2405	hypercholesterolemia
+T39	AdverseReaction 2407 2420	hyperglycemia
+T40	AdverseReaction 2422 2454	increased aspartate transaminase
+T41	AdverseReaction 2422 2431;2456 2459	increased aspartate transaminase (AST
+T42	AdverseReaction 2462 2468	anemia
+T43	AdverseReaction 2470 2480	leukopenia
+T44	AdverseReaction 2482 2498	thrombocytopenia
+T45	AdverseReaction 2500 2511	lymphopenia
+T46	AdverseReaction 2513 2543	increased alanine transaminase
+T47	AdverseReaction 2513 2522;2545 2548	increased alanine transaminase (ALT
+T48	AdverseReaction 2555 2575	hypertriglyceridemia
+T49	AdverseReaction 2651 2662	lymphopenia
+T50	AdverseReaction 2664 2677	hyperglycemia
+T51	AdverseReaction 2679 2685	anemia
+T52	AdverseReaction 2687 2706	decreased potassium
+T53	AdverseReaction 2708 2721	increased AST
+T54	AdverseReaction 2723 2736	increased ALT
+T55	AdverseReaction 2742 2758	thrombocytopenia
+T56	AdverseReaction 2764 2769	Fatal
+T57	AdverseReaction 3721 3731	stomatitis
+T58	AdverseReaction 3733 3749	mouth ulceration
+T59	AdverseReaction 3751 3770	aphthous stomatitis
+T60	AdverseReaction 3772 3783	glossodynia
+T61	AdverseReaction 3785 3798	gingival pain
+T62	AdverseReaction 3800 3809	glossitis
+T63	AdverseReaction 3814 3828	lip ulceration
+T64	AdverseReaction 3945 3960	nasopharyngitis
+T65	AdverseReaction 3968 3991	urinary tract infection
+T66	AdverseReaction 3999 4032	upper respiratory tract infection
+T67	AdverseReaction 4039 4048	pneumonia
+T68	AdverseReaction 4055 4065	bronchitis
+T69	AdverseReaction 4072 4080	cystitis
+T70	AdverseReaction 4087 4096	sinusitis
+T71	AdverseReaction 4122 4133	candidiasis
+T72	AdverseReaction 4145 4151	sepsis
+T73	AdverseReaction 4163 4174	hepatitis C
+T74	AdverseReaction 4195 4206	pneumonitis
+T75	AdverseReaction 4208 4233	interstitial lung disease
+T76	AdverseReaction 4235 4252	lung infiltration
+T77	AdverseReaction 4258 4276	pulmonary fibrosis
+T78	AdverseReaction 4855 4865	Stomatitis
+T79	AdverseReaction 4983 4991	Diarrhea
+T80	AdverseReaction 5105 5111	Nausea
+T81	AdverseReaction 5227 5235	Vomiting
+T82	AdverseReaction 5349 5361	Constipation
+T83	AdverseReaction 5474 5483	Dry mouth
+T84	AdverseReaction 5657 5664	Fatigue
+T85	AdverseReaction 5779 5795	Edema peripheral
+T86	AdverseReaction 5908 5915	Pyrexia
+T87	AdverseReaction 6030 6038	Asthenia
+T88	AdverseReaction 6188 6198	Infections
+T89	AdverseReaction 6339 6355	Weight decreased
+T90	AdverseReaction 6511 6529	Decreased appetite
+T91	AdverseReaction 6642 6655	Hyperglycemia
+T92	AdverseReaction 6824 6834	Arthralgia
+T93	AdverseReaction 6947 6956	Back pain
+T94	AdverseReaction 7069 7086	Pain in extremity
+T95	AdverseReaction 7232 7241	Dysgeusia
+T96	AdverseReaction 7354 7362	Headache
+T97	AdverseReaction 7506 7514	Insomnia
+T98	AdverseReaction 7684 7689	Cough
+T99	AdverseReaction 7806 7813	Dyspnea
+T100	AdverseReaction 7928 7937	Epistaxis
+T101	AdverseReaction 8050 8061	Pneumonitis
+T102	AdverseReaction 8226 8230	Rash
+T103	AdverseReaction 8348 8356	Pruritus
+T104	AdverseReaction 8470 8478	Alopecia
+T105	AdverseReaction 8619 8628	Hot flush
+T106	AdverseReaction 9109 9115	anemia
+T107	AdverseReaction 9117 9127	leukopenia
+T108	AdverseReaction 9129 9140	lymphopenia
+T109	AdverseReaction 9142 9153	neutropenia
+T110	AdverseReaction 9159 9175	thrombocytopenia
+T111	AdverseReaction 9193 9205	pancytopenia
+T112	AdverseReaction 9646 9666	Hemoglobin decreased
+T113	AdverseReaction 9773 9786	WBC decreased
+T114	AdverseReaction 9895 9914	Platelets decreased
+T115	AdverseReaction 10021 10042	Lymphocytes decreased
+T116	AdverseReaction 10149 10170	Neutrophils decreased
+T117	AdverseReaction 10304 10321	Glucose increased
+T118	AdverseReaction 10428 10449	Cholesterol increased
+T119	AdverseReaction 10556 10578;10585 10594	Aspartate transaminase (AST) increased
+T120	AdverseReaction 10580 10583;10585 10594	AST) increased
+T121	AdverseReaction 10701 10721;10728 10737	Alanine transaminase (ALT) increased
+T122	AdverseReaction 10723 10726;10728 10737	ALT) increased
+T123	AdverseReaction 10844 10867	Triglycerides increased
+T124	AdverseReaction 10974 10991	Albumin decreased
+T125	AdverseReaction 11098 11117	Potassium decreased
+T126	AdverseReaction 11224 11244	Creatinine increased
+T127	AdverseReaction 11806 11816	stomatitis
+T128	AdverseReaction 11818 11822	rash
+T129	AdverseReaction 11824 11832	diarrhea
+T130	AdverseReaction 11834 11841	fatigue
+T131	AdverseReaction 11843 11848	edema
+T132	AdverseReaction 11850 11864	abdominal pain
+T133	AdverseReaction 11866 11872	nausea
+T134	AdverseReaction 11874 11879	fever
+T135	AdverseReaction 11885 11893	headache
+T136	Severity 11911 11918	Grade 3
+T137	Severity 11911 11916;11919 11920	Grade 3-4
+T138	Severity 11911 11920	Grade 3-4
+T139	AdverseReaction 11962 11972	stomatitis
+T140	AdverseReaction 11977 11985	diarrhea
+T141	AdverseReaction 12052 12072	decreased hemoglobin
+T142	AdverseReaction 12074 12087	hyperglycemia
+T143	AdverseReaction 12089 12119	alkaline phosphatase increased
+T144	AdverseReaction 12121 12141	hypercholesterolemia
+T145	AdverseReaction 12143 12164	bicarbonate decreased
+T146	AdverseReaction 12170 12202	increased aspartate transaminase
+T147	AdverseReaction 12170 12179;12204 12207	increased aspartate transaminase (AST
+T148	Severity 12226 12233	Grade 3
+T149	Severity 12226 12235	Grade 3-4
+T150	Severity 12226 12231;12234 12235	Grade 3-4
+T151	AdverseReaction 12284 12297	hyperglycemia
+T152	AdverseReaction 12299 12310	lymphopenia
+T153	AdverseReaction 12312 12332	decreased hemoglobin
+T154	AdverseReaction 12334 12350	hypophosphatemia
+T155	AdverseReaction 12352 12382	increased alkaline phosphatase
+T156	AdverseReaction 12384 12395	neutropenia
+T157	AdverseReaction 12397 12429	increased aspartate transaminase
+T158	AdverseReaction 12397 12406;12431 12434	increased aspartate transaminase (AST
+T159	AdverseReaction 12437 12456	potassium decreased
+T160	AdverseReaction 12462 12478	thrombocytopenia
+T161	AdverseReaction 12481 12487	Deaths
+T162	AdverseReaction 12640 12645	death
+T163	AdverseReaction 12710 12729	acute renal failure
+T164	AdverseReaction 12731 12757	acute respiratory distress
+T165	AdverseReaction 12759 12773	cardiac arrest
+T166	AdverseReaction 12775 12780	death
+T167	AdverseReaction 12798 12813	hepatic failure
+T168	AdverseReaction 12815 12824	pneumonia
+T169	AdverseReaction 12830 12836	sepsis
+T170	AdverseReaction 12852 12857	death
+T171	AdverseReaction 12865 12883	pulmonary embolism
+T172	Factor 12891 12898	placebo
+T173	AdverseReaction 12973 12979	deaths
+T174	AdverseReaction 12992 13004	hypoglycemia
+T175	AdverseReaction 13009 13023	cardiac arrest
+T176	AdverseReaction 13065 13086	myocardial infarction
+T177	AdverseReaction 13092 13116	congestive heart failure
+T178	AdverseReaction 13139 13151	sudden death
+T179	Severity 13413 13420	Grade 3
+T180	Severity 13413 13418;13421 13422	Grade 3-4
+T181	AdverseReaction 13423 13436	renal failure
+T182	AdverseReaction 13523 13540	Thrombotic events
+T183	AdverseReaction 13569 13586	pulmonary embolus
+T184	AdverseReaction 13667 13677	thrombosis
+T185	AdverseReaction 14036 14046	stomatitis
+T186	AdverseReaction 14048 14067	aphthous stomatitis
+T187	AdverseReaction 14069 14082	gingival pain
+T188	AdverseReaction 14069 14077;14083 14091	gingival pain/swelling
+T189	AdverseReaction 14069 14077;14092 14102	gingival pain/swelling/ulceration
+T190	AdverseReaction 14104 14113	glossitis
+T191	AdverseReaction 14115 14126	glossodynia
+T192	AdverseReaction 14128 14142	lip ulceration
+T193	AdverseReaction 14144 14160	mouth ulceration
+T194	AdverseReaction 14162 14179	tongue ulceration
+T195	AdverseReaction 14185 14205	mucosal inflammation
+T196	AdverseReaction 14221 14229	diarrhea
+T197	AdverseReaction 14231 14240	enteritis
+T198	AdverseReaction 14242 14255	enterocolitis
+T199	AdverseReaction 14257 14264	colitis
+T200	AdverseReaction 14266 14284	defecation urgency
+T201	AdverseReaction 14290 14301	steatorrhea
+T202	AdverseReaction 14316 14327	pneumonitis
+T203	AdverseReaction 14329 14354	interstitial lung disease
+T204	AdverseReaction 14356 14374	pulmonary fibrosis
+T205	AdverseReaction 14379 14408	restrictive pulmonary disease
+T206	AdverseReaction 14898 14908	Stomatitis
+T207	AdverseReaction 15026 15034	Diarrhea
+T208	AdverseReaction 15152 15166	Abdominal pain
+T209	AdverseReaction 15279 15285	Nausea
+T210	AdverseReaction 15401 15409	Vomiting
+T211	AdverseReaction 15523 15535	Constipation
+T212	AdverseReaction 15648 15657	Dry mouth
+T213	AdverseReaction 15831 15838	Fatigue
+T214	AdverseReaction 15839 15846	malaise
+T215	AdverseReaction 15959 15964;15966 15973	Edema (general
+T216	AdverseReaction 15959 15964;15978 15988	Edema (general and peripheral
+T217	AdverseReaction 16102 16107	Fever
+T218	AdverseReaction 16224 16232	Asthenia
+T219	AdverseReaction 16383 16398	Nasopharyngitis
+T220	AdverseReaction 16399 16407	rhinitis
+T221	AdverseReaction 16408 16411	URI
+T222	AdverseReaction 16524 16547	Urinary tract infection
+T223	AdverseReaction 16683 16699	Weight decreased
+T224	AdverseReaction 16855 16873	Decreased appetite
+T225	AdverseReaction 16986 17003	Diabetes mellitus
+T226	AdverseReaction 17172 17182	Arthralgia
+T227	AdverseReaction 17295 17304	Back pain
+T228	AdverseReaction 17417 17434	Pain in extremity
+T229	AdverseReaction 17547 17560	Muscle spasms
+T230	AdverseReaction 17706 17714	Headache
+T231	AdverseReaction 17715 17723	migraine
+T232	AdverseReaction 17836 17845	Dysgeusia
+T233	AdverseReaction 17958 17967	Dizziness
+T234	AdverseReaction 18110 18118	Insomnia
+T235	AdverseReaction 18288 18293	Cough
+T236	AdverseReaction 18294 18310	productive cough
+T237	AdverseReaction 18423 18432	Epistaxis
+T238	AdverseReaction 18545 18552	Dyspnea
+T239	AdverseReaction 18553 18571	dyspnea exertional
+T240	AdverseReaction 18684 18695	Pneumonitis
+T241	AdverseReaction 18813 18831	Oropharyngeal pain
+T242	AdverseReaction 18984 18988	Rash
+T243	AdverseReaction 19106 19120	Nail disorders
+T244	AdverseReaction 19233 19241	Pruritus
+T245	AdverseReaction 19242 19262	pruritus generalized
+T246	AdverseReaction 19375 19383	Dry skin
+T247	AdverseReaction 19384 19393	xeroderma
+T248	AdverseReaction 19533 19545	Hypertension
+T249	AdverseReaction 19781 19803	irregular menstruation
+T250	AdverseReaction 20459 20479	Hemoglobin decreased
+T251	AdverseReaction 20558 20579	Lymphocytes decreased
+T252	AdverseReaction 20658 20677	Platelets decreased
+T253	AdverseReaction 20756 20769	WBC decreased
+T254	AdverseReaction 20848 20869	Neutrophils decreased
+T255	AdverseReaction 21135 21165	Alkaline phosphatase increased
+T256	AdverseReaction 21244 21271	Glucose (fasting) increased
+T257	AdverseReaction 21350 21371	Cholesterol increased
+T258	AdverseReaction 21450 21471	Bicarbonate decreased
+T259	AdverseReaction 21550 21572;21579 21588	Aspartate transaminase (AST) increased
+T260	AdverseReaction 21574 21577;21579 21588	AST) increased
+T261	AdverseReaction 21667 21687;21694 21703	Alanine transaminase (ALT) increased
+T262	AdverseReaction 21689 21692;21694 21703	ALT) increased
+T263	AdverseReaction 21782 21801	Phosphate decreased
+T264	AdverseReaction 21880 21903	Triglycerides increased
+T265	AdverseReaction 21982 21999	Calcium decreased
+T266	AdverseReaction 22078 22097	Potassium decreased
+T267	AdverseReaction 22176 22196	Creatinine increased
+T268	AdverseReaction 22275 22291	Sodium decreased
+T269	AdverseReaction 22370 22387	Albumin decreased
+T270	AdverseReaction 22466 22485	Bilirubin increased
+T271	AdverseReaction 22564 22583	Potassium increased
+T272	AdverseReaction 23294 23304	stomatitis
+T273	AdverseReaction 23306 23316	infections
+T274	AdverseReaction 23318 23326	asthenia
+T275	AdverseReaction 23328 23335	fatigue
+T276	AdverseReaction 23337 23342	cough
+T277	AdverseReaction 23348 23356	diarrhea
+T278	Severity 23374 23381	Grade 3
+T279	Severity 23374 23383	Grade 3-4
+T280	Severity 23374 23379;23382 23383	Grade 3-4
+T281	AdverseReaction 23425 23435	infections
+T282	AdverseReaction 23437 23444	dyspnea
+T283	AdverseReaction 23446 23453	fatigue
+T284	AdverseReaction 23455 23465	stomatitis
+T285	AdverseReaction 23467 23478	dehydration
+T286	AdverseReaction 23480 23491	pneumonitis
+T287	AdverseReaction 23493 23507	abdominal pain
+T288	AdverseReaction 23513 23521	asthenia
+T289	AdverseReaction 23588 23594	anemia
+T290	AdverseReaction 23596 23616	hypercholesterolemia
+T291	AdverseReaction 23640 23653	hyperglycemia
+T292	AdverseReaction 23655 23666	lymphopenia
+T293	AdverseReaction 23672 23692	increased creatinine
+T294	Severity 23710 23717	Grade 3
+T295	Severity 23710 23719	Grade 3-4
+T296	Severity 23710 23715;23718 23719	Grade 3-4
+T297	AdverseReaction 23768 23779	lymphopenia
+T298	AdverseReaction 23781 23794	hyperglycemia
+T299	AdverseReaction 23796 23802	anemia
+T300	AdverseReaction 23804 23820	hypophosphatemia
+T301	AdverseReaction 23826 23846	hypercholesterolemia
+T302	AdverseReaction 23848 23854	Deaths
+T303	AdverseReaction 23862 23887	acute respiratory failure
+T304	AdverseReaction 23896 23905	infection
+T305	AdverseReaction 23918 23937	acute renal failure
+T306	AdverseReaction 24303 24314	pneumonitis
+T307	AdverseReaction 24319 24326	dyspnea
+T308	AdverseReaction 24328 24338	Infections
+T309	AdverseReaction 24340 24350	stomatitis
+T310	AdverseReaction 24356 24367	pneumonitis
+T311	AdverseReaction 24518 24528	infections
+T312	AdverseReaction 24530 24536	anemia
+T313	AdverseReaction 24542 24552	stomatitis
+T314	AdverseReaction 25022 25032	Stomatitis
+T315	AdverseReaction 25044 25063	aphthous stomatitis
+T316	AdverseReaction 25070 25075;25087 25097	mouth and tongue ulceration
+T317	AdverseReaction 25080 25097	tongue ulceration
+T318	AdverseReaction 25215 25230	nasopharyngitis
+T319	AdverseReaction 25237 25246	pneumonia
+T320	AdverseReaction 25253 25276	urinary tract infection
+T321	AdverseReaction 25283 25293	bronchitis
+T322	AdverseReaction 25304 25313	sinusitis
+T323	AdverseReaction 25339 25352	aspergillosis
+T324	AdverseReaction 25360 25371	candidiasis
+T325	AdverseReaction 25383 25389	sepsis
+T326	AdverseReaction 25410 25421	pneumonitis
+T327	AdverseReaction 25423 25448	interstitial lung disease
+T328	AdverseReaction 25450 25467	lung infiltration
+T329	AdverseReaction 25469 25498	pulmonary alveolar hemorrhage
+T330	AdverseReaction 25500 25518	pulmonary toxicity
+T331	AdverseReaction 25524 25534	alveolitis
+T332	AdverseReaction 26058 26068	Stomatitis
+T333	AdverseReaction 26186 26194	Diarrhea
+T334	AdverseReaction 26308 26314	Nausea
+T335	AdverseReaction 26430 26438	Vomiting
+T336	AdverseReaction 26795 26803	Asthenia
+T337	AdverseReaction 26917 26924	Fatigue
+T338	AdverseReaction 27039 27055	Edema peripheral
+T339	AdverseReaction 27168 27175	Pyrexia
+T340	AdverseReaction 27290 27310	Mucosal inflammation
+T341	AdverseReaction 27500 27505	Cough
+T342	AdverseReaction 27622 27629	Dyspnea
+T343	AdverseReaction 27744 27753	Epistaxis
+T344	AdverseReaction 27866 27877	Pneumonitis
+T345	AdverseReaction 28063 28067	Rash
+T346	AdverseReaction 28185 28193	Pruritus
+T347	AdverseReaction 28307 28315	Dry skin
+T348	AdverseReaction 28486 28494	Anorexia
+T349	AdverseReaction 28655 28663	Headache
+T350	AdverseReaction 28777 28786	Dysgeusia
+T351	AdverseReaction 28976 28993	Pain in extremity
+T352	AdverseReaction 29374 29388	Abdominal pain
+T353	AdverseReaction 29395 29404	dry mouth
+T354	AdverseReaction 29411 29422	hemorrhoids
+T355	AdverseReaction 29429 29438	dysphagia
+T356	AdverseReaction 29508 29524	Weight decreased
+T357	AdverseReaction 29531 29541	chest pain
+T358	AdverseReaction 29548 29554	chills
+T359	AdverseReaction 29561 29583	impaired wound healing
+T360	AdverseReaction 29650 29666	Pleural effusion
+T361	AdverseReaction 29673 29695	pharyngolaryngeal pain
+T362	AdverseReaction 29702 29712	rhinorrhea
+T363	AdverseReaction 29768 29786	Hand-foot syndrome
+T364	AdverseReaction 29800 29842	palmar-plantar erythrodysesthesia syndrome
+T365	AdverseReaction 29850 29863	nail disorder
+T366	AdverseReaction 29870 29878	erythema
+T367	AdverseReaction 29885 29897	onychoclasis
+T368	AdverseReaction 29904 29915	skin lesion
+T369	AdverseReaction 29922 29942	acneiform dermatitis
+T370	AdverseReaction 29949 29959	angioedema
+T371	AdverseReaction 30012 30024;30041 30058	Exacerbation of pre-existing diabetes mellitus
+T372	AdverseReaction 30065 30095	new onset of diabetes mellitus
+T373	AdverseReaction 30136 30144	Insomnia
+T374	AdverseReaction 30186 30195	Dizziness
+T375	AdverseReaction 30202 30213	paresthesia
+T376	AdverseReaction 30244 30256	Eyelid edema
+T377	AdverseReaction 30263 30277	conjunctivitis
+T378	AdverseReaction 30313 30325	Hypertension
+T379	AdverseReaction 30332 30352	deep vein thrombosis
+T380	AdverseReaction 30399 30412	Renal failure
+T381	AdverseReaction 30447 30458	Tachycardia
+T382	AdverseReaction 30465 30491	congestive cardiac failure
+T383	AdverseReaction 30556 30564	Jaw pain
+T384	AdverseReaction 30603 30613	Hemorrhage
+T385	AdverseReaction 30909 30915	anemia
+T386	AdverseReaction 30917 30927	leukopenia
+T387	AdverseReaction 30929 30940	lymphopenia
+T388	AdverseReaction 30942 30953	neutropenia
+T389	AdverseReaction 30959 30975	thrombocytopenia
+T390	AdverseReaction 30990 31002	pancytopenia
+T391	AdverseReaction 31521 31541	Hemoglobin decreased
+T392	AdverseReaction 31654 31675	Lymphocytes decreased
+T393	AdverseReaction 31788 31807	Platelets decreased
+T394	AdverseReaction 31920 31941	Neutrophils decreased
+T395	AdverseReaction 32190 32211	Cholesterol increased
+T396	AdverseReaction 32324 32347	Triglycerides increased
+T397	AdverseReaction 32460 32477	Glucose increased
+T398	AdverseReaction 32590 32610	Creatinine increased
+T399	AdverseReaction 32723 32742	Phosphate decreased
+T400	AdverseReaction 32855 32877;32884 32893	Aspartate transaminase (AST) increased
+T401	AdverseReaction 32879 32882;32884 32893	AST) increased
+T402	AdverseReaction 33006 33026;33033 33042	Alanine transaminase (ALT) increased
+T403	AdverseReaction 33028 33031;33033 33042	ALT) increased
+T404	AdverseReaction 33155 33174	Bilirubin increased
+T405	AdverseReaction 33976 33986	stomatitis
+T406	AdverseReaction 34055 34065	stomatitis
+T407	AdverseReaction 34070 34080	amenorrhea
+T408	AdverseReaction 34147 34167	hypercholesterolemia
+T409	AdverseReaction 34169 34189	hypertriglyceridemia
+T410	AdverseReaction 34195 34201	anemia
+T411	AdverseReaction 34274 34290	hypophosphatemia
+T412	AdverseReaction 34488 34504	hypersensitivity
+T413	AdverseReaction 34505 34515	angioedema
+T414	AdverseReaction 34516 34528	bronchospasm
+T415	AdverseReaction 34530 34540	convulsion
+T416	AdverseReaction 34546 34562	hypophosphatemia
+T417	AdverseReaction 34755 34765	stomatitis
+T418	AdverseReaction 35176 35186	stomatitis
+T419	AdverseReaction 35188 35207	aphthous stomatitis
+T420	AdverseReaction 35209 35225	mouth ulceration
+T421	AdverseReaction 35227 35240	gingival pain
+T422	AdverseReaction 35242 35251	glossitis
+T423	AdverseReaction 35257 35268	glossodynia
+T424	AdverseReaction 35758 35768	Stomatitis
+T425	AdverseReaction 35886 35894	Vomiting
+T426	AdverseReaction 36008 36016	Diarrhea
+T427	AdverseReaction 36293 36309	Peripheral edema
+T428	AdverseReaction 36560 36593	Upper respiratory tract infection
+T429	AdverseReaction 36864 36874	Arthralgia
+T430	AdverseReaction 37145 37150	Cough
+T431	AdverseReaction 37416 37420	Acne
+T432	AdverseReaction 37544 37554	Amenorrhea
+T433	AdverseReaction 37729 37740	menorrhagia
+T434	AdverseReaction 37748 37772	menstrual irregularities
+T435	AdverseReaction 37784 37802	vaginal hemorrhage
+T436	AdverseReaction 37913 37922	epistaxis
+T437	AdverseReaction 37929 37947	decreased appetite
+T438	AdverseReaction 37954 37966	otitis media
+T439	AdverseReaction 37973 37983	depression
+T440	AdverseReaction 37990 38004	abnormal taste
+T441	AdverseReaction 38011 38046;38052 38058	increased blood luteinizing hormone (LH) levels
+T442	AdverseReaction 38011 38026;38048 38050;38052 38058	increased blood luteinizing hormone (LH) levels
+T443	AdverseReaction 38065 38109;38116 38122	increased blood follicle stimulating hormone (FSH) levels
+T444	AdverseReaction 38065 38080;38111 38114;38116 38122	increased blood follicle stimulating hormone (FSH) levels
+T445	AdverseReaction 38129 38145	hypersensitivity
+T446	AdverseReaction 38152 38164	ovarian cyst
+T447	AdverseReaction 38171 38182	pneumonitis
+T448	AdverseReaction 38193 38203	angioedema
+T449	AdverseReaction 38821 38831	Leucopenia
+T450	AdverseReaction 38944 38955	Neutropenia
+T451	AdverseReaction 39068 39079	Lymphopenia
+T452	AdverseReaction 39192 39208	Thrombocytopenia
+T453	AdverseReaction 39572 39592	Hypercholesterolemia
+T454	AdverseReaction 39705 39725	Hypertriglyceridemia
+T455	AdverseReaction 39838 39854	Hypophosphatemia
+T456	AdverseReaction 39967 39997	Alkaline phosphatase increased
+T457	AdverseReaction 40110 40141	Elevated aspartate transaminase
+T458	AdverseReaction 40110 40118;40143 40146	Elevated aspartate transaminase (AST
+T459	AdverseReaction 40260 40289	Elevated alanine transaminase
+T460	AdverseReaction 40260 40268;40291 40294	Elevated alanine transaminase (ALT
+T461	AdverseReaction 40408 40429	Fasting hyperglycemia
+T462	AdverseReaction 41248 41258	stomatitis
+T463	AdverseReaction 41263 41290	respiratory tract infection
+T464	Severity 41308 41315	Grade 3
+T465	Severity 41308 41317	Grade 3-4
+T466	Severity 41308 41313;41316 41317	Grade 3-4
+T467	AdverseReaction 41359 41369	stomatitis
+T468	AdverseReaction 41371 41378	pyrexia
+T469	AdverseReaction 41380 41389	pneumonia
+T470	AdverseReaction 41391 41406	gastroenteritis
+T471	AdverseReaction 41408 41418	aggression
+T472	AdverseReaction 41420 41429	agitation
+T473	AdverseReaction 41435 41445	amenorrhea
+T474	AdverseReaction 41516 41536	hypercholesterolemia
+T475	AdverseReaction 41541 41577	elevated partial thromboplastin time
+T476	Severity 41595 41602	Grade 3
+T477	Severity 41595 41604	Grade 3-4
+T478	Severity 41595 41600;41603 41604	Grade 3-4
+T479	AdverseReaction 41650 41661	neutropenia
+T480	AdverseReaction 41930 41940	stomatitis
+T481	AdverseReaction 42348 42364	mouth ulceration
+T482	AdverseReaction 42366 42376	stomatitis
+T483	AdverseReaction 42382 42396	lip ulceration
+T484	AdverseReaction 42410 42437	respiratory tract infection
+T485	AdverseReaction 42439 42472	upper respiratory tract infection
+T486	AdverseReaction 42478 42511	respiratory tract infection viral
+T487	AdverseReaction 42525 42540	gastroenteritis
+T488	AdverseReaction 42542 42563	gastroenteritis viral
+T489	AdverseReaction 42569 42595	gastrointestinal infection
+T490	AdverseReaction 42609 42618	agitation
+T491	AdverseReaction 42620 42627	anxiety
+T492	AdverseReaction 42629 42641	panic attack
+T493	AdverseReaction 42643 42653	aggression
+T494	AdverseReaction 42655 42672	abnormal behavior
+T495	AdverseReaction 42678 42707	obsessive compulsive disorder
+T496	AdverseReaction 42721 42725	rash
+T497	AdverseReaction 42727 42743	rash generalized
+T498	AdverseReaction 42745 42757	rash macular
+T499	AdverseReaction 42759 42778	rash maculo-papular
+T500	AdverseReaction 42780 42792	rash papular
+T501	AdverseReaction 42794 42813	dermatitis allergic
+T502	AdverseReaction 42819 42828	urticaria
+T503	AdverseReaction 43307 43317	Stomatitis
+T504	AdverseReaction 43435 43443	Vomiting
+T505	AdverseReaction 43557 43565	Diarrhea
+T506	AdverseReaction 43679 43691	Constipation
+T507	AdverseReaction 43942 43969	Respiratory tract infection
+T508	AdverseReaction 44087 44102	Gastroenteritis
+T509	AdverseReaction 44521 44528	Pyrexia
+T510	AdverseReaction 44643 44650	Fatigue
+T511	AdverseReaction 44897 44904	Anxiety
+T512	AdverseReaction 44906 44916	aggression
+T513	AdverseReaction 44926 44948	behavioral disturbance
+T514	AdverseReaction 45215 45219	Rash
+T515	AdverseReaction 45337 45341	Acne
+T516	AdverseReaction 45465 45475	Amenorrhea
+T517	AdverseReaction 45659 45682	menstrual abnormalities
+T518	AdverseReaction 45698 45710	dysmenorrhea
+T519	AdverseReaction 45717 45728	menorrhagia
+T520	AdverseReaction 45735 45747	metrorrhagia
+T521	AdverseReaction 45758 45792	unspecified menstrual irregularity
+T522	AdverseReaction 45902 45908	nausea
+T523	AdverseReaction 45915 45932	pain in extremity
+T524	AdverseReaction 45939 45947	insomnia
+T525	AdverseReaction 45954 45963	pneumonia
+T526	AdverseReaction 45970 45979	epistaxis
+T527	AdverseReaction 45986 46002	hypersensitivity
+T528	AdverseReaction 46009 46044;46050 46056	increased blood luteinizing hormone (LH) levels
+T529	AdverseReaction 46009 46024;46046 46048;46050 46056	increased blood luteinizing hormone (LH) levels
+T530	AdverseReaction 46066 46077	pneumonitis
+T531	AdverseReaction 46559 46595	Elevated partial thromboplastin time
+T532	AdverseReaction 46708 46719	Neutropenia
+T533	AdverseReaction 46832 46838	Anemia
+T534	AdverseReaction 47083 47103	Hypercholesterolemia
+T535	AdverseReaction 47216 47247	Elevated aspartate transaminase
+T536	AdverseReaction 47216 47224;47249 47252	Elevated aspartate transaminase (AST
+T537	AdverseReaction 47366 47386	Hypertriglyceridemia
+T538	AdverseReaction 47499 47528	Elevated alanine transaminase
+T539	AdverseReaction 47499 47507;47530 47533	Elevated alanine transaminase (ALT
+T540	AdverseReaction 47647 47663	Hypophosphatemia
+T541	AdverseReaction 47995 48005	cellulitis
+T542	AdverseReaction 48013 48026	hyperglycemia
+T543	AdverseReaction 48038 48057	elevated creatinine
+T544	AdverseReaction 48394 48412	acute pancreatitis
+T545	AdverseReaction 48414 48427	cholecystitis
+T546	AdverseReaction 48429 48443	cholelithiasis
+T547	AdverseReaction 48445 48471	arterial thrombotic events
+T548	AdverseReaction 48476 48504	reflex sympathetic dystrophy
+T549	AdverseReaction 48562 48588	Non-infectious pneumonitis
+T550	AdverseReaction 48645 48650	fatal
+T551	AdverseReaction 48792 48802	Infections
+T552	Factor 48814 48818	risk
+T553	AdverseReaction 48822 48832	infections
+T554	AdverseReaction 48839 48844	fatal
+T555	AdverseReaction 48913 48923	Angioedema
+T556	AdverseReaction 49031 49046	Oral ulceration
+T557	AdverseReaction 49048 49060	Mouth ulcers
+T558	AdverseReaction 49062 49072	stomatitis
+T559	AdverseReaction 49078 49092	oral mucositis
+T560	AdverseReaction 49176 49189	Renal failure
+T561	AdverseReaction 49200 49213	renal failure
+T562	AdverseReaction 49225 49244	acute renal failure
+T563	AdverseReaction 49259 49264	fatal
+T564	AdverseReaction 49309 49331	Impaired wound healing
+T565	Factor 49343 49347	risk
+T566	AdverseReaction 49351 49378	wound-related complications
+T567	AdverseReaction 49498 49528	Elevations of serum creatinine
+T568	AdverseReaction 49498 49508;49530 49545	Elevations of serum creatinine, urinary protein
+T569	AdverseReaction 49498 49508;49547 49560	Elevations of serum creatinine, urinary protein, blood glucose
+T570	AdverseReaction 49498 49508;49566 49572	Elevations of serum creatinine, urinary protein, blood glucose, and lipids
+T571	AdverseReaction 49584 49607	Decreases in hemoglobin
+T572	AdverseReaction 49584 49596;49609 49620	Decreases in hemoglobin, neutrophils
+T573	AdverseReaction 49584 49596;49626 49635	Decreases in hemoglobin, neutrophils, and platelets
+T574	Factor 49636 49639	may
+T575	AdverseReaction 49901 49922	Embryo-fetal toxicity
+T576	AdverseReaction 49924 49934	Fetal harm
+T577	Factor 49935 49938	can
+T578	AdverseReaction 50101 50127	Non-infectious pneumonitis
+T579	AdverseReaction 50192 50218	Non-infectious pneumonitis
+T580	Severity 50350 50357	Grade 3
+T581	Severity 50350 50355;50362 50363	Grade 3 and 4
+T582	AdverseReaction 50364 50390	non-infectious pneumonitis
+T583	AdverseReaction 50364 50390	non-infectious pneumonitis
+T584	AdverseReaction 50489 50494	Fatal
+T585	Factor 50528 50536	Consider
+T586	Factor 51377 51386	indicated
+T587	AdverseReaction 52226 52237	pneumonitis
+T588	Factor 52357 52360	may
+T589	AdverseReaction 52384 52393;52423 52433	bacterial, fungal, viral, or protozoal infections
+T590	AdverseReaction 52395 52401;52423 52433	fungal, viral, or protozoal infections
+T591	AdverseReaction 52403 52408;52423 52433	viral, or protozoal infections
+T592	AdverseReaction 52413 52433	protozoal infections
+T593	AdverseReaction 52445 52484	infections with opportunistic pathogens
+T594	AdverseReaction 52583 52592	pneumonia
+T595	AdverseReaction 52594 52618	mycobacterial infections
+T596	AdverseReaction 52626 52646	bacterial infections
+T597	AdverseReaction 52648 52674	invasive fungal infections
+T598	AdverseReaction 52684 52697	aspergillosis
+T599	AdverseReaction 52699 52710	candidiasis
+T600	AdverseReaction 52715 52746	pneumocystis jiroveci pneumonia
+T601	AdverseReaction 52748 52751	PJP
+T602	AdverseReaction 52757 52773	viral infections
+T603	AdverseReaction 52784 52817	reactivation of hepatitis B virus
+T604	AdverseReaction 52875 52885	infections
+T605	Severity 52896 52902	severe
+T606	AdverseReaction 52921 52927	sepsis
+T607	AdverseReaction 52929 52940;52952 52959	respiratory or hepatic failure
+T608	AdverseReaction 52944 52959	hepatic failure
+T609	AdverseReaction 52964 52969	fatal
+T610	AdverseReaction 53511 53542	Pneumocystis jiroveci pneumonia
+T611	AdverseReaction 53556 53561	fatal
+T612	Factor 54026 54030	risk
+T613	AdverseReaction 54035 54045	angioedema
+T614	AdverseReaction 54053 54076	swelling of the airways
+T615	AdverseReaction 54053 54068;54080 54086	swelling of the airways or tongue
+T616	AdverseReaction 54104 54126	respiratory impairment
+T617	AdverseReaction 54220 54230	angioedema
+T618	AdverseReaction 54389 54401	Mouth ulcers
+T619	AdverseReaction 54403 54413	stomatitis
+T620	AdverseReaction 54419 54433	oral mucositis
+T621	Severity 54557 54564	Grade 3
+T622	Severity 54557 54562;54568 54569	Grade 3 or 4
+T623	AdverseReaction 54570 54580	stomatitis
+T624	AdverseReaction 55007 55020	renal failure
+T625	AdverseReaction 55032 55051	acute renal failure
+T626	AdverseReaction 55066 55071	fatal
+T627	AdverseReaction 55235 55255	delays wound healing
+T628	AdverseReaction 55288 55315	wound-related complications
+T629	AdverseReaction 55321 55337	wound dehiscence
+T630	AdverseReaction 55339 55354	wound infection
+T631	AdverseReaction 55356 55373	incisional hernia
+T632	AdverseReaction 55375 55385	lymphocele
+T633	AdverseReaction 55391 55397	seroma
+T634	AdverseReaction 55684 55690	deaths
+T635	AdverseReaction 56232 56262	Elevations of serum creatinine
+T636	AdverseReaction 56267 56278	proteinuria
+T637	AdverseReaction 56762 56775	Hyperglycemia
+T638	AdverseReaction 56777 56791	hyperlipidemia
+T639	AdverseReaction 56797 56817	hypertriglyceridemia
+T640	AdverseReaction 57372 57392	Decreased hemoglobin
+T641	AdverseReaction 57372 57381;57394 57405	Decreased hemoglobin, lymphocytes
+T642	AdverseReaction 57372 57381;57407 57418	Decreased hemoglobin, lymphocytes, neutrophils
+T643	AdverseReaction 57372 57381;57424 57433	Decreased hemoglobin, lymphocytes, neutrophils, and platelets
+T644	AdverseReaction 58354 58372	hepatic impairment
+T645	Severity 58514 58520	severe
+T646	AdverseReaction 58521 58539	hepatic impairment
+T647	Factor 59944 59947	can
+T648	AdverseReaction 59954 59964	fetal harm
+T649	AdverseReaction 59984 60007	embryo-fetal toxicities
+T650	Animal 60011 60018	animals
+R1	Effect arg1:T31 arg2:T30
+R2	Effect arg1:T31 arg2:T29
+R3	Effect arg1:T32 arg2:T30
+R4	Effect arg1:T32 arg2:T29
+R5	Effect arg1:T33 arg2:T29
+R6	Effect arg1:T33 arg2:T30
+R7	Effect arg1:T34 arg2:T29
+R8	Effect arg1:T34 arg2:T30
+R9	Effect arg1:T35 arg2:T29
+R10	Effect arg1:T35 arg2:T30
+R11	Effect arg1:T36 arg2:T29
+R12	Effect arg1:T36 arg2:T30
+R13	Effect arg1:T37 arg2:T30
+R14	Effect arg1:T37 arg2:T29
+R15	Effect arg1:T139 arg2:T136
+R16	Effect arg1:T139 arg2:T137
+R17	Effect arg1:T139 arg2:T138
+R18	Effect arg1:T140 arg2:T136
+R19	Effect arg1:T140 arg2:T137
+R20	Effect arg1:T140 arg2:T138
+R21	Effect arg1:T151 arg2:T150
+R22	Effect arg1:T151 arg2:T149
+R23	Effect arg1:T151 arg2:T148
+R24	Effect arg1:T152 arg2:T150
+R25	Effect arg1:T152 arg2:T149
+R26	Effect arg1:T152 arg2:T148
+R27	Effect arg1:T153 arg2:T148
+R28	Effect arg1:T153 arg2:T149
+R29	Effect arg1:T153 arg2:T150
+R30	Effect arg1:T154 arg2:T149
+R31	Effect arg1:T154 arg2:T148
+R32	Effect arg1:T154 arg2:T150
+R33	Effect arg1:T155 arg2:T148
+R34	Effect arg1:T155 arg2:T149
+R35	Effect arg1:T155 arg2:T150
+R36	Effect arg1:T156 arg2:T148
+R37	Effect arg1:T156 arg2:T149
+R38	Effect arg1:T156 arg2:T150
+R39	Effect arg1:T157 arg2:T148
+R40	Effect arg1:T157 arg2:T149
+R41	Effect arg1:T157 arg2:T150
+R42	Effect arg1:T159 arg2:T148
+R43	Effect arg1:T159 arg2:T149
+R44	Effect arg1:T159 arg2:T150
+R45	Effect arg1:T160 arg2:T149
+R46	Effect arg1:T160 arg2:T148
+R47	Effect arg1:T160 arg2:T150
+R48	Negated arg1:T170 arg2:T172
+R49	Negated arg1:T171 arg2:T172
+R50	Effect arg1:T181 arg2:T179
+R51	Effect arg1:T181 arg2:T180
+R52	Effect arg1:T281 arg2:T280
+R53	Effect arg1:T281 arg2:T279
+R54	Effect arg1:T281 arg2:T278
+R55	Effect arg1:T282 arg2:T280
+R56	Effect arg1:T282 arg2:T279
+R57	Effect arg1:T282 arg2:T278
+R58	Effect arg1:T283 arg2:T278
+R59	Effect arg1:T283 arg2:T279
+R60	Effect arg1:T283 arg2:T280
+R61	Effect arg1:T284 arg2:T280
+R62	Effect arg1:T284 arg2:T279
+R63	Effect arg1:T284 arg2:T278
+R64	Effect arg1:T285 arg2:T280
+R65	Effect arg1:T285 arg2:T279
+R66	Effect arg1:T285 arg2:T278
+R67	Effect arg1:T286 arg2:T280
+R68	Effect arg1:T286 arg2:T279
+R69	Effect arg1:T286 arg2:T278
+R70	Effect arg1:T287 arg2:T280
+R71	Effect arg1:T287 arg2:T279
+R72	Effect arg1:T287 arg2:T278
+R73	Effect arg1:T288 arg2:T280
+R74	Effect arg1:T288 arg2:T278
+R75	Effect arg1:T288 arg2:T279
+R76	Effect arg1:T297 arg2:T296
+R77	Effect arg1:T297 arg2:T295
+R78	Effect arg1:T297 arg2:T294
+R79	Effect arg1:T298 arg2:T296
+R80	Effect arg1:T298 arg2:T295
+R81	Effect arg1:T298 arg2:T294
+R82	Effect arg1:T299 arg2:T296
+R83	Effect arg1:T299 arg2:T295
+R84	Effect arg1:T299 arg2:T294
+R85	Effect arg1:T300 arg2:T296
+R86	Effect arg1:T300 arg2:T295
+R87	Effect arg1:T300 arg2:T294
+R88	Effect arg1:T301 arg2:T296
+R89	Effect arg1:T301 arg2:T294
+R90	Effect arg1:T301 arg2:T295
+R91	Effect arg1:T467 arg2:T464
+R92	Effect arg1:T467 arg2:T466
+R93	Effect arg1:T467 arg2:T465
+R94	Effect arg1:T468 arg2:T464
+R95	Effect arg1:T468 arg2:T465
+R96	Effect arg1:T468 arg2:T466
+R97	Effect arg1:T469 arg2:T466
+R98	Effect arg1:T469 arg2:T464
+R99	Effect arg1:T469 arg2:T465
+R100	Effect arg1:T470 arg2:T466
+R101	Effect arg1:T470 arg2:T465
+R102	Effect arg1:T470 arg2:T464
+R103	Effect arg1:T471 arg2:T466
+R104	Effect arg1:T471 arg2:T464
+R105	Effect arg1:T471 arg2:T465
+R106	Effect arg1:T472 arg2:T466
+R107	Effect arg1:T472 arg2:T464
+R108	Effect arg1:T472 arg2:T465
+R109	Effect arg1:T473 arg2:T466
+R110	Effect arg1:T473 arg2:T464
+R111	Effect arg1:T473 arg2:T465
+R112	Effect arg1:T479 arg2:T477
+R113	Effect arg1:T479 arg2:T476
+R114	Effect arg1:T479 arg2:T478
+R115	Hypothetical arg1:T553 arg2:T552
+R116	Hypothetical arg1:T566 arg2:T565
+R117	Hypothetical arg1:T571 arg2:T574
+R118	Hypothetical arg1:T572 arg2:T574
+R119	Hypothetical arg1:T573 arg2:T574
+R120	Hypothetical arg1:T576 arg2:T577
+R121	Effect arg1:T582 arg2:T581
+R122	Effect arg1:T583 arg2:T580
+R123	Hypothetical arg1:T589 arg2:T588
+R124	Hypothetical arg1:T590 arg2:T588
+R125	Hypothetical arg1:T591 arg2:T588
+R126	Effect arg1:T604 arg2:T605
+R127	Hypothetical arg1:T613 arg2:T612
+R128	Hypothetical arg1:T614 arg2:T612
+R129	Hypothetical arg1:T615 arg2:T612
+R130	Hypothetical arg1:T616 arg2:T612
+R131	Effect arg1:T623 arg2:T621
+R132	Effect arg1:T623 arg2:T622
+R133	Effect arg1:T646 arg2:T645
+R134	Hypothetical arg1:T648 arg2:T647
+R135	Hypothetical arg1:T649 arg2:T650
+N1	Reference T1 meddra:10035742	Pneumonitis
+N2	Reference T2 meddra:10021789	Infection
+N3	Reference T3 meddra:10002424	Angioedema
+N4	Reference T4 meddra:10028034	Mouth ulceration
+N5	Reference T5 meddra:10038435	Renal failure
+N6	Reference T6 meddra:10021519	Impaired healing
+N7	Reference T7 meddra:10042128	Stomatitis
+N8	Reference T9 meddra:10037844	Rash
+N9	Reference T10 meddra:10016256	Fatigue
+N10	Reference T11 meddra:10012735	Diarrhoea
+N11	Reference T12 meddra:10030095	Oedema
+N12	Reference T13 meddra:10000081	Abdominal pain
+N13	Reference T14 meddra:10028813	Nausea
+N14	Reference T15 meddra:10037660	Pyrexia
+N15	Reference T16 meddra:10003549	Asthenia
+N16	Reference T17 meddra:10011224	Cough
+N17	Reference T18 meddra:10019211	Headache
+N18	Reference T19 meddra:10061428	Decreased appetite
+N19	Reference T22 meddra:10062352	Respiratory tract infection
+N20	Reference T33 meddra:10020635	Hyperglycaemia
+N21	Reference T35 meddra:10013968	Dyspnoea
+N22	Reference T36 meddra:10035742	Pneumonitis
+N23	Reference T38 meddra:10020603	Hypercholesterolaemia
+N24	Reference T40 meddra:10003481	Aspartate aminotransferase increased
+N25	Reference T41 meddra:10003481	Aspartate aminotransferase increased
+N26	Reference T42 meddra:10002034	Anaemia
+N27	Reference T43 meddra:10024384	Leukopenia
+N28	Reference T44 meddra:10043554	Thrombocytopenia
+N29	Reference T45 meddra:10025327	Lymphopenia
+N30	Reference T46 meddra:10001551	Alanine aminotransferase increased
+N31	Reference T47 meddra:10001551	Alanine aminotransferase increased
+N32	Reference T48 meddra:10020869	Hypertriglyceridaemia
+N33	Reference T52 meddra:10005724	Blood potassium decreased
+N34	Reference T56 meddra:10011906	Death
+N35	Reference T58 meddra:10028034	Mouth ulceration
+N36	Reference T59 meddra:10002959	Aphthous ulcer
+N37	Reference T60 meddra:10018388	Glossodynia
+N38	Reference T61 meddra:10018286	Gingival pain
+N39	Reference T62 meddra:10018386	Glossitis
+N40	Reference T63 meddra:10024572	Lip ulceration
+N41	Reference T64 meddra:10028810	Nasopharyngitis
+N42	Reference T65 meddra:10046571	Urinary tract infection
+N43	Reference T66 meddra:10046306	Upper respiratory tract infection
+N44	Reference T67 meddra:10035664	Pneumonia
+N45	Reference T68 meddra:10006451	Bronchitis
+N46	Reference T69 meddra:10011781	Cystitis
+N47	Reference T70 meddra:10040753	Sinusitis
+N48	Reference T71 meddra:10074170	Candida infection
+N49	Reference T72 meddra:10040047	Sepsis
+N50	Reference T73 meddra:10019744	Hepatitis C
+N51	Reference T75 meddra:10022611	Interstitial lung disease
+N52	Reference T76 meddra:10025102	Lung infiltration
+N53	Reference T77 meddra:10037383	Pulmonary fibrosis
+N54	Reference T81 meddra:10047700	Vomiting
+N55	Reference T82 meddra:10010774	Constipation
+N56	Reference T83 meddra:10013781	Dry mouth
+N57	Reference T85 meddra:10030124	Oedema peripheral
+N58	Reference T86 meddra:10037660	Pyrexia
+N59	Reference T89 meddra:10047895	Weight decreased
+N60	Reference T92 meddra:10003239	Arthralgia
+N61	Reference T93 meddra:10003988	Back pain
+N62	Reference T94 meddra:10033425	Pain in extremity
+N63	Reference T95 meddra:10013911	Dysgeusia
+N64	Reference T97 meddra:10022437	Insomnia
+N65	Reference T100 meddra:10015090	Epistaxis
+N66	Reference T103 meddra:10037087	Pruritus
+N67	Reference T104 meddra:10001760	Alopecia
+N68	Reference T105 meddra:10060800	Hot flush
+N69	Reference T109 meddra:10029354	Neutropenia
+N70	Reference T111 meddra:10033661	Pancytopenia
+N71	Reference T112 meddra:10018884	Haemoglobin decreased
+N72	Reference T113 meddra:10047942	White blood cell count decreased
+N73	Reference T114 meddra:10035528	Platelet count decreased
+N74	Reference T115 meddra:10025256	Lymphocyte count decreased
+N75	Reference T116 meddra:10029366	Neutrophil count decreased
+N76	Reference T117 meddra:10005557	Blood glucose increased
+N77	Reference T118 meddra:10005425	Blood cholesterol increased
+N78	Reference T119 meddra:10003481	Aspartate aminotransferase increased
+N79	Reference T120 meddra:10003481	Aspartate aminotransferase increased
+N80	Reference T121 meddra:10001551	Alanine aminotransferase increased
+N81	Reference T122 meddra:10001551	Alanine aminotransferase increased
+N82	Reference T123 meddra:10005839	Blood triglycerides increased
+N83	Reference T124 meddra:10005287	Blood albumin decreased
+N84	Reference T125 meddra:10005724	Blood potassium decreased
+N85	Reference T126 meddra:10005483	Blood creatinine increased
+N86	Reference T141 meddra:10018884	Haemoglobin decreased
+N87	Reference T143 meddra:10059570	Blood alkaline phosphatase increased
+N88	Reference T145 meddra:10005359	Blood bicarbonate decreased
+N89	Reference T154 meddra:10021058	Hypophosphataemia
+N90	Reference T155 meddra:10059570	Blood alkaline phosphatase increased
+N91	Reference T161 meddra:10011906	Death
+N92	Reference T162 meddra:10011906	Death
+N93	Reference T163 meddra:10069339	Acute kidney injury
+N94	Reference T164 meddra:10001052	Acute respiratory distress syndrome
+N95	Reference T165 meddra:10007515	Cardiac arrest
+N96	Reference T167 meddra:10019663	Hepatic failure
+N97	Reference T174 meddra:10020993	Hypoglycaemia
+N98	Reference T176 meddra:10028596	Myocardial infarction
+N99	Reference T177 meddra:10007559	Cardiac failure congestive
+N100	Reference T178 meddra:10042434	Sudden death
+N101	Reference T182 meddra:10043607	Thrombosis
+N102	Reference T183 meddra:10037377	Pulmonary embolism
+N103	Reference T184 meddra:10043607	Thrombosis
+N104	Reference T188 meddra:10018291	Gingival swelling
+N105	Reference T189 meddra:10049398	Gingival ulceration
+N106	Reference T194 meddra:10043991	Tongue ulceration
+N107	Reference T195 meddra:10028116	Mucosal inflammation
+N108	Reference T197 meddra:10014866	Enteritis
+N109	Reference T198 meddra:10014893	Enterocolitis
+N110	Reference T199 meddra:10009887	Colitis
+N111	Reference T200 meddra:10012110	Defaecation urgency
+N112	Reference T201 meddra:10041969	Steatorrhoea
+N113	Reference T205 meddra:10048667	Restrictive pulmonary disease
+N114	Reference T214 meddra:10025482	Malaise
+N115	Reference T215 meddra:10018092	Generalised oedema
+N116	Reference T220 meddra:10039083	Rhinitis
+N117	Reference T221 meddra:10046306	Upper respiratory tract infection
+N118	Reference T225 meddra:10012601	Diabetes mellitus
+N119	Reference T229 meddra:10028334	Muscle spasms
+N120	Reference T231 meddra:10027599	Migraine
+N121	Reference T233 meddra:10013573	Dizziness
+N122	Reference T236 meddra:10036790	Productive cough
+N123	Reference T239 meddra:10013971	Dyspnoea exertional
+N124	Reference T241 meddra:10068319	Oropharyngeal pain
+N125	Reference T243 meddra:10028694	Nail disorder
+N126	Reference T245 meddra:10052576	Pruritus generalised
+N127	Reference T246 meddra:10013786	Dry skin
+N128	Reference T247 meddra:10048218	Xeroderma
+N129	Reference T248 meddra:10020772	Hypertension
+N130	Reference T249 meddra:10027339	Menstruation irregular
+N131	Reference T256 meddra:10005557	Blood glucose increased
+N132	Reference T263 meddra:10049471	Blood phosphorus decreased
+N133	Reference T265 meddra:10005395	Blood calcium decreased
+N134	Reference T268 meddra:10005802	Blood sodium decreased
+N135	Reference T270 meddra:10005364	Blood bilirubin increased
+N136	Reference T271 meddra:10005725	Blood potassium increased
+N137	Reference T285 meddra:10012174	Dehydration
+N138	Reference T293 meddra:10005483	Blood creatinine increased
+N139	Reference T303 meddra:10001053	Acute respiratory failure
+N140	Reference T304 meddra:10021789	Infection
+N141	Reference T323 meddra:10074171	Aspergillus infection
+N142	Reference T329 meddra:10037313	Pulmonary alveolar haemorrhage
+N143	Reference T330 meddra:10061924	Pulmonary toxicity
+N144	Reference T331 meddra:10001889	Alveolitis
+N145	Reference T348 meddra:10061428	Decreased appetite
+N146	Reference T354 meddra:10019022	Haemorrhoids
+N147	Reference T355 meddra:10013950	Dysphagia
+N148	Reference T357 meddra:10008479	Chest pain
+N149	Reference T358 meddra:10008531	Chills
+N150	Reference T360 meddra:10035598	Pleural effusion
+N151	Reference T361 meddra:10023848	Laryngeal pain
+N152	Reference T362 meddra:10039101	Rhinorrhoea
+N153	Reference T363 meddra:10033553	Palmar-plantar erythrodysaesthesia syndrome
+N154	Reference T364 meddra:10033553	Palmar-plantar erythrodysaesthesia syndrome
+N155	Reference T365 meddra:10028694	Nail disorder
+N156	Reference T366 meddra:10015150	Erythema
+N157	Reference T367 meddra:10048886	Onychoclasis
+N158	Reference T368 meddra:10040882	Skin lesion
+N159	Reference T369 meddra:10012432	Dermatitis acneiform
+N160	Reference T371 meddra:10012601	Diabetes mellitus
+N161	Reference T372 meddra:10012601	Diabetes mellitus
+N162	Reference T375 meddra:10033775	Paraesthesia
+N163	Reference T376 meddra:10015993	Eyelid oedema
+N164	Reference T377 meddra:10010741	Conjunctivitis
+N165	Reference T379 meddra:10051055	Deep vein thrombosis
+N166	Reference T381 meddra:10043071	Tachycardia
+N167	Reference T382 meddra:10007559	Cardiac failure congestive
+N168	Reference T383 meddra:10033433	Pain in jaw
+N169	Reference T384 meddra:10055798	Haemorrhage
+N170	Reference T407 meddra:10001928	Amenorrhoea
+N171	Reference T412 meddra:10020751	Hypersensitivity
+N172	Reference T414 meddra:10006482	Bronchospasm
+N173	Reference T415 meddra:10039906	Seizure
+N174	Reference T427 meddra:10030124	Oedema peripheral
+N175	Reference T431 meddra:10000496	Acne
+N176	Reference T433 meddra:10027313	Menorrhagia
+N177	Reference T434 meddra:10027339	Menstruation irregular
+N178	Reference T435 meddra:10046910	Vaginal haemorrhage
+N179	Reference T438 meddra:10033078	Otitis media
+N180	Reference T439 meddra:10012378	Depression
+N181	Reference T440 meddra:10013911	Dysgeusia
+N182	Reference T441 meddra:10005649	Blood luteinising hormone increased
+N183	Reference T442 meddra:10005649	Blood luteinising hormone increased
+N184	Reference T443 meddra:10005534	Blood follicle stimulating hormone increased
+N185	Reference T444 meddra:10005534	Blood follicle stimulating hormone increased
+N186	Reference T446 meddra:10033132	Ovarian cyst
+N187	Reference T449 meddra:10024384	Leukopenia
+N188	Reference T457 meddra:10003481	Aspartate aminotransferase increased
+N189	Reference T458 meddra:10003481	Aspartate aminotransferase increased
+N190	Reference T459 meddra:10001551	Alanine aminotransferase increased
+N191	Reference T460 meddra:10001551	Alanine aminotransferase increased
+N192	Reference T461 meddra:10020635	Hyperglycaemia
+N193	Reference T470 meddra:10017888	Gastroenteritis
+N194	Reference T471 meddra:10001488	Aggression
+N195	Reference T472 meddra:10001497	Agitation
+N196	Reference T475 meddra:10000636	Activated partial thromboplastin time prolonged
+N197	Reference T486 meddra:10062106	Respiratory tract infection viral
+N198	Reference T488 meddra:10017918	Gastroenteritis viral
+N199	Reference T489 meddra:10017964	Gastrointestinal infection
+N200	Reference T491 meddra:10002855	Anxiety
+N201	Reference T492 meddra:10033664	Panic attack
+N202	Reference T494 meddra:10061422	Abnormal behaviour
+N203	Reference T495 meddra:10029898	Obsessive-compulsive disorder
+N204	Reference T497 meddra:10037858	Rash generalised
+N205	Reference T498 meddra:10037867	Rash macular
+N206	Reference T499 meddra:10037868	Rash maculo-papular
+N207	Reference T500 meddra:10037876	Rash papular
+N208	Reference T501 meddra:10012434	Dermatitis allergic
+N209	Reference T502 meddra:10046735	Urticaria
+N210	Reference T513 meddra:10061422	Abnormal behaviour
+N211	Reference T517 meddra:10027327	Menstrual disorder
+N212	Reference T518 meddra:10013935	Dysmenorrhoea
+N213	Reference T520 meddra:10027514	Metrorrhagia
+N214	Reference T521 meddra:10027339	Menstruation irregular
+N215	Reference T541 meddra:10007882	Cellulitis
+N216	Reference T543 meddra:10005483	Blood creatinine increased
+N217	Reference T544 meddra:10033647	Pancreatitis acute
+N218	Reference T545 meddra:10008612	Cholecystitis
+N219	Reference T546 meddra:10008629	Cholelithiasis
+N220	Reference T547 meddra:10003178	Arterial thrombosis
+N221	Reference T548 meddra:10064332	Complex regional pain syndrome
+N222	Reference T557 meddra:10028034	Mouth ulceration
+N223	Reference T559 meddra:10042128	Stomatitis
+N224	Reference T566 meddra:10053692	Wound complication
+N225	Reference T567 meddra:10005483	Blood creatinine increased
+N226	Reference T568 meddra:10053123	Protein urine present
+N227	Reference T569 meddra:10005557	Blood glucose increased
+N228	Reference T570 meddra:10024592	Lipids increased
+N229	Reference T571 meddra:10018884	Haemoglobin decreased
+N230	Reference T572 meddra:10029366	Neutrophil count decreased
+N231	Reference T573 meddra:10035528	Platelet count decreased
+N232	Reference T575 meddra:10026923	Maternal drugs affecting foetus
+N233	Reference T576 meddra:10016852	Foetal damage
+N234	Reference T589 meddra:10060945	Bacterial infection
+N235	Reference T590 meddra:10017533	Fungal infection
+N236	Reference T591 meddra:10047461	Viral infection
+N237	Reference T592 meddra:10021859	Infection protozoal
+N238	Reference T593 meddra:10030901	Opportunistic infection
+N239	Reference T595 meddra:10062207	Mycobacterial infection
+N240	Reference T597 meddra:10052366	Systemic mycosis
+N241	Reference T600 meddra:10073755	Pneumocystis jirovecii pneumonia
+N242	Reference T601 meddra:10073755	Pneumocystis jirovecii pneumonia
+N243	Reference T603 meddra:10019731	Hepatitis B
+N244	Reference T607 meddra:10038695	Respiratory failure
+N245	Reference T614 meddra:10070774	Respiratory tract oedema
+N246	Reference T615 meddra:10042727	Swollen tongue
+N247	Reference T616 meddra:10025082	Lung disorder
+N248	Reference T627 meddra:10021519	Impaired healing
+N249	Reference T629 meddra:10048031	Wound dehiscence
+N250	Reference T630 meddra:10048038	Wound infection
+N251	Reference T631 meddra:10021619	Incisional hernia
+N252	Reference T632 meddra:10048642	Lymphocele
+N253	Reference T633 meddra:10040102	Seroma
+N254	Reference T636 meddra:10037032	Proteinuria
+N255	Reference T638 meddra:10062060	Hyperlipidaemia
+N256	Reference T641 meddra:10025256	Lymphocyte count decreased
+N257	Reference T642 meddra:10029366	Neutrophil count decreased
+N258	Reference T643 meddra:10035528	Platelet count decreased
+N259	Reference T644 meddra:10024670	Liver disorder

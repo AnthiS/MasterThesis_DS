@@ -1,0 +1,76 @@
+T1	AdverseReaction 76 82	nausea
+T2	AdverseReaction 90 98	vomiting
+T3	AdverseReaction 105 119	abdominal pain
+T4	AdverseReaction 126 153	gastrointestinal hemorrhage
+T5	AdverseReaction 160 166	anemia
+T6	AdverseReaction 177 188	neutropenia
+T7	AdverseReaction 1078 1086	Vomiting
+T8	AdverseReaction 1659 1665	Anemia
+T9	AdverseReaction 1768 1779	Neutropenia
+T10	AdverseReaction 1932 1938	Nausea
+T11	AdverseReaction 2041 2049	Vomiting
+T12	AdverseReaction 2150 2164	Abdominal Pain
+T13	AdverseReaction 2259 2286	Gastrointestinal Hemorrhage
+T14	AdverseReaction 2519 2539	abdominal distension
+T15	AdverseReaction 2541 2561	abdominal tenderness
+T16	AdverseReaction 2563 2572	dyspepsia
+T17	AdverseReaction 2574 2583	dysphagia
+T18	AdverseReaction 2585 2595	flatulence
+T19	AdverseReaction 2597 2619	intestinal obstruction
+T20	AdverseReaction 2621 2630	megacolon
+T21	AdverseReaction 2656 2692	increased blood alkaline phosphatase
+T22	AdverseReaction 2694 2721	decreased blood bicarbonate
+T23	AdverseReaction 2723 2748	increased hepatic enzymes
+T24	AdverseReaction 2750 2774	decreased platelet count
+T25	AdverseReaction 2820 2833	hyperglycemia
+T26	AdverseReaction 2835 2853	metabolic acidosis
+T27	AdverseReaction 2903 2916	drug eruption
+T28	AdverseReaction 2918 2926	pruritus
+T29	AdverseReaction 2928 2932	rash
+T30	AdverseReaction 3235 3261	Hypersensitivity reactions
+T31	AdverseReaction 3263 3270	dyspnea
+T32	AdverseReaction 3272 3282	angioedema
+T33	AdverseReaction 3284 3288	rash
+T34	AdverseReaction 3294 3302	pruritus
+T35	AdverseReaction 3443 3475	Acute hypersensitivity reactions
+T36	AdverseReaction 3477 3487	angioedema
+T37	AdverseReaction 3489 3496	dyspnea
+T38	AdverseReaction 3498 3506	pruritus
+T39	AdverseReaction 3512 3516	rash
+T40	AdverseReaction 3964 3996	Acute hypersensitivity reactions
+T41	AdverseReaction 4008 4015	dyspnea
+T42	AdverseReaction 4017 4021	rash
+T43	AdverseReaction 4022 4030	pruritus
+T44	AdverseReaction 4036 4059	angioedema of the mouth
+T45	AdverseReaction 4036 4053;4061 4067	angioedema of the mouth, throat
+T46	AdverseReaction 4036 4053;4073 4077	angioedema of the mouth, throat, and face
+T47	AdverseReaction 4267 4293	hypersensitivity reactions
+N1	Reference T1 meddra:10028813	Nausea
+N2	Reference T2 meddra:10047700	Vomiting
+N3	Reference T3 meddra:10000081	Abdominal pain
+N4	Reference T4 meddra:10017955	Gastrointestinal haemorrhage
+N5	Reference T5 meddra:10002034	Anaemia
+N6	Reference T6 meddra:10029354	Neutropenia
+N7	Reference T14 meddra:10000060	Abdominal distension
+N8	Reference T15 meddra:10000097	Abdominal tenderness
+N9	Reference T16 meddra:10013946	Dyspepsia
+N10	Reference T17 meddra:10013950	Dysphagia
+N11	Reference T18 meddra:10016766	Flatulence
+N12	Reference T19 meddra:10022687	Intestinal obstruction
+N13	Reference T20 meddra:10027110	Megacolon
+N14	Reference T21 meddra:10059570	Blood alkaline phosphatase increased
+N15	Reference T22 meddra:10005359	Blood bicarbonate decreased
+N16	Reference T23 meddra:10060795	Hepatic enzyme increased
+N17	Reference T24 meddra:10035528	Platelet count decreased
+N18	Reference T25 meddra:10020635	Hyperglycaemia
+N19	Reference T26 meddra:10027417	Metabolic acidosis
+N20	Reference T27 meddra:10013687	Drug eruption
+N21	Reference T28 meddra:10037087	Pruritus
+N22	Reference T29 meddra:10037844	Rash
+N23	Reference T30 meddra:10020751	Hypersensitivity
+N24	Reference T31 meddra:10013968	Dyspnoea
+N25	Reference T32 meddra:10002424	Angioedema
+N26	Reference T35 meddra:10020751	Hypersensitivity
+N27	Reference T44 meddra:10002424	Angioedema
+N28	Reference T45 meddra:10002424	Angioedema
+N29	Reference T46 meddra:10002424	Angioedema

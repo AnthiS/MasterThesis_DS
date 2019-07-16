@@ -1,0 +1,430 @@
+T1	AdverseReaction 112 124	Perforations
+T2	AdverseReaction 129 136	Fistula
+T3	AdverseReaction 205 215	Hemorrhage
+T4	AdverseReaction 284 305	Thromboembolic Events
+T5	AdverseReaction 356 375	Wound Complications
+T6	AdverseReaction 426 438	Hypertension
+T7	AdverseReaction 489 513	Osteonecrosis of the Jaw
+T8	AdverseReaction 564 606	Palmar-plantar erythrodysesthesia syndrome
+T9	AdverseReaction 657 668	Proteinuria
+T10	AdverseReaction 719 768	Reversible Posterior Leukoencephalopathy Syndrome
+T11	AdverseReaction 894 902	diarrhea
+T12	AdverseReaction 904 914	stomatitis
+T13	AdverseReaction 916 958	palmar-plantar erythrodysesthesia syndrome
+T14	AdverseReaction 960 964	PPES
+T15	AdverseReaction 967 983	decreased weight
+T16	AdverseReaction 985 1003	decreased appetite
+T17	AdverseReaction 1005 1011	nausea
+T18	AdverseReaction 1013 1020	fatigue
+T19	AdverseReaction 1022 1031	oral pain
+T20	AdverseReaction 1033 1051	hair color changes
+T21	AdverseReaction 1053 1062	dysgeusia
+T22	AdverseReaction 1064 1076	hypertension
+T23	AdverseReaction 1078 1092	abdominal pain
+T24	AdverseReaction 1098 1110	constipation
+T25	AdverseReaction 1165 1178	increased AST
+T26	AdverseReaction 1180 1193	increased ALT
+T27	AdverseReaction 1195 1206	lymphopenia
+T28	AdverseReaction 1208 1238	increased alkaline phosphatase
+T29	AdverseReaction 1240 1252	hypocalcemia
+T30	AdverseReaction 1254 1265	neutropenia
+T31	AdverseReaction 1267 1283	thrombocytopenia
+T32	AdverseReaction 1285 1301	hypophosphatemia
+T33	AdverseReaction 1307 1325	hyperbilirubinemia
+T34	AdverseReaction 2498 2506	diarrhea
+T35	AdverseReaction 2508 2518	stomatitis
+T36	AdverseReaction 2520 2562	palmar-plantar erythrodysesthesia syndrome
+T37	AdverseReaction 2564 2568	PPES
+T38	AdverseReaction 2571 2587	decreased weight
+T39	AdverseReaction 2589 2607	decreased appetite
+T40	AdverseReaction 2609 2615	nausea
+T41	AdverseReaction 2617 2624	fatigue
+T42	AdverseReaction 2626 2635	oral pain
+T43	AdverseReaction 2637 2655	hair color changes
+T44	AdverseReaction 2657 2666	dysgeusia
+T45	AdverseReaction 2668 2680	hypertension
+T46	AdverseReaction 2682 2696	abdominal pain
+T47	AdverseReaction 2702 2714	constipation
+T48	AdverseReaction 2769 2782	increased AST
+T49	AdverseReaction 2784 2797	increased ALT
+T50	AdverseReaction 2799 2810	lymphopenia
+T51	AdverseReaction 2812 2825	increased ALP
+T52	AdverseReaction 2827 2839	hypocalcemia
+T53	AdverseReaction 2841 2852	neutropenia
+T54	AdverseReaction 2854 2870	thrombocytopenia
+T55	AdverseReaction 2872 2888	hypophosphatemia
+T56	AdverseReaction 2894 2912	hyperbilirubinemia
+T57	Severity 2914 2921	Grade 3
+T58	Severity 2914 2923	Grade 3-4
+T59	Severity 2914 2919;2922 2923	Grade 3-4
+T60	AdverseReaction 3153 3161	diarrhea
+T61	AdverseReaction 3163 3167	PPES
+T62	AdverseReaction 3169 3180	lymphopenia
+T63	AdverseReaction 3182 3194	hypocalcemia
+T64	AdverseReaction 3196 3203	fatigue
+T65	AdverseReaction 3205 3217	hypertension
+T66	AdverseReaction 3219 3227	asthenia
+T67	AdverseReaction 3229 3242	increased ALT
+T68	AdverseReaction 3244 3260	decreased weight
+T69	AdverseReaction 3262 3272	stomatitis
+T70	AdverseReaction 3278 3296	decreased appetite
+T71	AdverseReaction 3331 3336	Fatal
+T72	AdverseReaction 3419 3429	hemorrhage
+T73	AdverseReaction 3431 3440	pneumonia
+T74	AdverseReaction 3442 3452	septicemia
+T75	AdverseReaction 3454 3462	fistulas
+T76	AdverseReaction 3464 3478	cardiac arrest
+T77	AdverseReaction 3480 3499	respiratory failure
+T78	AdverseReaction 3517 3522	death
+T79	AdverseReaction 3524 3529	Fatal
+T80	Factor 3585 3592	placebo
+T81	AdverseReaction 3611 3621	septicemia
+T82	AdverseReaction 3623 3632	pneumonia
+T83	AdverseReaction 3638 3659	general deterioration
+T84	AdverseReaction 4141 4153	hypocalcemia
+T85	AdverseReaction 4155 4171	increased lipase
+T86	AdverseReaction 4173 4177	PPES
+T87	AdverseReaction 4179 4187	diarrhea
+T88	AdverseReaction 4189 4196	fatigue
+T89	AdverseReaction 4198 4210	hypertension
+T90	AdverseReaction 4212 4218	nausea
+T91	AdverseReaction 4220 4232	pancreatitis
+T92	AdverseReaction 4234 4260	tracheal fistula formation
+T93	AdverseReaction 4265 4273	vomiting
+T94	AdverseReaction 4279 4326	Increased levels of thyroid stimulating hormone
+T95	AdverseReaction 5194 5202	Diarrhea
+T96	AdverseReaction 5305 5315	Stomatitis
+T97	AdverseReaction 5416 5422	Nausea
+T98	AdverseReaction 5527 5536	Oral pain
+T99	AdverseReaction 5638 5650	Constipation
+T100	AdverseReaction 5749 5763	Abdominal pain
+T101	AdverseReaction 5860 5868	Vomiting
+T102	AdverseReaction 5971 5980	Dysphagia
+T103	AdverseReaction 6082 6091	Dyspepsia
+T104	AdverseReaction 6193 6204	Hemorrhoids
+T105	AdverseReaction 6366 6373	Fatigue
+T106	AdverseReaction 6477 6485	Asthenia
+T107	AdverseReaction 6643 6659	Decreased weight
+T108	AdverseReaction 6809 6827	Decreased appetite
+T109	AdverseReaction 6920 6931	Dehydration
+T110	AdverseReaction 7088 7098	Arthralgia
+T111	AdverseReaction 7199 7212	Muscle spasms
+T112	AdverseReaction 7310 7336	Musculoskeletal chest pain
+T113	AdverseReaction 7476 7485	Dysgeusia
+T114	AdverseReaction 7587 7595	Headache
+T115	AdverseReaction 7698 7707	Dizziness
+T116	AdverseReaction 7809 7820	Paresthesia
+T117	AdverseReaction 7920 7949	Peripheral sensory neuropathy
+T118	AdverseReaction 8031 8052	Peripheral neuropathy
+T119	AdverseReaction 8197 8204	Anxiety
+T120	AdverseReaction 8365 8374	Dysphonia
+T121	AdverseReaction 8531 8535	PPES
+T122	AdverseReaction 8642 8660	Hair color changes
+T123	AdverseReaction 8642 8652;8669 8683	Hair color changes/        depigmentation
+T124	AdverseReaction 8642 8652;8685 8692	Hair color changes/        depigmentation, graying
+T125	AdverseReaction 8761 8765	Rash
+T126	AdverseReaction 8872 8880	Dry skin
+T127	AdverseReaction 8983 8991	Alopecia
+T128	AdverseReaction 9094 9102	Erythema
+T129	AdverseReaction 9205 9219	Hyperkeratosis
+T130	AdverseReaction 9371 9383	Hypertension
+T131	AdverseReaction 9482 9493	Hypotension
+T132	AdverseReaction 10131 10144	Increased AST
+T133	AdverseReaction 10242 10255	Increased ALT
+T134	AdverseReaction 10353 10366	Increased ALP
+T135	AdverseReaction 10464 10476	Hypocalcemia
+T136	AdverseReaction 10575 10591	Hypophosphatemia
+T137	AdverseReaction 10686 10704	Hyperbilirubinemia
+T138	AdverseReaction 10797 10811	Hypomagnesemia
+T139	AdverseReaction 10908 10919	Hypokalemia
+T140	AdverseReaction 11019 11031	Hyponatremia
+T141	AdverseReaction 11241 11252	Lymphopenia
+T142	AdverseReaction 11352 11363	Neutropenia
+T143	AdverseReaction 11463 11479	Thrombocytopenia
+T144	AdverseReaction 11801 11824	elevated blood pressure
+T145	AdverseReaction 11876 11888	hypertension
+T146	Negation 12108 12110	No
+T147	AdverseReaction 12130 12152	malignant hypertension
+T148	AdverseReaction 12191 12203	Hypertension
+T149	AdverseReaction 12231 12243	Hypertension
+T150	AdverseReaction 12454 12470	Pre-hypertension
+T151	Severity 12472 12480;12484 12492	Systolic >= 120 mmHg
+T152	Severity 12496 12505;12509 12516	Diastolic >= 80 mmHg
+T153	AdverseReaction 12912 12924	PERFORATIONS
+T154	AdverseReaction 12929 12937	FISTULAS
+T155	AdverseReaction 12943 12953	HEMORRHAGE
+T156	AdverseReaction 12966 12978	PERFORATIONS
+T157	AdverseReaction 12983 12991	FISTULAS
+T158	AdverseReaction 12997 13007	HEMORRHAGE
+T159	AdverseReaction 13013 13025	Perforations
+T160	AdverseReaction 13030 13038	fistulas
+T161	AdverseReaction 13040 13069	Gastrointestinal perforations
+T162	AdverseReaction 13089 13106	fistula formation
+T163	AdverseReaction 13269 13279	Hemorrhage
+T164	Severity 13281 13287	Severe
+T165	AdverseReaction 13299 13304	fatal
+T166	AdverseReaction 13306 13316	hemorrhage
+T167	AdverseReaction 13306 13316	hemorrhage
+T168	AdverseReaction 13327 13337	hemoptysis
+T169	AdverseReaction 13342 13369	gastrointestinal hemorrhage
+T170	AdverseReaction 13614 13626	PERFORATIONS
+T171	AdverseReaction 13631 13639	FISTULAS
+T172	AdverseReaction 13644 13654	HEMORRHAGE
+T173	AdverseReaction 13733 13745	Perforations
+T174	AdverseReaction 13750 13758	Fistulas
+T175	AdverseReaction 13760 13789	Gastrointestinal perforations
+T176	AdverseReaction 13809 13826	fistula formation
+T177	AdverseReaction 13936 13946	Hemorrhage
+T178	Severity 13948 13954	Severe
+T179	AdverseReaction 13966 13971	fatal
+T180	AdverseReaction 13973 13983	hemorrhage
+T181	AdverseReaction 13973 13983	hemorrhage
+T182	AdverseReaction 13994 14004	hemoptysis
+T183	AdverseReaction 14009 14036	gastrointestinal hemorrhage
+T184	AdverseReaction 14257 14274	Thrombotic Events
+T185	AdverseReaction 14409 14428	Wound Complications
+T186	AdverseReaction 14527 14539	Hypertension
+T187	AdverseReaction 14636 14660	Osteonecrosis of the jaw
+T188	AdverseReaction 14700 14742	Palmar-plantar Erythrodysesthesia syndrome
+T189	AdverseReaction 14744 14748	PPES
+T190	AdverseReaction 14801 14812	Proteinuria
+T191	AdverseReaction 14888 14937	Reversible posterior leukoencephalopathy syndrome
+T192	AdverseReaction 14939 14943	RPLS
+T193	AdverseReaction 14983 15003	Embryofetal toxicity
+T194	Factor 15005 15008	Can
+T195	AdverseReaction 15015 15025	fetal harm
+T196	AdverseReaction 15136 15152;15158 15170	Gastrointestinal (GI) perforations
+T197	AdverseReaction 15136 15152;15175 15183	Gastrointestinal (GI) perforations and fistulas
+T198	AdverseReaction 15154 15156;15158 15170	GI) perforations
+T199	AdverseReaction 15154 15156;15175 15183	GI) perforations and fistulas
+T200	Severity 15264 15271	serious
+T201	AdverseReaction 15280 15290	GI fistula
+T202	AdverseReaction 15295 15300	fatal
+T203	AdverseReaction 15309 15324	Non-GI fistulas
+T204	AdverseReaction 15316 15324;15335 15343	fistulas including tracheal
+T205	AdverseReaction 15316 15324;15344 15354	fistulas including tracheal/esophageal
+T206	AdverseReaction 15428 15433	fatal
+T207	Severity 15602 15609	Serious
+T208	AdverseReaction 15624 15629	fatal
+T209	AdverseReaction 15630 15640	hemorrhage
+T210	AdverseReaction 15630 15640	hemorrhage
+T211	Severity 15682 15687;15690 15691	Grade >=3
+T212	AdverseReaction 15692 15710	hemorrhagic events
+T213	AdverseReaction 15970 15987	thrombotic events
+T214	AdverseReaction 15989 16011	venous thromboembolism
+T215	AdverseReaction 16027 16051	arterial thromboembolism
+T216	AdverseReaction 16318 16337	Wound complications
+T217	AdverseReaction 16751 16763	hypertension
+T218	Severity 16893 16900	stage 1
+T219	Severity 16893 16898;16904 16905	stage 1 or 2
+T220	AdverseReaction 16906 16918	hypertension
+T221	AdverseReaction 17411 17435	Osteonecrosis of the jaw
+T222	AdverseReaction 17437 17440	ONJ
+T223	AdverseReaction 17487 17490	ONJ
+T224	Factor 17491 17494	can
+T225	AdverseReaction 17507 17515	jaw pain
+T226	AdverseReaction 17517 17530	osteomyelitis
+T227	AdverseReaction 17532 17540	osteitis
+T228	AdverseReaction 17542 17554	bone erosion
+T229	AdverseReaction 17556 17561;17577 17586	tooth or periodontal infection
+T230	AdverseReaction 17565 17586	periodontal infection
+T231	AdverseReaction 17588 17597	toothache
+T232	AdverseReaction 17599 17618	gingival ulceration
+T233	AdverseReaction 17599 17607;17622 17629	gingival ulceration or erosion
+T234	AdverseReaction 17631 17650	persistent jaw pain
+T235	AdverseReaction 17654 17679;17687 17707	slow healing of the mouth or jaw after dental surgery
+T236	AdverseReaction 17654 17673;17683 17707	slow healing of the mouth or jaw after dental surgery
+T237	AdverseReaction 18047 18089	Palmar-plantar erythrodysesthesia syndrome
+T238	AdverseReaction 18047 18089	Palmar-plantar erythrodysesthesia syndrome
+T239	AdverseReaction 18091 18095	PPES
+T240	AdverseReaction 18091 18095	PPES
+T241	Severity 18155 18161	severe
+T242	Severity 18166 18173	Grade 3
+T243	AdverseReaction 18373 18384	Proteinuria
+T244	AdverseReaction 18459 18477	nephrotic syndrome
+T245	AdverseReaction 18724 18773	Reversible Posterior Leukoencephalopathy Syndrome
+T246	AdverseReaction 18775 18779	RPLS
+T247	AdverseReaction 18796 18823	subcortical vasogenic edema
+T248	Factor 19537 19540	can
+T249	AdverseReaction 19547 19557	fetal harm
+T250	AdverseReaction 19614 19626	embryolethal
+T251	Animal 19630 19634	rats
+T252	AdverseReaction 19711 19730	skeletal variations
+T253	Animal 19734 19738	rats
+T254	AdverseReaction 19743 19762	visceral variations
+T255	AdverseReaction 19743 19751;19767 19780	visceral variations and malformations
+T256	Animal 19784 19791	rabbits
+R1	Effect arg1:T60 arg2:T58
+R2	Effect arg1:T60 arg2:T57
+R3	Effect arg1:T60 arg2:T59
+R4	Effect arg1:T61 arg2:T57
+R5	Effect arg1:T61 arg2:T58
+R6	Effect arg1:T61 arg2:T59
+R7	Effect arg1:T62 arg2:T57
+R8	Effect arg1:T62 arg2:T58
+R9	Effect arg1:T62 arg2:T59
+R10	Effect arg1:T63 arg2:T57
+R11	Effect arg1:T63 arg2:T58
+R12	Effect arg1:T63 arg2:T59
+R13	Effect arg1:T64 arg2:T57
+R14	Effect arg1:T64 arg2:T58
+R15	Effect arg1:T64 arg2:T59
+R16	Effect arg1:T65 arg2:T57
+R17	Effect arg1:T65 arg2:T58
+R18	Effect arg1:T65 arg2:T59
+R19	Effect arg1:T66 arg2:T57
+R20	Effect arg1:T66 arg2:T58
+R21	Effect arg1:T66 arg2:T59
+R22	Effect arg1:T67 arg2:T57
+R23	Effect arg1:T67 arg2:T58
+R24	Effect arg1:T67 arg2:T59
+R25	Effect arg1:T68 arg2:T57
+R26	Effect arg1:T68 arg2:T58
+R27	Effect arg1:T68 arg2:T59
+R28	Effect arg1:T69 arg2:T57
+R29	Effect arg1:T69 arg2:T58
+R30	Effect arg1:T69 arg2:T59
+R31	Effect arg1:T70 arg2:T57
+R32	Effect arg1:T70 arg2:T58
+R33	Effect arg1:T70 arg2:T59
+R34	Negated arg1:T79 arg2:T80
+R35	Negated arg1:T81 arg2:T80
+R36	Negated arg1:T82 arg2:T80
+R37	Negated arg1:T83 arg2:T80
+R38	Negated arg1:T147 arg2:T146
+R39	Effect arg1:T150 arg2:T151
+R40	Effect arg1:T150 arg2:T152
+R41	Effect arg1:T167 arg2:T164
+R42	Effect arg1:T181 arg2:T178
+R43	Hypothetical arg1:T195 arg2:T194
+R44	Effect arg1:T201 arg2:T200
+R45	Effect arg1:T210 arg2:T207
+R46	Effect arg1:T212 arg2:T211
+R47	Effect arg1:T220 arg2:T219
+R48	Effect arg1:T220 arg2:T218
+R49	Hypothetical arg1:T225 arg2:T224
+R50	Hypothetical arg1:T226 arg2:T224
+R51	Hypothetical arg1:T227 arg2:T224
+R52	Hypothetical arg1:T228 arg2:T224
+R53	Hypothetical arg1:T229 arg2:T224
+R54	Hypothetical arg1:T230 arg2:T224
+R55	Hypothetical arg1:T231 arg2:T224
+R56	Hypothetical arg1:T232 arg2:T224
+R57	Hypothetical arg1:T233 arg2:T224
+R58	Hypothetical arg1:T234 arg2:T224
+R59	Hypothetical arg1:T235 arg2:T224
+R60	Hypothetical arg1:T236 arg2:T224
+R61	Effect arg1:T238 arg2:T242
+R62	Effect arg1:T238 arg2:T241
+R63	Effect arg1:T240 arg2:T241
+R64	Effect arg1:T240 arg2:T242
+R65	Hypothetical arg1:T249 arg2:T248
+R66	Hypothetical arg1:T250 arg2:T251
+R67	Hypothetical arg1:T252 arg2:T253
+R68	Hypothetical arg1:T254 arg2:T256
+R69	Hypothetical arg1:T255 arg2:T256
+N1	Reference T1 meddra:10076705	Perforation
+N2	Reference T2 meddra:10016717	Fistula
+N3	Reference T3 meddra:10055798	Haemorrhage
+N4	Reference T4 meddra:10061169	Embolism
+N5	Reference T5 meddra:10053692	Wound complication
+N6	Reference T6 meddra:10020772	Hypertension
+N7	Reference T7 meddra:10064658	Osteonecrosis of jaw
+N8	Reference T8 meddra:10033553	Palmar-plantar erythrodysaesthesia syndrome
+N9	Reference T9 meddra:10037032	Proteinuria
+N10	Reference T10 meddra:10071066	Posterior reversible encephalopathy syndrome
+N11	Reference T11 meddra:10012735	Diarrhoea
+N12	Reference T12 meddra:10042128	Stomatitis
+N13	Reference T14 meddra:10033553	Palmar-plantar erythrodysaesthesia syndrome
+N14	Reference T15 meddra:10047895	Weight decreased
+N15	Reference T16 meddra:10061428	Decreased appetite
+N16	Reference T17 meddra:10028813	Nausea
+N17	Reference T18 meddra:10016256	Fatigue
+N18	Reference T19 meddra:10031009	Oral pain
+N19	Reference T20 meddra:10019030	Hair colour changes
+N20	Reference T21 meddra:10013911	Dysgeusia
+N21	Reference T23 meddra:10000081	Abdominal pain
+N22	Reference T24 meddra:10010774	Constipation
+N23	Reference T25 meddra:10003481	Aspartate aminotransferase increased
+N24	Reference T26 meddra:10001551	Alanine aminotransferase increased
+N25	Reference T27 meddra:10025327	Lymphopenia
+N26	Reference T28 meddra:10059570	Blood alkaline phosphatase increased
+N27	Reference T29 meddra:10020947	Hypocalcaemia
+N28	Reference T30 meddra:10029354	Neutropenia
+N29	Reference T31 meddra:10043554	Thrombocytopenia
+N30	Reference T32 meddra:10021058	Hypophosphataemia
+N31	Reference T33 meddra:10020578	Hyperbilirubinaemia
+N32	Reference T51 meddra:10059570	Blood alkaline phosphatase increased
+N33	Reference T66 meddra:10003549	Asthenia
+N34	Reference T71 meddra:10011906	Death
+N35	Reference T73 meddra:10035664	Pneumonia
+N36	Reference T74 meddra:10040047	Sepsis
+N37	Reference T75 meddra:10016717	Fistula
+N38	Reference T76 meddra:10007515	Cardiac arrest
+N39	Reference T77 meddra:10038695	Respiratory failure
+N40	Reference T78 meddra:10011906	Death
+N41	Reference T85 meddra:10024574	Lipase increased
+N42	Reference T91 meddra:10033645	Pancreatitis
+N43	Reference T92 meddra:10065787	Tracheal fistula
+N44	Reference T93 meddra:10047700	Vomiting
+N45	Reference T94 meddra:10005833	Blood thyroid stimulating hormone increased
+N46	Reference T102 meddra:10013950	Dysphagia
+N47	Reference T103 meddra:10013946	Dyspepsia
+N48	Reference T104 meddra:10019022	Haemorrhoids
+N49	Reference T109 meddra:10012174	Dehydration
+N50	Reference T110 meddra:10003239	Arthralgia
+N51	Reference T111 meddra:10028334	Muscle spasms
+N52	Reference T112 meddra:10050819	Musculoskeletal chest pain
+N53	Reference T114 meddra:10019211	Headache
+N54	Reference T115 meddra:10013573	Dizziness
+N55	Reference T116 meddra:10033775	Paraesthesia
+N56	Reference T117 meddra:10034620	Peripheral sensory neuropathy
+N57	Reference T118 meddra:10029331	Neuropathy peripheral
+N58	Reference T119 meddra:10002855	Anxiety
+N59	Reference T120 meddra:10013952	Dysphonia
+N60	Reference T123 meddra:10019030	Hair colour changes
+N61	Reference T124 meddra:10019030	Hair colour changes
+N62	Reference T125 meddra:10037844	Rash
+N63	Reference T126 meddra:10013786	Dry skin
+N64	Reference T127 meddra:10001760	Alopecia
+N65	Reference T128 meddra:10015150	Erythema
+N66	Reference T129 meddra:10020649	Hyperkeratosis
+N67	Reference T131 meddra:10021097	Hypotension
+N68	Reference T138 meddra:10021027	Hypomagnesaemia
+N69	Reference T139 meddra:10021015	Hypokalaemia
+N70	Reference T140 meddra:10021036	Hyponatraemia
+N71	Reference T144 meddra:10005750	Blood pressure increased
+N72	Reference T150 meddra:10065918	Prehypertension
+N73	Reference T161 meddra:10018001	Gastrointestinal perforation
+N74	Reference T162 meddra:10016717	Fistula
+N75	Reference T168 meddra:10018964	Haemoptysis
+N76	Reference T169 meddra:10017955	Gastrointestinal haemorrhage
+N77	Reference T184 meddra:10043607	Thrombosis
+N78	Reference T192 meddra:10071066	Posterior reversible encephalopathy syndrome
+N79	Reference T193 meddra:10026923	Maternal drugs affecting foetus
+N80	Reference T195 meddra:10016852	Foetal damage
+N81	Reference T197 meddra:10017877	Gastrointestinal fistula
+N82	Reference T198 meddra:10018001	Gastrointestinal perforation
+N83	Reference T199 meddra:10017877	Gastrointestinal fistula
+N84	Reference T201 meddra:10017877	Gastrointestinal fistula
+N85	Reference T203 meddra:10016717	Fistula
+N86	Reference T204 meddra:10065787	Tracheal fistula
+N87	Reference T205 meddra:10065835	Oesophageal fistula
+N88	Reference T212 meddra:10055798	Haemorrhage
+N89	Reference T214 meddra:10014522	Embolism venous
+N90	Reference T215 meddra:10014513	Embolism arterial
+N91	Reference T222 meddra:10064658	Osteonecrosis of jaw
+N92	Reference T225 meddra:10033433	Pain in jaw
+N93	Reference T226 meddra:10031252	Osteomyelitis
+N94	Reference T227 meddra:10031149	Osteitis
+N95	Reference T228 meddra:10051728	Bone erosion
+N96	Reference T229 meddra:10048762	Tooth infection
+N97	Reference T230 meddra:10034539	Periodontitis
+N98	Reference T231 meddra:10044055	Toothache
+N99	Reference T232 meddra:10049398	Gingival ulceration
+N100	Reference T233 meddra:10018282	Gingival erosion
+N101	Reference T234 meddra:10033433	Pain in jaw
+N102	Reference T235 meddra:10021519	Impaired healing
+N103	Reference T236 meddra:10021519	Impaired healing
+N104	Reference T244 meddra:10029164	Nephrotic syndrome
+N105	Reference T247 meddra:10067275	Vasogenic cerebral oedema

@@ -1,0 +1,53 @@
+T1	Severity 38 45	Serious
+T2	AdverseReaction 46 72	hypersensitivity reactions
+T3	AdverseReaction 162 171	dizziness
+T4	AdverseReaction 173 177	rash
+T5	AdverseReaction 179 187	pruritis
+T6	AdverseReaction 189 197	flushing
+T7	AdverseReaction 199 207	headache
+T8	AdverseReaction 213 238	injection site hemorrhage
+T9	Severity 1193 1197	mild
+T10	Severity 1201 1209	moderate
+T11	AdverseReaction 1317 1326	dizziness
+T12	AdverseReaction 1328 1332	rash
+T13	AdverseReaction 1334 1342	pruritus
+T14	AdverseReaction 1344 1352	flushing
+T15	AdverseReaction 1356 1381	injection site hemorrhage
+T16	AdverseReaction 1577 1591;1600 1608	injection site (1.3%), problems
+T17	AdverseReaction 1577 1591;1617 1625	injection site (1.3%), problems such as hematoma
+T18	AdverseReaction 1577 1591;1630 1638	injection site (1.3%), problems such as hematoma and bruising
+T19	AdverseReaction 1677 1685	flushing
+T20	AdverseReaction 1697 1705	headache
+T21	AdverseReaction 2038 2064	Hypersensitivity reactions
+T22	AdverseReaction 2233 2259	Hypersensitivity reactions
+T23	AdverseReaction 3084 3110	Hypersensitivity reactions
+T24	AdverseReaction 6033 6038	fatal
+T25	AdverseReaction 6040 6056	Gasping Syndrome
+T26	Factor 8044 8047	may
+T27	AdverseReaction 8122 8155	transient episode of hypertension
+R1	Effect arg1:T2 arg2:T1
+R2	Effect arg1:T11 arg2:T9
+R3	Effect arg1:T11 arg2:T10
+R4	Effect arg1:T12 arg2:T10
+R5	Effect arg1:T12 arg2:T9
+R6	Effect arg1:T13 arg2:T10
+R7	Effect arg1:T13 arg2:T9
+R8	Effect arg1:T14 arg2:T9
+R9	Effect arg1:T14 arg2:T10
+R10	Effect arg1:T15 arg2:T10
+R11	Effect arg1:T15 arg2:T9
+R12	Hypothetical arg1:T27 arg2:T26
+N1	Reference T2 meddra:10020751	Hypersensitivity
+N2	Reference T3 meddra:10013573	Dizziness
+N3	Reference T4 meddra:10037844	Rash
+N4	Reference T5 meddra:10037087	Pruritus
+N5	Reference T6 meddra:10016825	Flushing
+N6	Reference T7 meddra:10019211	Headache
+N7	Reference T8 meddra:10022067	Injection site haemorrhage
+N8	Reference T13 meddra:10037087	Pruritus
+N9	Reference T16 meddra:10022095	Injection site reaction
+N10	Reference T17 meddra:10022066	Injection site haematoma
+N11	Reference T18 meddra:10022052	Injection site bruising
+N12	Reference T24 meddra:10011906	Death
+N13	Reference T25 meddra:10069162	Gasping syndrome
+N14	Reference T27 meddra:10020772	Hypertension

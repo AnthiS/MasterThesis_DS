@@ -1,0 +1,22 @@
+T1	AdverseReaction 521 544	ocular adverse reaction
+T2	AdverseReaction 549 569	conjunctival redness
+T3	AdverseReaction 736 750	blurred vision
+T4	AdverseReaction 752 760	eye pain
+T5	AdverseReaction 762 776	eye irritation
+T6	AdverseReaction 778 790	eye pruritus
+T7	AdverseReaction 795 803	headache
+T8	AdverseReaction 909 929	conjunctival redness
+T9	Factor 1846 1849	may
+T10	AdverseReaction 1860 1899	overgrowth of non-susceptible organisms
+T11	AdverseReaction 1860 1873;1911 1916	overgrowth of non-susceptible organisms, including fungi
+R1	Hypothetical arg1:T10 arg2:T9
+R2	Hypothetical arg1:T11 arg2:T9
+N1	Reference T1 meddra:10075536	Eye symptom
+N2	Reference T2 meddra:10051625	Conjunctival hyperaemia
+N3	Reference T3 meddra:10047513	Vision blurred
+N4	Reference T4 meddra:10015958	Eye pain
+N5	Reference T5 meddra:10015946	Eye irritation
+N6	Reference T6 meddra:10052140	Eye pruritus
+N7	Reference T7 meddra:10019211	Headache
+N8	Reference T10 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N9	Reference T11 meddra:10076272	Overgrowth fungal

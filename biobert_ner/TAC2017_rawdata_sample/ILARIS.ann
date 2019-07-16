@@ -1,0 +1,240 @@
+T1	AdverseReaction 258 268	infections
+T2	AdverseReaction 258 268;283 313	infections predominantly of the upper respiratory tract
+T3	Severity 347 351	mild
+T4	Severity 347 363	mild to moderate
+T5	Severity 355 363	moderate
+T6	Severity 373 380	serious
+T7	AdverseReaction 381 391	infections
+T8	AdverseReaction 381 391	infections
+T9	AdverseReaction 497 521	Opportunistic infections
+T10	AdverseReaction 751 766	nasopharyngitis
+T11	AdverseReaction 768 776	diarrhea
+T12	AdverseReaction 778 787	influenza
+T13	AdverseReaction 789 797	headache
+T14	AdverseReaction 802 808	nausea
+T15	AdverseReaction 942 952	infections
+T16	AdverseReaction 954 969	nasopharyngitis
+T17	AdverseReaction 974 1008	upper respiratory tract infections
+T18	AdverseReaction 1011 1025	abdominal pain
+T19	AdverseReaction 1030 1054	injection site reactions
+T20	AdverseReaction 2065 2072	vertigo
+T21	AdverseReaction 2087 2097	infections
+T22	AdverseReaction 2122 2145	intra-abdominal abscess
+T23	AdverseReaction 2286 2301	nasopharyngitis
+T24	AdverseReaction 2303 2311	diarrhea
+T25	AdverseReaction 2313 2322	influenza
+T26	AdverseReaction 2324 2332	headache
+T27	AdverseReaction 2338 2344	nausea
+T28	Factor 2388 2397	potential
+T29	AdverseReaction 2398 2407	infection
+T30	AdverseReaction 3337 3352	Nasopharyngitis
+T31	AdverseReaction 3378 3386	Diarrhea
+T32	AdverseReaction 3415 3424	Influenza
+T33	AdverseReaction 3452 3460	Rhinitis
+T34	AdverseReaction 3489 3495	Nausea
+T35	AdverseReaction 3526 3534	Headache
+T36	AdverseReaction 3563 3573	Bronchitis
+T37	AdverseReaction 3600 3615	Gastroenteritis
+T38	AdverseReaction 3641 3652	Pharyngitis
+T39	AdverseReaction 3678 3694	Weight increased
+T40	AdverseReaction 3716 3736	Musculoskeletal pain
+T41	AdverseReaction 3758 3765	Vertigo
+T42	AdverseReaction 3818 3825	Vertigo
+T43	AdverseReaction 3818 3825	Vertigo
+T44	Severity 3933 3940	serious
+T45	AdverseReaction 4081 4118	subcutaneous injection site reactions
+T46	Severity 4309 4313	mild
+T47	AdverseReaction 4314 4341	local tolerability reaction
+T48	Negation 4343 4345	No
+T49	Severity 4346 4352	severe
+T50	AdverseReaction 4353 4377	injection-site reactions
+T51	AdverseReaction 5483 5493	infections
+T52	AdverseReaction 5495 5509	abdominal pain
+T53	AdverseReaction 5515 5539	injection site reactions
+T54	Severity 5541 5548	Serious
+T55	AdverseReaction 5549 5559	infections
+T56	AdverseReaction 5567 5576	pneumonia
+T57	AdverseReaction 5578 5587	varicella
+T58	AdverseReaction 5589 5604	gastroenteritis
+T59	AdverseReaction 5606 5613	measles
+T60	AdverseReaction 5615 5621	sepsis
+T61	AdverseReaction 5623 5635	otitis media
+T62	AdverseReaction 5637 5646	sinusitis
+T63	AdverseReaction 5648 5658	adenovirus
+T64	AdverseReaction 5660 5678	lymph node abscess
+T65	AdverseReaction 5680 5691	pharyngitis
+T66	AdverseReaction 6450 6460	Infections
+T67	AdverseReaction 6468 6483	nasopharyngitis
+T68	AdverseReaction 6486 6491;6493 6526	viral) upper respiratory tract infection
+T69	AdverseReaction 6528 6537	pneumonia
+T70	AdverseReaction 6539 6547	rhinitis
+T71	AdverseReaction 6549 6560	pharyngitis
+T72	AdverseReaction 6562 6573	tonsillitis
+T73	AdverseReaction 6575 6584	sinusitis
+T74	AdverseReaction 6586 6609	urinary tract infection
+T75	AdverseReaction 6611 6626	gastroenteritis
+T76	AdverseReaction 6628 6643	viral infection
+T77	AdverseReaction 6771 6785;6787 6792	Abdominal pain (upper
+T78	AdverseReaction 6931 6954	Injection site reaction
+T79	Negation 7320 7322	no
+T80	AdverseReaction 7323 7345	anaphylactic reactions
+T81	AdverseReaction 7457 7483	hypersensitivity reactions
+T82	AdverseReaction 8795 8804;8809 8826	decreased for white blood cells
+T83	AdverseReaction 8795 8804;8828 8839	decreased for white blood cells, neutrophils
+T84	AdverseReaction 8795 8804;8844 8853	decreased for white blood cells, neutrophils and platelets
+T85	AdverseReaction 8921 8954	decreased white blood cell counts
+T86	AdverseReaction 8921 8930;8956 8959	decreased white blood cell counts (WBC
+T87	Severity 8983 9014	0.8 times lower limit of normal
+T88	Severity 9119 9128	Transient
+T89	AdverseReaction 9129 9167	decreases in absolute neutrophil count
+T90	AdverseReaction 9129 9141;9169 9172	decreases in absolute neutrophil count (ANC
+T91	Severity 9187 9198	1x10  9  /L
+T92	AdverseReaction 9316 9343	ANC less than 0.5x10  9  /L
+T93	Severity 9412 9416	Mild
+T94	Severity 9428 9431	LLN
+T95	Severity 9449 9461	75x10  9  /L
+T96	Severity 9467 9476	transient
+T97	AdverseReaction 9477 9505	decreases in platelet counts
+T98	AdverseReaction 9631 9658	Elevations of transaminases
+T99	AdverseReaction 9778 9786	high ALT
+T100	AdverseReaction 9778 9782;9794 9797	high ALT and/or AST
+T101	Severity 9823 9852	3 times upper limit of normal
+T102	Severity 10028 10032	mild
+T103	AdverseReaction 10033 10062	elevations of serum bilirubin
+T104	Negation 10114 10121	without
+T105	AdverseReaction 10134 10161	elevations of transaminases
+T106	DrugClass 10310 10358	medications that work through inhibition of IL-1
+T107	Severity 10405 10412	serious
+T108	AdverseReaction 10413 10423	infections
+T109	Severity 10483 10490	serious
+T110	AdverseReaction 10491 10501	infections
+T111	Factor 11138 11142	risk
+T112	Severity 11146 11153	serious
+T113	AdverseReaction 11154 11164	infections
+T114	AdverseReaction 11557 11567	Infections
+T115	AdverseReaction 11557 11567	Infections
+T116	AdverseReaction 11557 11567;11583 11613	Infections, predominantly of the upper respiratory tract
+T117	AdverseReaction 11557 11567;11583 11613	Infections, predominantly of the upper respiratory tract
+T118	Severity 11633 11640	serious
+T119	AdverseReaction 11698 11708	infections
+T120	AdverseReaction 11758 11765;11783 11793	unusual or opportunistic infections
+T121	AdverseReaction 11769 11793	opportunistic infections
+T122	AdverseReaction 11783 11793;11851 11866	infections (e.g., aspergillosis, atypical mycobacterial infections, cytomegalovirus
+T123	AdverseReaction 11801 11814	aspergillosis
+T124	AdverseReaction 11816 11849	atypical mycobacterial infections
+T125	AdverseReaction 11868 11881	herpes zoster
+T126	Severity 12128 12135	serious
+T127	AdverseReaction 12136 12146	infections
+T128	DrugClass 12198 12210	IL-1 blocker
+T129	Factor 12643 12647	risk
+T130	AdverseReaction 12651 12679	reactivation of tuberculosis
+T131	AdverseReaction 12686 12710	opportunistic infections
+T132	Factor 13872 13876	risk
+T133	AdverseReaction 13880 13892	malignancies
+T134	AdverseReaction 13931 13957	Hypersensitivity reactions
+T135	Negation 14022 14024	no
+T136	AdverseReaction 14025 14047	anaphylactic reactions
+T137	Factor 14717 14720	may
+T138	AdverseReaction 14721 14758	interfere with normal immune response
+T139	AdverseReaction 15807 15810	MAS
+T140	AdverseReaction 15983 15986	MAS
+T141	Factor 16009 16033	no definitive conclusion
+R1	Effect arg1:T7 arg2:T6
+R2	Effect arg1:T8 arg2:T3
+R3	Effect arg1:T8 arg2:T5
+R4	Effect arg1:T8 arg2:T4
+R5	Hypothetical arg1:T29 arg2:T28
+R6	Effect arg1:T43 arg2:T44
+R7	Effect arg1:T47 arg2:T46
+R8	Effect arg1:T50 arg2:T49
+R9	Negated arg1:T50 arg2:T48
+R10	Effect arg1:T55 arg2:T54
+R11	Negated arg1:T80 arg2:T79
+R12	Effect arg1:T85 arg2:T87
+R13	Effect arg1:T86 arg2:T87
+R14	Effect arg1:T89 arg2:T88
+R15	Effect arg1:T89 arg2:T91
+R16	Effect arg1:T90 arg2:T88
+R17	Effect arg1:T90 arg2:T91
+R18	Effect arg1:T97 arg2:T96
+R19	Effect arg1:T97 arg2:T93
+R20	Effect arg1:T97 arg2:T95
+R21	Effect arg1:T97 arg2:T94
+R22	Effect arg1:T99 arg2:T101
+R23	Effect arg1:T100 arg2:T101
+R24	Effect arg1:T103 arg2:T102
+R25	Negated arg1:T105 arg2:T104
+R26	Effect arg1:T108 arg2:T107
+R27	Hypothetical arg1:T108 arg2:T106
+R28	Effect arg1:T110 arg2:T109
+R29	Effect arg1:T113 arg2:T112
+R30	Hypothetical arg1:T113 arg2:T111
+R31	Effect arg1:T115 arg2:T118
+R32	Effect arg1:T117 arg2:T118
+R33	Effect arg1:T127 arg2:T126
+R34	Hypothetical arg1:T127 arg2:T128
+R35	Hypothetical arg1:T130 arg2:T129
+R36	Hypothetical arg1:T131 arg2:T129
+R37	Hypothetical arg1:T133 arg2:T132
+R38	Negated arg1:T136 arg2:T135
+R39	Hypothetical arg1:T138 arg2:T137
+R40	Hypothetical arg1:T140 arg2:T141
+N1	Reference T1 meddra:10021789	Infection
+N2	Reference T2 meddra:10046306	Upper respiratory tract infection
+N3	Reference T9 meddra:10030901	Opportunistic infection
+N4	Reference T10 meddra:10028810	Nasopharyngitis
+N5	Reference T11 meddra:10012735	Diarrhoea
+N6	Reference T12 meddra:10022000	Influenza
+N7	Reference T13 meddra:10019211	Headache
+N8	Reference T14 meddra:10028813	Nausea
+N9	Reference T17 meddra:10046306	Upper respiratory tract infection
+N10	Reference T18 meddra:10000081	Abdominal pain
+N11	Reference T19 meddra:10022095	Injection site reaction
+N12	Reference T20 meddra:10047340	Vertigo
+N13	Reference T22 meddra:10060921	Abdominal abscess
+N14	Reference T29 meddra:10021789	Infection
+N15	Reference T33 meddra:10039083	Rhinitis
+N16	Reference T36 meddra:10006451	Bronchitis
+N17	Reference T37 meddra:10017888	Gastroenteritis
+N18	Reference T38 meddra:10034835	Pharyngitis
+N19	Reference T39 meddra:10047899	Weight increased
+N20	Reference T40 meddra:10028391	Musculoskeletal pain
+N21	Reference T45 meddra:10022095	Injection site reaction
+N22	Reference T47 meddra:10024769	Local reaction
+N23	Reference T56 meddra:10035664	Pneumonia
+N24	Reference T57 meddra:10046980	Varicella
+N25	Reference T59 meddra:10027011	Measles
+N26	Reference T60 meddra:10040047	Sepsis
+N27	Reference T61 meddra:10033078	Otitis media
+N28	Reference T62 meddra:10040753	Sinusitis
+N29	Reference T63 meddra:10060931	Adenovirus infection
+N30	Reference T64 meddra:10050167	Lymph node abscess
+N31	Reference T68 meddra:10047482	Viral upper respiratory tract infection
+N32	Reference T72 meddra:10044008	Tonsillitis
+N33	Reference T74 meddra:10046571	Urinary tract infection
+N34	Reference T76 meddra:10047461	Viral infection
+N35	Reference T77 meddra:10000087	Abdominal pain upper
+N36	Reference T78 meddra:10022095	Injection site reaction
+N37	Reference T81 meddra:10020751	Hypersensitivity
+N38	Reference T82 meddra:10047942	White blood cell count decreased
+N39	Reference T83 meddra:10029366	Neutrophil count decreased
+N40	Reference T84 meddra:10035528	Platelet count decreased
+N41	Reference T85 meddra:10047942	White blood cell count decreased
+N42	Reference T86 meddra:10047942	White blood cell count decreased
+N43	Reference T89 meddra:10029366	Neutrophil count decreased
+N44	Reference T90 meddra:10029366	Neutrophil count decreased
+N45	Reference T92 meddra:10029366	Neutrophil count decreased
+N46	Reference T97 meddra:10035528	Platelet count decreased
+N47	Reference T98 meddra:10054889	Transaminases increased
+N48	Reference T99 meddra:10001551	Alanine aminotransferase increased
+N49	Reference T100 meddra:10003481	Aspartate aminotransferase increased
+N50	Reference T103 meddra:10005364	Blood bilirubin increased
+N51	Reference T120 meddra:10021789	Infection
+N52	Reference T122 meddra:10011831	Cytomegalovirus infection
+N53	Reference T123 meddra:10074171	Aspergillus infection
+N54	Reference T124 meddra:10061663	Atypical mycobacterial infection
+N55	Reference T125 meddra:10019974	Herpes zoster
+N56	Reference T130 meddra:10044755	Tuberculosis
+N57	Reference T133 meddra:10028997	Neoplasm malignant
+N58	Reference T138 meddra:10011968	Decreased immune responsiveness
+N59	Reference T139 meddra:10048595	Histiocytosis haematophagic

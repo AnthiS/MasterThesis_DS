@@ -1,0 +1,62 @@
+T1	AdverseReaction 93 104	Hypotension
+T2	AdverseReaction 109 127	Reflex Tachycardia
+T3	AdverseReaction 228 236	headache
+T4	AdverseReaction 238 244	nausea
+T5	AdverseReaction 250 258	vomiting
+T6	AdverseReaction 2183 2202	Acute renal failure
+T7	AdverseReaction 2321 2340	Atrial fibrillation
+T8	AdverseReaction 2459 2465	Nausea
+T9	AdverseReaction 4317 4325	headache
+T10	AdverseReaction 4334 4340	nausea
+T11	AdverseReaction 4353 4361	vomiting
+T12	AdverseReaction 4691 4712	myocardial infarction
+T13	AdverseReaction 4714 4728	cardiac arrest
+T14	AdverseReaction 4744 4751	syncope
+T15	AdverseReaction 4764 4771	dyspnea
+T16	AdverseReaction 5129 5158	increased blood triglycerides
+T17	AdverseReaction 5160 5165	ileus
+T18	AdverseReaction 5167 5183	hypersensitivity
+T19	AdverseReaction 5185 5196	hypotension
+T20	AdverseReaction 5198 5204	nausea
+T21	AdverseReaction 5206 5233	decreased oxygen saturation
+T22	Factor 5235 5243	possible
+T23	AdverseReaction 5244 5262	pulmonary shunting
+T24	AdverseReaction 5268 5286	reflex tachycardia
+T25	AdverseReaction 5438 5449	Hypotension
+T26	AdverseReaction 5454 5472	reflex tachycardia
+T27	Factor 5477 5486	potential
+T28	DrugClass 5554 5594	Dihydropyridine calcium channel blockers
+T29	AdverseReaction 5607 5633	negative inotropic effects
+T30	AdverseReaction 5638 5662	exacerbate heart failure
+T31	Factor 6299 6302	may
+T32	AdverseReaction 6311 6331	systemic hypotension
+T33	AdverseReaction 6336 6354	reflex tachycardia
+T34	DrugClass 7004 7044	Dihydropyridine calcium channel blockers
+T35	AdverseReaction 7057 7083	negative inotropic effects
+T36	AdverseReaction 7088 7112	exacerbate heart failure
+R1	Hypothetical arg1:T23 arg2:T22
+R2	Hypothetical arg1:T25 arg2:T27
+R3	Hypothetical arg1:T26 arg2:T27
+R4	Hypothetical arg1:T29 arg2:T28
+R5	Hypothetical arg1:T30 arg2:T28
+R6	Hypothetical arg1:T32 arg2:T31
+R7	Hypothetical arg1:T33 arg2:T31
+R8	Hypothetical arg1:T35 arg2:T34
+R9	Hypothetical arg1:T36 arg2:T34
+N1	Reference T1 meddra:10021097	Hypotension
+N2	Reference T2 meddra:10043071	Tachycardia
+N3	Reference T3 meddra:10019211	Headache
+N4	Reference T4 meddra:10028813	Nausea
+N5	Reference T5 meddra:10047700	Vomiting
+N6	Reference T6 meddra:10069339	Acute kidney injury
+N7	Reference T7 meddra:10003658	Atrial fibrillation
+N8	Reference T12 meddra:10028596	Myocardial infarction
+N9	Reference T13 meddra:10007515	Cardiac arrest
+N10	Reference T14 meddra:10042772	Syncope
+N11	Reference T15 meddra:10013968	Dyspnoea
+N12	Reference T16 meddra:10005839	Blood triglycerides increased
+N13	Reference T17 meddra:10021328	Ileus
+N14	Reference T18 meddra:10020751	Hypersensitivity
+N15	Reference T21 meddra:10033318	Oxygen saturation decreased
+N16	Reference T23 meddra:10069675	Ventilation perfusion mismatch
+N17	Reference T32 meddra:10021097	Hypotension

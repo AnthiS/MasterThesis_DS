@@ -1,0 +1,32 @@
+T1	AdverseReaction 38 54	Hypersensitivity
+T2	AdverseReaction 59 83	injection site reactions
+T3	AdverseReaction 202 210	headache
+T4	AdverseReaction 212 218	nausea
+T5	AdverseReaction 220 227	vertigo
+T6	AdverseReaction 229 238	dry mouth
+T7	AdverseReaction 242 251	dizziness
+T8	AdverseReaction 1076 1084	headache
+T9	AdverseReaction 1086 1092	nausea
+T10	AdverseReaction 1094 1101	vertigo
+T11	AdverseReaction 1103 1112	dry mouth
+T12	AdverseReaction 1116 1125	dizziness
+T13	AdverseReaction 1459 1485	hypersensitivity reactions
+T14	AdverseReaction 1541 1545	rash
+T15	AdverseReaction 1550 1558	pruritis
+T16	AdverseReaction 1716 1735	Injection site pain
+T17	AdverseReaction 1812 1838	Hypersensitivity reactions
+T18	AdverseReaction 2133 2159	Hypersensitivity reactions
+T19	AdverseReaction 2291 2304	skin erythema
+T20	AdverseReaction 2309 2317	pruritis
+N1	Reference T1 meddra:10020751	Hypersensitivity
+N2	Reference T2 meddra:10022095	Injection site reaction
+N3	Reference T3 meddra:10019211	Headache
+N4	Reference T4 meddra:10028813	Nausea
+N5	Reference T5 meddra:10047340	Vertigo
+N6	Reference T6 meddra:10013781	Dry mouth
+N7	Reference T7 meddra:10013573	Dizziness
+N8	Reference T13 meddra:10020751	Hypersensitivity
+N9	Reference T14 meddra:10037844	Rash
+N10	Reference T15 meddra:10037087	Pruritus
+N11	Reference T16 meddra:10022086	Injection site pain
+N12	Reference T19 meddra:10015150	Erythema

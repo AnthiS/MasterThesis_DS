@@ -1,0 +1,92 @@
+T1	AdverseReaction 413 421	Seizures
+T2	AdverseReaction 423 434	Anaphylaxis
+T3	AdverseReaction 440 464	Urinary Tract Infections
+T4	AdverseReaction 591 614	urinary tract infection
+T5	AdverseReaction 616 624	insomnia
+T6	AdverseReaction 626 635	dizziness
+T7	AdverseReaction 637 645	headache
+T8	AdverseReaction 647 653	nausea
+T9	AdverseReaction 655 663	asthenia
+T10	AdverseReaction 665 674	back pain
+T11	AdverseReaction 676 692	balance disorder
+T12	AdverseReaction 694 720	multiple sclerosis relapse
+T13	AdverseReaction 722 733	paresthesia
+T14	AdverseReaction 735 750	nasopharyngitis
+T15	AdverseReaction 752 764	constipation
+T16	AdverseReaction 766 775	dyspepsia
+T17	AdverseReaction 781 803	pharyngolaryngeal pain
+T18	AdverseReaction 1459 1467	headache
+T19	AdverseReaction 1495 1511	balance disorder
+T20	AdverseReaction 1539 1548	dizziness
+T21	AdverseReaction 1580 1597	confusional state
+T22	AdverseReaction 2098 2121	Urinary tract infection
+T23	AdverseReaction 2207 2215	Insomnia
+T24	AdverseReaction 2316 2325	Dizziness
+T25	AdverseReaction 2425 2433	Headache
+T26	AdverseReaction 2534 2540	Nausea
+T27	AdverseReaction 2643 2651	Asthenia
+T28	AdverseReaction 2752 2761	Back pain
+T29	AdverseReaction 2861 2877	Balance disorder
+T30	AdverseReaction 2970 2996	Multiple sclerosis relapse
+T31	AdverseReaction 3079 3090	Paresthesia
+T32	AdverseReaction 3188 3203	Nasopharyngitis
+T33	AdverseReaction 3297 3309	Constipation
+T34	AdverseReaction 3406 3415	Dyspepsia
+T35	AdverseReaction 3515 3537	Pharyngolaryngeal pain
+T36	AdverseReaction 4088 4096	seizures
+T37	Factor 4430 4433	can
+T38	AdverseReaction 4440 4448	seizures
+T39	Factor 4454 4458	risk
+T40	AdverseReaction 4462 4470	seizures
+T41	Factor 4729 4732	can
+T42	AdverseReaction 4739 4750	anaphylaxis
+T43	Factor 4852 4855	can
+T44	AdverseReaction 4862 4870	seizures
+T45	AdverseReaction 4895 4903	seizures
+T46	AdverseReaction 5101 5109	seizures
+T47	AdverseReaction 5301 5309	seizures
+T48	AdverseReaction 5346 5354	seizures
+T49	Factor 6591 6594	may
+T50	AdverseReaction 6635 6643	seizures
+T51	Factor 7103 7106	can
+T52	AdverseReaction 7113 7124	anaphylaxis
+T53	Severity 7129 7135	severe
+T54	AdverseReaction 7136 7154	allergic reactions
+T55	AdverseReaction 7189 7211	respiratory compromise
+T56	AdverseReaction 7213 7222	urticaria
+T57	AdverseReaction 7228 7252	angioedema of the throat
+T58	AdverseReaction 7228 7245;7260 7266	angioedema of the throat and or tongue
+T59	AdverseReaction 7497 7521	Urinary tract infections
+T60	AdverseReaction 7523 7527	UTIs
+R1	Hypothetical arg1:T38 arg2:T37
+R2	Hypothetical arg1:T40 arg2:T39
+R3	Hypothetical arg1:T42 arg2:T41
+R4	Hypothetical arg1:T44 arg2:T43
+R5	Hypothetical arg1:T50 arg2:T49
+R6	Hypothetical arg1:T52 arg2:T51
+R7	Effect arg1:T54 arg2:T53
+R8	Hypothetical arg1:T54 arg2:T51
+N1	Reference T1 meddra:10039906	Seizure
+N2	Reference T2 meddra:10002198	Anaphylactic reaction
+N3	Reference T3 meddra:10046571	Urinary tract infection
+N4	Reference T4 meddra:10046571	Urinary tract infection
+N5	Reference T5 meddra:10022437	Insomnia
+N6	Reference T6 meddra:10013573	Dizziness
+N7	Reference T7 meddra:10019211	Headache
+N8	Reference T8 meddra:10028813	Nausea
+N9	Reference T9 meddra:10003549	Asthenia
+N10	Reference T10 meddra:10003988	Back pain
+N11	Reference T11 meddra:10049848	Balance disorder
+N12	Reference T12 meddra:10048393	Multiple sclerosis relapse
+N13	Reference T13 meddra:10033775	Paraesthesia
+N14	Reference T14 meddra:10028810	Nasopharyngitis
+N15	Reference T15 meddra:10010774	Constipation
+N16	Reference T16 meddra:10013946	Dyspepsia
+N17	Reference T17 meddra:10023848	Laryngeal pain
+N18	Reference T21 meddra:10010305	Confusional state
+N19	Reference T54 meddra:10020751	Hypersensitivity
+N20	Reference T55 meddra:10038695	Respiratory failure
+N21	Reference T56 meddra:10046735	Urticaria
+N22	Reference T57 meddra:10002424	Angioedema
+N23	Reference T58 meddra:10002424	Angioedema
+N24	Reference T60 meddra:10046571	Urinary tract infection

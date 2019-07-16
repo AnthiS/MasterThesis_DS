@@ -1,0 +1,329 @@
+T1	AdverseReaction 130 154	Cardiovascular Disorders
+T2	AdverseReaction 201 220	Malignant Neoplasms
+T3	AdverseReaction 267 286	Gallbladder Disease
+T4	AdverseReaction 333 353	Hypertriglyceridemia
+T5	AdverseReaction 524 537	muscle spasms
+T6	AdverseReaction 539 545	nausea
+T7	AdverseReaction 547 555	diarrhea
+T8	AdverseReaction 557 566	dyspepsia
+T9	AdverseReaction 568 588	abdominal pain upper
+T10	AdverseReaction 590 608	oropharyngeal pain
+T11	AdverseReaction 610 619	dizziness
+T12	AdverseReaction 625 634	neck pain
+T13	AdverseReaction 1645 1654	mortality
+T14	Negation 1659 1663	0.0%
+T15	AdverseReaction 2025 2034	hot flush
+T16	AdverseReaction 2036 2056	abdominal pain upper
+T17	AdverseReaction 2062 2068	nausea
+T18	AdverseReaction 2502 2508	Nausea
+T19	AdverseReaction 2611 2619	Diarrhea
+T20	AdverseReaction 2720 2729	Dyspepsia
+T21	AdverseReaction 2829 2849	Abdominal pain upper
+T22	AdverseReaction 2994 3007	Muscle spasms
+T23	AdverseReaction 3103 3112	Neck pain
+T24	AdverseReaction 3250 3259	Dizziness
+T25	AdverseReaction 3416 3434	Oropharyngeal pain
+T26	AdverseReaction 3624 3646	venous thromboembolism
+T27	AdverseReaction 3648 3670	deep venous thrombosis
+T28	AdverseReaction 3672 3690	pulmonary embolism
+T29	AdverseReaction 3696 3719	retinal vein thrombosis
+T30	AdverseReaction 3776 3798	venous thromboembolism
+T31	Negation 3816 3820	0.0%
+T32	Factor 3982 3986	risk
+T33	AdverseReaction 3990 4012	venous thromboembolism
+T34	AdverseReaction 4157 4175	ENDOMETRIAL CANCER
+T35	AdverseReaction 4177 4201	CARDIOVASCULAR DISORDERS
+T36	Factor 4207 4215	PROBABLE
+T37	AdverseReaction 4216 4224	DEMENTIA
+T38	AdverseReaction 4240 4258	ENDOMETRIAL CANCER
+T39	AdverseReaction 4260 4284	CARDIOVASCULAR DISORDERS
+T40	Factor 4290 4298	PROBABLE
+T41	AdverseReaction 4299 4307	DEMENTIA
+T42	AdverseReaction 4448 4466	endometrial cancer
+T43	DrugClass 4511 4520	estrogens
+T44	Factor 4547 4562	reduce the risk
+T45	AdverseReaction 4566 4589	endometrial hyperplasia
+T46	AdverseReaction 5140 5146	stroke
+T47	AdverseReaction 5151 5171	deep vein thrombosis
+T48	AdverseReaction 5173 5176	DVT
+T49	DrugClass 5267 5292	oral conjugated estrogens
+T50	AdverseReaction 5479 5487	dementia
+T51	DrugClass 5579 5599	conjugated estrogens
+T52	AdverseReaction 6111 6129	ENDOMETRIAL CANCER
+T53	AdverseReaction 6131 6155	CARDIOVASCULAR DISORDERS
+T54	Factor 6161 6169	PROBABLE
+T55	AdverseReaction 6170 6178	DEMENTIA
+T56	AdverseReaction 6355 6373	endometrial cancer
+T57	DrugClass 6418 6427	estrogens
+T58	DrugClass 6589 6597	estrogen
+T59	AdverseReaction 6641 6647	stroke
+T60	AdverseReaction 6652 6672	deep vein thrombosis
+T61	AdverseReaction 6674 6677	DVT
+T62	DrugClass 6719 6727	estrogen
+T63	AdverseReaction 6796 6804	dementia
+T64	AdverseReaction 18429 18453	Cardiovascular disorders
+T65	AdverseReaction 18465 18487	venous thromboembolism
+T66	AdverseReaction 18489 18507	pulmonary embolism
+T67	AdverseReaction 18509 18515	stroke
+T68	AdverseReaction 18521 18548	retinal vascular thrombosis
+T69	AdverseReaction 18572 18591	Malignant neoplasms
+T70	AdverseReaction 18603 18621	endometrial cancer
+T71	AdverseReaction 18623 18636	breast cancer
+T72	AdverseReaction 18642 18656	ovarian cancer
+T73	Factor 18695 18699	risk
+T74	AdverseReaction 18703 18722	gallbladder disease
+T75	Factor 19416 19420	risk
+T76	AdverseReaction 19424 19427	VTE
+T77	AdverseReaction 19454 19460	stroke
+T78	AdverseReaction 19465 19468	DVT
+T79	DrugClass 19492 19500	estrogen
+T80	AdverseReaction 19990 19996	stroke
+T81	DrugClass 20057 20077	conjugated estrogens
+T82	Negation 20356 20358	no
+T83	AdverseReaction 20377 20383	stroke
+T84	DrugClass 20410 20430	conjugated estrogens
+T85	AdverseReaction 20730 20752	coronary heart disease
+T86	AdverseReaction 20754 20757	CHD
+T87	Severity 20778 20786	nonfatal
+T88	AdverseReaction 20787 20808	myocardial infarction
+T89	AdverseReaction 20810 20838	silent myocardial infarction
+T90	AdverseReaction 20843 20852	CHD death
+T91	DrugClass 20886 20894	estrogen
+T92	Negation 21050 21059	reduction
+T93	AdverseReaction 21063 21066	CHD
+T94	AdverseReaction 21293 21296	VTE
+T95	AdverseReaction 21298 21301	DVT
+T96	AdverseReaction 21306 21324	pulmonary embolism
+T97	AdverseReaction 21326 21328	PE
+T98	DrugClass 21371 21391	conjugated estrogens
+T99	AdverseReaction 21504 21507	DVT
+T100	AdverseReaction 21596 21599	VTE
+T101	Factor 21600 21604	risk
+T102	AdverseReaction 22397 22415	endometrial cancer
+T103	DrugClass 22460 22468	estrogen
+T104	AdverseReaction 22514 22532	endometrial cancer
+T105	DrugClass 22554 22562	estrogen
+T106	DrugClass 23966 23985	conjugated estrogen
+T107	AdverseReaction 24048 24070	invasive breast cancer
+T108	DrugClass 24623 24631	estrogen
+T109	AdverseReaction 24728 24742	ovarian cancer
+T110	DrugClass 25240 25248	estrogen
+T111	AdverseReaction 25324 25332	dementia
+T112	AdverseReaction 25364 25372	dementia
+T113	DrugClass 25377 25379	CE
+T114	AdverseReaction 25468 25476	dementia
+T115	DrugClass 25481 25483	CE
+T116	Factor 25694 25698	risk
+T117	AdverseReaction 25702 25721	gallbladder disease
+T118	AdverseReaction 25840 25867	Retinal vascular thrombosis
+T119	Severity 26283 26294	substantial
+T120	AdverseReaction 26295 26322	increases in blood pressure
+T121	AdverseReaction 26458 26464;26478 26495	effect of estrogens on blood pressure
+T122	Negation 26500 26503	not
+T123	Factor 26621 26624	may
+T124	AdverseReaction 26644 26678	elevations of plasma triglycerides
+T125	AdverseReaction 26690 26702	pancreatitis
+T126	AdverseReaction 27620 27654;27661 27667	increased thyroid-binding globulin (TBG) levels
+T127	AdverseReaction 27620 27629;27656 27659;27661 27667	increased thyroid-binding globulin (TBG) levels
+T128	AdverseReaction 27727 27740	increased TBG
+T129	Factor 28180 28183	may
+T130	AdverseReaction 28205 28220	fluid retention
+T131	Factor 28741 28744	may
+T132	AdverseReaction 28745 28755;28768 28778	exacerbate symptoms of angioedema
+T133	AdverseReaction 29532 29560	Accelerated prothrombin time
+T134	AdverseReaction 29532 29543;29562 29589	Accelerated prothrombin time, partial thromboplastin time
+T135	AdverseReaction 29532 29543;29595 29620	Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time
+T136	AdverseReaction 29622 29646	increased platelet count
+T137	AdverseReaction 29648 29668	increased factors II
+T138	AdverseReaction 29648 29665;29670 29681	increased factors II, VII antigen
+T139	AdverseReaction 29648 29665;29683 29695	increased factors II, VII antigen, VIII antigen
+T140	AdverseReaction 29648 29665;29697 29720	increased factors II, VII antigen, VIII antigen, VIII coagulant activity
+T141	AdverseReaction 29648 29665;29722 29724	increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX
+T142	AdverseReaction 29648 29665;29726 29727	increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X
+T143	AdverseReaction 29648 29665;29729 29732	increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII
+T144	AdverseReaction 29648 29665;29734 29747	increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex
+T145	AdverseReaction 29648 29665;29749 29765	increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex
+T146	AdverseReaction 29648 29657;29771 29791	increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin
+T147	AdverseReaction 29793 29826	decreased levels of antifactor Xa
+T148	AdverseReaction 29793 29812;29831 29847	decreased levels of antifactor Xa and antithrombin III
+T149	AdverseReaction 29849 29884	decreased antithrombin III activity
+T150	AdverseReaction 29886 29916	increased levels of fibrinogen
+T151	AdverseReaction 29886 29905;29921 29940	increased levels of fibrinogen and fibrinogen activity
+T152	AdverseReaction 29942 29971	increased plasminogen antigen
+T153	AdverseReaction 29942 29963;29976 29984	increased plasminogen antigen and activity
+T154	AdverseReaction 29990 30024	Increased thyroid-binding globulin
+T155	AdverseReaction 29990 29999;30026 30029	Increased thyroid-binding globulin (TBG
+T156	AdverseReaction 30042 30085	increased circulating total thyroid hormone
+T157	AdverseReaction 30042 30051;30130 30139	increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels
+T158	AdverseReaction 30042 30051;30179 30188	increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay), or T3 levels
+T159	AdverseReaction 30210 30225;30229 30238	T3 resin uptake is decreased
+T160	AdverseReaction 30255 30267	elevated TBG
+T161	Factor 30428 30431	may
+T162	AdverseReaction 30435 30443;30467 30498	elevated in serum, for example, corticosteroid binding globulin
+T163	AdverseReaction 30435 30443;30500 30503	elevated in serum, for example, corticosteroid binding globulin (CBG
+T164	AdverseReaction 30435 30443;30506 30534	elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin
+T165	AdverseReaction 30435 30443;30536 30540	elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG
+T166	AdverseReaction 30554 30597	increased total circulating corticosteroids
+T167	AdverseReaction 30554 30581;30602 30614	increased total circulating corticosteroids and sex steroids
+T168	AdverseReaction 30630 30657;30702 30711	Free hormone concentrations, such as testosterone and estradiol, may be decreased
+T169	AdverseReaction 30667 30679;30702 30711	testosterone and estradiol, may be decreased
+T170	AdverseReaction 30684 30693;30702 30711	estradiol, may be decreased
+T171	Factor 30695 30698	may
+T172	AdverseReaction 30719 30734;30742 30751	plasma proteins may be increased
+T173	Factor 30735 30738	may
+T174	AdverseReaction 30742 30751;30753 30768	increased (angiotensinogen
+T175	AdverseReaction 30742 30751;30769 30784	increased (angiotensinogen/renin substrate
+T176	AdverseReaction 30742 30751;30786 30805	increased (angiotensinogen/renin substrate, alpha-1-antitrypsin
+T177	AdverseReaction 30742 30751;30807 30820	increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin
+T178	AdverseReaction 30827 30868	Increased plasma high-density lipoprotein
+T179	AdverseReaction 30827 30836;30870 30873	Increased plasma high-density lipoprotein (HDL
+T180	AdverseReaction 30827 30836;30879 30922	Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations
+T181	AdverseReaction 30924 30955;30962 30988	reduced low-density lipoprotein (LDL) cholesterol concentrations
+T182	AdverseReaction 30924 30931;30957 30960;30962 30988	reduced low-density lipoprotein (LDL) cholesterol concentrations
+T183	AdverseReaction 30990 31019	increased triglyceride levels
+T184	AdverseReaction 31025 31051	Impaired glucose tolerance
+R1	Negated arg1:T13 arg2:T14
+R2	Negated arg1:T30 arg2:T31
+R3	Hypothetical arg1:T33 arg2:T32
+R4	Hypothetical arg1:T37 arg2:T36
+R5	Hypothetical arg1:T41 arg2:T40
+R6	Hypothetical arg1:T42 arg2:T43
+R7	Negated arg1:T45 arg2:T44
+R8	Hypothetical arg1:T46 arg2:T49
+R9	Hypothetical arg1:T47 arg2:T49
+R10	Hypothetical arg1:T48 arg2:T49
+R11	Hypothetical arg1:T50 arg2:T51
+R12	Hypothetical arg1:T55 arg2:T54
+R13	Hypothetical arg1:T56 arg2:T57
+R14	Hypothetical arg1:T59 arg2:T58
+R15	Hypothetical arg1:T60 arg2:T58
+R16	Hypothetical arg1:T61 arg2:T58
+R17	Hypothetical arg1:T63 arg2:T62
+R18	Hypothetical arg1:T74 arg2:T73
+R19	Hypothetical arg1:T76 arg2:T75
+R20	Hypothetical arg1:T77 arg2:T79
+R21	Hypothetical arg1:T78 arg2:T79
+R22	Hypothetical arg1:T80 arg2:T81
+R23	Negated arg1:T83 arg2:T82
+R24	Hypothetical arg1:T83 arg2:T84
+R25	Hypothetical arg1:T85 arg2:T91
+R26	Hypothetical arg1:T86 arg2:T91
+R27	Hypothetical arg1:T88 arg2:T91
+R28	Effect arg1:T88 arg2:T87
+R29	Hypothetical arg1:T89 arg2:T91
+R30	Hypothetical arg1:T90 arg2:T91
+R31	Negated arg1:T93 arg2:T92
+R32	Hypothetical arg1:T94 arg2:T98
+R33	Hypothetical arg1:T95 arg2:T98
+R34	Hypothetical arg1:T96 arg2:T98
+R35	Hypothetical arg1:T97 arg2:T98
+R36	Hypothetical arg1:T99 arg2:T98
+R37	Hypothetical arg1:T100 arg2:T101
+R38	Hypothetical arg1:T102 arg2:T103
+R39	Hypothetical arg1:T104 arg2:T105
+R40	Hypothetical arg1:T107 arg2:T106
+R41	Hypothetical arg1:T109 arg2:T108
+R42	Hypothetical arg1:T111 arg2:T110
+R43	Hypothetical arg1:T112 arg2:T113
+R44	Hypothetical arg1:T114 arg2:T115
+R45	Hypothetical arg1:T117 arg2:T116
+R46	Effect arg1:T120 arg2:T119
+R47	Negated arg1:T121 arg2:T122
+R48	Hypothetical arg1:T124 arg2:T123
+R49	Hypothetical arg1:T125 arg2:T123
+R50	Hypothetical arg1:T130 arg2:T129
+R51	Hypothetical arg1:T132 arg2:T131
+R52	Hypothetical arg1:T162 arg2:T161
+R53	Hypothetical arg1:T163 arg2:T161
+R54	Hypothetical arg1:T164 arg2:T161
+R55	Hypothetical arg1:T165 arg2:T161
+R56	Hypothetical arg1:T166 arg2:T161
+R57	Hypothetical arg1:T167 arg2:T161
+R58	Hypothetical arg1:T168 arg2:T171
+R59	Hypothetical arg1:T169 arg2:T171
+R60	Hypothetical arg1:T170 arg2:T171
+R61	Hypothetical arg1:T172 arg2:T173
+R62	Hypothetical arg1:T174 arg2:T173
+R63	Hypothetical arg1:T175 arg2:T173
+R64	Hypothetical arg1:T176 arg2:T173
+R65	Hypothetical arg1:T177 arg2:T173
+N1	Reference T1 meddra:10007649	Cardiovascular disorder
+N2	Reference T2 meddra:10028997	Neoplasm malignant
+N3	Reference T3 meddra:10017626	Gallbladder disorder
+N4	Reference T4 meddra:10020869	Hypertriglyceridaemia
+N5	Reference T5 meddra:10028334	Muscle spasms
+N6	Reference T6 meddra:10028813	Nausea
+N7	Reference T7 meddra:10012735	Diarrhoea
+N8	Reference T8 meddra:10013946	Dyspepsia
+N9	Reference T9 meddra:10000087	Abdominal pain upper
+N10	Reference T10 meddra:10068319	Oropharyngeal pain
+N11	Reference T11 meddra:10013573	Dizziness
+N12	Reference T12 meddra:10028836	Neck pain
+N13	Reference T15 meddra:10060800	Hot flush
+N14	Reference T26 meddra:10014522	Embolism venous
+N15	Reference T27 meddra:10051055	Deep vein thrombosis
+N16	Reference T28 meddra:10037377	Pulmonary embolism
+N17	Reference T29 meddra:10038908	Retinal vein thrombosis
+N18	Reference T34 meddra:10014733	Endometrial cancer
+N19	Reference T37 meddra:10012267	Dementia
+N20	Reference T46 meddra:10008190	Cerebrovascular accident
+N21	Reference T68 meddra:10062108	Retinal vascular thrombosis
+N22	Reference T71 meddra:10006187	Breast cancer
+N23	Reference T72 meddra:10033128	Ovarian cancer
+N24	Reference T76 meddra:10014522	Embolism venous
+N25	Reference T120 meddra:10005750	Blood pressure increased
+N26	Reference T124 meddra:10005839	Blood triglycerides increased
+N27	Reference T125 meddra:10033645	Pancreatitis
+N28	Reference T126 meddra:10051420	Thyroxin binding globulin increased
+N29	Reference T127 meddra:10051420	Thyroxin binding globulin increased
+N30	Reference T128 meddra:10051420	Thyroxin binding globulin increased
+N31	Reference T130 meddra:10016807	Fluid retention
+N32	Reference T132 meddra:10002424	Angioedema
+N33	Reference T133 meddra:10037070	Prothrombin time shortened
+N34	Reference T134 meddra:10000637	Activated partial thromboplastin time shortened
+N35	Reference T135 meddra:10035518	Platelet aggregation increased
+N36	Reference T136 meddra:10051608	Platelet count increased
+N37	Reference T137 meddra:10037051	Prothrombin level increased
+N38	Reference T138 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N39	Reference T139 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N40	Reference T140 meddra:10009770	Coagulation factor VIII level increased
+N41	Reference T141 meddra:10009748	Coagulation factor IX level increased
+N42	Reference T142 meddra:10009776	Coagulation factor X level increased
+N43	Reference T143 meddra:10009784	Coagulation factor XII level increased
+N44	Reference T144 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N45	Reference T145 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N46	Reference T146 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N47	Reference T147 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N48	Reference T148 meddra:10049547	Antithrombin III decreased
+N49	Reference T149 meddra:10049547	Antithrombin III decreased
+N50	Reference T150 meddra:10005521	Blood fibrinogen increased
+N51	Reference T151 meddra:10005521	Blood fibrinogen increased
+N52	Reference T152 meddra:10059618	Plasminogen activator inhibitor increased
+N53	Reference T153 meddra:10035495	Plasminogen increased
+N54	Reference T154 meddra:10051420	Thyroxin binding globulin increased
+N55	Reference T156 meddra:10063161	Thyroid hormones increased
+N56	Reference T157 meddra:10043818	Thyroxine increased
+N57	Reference T158 meddra:10044596	Tri-iodothyronine increased
+N58	Reference T159 meddra:10044601	Tri-iodothyronine uptake decreased
+N59	Reference T160 meddra:10051420	Thyroxin binding globulin increased
+N60	Reference T162 meddra:10072935	Corticosteroid binding globulin increased
+N61	Reference T163 meddra:10072935	Corticosteroid binding globulin increased
+N62	Reference T164 meddra:10059659	Sex hormone binding globulin increased
+N63	Reference T165 meddra:10059659	Sex hormone binding globulin increased
+N64	Reference T166 meddra:10020610	Hypercorticoidism
+N65	Reference T167 meddra:10005688	Blood oestrogen increased
+N66	Reference T168 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N67	Reference T169 meddra:10005814	Blood testosterone decreased
+N68	Reference T170 meddra:10030229	Oestradiol decreased
+N69	Reference T172 meddra:10037016	Protein total increased
+N70	Reference T174 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N71	Reference T175 meddra:DEFAULT_TERM_ID	DEFAULT_TERM
+N72	Reference T176 meddra:10001808	Alpha-1 anti-trypsin increased
+N73	Reference T177 meddra:10008219	Ceruloplasmin increased
+N74	Reference T178 meddra:10020061	High density lipoprotein increased
+N75	Reference T179 meddra:10020061	High density lipoprotein increased
+N76	Reference T180 meddra:10020061	High density lipoprotein increased
+N77	Reference T181 meddra:10024909	Low density lipoprotein decreased
+N78	Reference T182 meddra:10024909	Low density lipoprotein decreased
+N79	Reference T183 meddra:10005839	Blood triglycerides increased
+N80	Reference T184 meddra:10018429	Glucose tolerance impaired

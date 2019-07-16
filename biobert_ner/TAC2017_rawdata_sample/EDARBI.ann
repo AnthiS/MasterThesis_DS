@@ -1,0 +1,139 @@
+T1	AdverseReaction 85 93	diarrhea
+T2	AdverseReaction 1184 1195	hypotension
+T3	AdverseReaction 1196 1219	orthostatic hypotension
+T4	AdverseReaction 1504 1512	diarrhea
+T5	AdverseReaction 1891 1897	nausea
+T6	AdverseReaction 1959 1967	asthenia
+T7	AdverseReaction 1969 1976	fatigue
+T8	AdverseReaction 2033 2045	muscle spasm
+T9	AdverseReaction 2079 2088	dizziness
+T10	AdverseReaction 2090 2108	dizziness postural
+T11	AdverseReaction 2166 2171	cough
+T12	Severity 2383 2388	Small
+T13	Severity 2389 2399	reversible
+T14	AdverseReaction 2400 2429	increases in serum creatinine
+T15	AdverseReaction 2721 2747	serum creatinine increases
+T16	AdverseReaction 2785 2799	Low hemoglobin
+T17	AdverseReaction 2785 2788;2801 2811	Low hemoglobin, hematocrit
+T18	AdverseReaction 2785 2788;2817 2827	Low hemoglobin, hematocrit, and RBC counts
+T19	AdverseReaction 2972 2975;3003 3011;3020 3026	Low and high markedly abnormal platelet and WBC counts
+T20	AdverseReaction 2972 2975;3016 3026	Low and high markedly abnormal platelet and WBC counts
+T21	AdverseReaction 2980 2984;3016 3026	high markedly abnormal platelet and WBC counts
+T22	AdverseReaction 2980 2984;3003 3011;3020 3026	high markedly abnormal platelet and WBC counts
+T23	Severity 2985 2993	markedly
+T24	AdverseReaction 2994 3011;3020 3026	abnormal platelet and WBC counts
+T25	AdverseReaction 2994 3002;3016 3026	abnormal platelet and WBC counts
+T26	AdverseReaction 3403 3409	Nausea
+T27	AdverseReaction 3415 3428	Muscle spasms
+T28	AdverseReaction 3434 3438	Rash
+T29	AdverseReaction 3444 3452	Pruritus
+T30	AdverseReaction 3458 3468	Angioedema
+T31	AdverseReaction 3500 3514	FETAL TOXICITY
+T32	AdverseReaction 3529 3543	FETAL TOXICITY
+T33	DrugClass 3664 3719	Drugs that act directly on the renin-angiotensin system
+T34	AdverseReaction 3730 3736;3747 3770	injury and death to the developing fetus
+T35	AdverseReaction 3741 3770	death to the developing fetus
+T36	AdverseReaction 3827 3841	FETAL TOXICITY
+T37	DrugClass 3999 4054	Drugs that act directly on the renin-angiotensin system
+T38	AdverseReaction 4065 4071;4082 4105	injury and death to the developing fetus
+T39	AdverseReaction 4076 4105	death to the developing fetus
+T40	DrugClass 4359 4405	drugs that act on the renin-angiotensin system
+T41	AdverseReaction 4458 4486	reduces fetal renal function
+T42	AdverseReaction 4501 4506;4520 4529	fetal and neonatal morbidity
+T43	AdverseReaction 4501 4506;4534 4539	fetal and neonatal morbidity and death
+T44	AdverseReaction 4511 4529	neonatal morbidity
+T45	AdverseReaction 4511 4519;4534 4539	neonatal morbidity and death
+T46	AdverseReaction 4551 4566	oligohydramnios
+T47	Factor 4567 4570	can
+T48	AdverseReaction 4590 4611	fetal lung hypoplasia
+T49	AdverseReaction 4590 4595;4616 4637	fetal lung hypoplasia and skeletal deformations
+T50	Factor 4639 4648	Potential
+T51	AdverseReaction 4649 4673	neonatal adverse effects
+T52	AdverseReaction 4649 4657;4682 4698	neonatal adverse effects include skull hypoplasia
+T53	AdverseReaction 4649 4657;4700 4706	neonatal adverse effects include skull hypoplasia, anuria
+T54	AdverseReaction 4649 4657;4708 4719	neonatal adverse effects include skull hypoplasia, anuria, hypotension
+T55	AdverseReaction 4649 4657;4721 4734	neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure
+T56	AdverseReaction 4649 4657;4740 4745	neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death
+T57	AdverseReaction 5079 5102	symptomatic hypotension
+T58	Factor 5103 5106	may
+T59	AdverseReaction 5671 5696	changes in renal function
+T60	Factor 5697 5700	may
+T61	DrugClass 5970 6010	angiotensin-converting enzyme inhibitors
+T62	DrugClass 6015 6044	angiotensin receptor blockers
+T63	AdverseReaction 6070 6078	oliguria
+T64	AdverseReaction 6082 6102	progressive azotemia
+T65	AdverseReaction 6119 6138	acute renal failure
+T66	AdverseReaction 6143 6148	death
+T67	DrugClass 6333 6347	ACE inhibitors
+T68	AdverseReaction 6412 6441	increases in serum creatinine
+T69	AdverseReaction 6412 6424;6445 6464	increases in serum creatinine or blood urea nitrogen
+R1	Effect arg1:T14 arg2:T12
+R2	Effect arg1:T14 arg2:T13
+R3	Effect arg1:T24 arg2:T23
+R4	Effect arg1:T25 arg2:T23
+R5	Hypothetical arg1:T34 arg2:T33
+R6	Hypothetical arg1:T35 arg2:T33
+R7	Hypothetical arg1:T38 arg2:T37
+R8	Hypothetical arg1:T39 arg2:T37
+R9	Hypothetical arg1:T41 arg2:T40
+R10	Hypothetical arg1:T42 arg2:T40
+R11	Hypothetical arg1:T43 arg2:T40
+R12	Hypothetical arg1:T44 arg2:T40
+R13	Hypothetical arg1:T45 arg2:T40
+R14	Hypothetical arg1:T48 arg2:T47
+R15	Hypothetical arg1:T49 arg2:T47
+R16	Hypothetical arg1:T51 arg2:T50
+R17	Hypothetical arg1:T52 arg2:T50
+R18	Hypothetical arg1:T53 arg2:T50
+R19	Hypothetical arg1:T54 arg2:T50
+R20	Hypothetical arg1:T55 arg2:T50
+R21	Hypothetical arg1:T56 arg2:T50
+R22	Hypothetical arg1:T57 arg2:T58
+R23	Hypothetical arg1:T59 arg2:T60
+R24	Hypothetical arg1:T63 arg2:T61
+R25	Hypothetical arg1:T63 arg2:T62
+R26	Hypothetical arg1:T64 arg2:T61
+R27	Hypothetical arg1:T64 arg2:T62
+R28	Hypothetical arg1:T65 arg2:T61
+R29	Hypothetical arg1:T65 arg2:T62
+R30	Hypothetical arg1:T66 arg2:T61
+R31	Hypothetical arg1:T66 arg2:T62
+R32	Hypothetical arg1:T68 arg2:T67
+R33	Hypothetical arg1:T69 arg2:T67
+N1	Reference T1 meddra:10012735	Diarrhoea
+N2	Reference T2 meddra:10021097	Hypotension
+N3	Reference T3 meddra:10031127	Orthostatic hypotension
+N4	Reference T5 meddra:10028813	Nausea
+N5	Reference T6 meddra:10003549	Asthenia
+N6	Reference T7 meddra:10016256	Fatigue
+N7	Reference T8 meddra:10028334	Muscle spasms
+N8	Reference T9 meddra:10013573	Dizziness
+N9	Reference T10 meddra:10013578	Dizziness postural
+N10	Reference T11 meddra:10011224	Cough
+N11	Reference T14 meddra:10005483	Blood creatinine increased
+N12	Reference T15 meddra:10005483	Blood creatinine increased
+N13	Reference T16 meddra:10018884	Haemoglobin decreased
+N14	Reference T17 meddra:10018838	Haematocrit decreased
+N15	Reference T18 meddra:10038153	Red blood cell count decreased
+N16	Reference T19 meddra:10035528	Platelet count decreased
+N17	Reference T20 meddra:10047942	White blood cell count decreased
+N18	Reference T21 meddra:10047943	White blood cell count increased
+N19	Reference T22 meddra:10051608	Platelet count increased
+N20	Reference T24 meddra:10035526	Platelet count abnormal
+N21	Reference T25 meddra:10047940	White blood cell count abnormal
+N22	Reference T27 meddra:10028334	Muscle spasms
+N23	Reference T28 meddra:10037844	Rash
+N24	Reference T29 meddra:10037087	Pruritus
+N25	Reference T30 meddra:10002424	Angioedema
+N26	Reference T31 meddra:10026923	Maternal drugs affecting foetus
+N27	Reference T46 meddra:10030289	Oligohydramnios
+N28	Reference T48 meddra:10037407	Pulmonary hypoplasia
+N29	Reference T49 meddra:10010356	Congenital anomaly
+N30	Reference T51 meddra:10028934	Neonatal disorder
+N31	Reference T52 meddra:10027534	Microcephaly
+N32	Reference T53 meddra:10049778	Neonatal anuria
+N33	Reference T54 meddra:10049223	Neonatal hypotension
+N34	Reference T55 meddra:10038447	Renal failure neonatal
+N35	Reference T45 meddra:10011912	Death neonatal
+N36	Reference T57 meddra:10021097	Hypotension
+N37	Reference T59 meddra:10062237	Renal impairment

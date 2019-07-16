@@ -1,0 +1,275 @@
+T1	AdverseReaction 101 112	chromaturia
+T2	AdverseReaction 114 120	nausea
+T3	AdverseReaction 122 130	vomiting
+T4	AdverseReaction 135 149	abdominal pain
+T5	AdverseReaction 151 185	alanine aminotransferase increased
+T6	AdverseReaction 187 197	arthralgia
+T7	AdverseReaction 202 213	neutropenia
+T8	AdverseReaction 570 585	Agranulocytosis
+T9	AdverseReaction 586 597	Neutropenia
+T10	AdverseReaction 642 654	Elevated ALT
+T11	AdverseReaction 665 701	Decreased plasma zinc concentrations
+T12	AdverseReaction 1237 1252	agranulocytosis
+T13	AdverseReaction 1372 1383	chromaturia
+T14	AdverseReaction 1385 1391	nausea
+T15	AdverseReaction 1393 1401	vomiting
+T16	AdverseReaction 1403 1417	abdominal pain
+T17	AdverseReaction 1419 1453	alanine aminotransferase increased
+T18	AdverseReaction 1455 1465	arthralgia
+T19	AdverseReaction 1470 1481	neutropenia
+T20	AdverseReaction 1897 1908	Neutropenia
+T21	AdverseReaction 1981 1996	Agranulocytosis
+T22	AdverseReaction 2100 2106	Nausea
+T23	AdverseReaction 2184 2198	Abdominal pain
+T24	AdverseReaction 2184 2193;2199 2209	Abdominal pain/discomfort
+T25	AdverseReaction 2268 2276	Vomiting
+T26	AdverseReaction 2352 2360	Diarrhea
+T27	AdverseReaction 2436 2445	Dyspepsia
+T28	AdverseReaction 2550 2584	Alanine Aminotransferase increased
+T29	AdverseReaction 2643 2669	Neutrophil count decreased
+T30	AdverseReaction 2728 2744	Weight increased
+T31	AdverseReaction 2812 2848	Aspartate Aminotransferase increased
+T32	AdverseReaction 2950 2968	Increased appetite
+T33	AdverseReaction 3034 3052	Decreased appetite
+T34	AdverseReaction 3174 3184	Arthralgia
+T35	AdverseReaction 3258 3267	Back pain
+T36	AdverseReaction 3342 3359	Pain in extremity
+T37	AdverseReaction 3426 3437	Arthropathy
+T38	AdverseReaction 3543 3551	Headache
+T39	AdverseReaction 3657 3668	Chromaturia
+T40	AdverseReaction 3753 3759	nausea
+T41	AdverseReaction 3761 3769	vomiting
+T42	AdverseReaction 3775 3789	abdominal pain
+T43	AdverseReaction 3962 3973	Chromaturia
+T44	AdverseReaction 4455 4469	thrombocytosis
+T45	AdverseReaction 4471 4483	pancytopenia
+T46	AdverseReaction 4512 4531	atrial fibrillation
+T47	AdverseReaction 4533 4548	cardiac failure
+T48	AdverseReaction 4602 4613	hypospadias
+T49	AdverseReaction 4642 4650	diplopia
+T50	AdverseReaction 4652 4663	papilledema
+T51	AdverseReaction 4665 4681	retinal toxicity
+T52	AdverseReaction 4719 4732	enterocolitis
+T53	AdverseReaction 4734 4751	rectal hemorrhage
+T54	AdverseReaction 4753 4766	gastric ulcer
+T55	AdverseReaction 4768 4780	pancreatitis
+T56	AdverseReaction 4782 4807	parotid gland enlargement
+T57	AdverseReaction 4871 4877	chills
+T58	AdverseReaction 4879 4886	pyrexia
+T59	AdverseReaction 4888 4904	edema peripheral
+T60	AdverseReaction 4906 4925	multi-organ failure
+T61	AdverseReaction 4963 4971	jaundice
+T62	AdverseReaction 4973 4985	hepatomegaly
+T63	AdverseReaction 5023 5041	anaphylactic shock
+T64	AdverseReaction 5043 5059	hypersensitivity
+T65	AdverseReaction 5098 5130	cryptococcal cutaneous infection
+T66	AdverseReaction 5132 5156	enteroviral encephalitis
+T67	AdverseReaction 5158 5169	pharyngitis
+T68	AdverseReaction 5171 5180	pneumonia
+T69	AdverseReaction 5182 5188	sepsis
+T70	AdverseReaction 5190 5198	furuncle
+T71	AdverseReaction 5200 5220	infectious hepatitis
+T72	AdverseReaction 5222 5235	rash pustular
+T73	AdverseReaction 5237 5257	subcutaneous abscess
+T74	AdverseReaction 5283 5308	blood bilirubin increased
+T75	AdverseReaction 5310 5350	blood creatinine phosphokinase increased
+T76	AdverseReaction 5396 5414	metabolic acidosis
+T77	AdverseReaction 5416 5427	dehydration
+T78	AdverseReaction 5486 5494	myositis
+T79	AdverseReaction 5496 5508	chondropathy
+T80	AdverseReaction 5510 5517	trismus
+T81	AdverseReaction 5553 5572	cerebellar syndrome
+T82	AdverseReaction 5574 5593	cerebral hemorrhage
+T83	AdverseReaction 5595 5605	convulsion
+T84	AdverseReaction 5607 5623	gait disturbance
+T85	AdverseReaction 5625 5656	intracranial pressure increased
+T86	AdverseReaction 5658 5685	psychomotor skills impaired
+T87	AdverseReaction 5687 5711	pyramidal tract syndrome
+T88	AdverseReaction 5713 5723	somnolence
+T89	AdverseReaction 5755 5762	bruxism
+T90	AdverseReaction 5764 5774	depression
+T91	AdverseReaction 5776 5805	obsessive-compulsive disorder
+T92	AdverseReaction 5831 5841	glycosuria
+T93	AdverseReaction 5843 5857	hemoglobinuria
+T94	AdverseReaction 5916 5951	acute respiratory distress syndrome
+T95	AdverseReaction 5953 5962	epistaxis
+T96	AdverseReaction 5964 5974	hemoptysis
+T97	AdverseReaction 5976 5994	pulmonary embolism
+T98	AdverseReaction 6040 6053	hyperhidrosis
+T99	AdverseReaction 6055 6072	periorbital edema
+T100	AdverseReaction 6074 6099	photosensitivity reaction
+T101	AdverseReaction 6101 6109	pruritis
+T102	AdverseReaction 6111 6120	urticaria
+T103	AdverseReaction 6122 6126	rash
+T104	AdverseReaction 6128 6152	Henoch-Schonlein purpura
+T105	AdverseReaction 6181 6192	hypotension
+T106	AdverseReaction 6194 6206	hypertension
+T107	AdverseReaction 6242 6257	AGRANULOCYTOSIS
+T108	AdverseReaction 6258 6269	NEUTROPENIA
+T109	AdverseReaction 6282 6297	AGRANULOCYTOSIS
+T110	AdverseReaction 6298 6309	NEUTROPENIA
+T111	Factor 6328 6331	can
+T112	AdverseReaction 6338 6353	agranulocytosis
+T113	Factor 6359 6362	can
+T114	Severity 6371 6378	serious
+T115	AdverseReaction 6379 6389	infections
+T116	AdverseReaction 6394 6399	death
+T117	AdverseReaction 6401 6412	Neutropenia
+T118	Factor 6413 6416	may
+T119	AdverseReaction 6444 6459	agranulocytosis
+T120	AdverseReaction 7005 7020	AGRANULOCYTOSIS
+T121	AdverseReaction 7025 7036	NEUTROPENIA
+T122	Factor 7126 7129	can
+T123	AdverseReaction 7136 7151	agranulocytosis
+T124	Factor 7157 7160	can
+T125	Severity 7169 7176	serious
+T126	AdverseReaction 7177 7187	infections
+T127	AdverseReaction 7192 7197	death
+T128	AdverseReaction 7199 7210	Neutropenia
+T129	Factor 7211 7214	may
+T130	AdverseReaction 7242 7257	agranulocytosis
+T131	Factor 7750 7753	can
+T132	AdverseReaction 7760 7770	fetal harm
+T133	AdverseReaction 7931 7936	Fatal
+T134	AdverseReaction 7937 7952	agranulocytosis
+T135	Factor 7953 7956	can
+T136	Factor 7993 7996	can
+T137	AdverseReaction 8008 8019	neutropenia
+T138	Factor 8027 8030	may
+T139	AdverseReaction 8042 8057	agranulocytosis
+T140	AdverseReaction 8546 8561	agranulocytosis
+T141	AdverseReaction 8622 8637	agranulocytosis
+T142	AdverseReaction 8650 8665	Agranulocytosis
+T143	AdverseReaction 8670 8681	neutropenia
+T144	AdverseReaction 8764 8779	agranulocytosis
+T145	AdverseReaction 8791 8796	death
+T146	AdverseReaction 9754 9765;9818 9840	Embryofetal Toxicity
+
+
+
+  Based on evidence of genotoxicity and developmental toxicity
+T147	AdverseReaction 9801 9813	genotoxicity
+T148	Animal 9844 9850	animal
+T149	Factor 9870 9873	can
+T150	AdverseReaction 9880 9890	fetal harm
+T151	Animal 9933 9939	animal
+T152	AdverseReaction 10026 10043	embryofetal death
+T153	AdverseReaction 10026 10037;10048 10061	embryofetal death and malformations
+T154	AdverseReaction 10605 10625	increased ALT values
+T155	AdverseReaction 10696 10715	increased serum ALT
+T156	AdverseReaction 10747 10758;10764 10767	increase in both ALT
+T157	AdverseReaction 10747 10758;10772 10775	increase in both ALT and AST
+T158	AdverseReaction 10990 11026	Decreased plasma zinc concentrations
+R1	Hypothetical arg1:T112 arg2:T111
+R2	Effect arg1:T115 arg2:T114
+R3	Hypothetical arg1:T115 arg2:T113
+R4	Hypothetical arg1:T116 arg2:T113
+R5	Hypothetical arg1:T117 arg2:T118
+R6	Hypothetical arg1:T123 arg2:T122
+R7	Effect arg1:T126 arg2:T125
+R8	Hypothetical arg1:T126 arg2:T124
+R9	Hypothetical arg1:T127 arg2:T124
+R10	Hypothetical arg1:T128 arg2:T129
+R11	Hypothetical arg1:T132 arg2:T131
+R12	Hypothetical arg1:T133 arg2:T135
+R13	Hypothetical arg1:T134 arg2:T135
+R14	Hypothetical arg1:T137 arg2:T136
+R15	Hypothetical arg1:T139 arg2:T138
+R16	Hypothetical arg1:T146 arg2:T148
+R17	Hypothetical arg1:T147 arg2:T148
+R18	Hypothetical arg1:T150 arg2:T149
+R19	Hypothetical arg1:T152 arg2:T151
+R20	Hypothetical arg1:T153 arg2:T151
+N1	Reference T1 meddra:10008796	Chromaturia
+N2	Reference T2 meddra:10028813	Nausea
+N3	Reference T3 meddra:10047700	Vomiting
+N4	Reference T4 meddra:10000081	Abdominal pain
+N5	Reference T5 meddra:10001551	Alanine aminotransferase increased
+N6	Reference T6 meddra:10003239	Arthralgia
+N7	Reference T7 meddra:10029354	Neutropenia
+N8	Reference T8 meddra:10001507	Agranulocytosis
+N9	Reference T10 meddra:10001551	Alanine aminotransferase increased
+N10	Reference T11 meddra:10005867	Blood zinc decreased
+N11	Reference T24 meddra:10000059	Abdominal discomfort
+N12	Reference T26 meddra:10012735	Diarrhoea
+N13	Reference T27 meddra:10013946	Dyspepsia
+N14	Reference T29 meddra:10029366	Neutrophil count decreased
+N15	Reference T30 meddra:10047899	Weight increased
+N16	Reference T31 meddra:10003481	Aspartate aminotransferase increased
+N17	Reference T32 meddra:10021654	Increased appetite
+N18	Reference T33 meddra:10061428	Decreased appetite
+N19	Reference T35 meddra:10003988	Back pain
+N20	Reference T36 meddra:10033425	Pain in extremity
+N21	Reference T37 meddra:10003285	Arthropathy
+N22	Reference T38 meddra:10019211	Headache
+N23	Reference T44 meddra:10043563	Thrombocytosis
+N24	Reference T45 meddra:10033661	Pancytopenia
+N25	Reference T46 meddra:10003658	Atrial fibrillation
+N26	Reference T47 meddra:10007554	Cardiac failure
+N27	Reference T48 meddra:10021093	Hypospadias
+N28	Reference T49 meddra:10013036	Diplopia
+N29	Reference T50 meddra:10033712	Papilloedema
+N30	Reference T51 meddra:10048955	Retinal toxicity
+N31	Reference T52 meddra:10014893	Enterocolitis
+N32	Reference T53 meddra:10038063	Rectal haemorrhage
+N33	Reference T54 meddra:10017822	Gastric ulcer
+N34	Reference T55 meddra:10033645	Pancreatitis
+N35	Reference T56 meddra:10034023	Parotid gland enlargement
+N36	Reference T57 meddra:10008531	Chills
+N37	Reference T58 meddra:10037660	Pyrexia
+N38	Reference T59 meddra:10030124	Oedema peripheral
+N39	Reference T60 meddra:10028154	Multi-organ failure
+N40	Reference T61 meddra:10023126	Jaundice
+N41	Reference T62 meddra:10019842	Hepatomegaly
+N42	Reference T63 meddra:10002199	Anaphylactic shock
+N43	Reference T64 meddra:10020751	Hypersensitivity
+N44	Reference T65 meddra:10054216	Cryptococcal cutaneous infection
+N45	Reference T66 meddra:10063946	Encephalitis enteroviral
+N46	Reference T67 meddra:10034835	Pharyngitis
+N47	Reference T68 meddra:10035664	Pneumonia
+N48	Reference T69 meddra:10040047	Sepsis
+N49	Reference T70 meddra:10017553	Furuncle
+N50	Reference T71 meddra:10019780	Hepatitis infectious
+N51	Reference T72 meddra:10037888	Rash pustular
+N52	Reference T73 meddra:10042343	Subcutaneous abscess
+N53	Reference T74 meddra:10005364	Blood bilirubin increased
+N54	Reference T75 meddra:10005470	Blood creatine phosphokinase increased
+N55	Reference T76 meddra:10027417	Metabolic acidosis
+N56	Reference T77 meddra:10012174	Dehydration
+N57	Reference T78 meddra:10028653	Myositis
+N58	Reference T79 meddra:10061762	Chondropathy
+N59	Reference T80 meddra:10044684	Trismus
+N60	Reference T81 meddra:10008072	Cerebellar syndrome
+N61	Reference T82 meddra:10008111	Cerebral haemorrhage
+N62	Reference T83 meddra:10039906	Seizure
+N63	Reference T84 meddra:10017577	Gait disturbance
+N64	Reference T85 meddra:10022773	Intracranial pressure increased
+N65	Reference T86 meddra:10049215	Psychomotor skills impaired
+N66	Reference T87 meddra:10063636	Pyramidal tract syndrome
+N67	Reference T88 meddra:10041349	Somnolence
+N68	Reference T89 meddra:10006514	Bruxism
+N69	Reference T90 meddra:10012378	Depression
+N70	Reference T91 meddra:10029898	Obsessive-compulsive disorder
+N71	Reference T92 meddra:10018473	Glycosuria
+N72	Reference T93 meddra:10018906	Haemoglobinuria
+N73	Reference T94 meddra:10001052	Acute respiratory distress syndrome
+N74	Reference T95 meddra:10015090	Epistaxis
+N75	Reference T96 meddra:10018964	Haemoptysis
+N76	Reference T97 meddra:10037377	Pulmonary embolism
+N77	Reference T98 meddra:10020642	Hyperhidrosis
+N78	Reference T99 meddra:10034545	Periorbital oedema
+N79	Reference T100 meddra:10034972	Photosensitivity reaction
+N80	Reference T101 meddra:10037087	Pruritus
+N81	Reference T102 meddra:10046735	Urticaria
+N82	Reference T103 meddra:10037844	Rash
+N83	Reference T104 meddra:10019617	Henoch-Schonlein purpura
+N84	Reference T105 meddra:10021097	Hypotension
+N85	Reference T106 meddra:10020772	Hypertension
+N86	Reference T115 meddra:10021789	Infection
+N87	Reference T116 meddra:10011906	Death
+N88	Reference T132 meddra:10016852	Foetal damage
+N89	Reference T133 meddra:10011906	Death
+N90	Reference T154 meddra:10001551	Alanine aminotransferase increased
+N91	Reference T155 meddra:10001551	Alanine aminotransferase increased
+N92	Reference T156 meddra:10001551	Alanine aminotransferase increased
+N93	Reference T157 meddra:10003481	Aspartate aminotransferase increased

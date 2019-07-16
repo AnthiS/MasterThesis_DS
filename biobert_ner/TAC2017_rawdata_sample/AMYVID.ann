@@ -1,0 +1,64 @@
+T1	AdverseReaction 84 92	headache
+T2	AdverseReaction 135 155	musculoskeletal pain
+T3	AdverseReaction 157 181	blood pressure increased
+T4	AdverseReaction 183 190	fatigue
+T5	AdverseReaction 192 198	nausea
+T6	AdverseReaction 204 227	injection site reaction
+T7	AdverseReaction 1150 1174	blood pressure increased
+T8	AdverseReaction 1179 1191	hypertension
+T9	AdverseReaction 1220 1246	injection site haemorrhage
+T10	AdverseReaction 1248 1273	injection site irritation
+T11	AdverseReaction 1279 1298	injection site pain
+T12	AdverseReaction 1327 1339	feeling cold
+T13	AdverseReaction 1344 1350	chills
+T14	AdverseReaction 1468 1476	Headache
+T15	AdverseReaction 1574 1594	Musculoskeletal pain
+T16	AdverseReaction 1680 1704	Blood pressure increased
+T17	AdverseReaction 1786 1792	Nausea
+T18	AdverseReaction 1892 1899	Fatigue
+T19	AdverseReaction 1998 2021	Injection site reaction
+T20	AdverseReaction 2104 2111	Anxiety
+T21	AdverseReaction 2210 2219	Back pain
+T22	AdverseReaction 2316 2330	Claustrophobia
+T23	AdverseReaction 2422 2431	Dizziness
+T24	AdverseReaction 2528 2540	Feeling cold
+T25	AdverseReaction 2634 2642	Insomnia
+T26	AdverseReaction 2740 2749	Neck pain
+T27	AdverseReaction 2920 2938	infusion site rash
+T28	AdverseReaction 2940 2949	dysgeusia
+T29	AdverseReaction 2951 2959	pruritis
+T30	AdverseReaction 2961 2970	urticaria
+T31	AdverseReaction 2976 2984	flushing
+T32	AdverseReaction 3130 3144	Radiation risk
+T33	AdverseReaction 3218 3257	long-term cumulative radiation exposure
+T34	AdverseReaction 4317 4356	long-term cumulative radiation exposure
+T35	AdverseReaction 4358 4397	Long-term cumulative radiation exposure
+T36	Factor 4430 4434	risk
+T37	AdverseReaction 4438 4444	cancer
+R1	Hypothetical arg1:T37 arg2:T36
+N1	Reference T1 meddra:10019211	Headache
+N2	Reference T2 meddra:10028391	Musculoskeletal pain
+N3	Reference T3 meddra:10005750	Blood pressure increased
+N4	Reference T4 meddra:10016256	Fatigue
+N5	Reference T5 meddra:10028813	Nausea
+N6	Reference T6 meddra:10022095	Injection site reaction
+N7	Reference T8 meddra:10020772	Hypertension
+N8	Reference T9 meddra:10022067	Injection site haemorrhage
+N9	Reference T10 meddra:10022079	Injection site irritation
+N10	Reference T11 meddra:10022086	Injection site pain
+N11	Reference T12 meddra:10016326	Feeling cold
+N12	Reference T13 meddra:10008531	Chills
+N13	Reference T20 meddra:10002855	Anxiety
+N14	Reference T21 meddra:10003988	Back pain
+N15	Reference T22 meddra:10009244	Claustrophobia
+N16	Reference T23 meddra:10013573	Dizziness
+N17	Reference T25 meddra:10022437	Insomnia
+N18	Reference T26 meddra:10028836	Neck pain
+N19	Reference T27 meddra:10059830	Infusion site rash
+N20	Reference T28 meddra:10013911	Dysgeusia
+N21	Reference T29 meddra:10037087	Pruritus
+N22	Reference T30 meddra:10046735	Urticaria
+N23	Reference T31 meddra:10016825	Flushing
+N24	Reference T32 meddra:10073306	Exposure to radiation
+N25	Reference T33 meddra:10073306	Exposure to radiation
+N26	Reference T37 meddra:10028997	Neoplasm malignant

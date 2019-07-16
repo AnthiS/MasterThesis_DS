@@ -1,0 +1,247 @@
+T1	AdverseReaction 134 142	Diarrhea
+T2	AdverseReaction 186 193;210 224	Bullous and Exfoliative Skin Disorders
+T3	AdverseReaction 198 224	Exfoliative Skin Disorders
+T4	AdverseReaction 268 293	Interstitial Lung Disease
+T5	AdverseReaction 337 353	Hepatic Toxicity
+T6	AdverseReaction 397 406	Keratitis
+T7	AdverseReaction 505 513	diarrhea
+T8	AdverseReaction 515 519	rash
+T9	AdverseReaction 520 540	dermatitis acneiform
+T10	AdverseReaction 542 552	stomatitis
+T11	AdverseReaction 554 564	paronychia
+T12	AdverseReaction 566 574	dry skin
+T13	AdverseReaction 576 594	decreased appetite
+T14	AdverseReaction 596 602	nausea
+T15	AdverseReaction 604 612	vomiting
+T16	AdverseReaction 614 622	pruritus
+T17	AdverseReaction 2555 2563	diarrhea
+T18	AdverseReaction 2572 2580	vomiting
+T19	AdverseReaction 2593 2600	dyspnea
+T20	AdverseReaction 2602 2609	fatigue
+T21	AdverseReaction 2615 2626	hypokalemia
+T22	AdverseReaction 2640 2645	Fatal
+T23	AdverseReaction 2713 2731	pulmonary toxicity
+T24	AdverseReaction 2732 2758	ILD-like adverse reactions
+T25	AdverseReaction 2767 2773	sepsis
+T26	AdverseReaction 2787 2796	pneumonia
+T27	AdverseReaction 3008 3016	diarrhea
+T28	AdverseReaction 3024 3028	rash
+T29	AdverseReaction 3029 3033	acne
+T30	AdverseReaction 3041 3051	paronychia
+T31	AdverseReaction 3063 3073	stomatitis
+T32	AdverseReaction 3272 3280	diarrhea
+T33	AdverseReaction 3289 3292	ILD
+T34	AdverseReaction 3305 3315	paronychia
+T35	AdverseReaction 3712 3735	ventricular dysfunction
+T36	AdverseReaction 3748 3769	diastolic dysfunction
+T37	AdverseReaction 3771 3799	left ventricular dysfunction
+T38	AdverseReaction 3804 3824	ventricular dilation
+T39	AdverseReaction 4039 4049	stomatitis
+T40	Severity 4088 4095	Grade 4
+T41	AdverseReaction 4121 4131	stomatitis
+T42	AdverseReaction 4133 4152	aphthous stomatitis
+T43	AdverseReaction 4154 4174	mucosal inflammation
+T44	AdverseReaction 4176 4192	mouth ulceration
+T45	AdverseReaction 4194 4213	oral mucosa erosion
+T46	AdverseReaction 4215 4230	mucosal erosion
+T47	AdverseReaction 4232 4250	mucosal ulceration
+T48	AdverseReaction 4273 4277	rash
+T49	AdverseReaction 4295 4299	acne
+T50	AdverseReaction 4301 4314	acne pustular
+T51	AdverseReaction 4316 4336	dermatitis acneiform
+T52	AdverseReaction 4350 4360	paronychia
+T53	AdverseReaction 4362 4376	nail infection
+T54	AdverseReaction 4378 4396	nail bed infection
+T55	AdverseReaction 4612 4620	Diarrhea
+T56	AdverseReaction 4700 4710	Stomatitis
+T57	AdverseReaction 4794 4800	Nausea
+T58	AdverseReaction 4882 4890	Vomiting
+T59	AdverseReaction 4970 4979	Cheilitis
+T60	AdverseReaction 5105 5109	Rash
+T61	AdverseReaction 5110 5130	Dermatitis acneiform
+T62	AdverseReaction 5214 5222	Pruritus
+T63	AdverseReaction 5302 5310	Dry skin
+T64	AdverseReaction 5426 5436	Paronychia
+T65	AdverseReaction 5520 5528	Cystitis
+T66	AdverseReaction 5651 5669	Decreased appetite
+T67	AdverseReaction 5804 5813	Epistaxis
+T68	AdverseReaction 5892 5902	Rhinorrhea
+T69	AdverseReaction 6004 6020	Weight Decreased
+T70	AdverseReaction 6160 6167	Pyrexia
+T71	AdverseReaction 6270 6284	Conjunctivitis
+T72	AdverseReaction 6517 6528	hypokalemia
+T73	AdverseReaction 6530 6555	blood potassium decreased
+T74	AdverseReaction 6756 6790	Alanine aminotransferase increased
+T75	AdverseReaction 6863 6874	Hypokalemia
+T76	AdverseReaction 6952 6988	Aspartate aminotransferase increased
+T77	AdverseReaction 7400 7412	Pancreatitis
+T78	AdverseReaction 7475 7483	Diarrhea
+T79	Factor 7484 7487	may
+T80	AdverseReaction 7498 7509	dehydration
+T81	AdverseReaction 7514 7527	renal failure
+T82	AdverseReaction 7661 7665;7684 7691;7721 7728	Skin Disorders: Severe bullous, blistering, and exfoliating lesions
+T83	AdverseReaction 7661 7665;7693 7703;7721 7728	Skin Disorders: Severe bullous, blistering, and exfoliating lesions
+T84	AdverseReaction 7661 7665;7709 7728	Skin Disorders: Severe bullous, blistering, and exfoliating lesions
+T85	Severity 7677 7683	Severe
+T86	AdverseReaction 7893 7918	Interstitial lung disease
+T87	AdverseReaction 7920 7923	ILD
+T88	AdverseReaction 8081 8097	Hepatic toxicity
+T89	AdverseReaction 8099 8104	Fatal
+T90	AdverseReaction 8105 8123	hepatic impairment
+T91	AdverseReaction 8275 8284	Keratitis
+T92	AdverseReaction 8442 8462	Embryofetal toxicity
+T93	Factor 8464 8467	Can
+T94	AdverseReaction 8474 8484	fetal harm
+T95	AdverseReaction 8612 8620	Diarrhea
+T96	AdverseReaction 8637 8648	dehydration
+T97	AdverseReaction 8665 8681	renal impairment
+T98	AdverseReaction 8708 8713	fatal
+T99	AdverseReaction 8727 8735	diarrhea
+T100	AdverseReaction 8727 8735	diarrhea
+T101	Severity 8812 8819	Grade 3
+T102	AdverseReaction 8903 8919	Renal impairment
+T103	AdverseReaction 8903 8919	Renal impairment
+T104	AdverseReaction 8940 8948	diarrhea
+T105	Severity 9028 9035	Grade 3
+T106	Severity 9592 9599	Grade 3
+T107	AdverseReaction 9600 9619	cutaneous reactions
+T108	AdverseReaction 9637 9644;9674 9681	bullous, blistering, and exfoliating lesions
+T109	AdverseReaction 9646 9656;9674 9681	blistering, and exfoliating lesions
+T110	AdverseReaction 9662 9681	exfoliating lesions
+T111	AdverseReaction 9840 9859	cutaneous reactions
+T112	AdverseReaction 9874 9878	rash
+T113	AdverseReaction 9880 9888	erythema
+T114	AdverseReaction 9894 9908	acneiform rash
+T115	Severity 9939 9946	Grade 3
+T116	AdverseReaction 9947 9966	cutaneous reactions
+T117	Severity 10006 10013	Grade 1
+T118	Severity 10006 10015	Grade 1-3
+T119	Severity 10006 10011;10014 10015	Grade 1-3
+T120	AdverseReaction 10016 10058	palmar-plantar erythrodysesthesia syndrome
+T121	AdverseReaction 10577 10580	ILD
+T122	AdverseReaction 10584 10610	ILD-like adverse reactions
+T123	AdverseReaction 10618 10635	lung infiltration
+T124	AdverseReaction 10637 10648	pneumonitis
+T125	AdverseReaction 10650 10685	acute respiratory distress syndrome
+T126	AdverseReaction 10690 10709	alveolitis allergic
+T127	AdverseReaction 10815 10820	fatal
+T128	AdverseReaction 10839 10842	ILD
+T129	Severity 10966 10971;10974 10975	Grade >=3
+T130	AdverseReaction 10976 10979	ILD
+T131	AdverseReaction 11005 11010	death
+T132	AdverseReaction 11320 11344	liver test abnormalities
+T133	AdverseReaction 11370 11375	fatal
+T134	AdverseReaction 11389 11413	liver test abnormalities
+T135	AdverseReaction 11804 11813	Keratitis
+T136	AdverseReaction 11832 11837;11851 11867	acute or worsening eye inflammation
+T137	AdverseReaction 11841 11867	worsening eye inflammation
+T138	AdverseReaction 11869 11880	lacrimation
+T139	AdverseReaction 11882 11899	light sensitivity
+T140	AdverseReaction 11901 11915	blurred vision
+T141	AdverseReaction 11917 11925	eye pain
+T142	AdverseReaction 11934 11941	red eye
+T143	AdverseReaction 12037 12046	Keratitis
+T144	AdverseReaction 12037 12046	Keratitis
+T145	Severity 12098 12105	Grade 3
+T146	Factor 12756 12759	can
+T147	AdverseReaction 12766 12776	fetal harm
+T148	AdverseReaction 12829 12840	embryotoxic
+T149	AdverseReaction 12888 12924	abortions at late gestational stages
+T150	Animal 12928 12935	rabbits
+R1	Effect arg1:T39 arg2:T40
+R2	Hypothetical arg1:T80 arg2:T79
+R3	Hypothetical arg1:T81 arg2:T79
+R4	Effect arg1:T82 arg2:T85
+R5	Effect arg1:T83 arg2:T85
+R6	Effect arg1:T84 arg2:T85
+R7	Hypothetical arg1:T94 arg2:T93
+R8	Effect arg1:T100 arg2:T101
+R9	Effect arg1:T102 arg2:T105
+R10	Effect arg1:T107 arg2:T106
+R11	Effect arg1:T116 arg2:T115
+R12	Effect arg1:T120 arg2:T118
+R13	Effect arg1:T120 arg2:T117
+R14	Effect arg1:T120 arg2:T119
+R15	Effect arg1:T130 arg2:T129
+R16	Effect arg1:T144 arg2:T145
+R17	Hypothetical arg1:T147 arg2:T146
+R18	Hypothetical arg1:T149 arg2:T150
+N1	Reference T1 meddra:10012735	Diarrhoea
+N2	Reference T2 meddra:10012441	Dermatitis bullous
+N3	Reference T3 meddra:10040844	Skin exfoliation
+N4	Reference T4 meddra:10022611	Interstitial lung disease
+N5	Reference T5 meddra:10019851	Hepatotoxicity
+N6	Reference T6 meddra:10023332	Keratitis
+N7	Reference T8 meddra:10037844	Rash
+N8	Reference T9 meddra:10012432	Dermatitis acneiform
+N9	Reference T10 meddra:10042128	Stomatitis
+N10	Reference T11 meddra:10034016	Paronychia
+N11	Reference T12 meddra:10013786	Dry skin
+N12	Reference T13 meddra:10061428	Decreased appetite
+N13	Reference T14 meddra:10028813	Nausea
+N14	Reference T15 meddra:10047700	Vomiting
+N15	Reference T16 meddra:10037087	Pruritus
+N16	Reference T19 meddra:10013968	Dyspnoea
+N17	Reference T20 meddra:10016256	Fatigue
+N18	Reference T21 meddra:10021015	Hypokalaemia
+N19	Reference T22 meddra:10011906	Death
+N20	Reference T23 meddra:10061924	Pulmonary toxicity
+N21	Reference T24 meddra:10022611	Interstitial lung disease
+N22	Reference T25 meddra:10040047	Sepsis
+N23	Reference T26 meddra:10035664	Pneumonia
+N24	Reference T29 meddra:10000496	Acne
+N25	Reference T33 meddra:10022611	Interstitial lung disease
+N26	Reference T35 meddra:10059056	Ventricular dysfunction
+N27	Reference T36 meddra:10052337	Diastolic dysfunction
+N28	Reference T37 meddra:10049694	Left ventricular dysfunction
+N29	Reference T38 meddra:10013012	Dilatation ventricular
+N30	Reference T42 meddra:10002959	Aphthous ulcer
+N31	Reference T43 meddra:10028116	Mucosal inflammation
+N32	Reference T44 meddra:10028034	Mouth ulceration
+N33	Reference T45 meddra:10064594	Oral mucosa erosion
+N34	Reference T46 meddra:10061297	Mucosal erosion
+N35	Reference T47 meddra:10028124	Mucosal ulceration
+N36	Reference T50 meddra:10000513	Acne pustular
+N37	Reference T53 meddra:10061304	Nail infection
+N38	Reference T54 meddra:10061303	Nail bed infection
+N39	Reference T59 meddra:10008417	Cheilitis
+N40	Reference T65 meddra:10011781	Cystitis
+N41	Reference T67 meddra:10015090	Epistaxis
+N42	Reference T68 meddra:10039101	Rhinorrhoea
+N43	Reference T69 meddra:10047895	Weight decreased
+N44	Reference T70 meddra:10037660	Pyrexia
+N45	Reference T71 meddra:10010741	Conjunctivitis
+N46	Reference T73 meddra:10005724	Blood potassium decreased
+N47	Reference T74 meddra:10001551	Alanine aminotransferase increased
+N48	Reference T76 meddra:10003481	Aspartate aminotransferase increased
+N49	Reference T77 meddra:10033645	Pancreatitis
+N50	Reference T80 meddra:10012174	Dehydration
+N51	Reference T81 meddra:10038435	Renal failure
+N52	Reference T82 meddra:10012441	Dermatitis bullous
+N53	Reference T83 meddra:10005191	Blister
+N54	Reference T84 meddra:10012455	Dermatitis exfoliative
+N55	Reference T90 meddra:10024670	Liver disorder
+N56	Reference T92 meddra:10026923	Maternal drugs affecting foetus
+N57	Reference T94 meddra:10016852	Foetal damage
+N58	Reference T97 meddra:10062237	Renal impairment
+N59	Reference T107 meddra:10040914	Skin reaction
+N60	Reference T108 meddra:10012441	Dermatitis bullous
+N61	Reference T109 meddra:10005191	Blister
+N62	Reference T110 meddra:10040844	Skin exfoliation
+N63	Reference T113 meddra:10015150	Erythema
+N64	Reference T114 meddra:10012432	Dermatitis acneiform
+N65	Reference T120 meddra:10033553	Palmar-plantar erythrodysaesthesia syndrome
+N66	Reference T123 meddra:10025102	Lung infiltration
+N67	Reference T124 meddra:10035742	Pneumonitis
+N68	Reference T125 meddra:10001052	Acute respiratory distress syndrome
+N69	Reference T126 meddra:10001890	Alveolitis allergic
+N70	Reference T131 meddra:10011906	Death
+N71	Reference T132 meddra:10024690	Liver function test abnormal
+N72	Reference T136 meddra:10015943	Eye inflammation
+N73	Reference T137 meddra:10015943	Eye inflammation
+N74	Reference T138 meddra:10023644	Lacrimation increased
+N75	Reference T139 meddra:10034960	Photophobia
+N76	Reference T140 meddra:10047513	Vision blurred
+N77	Reference T141 meddra:10015958	Eye pain
+N78	Reference T142 meddra:10030041	Ocular hyperaemia
+N79	Reference T148 meddra:10026923	Maternal drugs affecting foetus

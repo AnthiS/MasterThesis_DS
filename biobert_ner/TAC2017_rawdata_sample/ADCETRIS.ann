@@ -1,0 +1,441 @@
+T1	AdverseReaction 156 177	Peripheral Neuropathy
+T2	AdverseReaction 236 247	Anaphylaxis
+T3	AdverseReaction 252 270	Infusion Reactions
+T4	AdverseReaction 329 351	Hematologic Toxicities
+T5	Severity 410 417	Serious
+T6	AdverseReaction 418 428	Infections
+T7	AdverseReaction 433 457	Opportunistic Infections
+T8	AdverseReaction 516 536	Tumor Lysis Syndrome
+T9	AdverseReaction 595 613	Increased Toxicity
+T10	AdverseReaction 715 733	Increased Toxicity
+T11	AdverseReaction 849 863	Hepatotoxicity
+T12	AdverseReaction 922 964	Progressive Multifocal Leukoencephalopathy
+T13	AdverseReaction 1023 1041	Pulmonary Toxicity
+T14	Severity 1089 1096	Serious
+T15	AdverseReaction 1097 1119	Dermatologic Reactions
+T16	AdverseReaction 1280 1291	neutropenia
+T17	AdverseReaction 1293 1322	peripheral sensory neuropathy
+T18	AdverseReaction 1324 1331	fatigue
+T19	AdverseReaction 1333 1339	nausea
+T20	AdverseReaction 1341 1347	anemia
+T21	AdverseReaction 1349 1382	upper respiratory tract infection
+T22	AdverseReaction 1384 1392	diarrhea
+T23	AdverseReaction 1394 1401	pyrexia
+T24	AdverseReaction 1403 1407	rash
+T25	AdverseReaction 1409 1425	thrombocytopenia
+T26	AdverseReaction 1427 1432	cough
+T27	AdverseReaction 1438 1446	vomiting
+T28	AdverseReaction 1505 1516	neutropenia
+T29	AdverseReaction 1518 1547	peripheral sensory neuropathy
+T30	AdverseReaction 1549 1565	thrombocytopenia
+T31	AdverseReaction 1567 1573	anemia
+T32	AdverseReaction 1575 1608	upper respiratory tract infection
+T33	AdverseReaction 1610 1617	fatigue
+T34	AdverseReaction 1619 1646	peripheral motor neuropathy
+T35	AdverseReaction 1648 1654	nausea
+T36	AdverseReaction 1656 1661	cough
+T37	AdverseReaction 1667 1675	diarrhea
+T38	AdverseReaction 2550 2561	neutropenia
+T39	AdverseReaction 2563 2592	peripheral sensory neuropathy
+T40	AdverseReaction 2594 2601	fatigue
+T41	AdverseReaction 2603 2609	nausea
+T42	AdverseReaction 2611 2617	anemia
+T43	AdverseReaction 2619 2652	upper respiratory tract infection
+T44	AdverseReaction 2654 2662	diarrhea
+T45	AdverseReaction 2664 2671	pyrexia
+T46	AdverseReaction 2673 2677	rash
+T47	AdverseReaction 2679 2695	thrombocytopenia
+T48	AdverseReaction 2697 2702	cough
+T49	AdverseReaction 2708 2716	vomiting
+T50	AdverseReaction 3042 3053	neutropenia
+T51	AdverseReaction 3055 3084	peripheral sensory neuropathy
+T52	AdverseReaction 3086 3102	thrombocytopenia
+T53	AdverseReaction 3104 3110	anemia
+T54	AdverseReaction 3112 3145	upper respiratory tract infection
+T55	AdverseReaction 3147 3154	fatigue
+T56	AdverseReaction 3156 3183	peripheral motor neuropathy
+T57	AdverseReaction 3185 3191	nausea
+T58	AdverseReaction 3193 3198	cough
+T59	AdverseReaction 3204 3212	diarrhea
+T60	AdverseReaction 3845 3856	neutropenia
+T61	AdverseReaction 3858 3887	peripheral sensory neuropathy
+T62	AdverseReaction 3889 3896	fatigue
+T63	AdverseReaction 3898 3931	upper respiratory tract infection
+T64	AdverseReaction 3933 3939	nausea
+T65	AdverseReaction 3941 3949	diarrhea
+T66	AdverseReaction 3951 3957	anemia
+T67	AdverseReaction 3959 3966	pyrexia
+T68	AdverseReaction 3968 3984	thrombocytopenia
+T69	AdverseReaction 3986 3990	rash
+T70	AdverseReaction 3992 4006	abdominal pain
+T71	AdverseReaction 4008 4013	cough
+T72	AdverseReaction 4019 4027	vomiting
+T73	AdverseReaction 5714 5725	neutropenia
+T74	AdverseReaction 5727 5733	anemia
+T75	AdverseReaction 5735 5764	peripheral sensory neuropathy
+T76	AdverseReaction 5766 5773	fatigue
+T77	AdverseReaction 5775 5781	nausea
+T78	AdverseReaction 5783 5790	pyrexia
+T79	AdverseReaction 5792 5796	rash
+T80	AdverseReaction 5798 5806	diarrhea
+T81	AdverseReaction 5812 5816	pain
+T82	AdverseReaction 6321 6332	Neutropenia
+T83	AdverseReaction 6438 6444	Anemia
+T84	AdverseReaction 6555 6571	Thrombocytopenia
+T85	AdverseReaction 6672 6687	Lymphadenopathy
+T86	AdverseReaction 6906 6935	Peripheral sensory neuropathy
+T87	AdverseReaction 7023 7050	Peripheral motor neuropathy
+T88	AdverseReaction 7140 7148	Headache
+T89	AdverseReaction 7257 7266	Dizziness
+T90	AdverseReaction 7501 7508	Fatigue
+T91	AdverseReaction 7618 7625	Pyrexia
+T92	AdverseReaction 7735 7741	Chills
+T93	AdverseReaction 7852 7856	Pain
+T94	AdverseReaction 7969 7985	Edema peripheral
+T95	AdverseReaction 8203 8236	Upper respiratory tract infection
+T96	AdverseReaction 8437 8443	Nausea
+T97	AdverseReaction 8554 8562	Diarrhea
+T98	AdverseReaction 8671 8685	Abdominal pain
+T99	AdverseReaction 8788 8796	Vomiting
+T100	AdverseReaction 8905 8917	Constipation
+T101	AdverseReaction 9139 9143	Rash
+T102	AdverseReaction 9256 9264	Pruritus
+T103	AdverseReaction 9373 9381	Alopecia
+T104	AdverseReaction 9490 9502	Night sweats
+T105	AdverseReaction 9607 9615	Dry skin
+T106	AdverseReaction 9846 9851	Cough
+T107	AdverseReaction 9963 9970	Dyspnea
+T108	AdverseReaction 10080 10098	Oropharyngeal pain
+T109	AdverseReaction 10319 10329	Arthralgia
+T110	AdverseReaction 10436 10443	Myalgia
+T111	AdverseReaction 10553 10562	Back pain
+T112	AdverseReaction 10670 10687	Pain in extremity
+T113	AdverseReaction 10787 10800	Muscle spasms
+T114	AdverseReaction 11021 11029	Insomnia
+T115	AdverseReaction 11138 11145	Anxiety
+T116	AdverseReaction 11372 11390	Decreased appetite
+T117	AdverseReaction 11606 11622	Weight decreased
+T118	AdverseReaction 12232 12243	Neutropenia
+T119	AdverseReaction 12349 12365	Thrombocytopenia
+T120	AdverseReaction 12466 12472	Anemia
+T121	AdverseReaction 12700 12729	Peripheral sensory neuropathy
+T122	AdverseReaction 12817 12844	Peripheral motor neuropathy
+T123	AdverseReaction 12934 12942	Headache
+T124	AdverseReaction 13168 13201	Upper respiratory tract infection
+T125	AdverseReaction 13412 13419	Fatigue
+T126	AdverseReaction 13529 13536	Pyrexia
+T127	AdverseReaction 13646 13652	Chills
+T128	AdverseReaction 13880 13886	Nausea
+T129	AdverseReaction 13997 14005	Diarrhea
+T130	AdverseReaction 14114 14122	Vomiting
+T131	AdverseReaction 14231 14245	Abdominal pain
+T132	AdverseReaction 14348 14360	Constipation
+T133	AdverseReaction 14587 14592	Cough
+T134	AdverseReaction 14704 14711	Dyspnea
+T135	AdverseReaction 14938 14954	Weight decreased
+T136	AdverseReaction 15177 15187	Arthralgia
+T137	AdverseReaction 15294 15307	Muscle spasms
+T138	AdverseReaction 15411 15418	Myalgia
+T139	AdverseReaction 15645 15653	Pruritus
+T140	AdverseReaction 15879 15897	Decreased appetite
+T141	AdverseReaction 16135 16145	neuropathy
+T142	AdverseReaction 16281 16291	neuropathy
+T143	AdverseReaction 16301 16320	residual neuropathy
+T144	AdverseReaction 16438 16448	neuropathy
+T145	AdverseReaction 16819 16829	neuropathy
+T146	AdverseReaction 16871 16890	residual neuropathy
+T147	AdverseReaction 17019 17030	anaphylaxis
+T148	Negation 17084 17086	no
+T149	Severity 17087 17094	Grade 3
+T150	Severity 17087 17092;17098 17099	Grade 3 or 4
+T151	AdverseReaction 17100 17126	infusion-related reactions
+T152	Severity 17165 17172	Grade 1
+T153	Severity 17165 17170;17176 17177	Grade 1 or 2
+T154	AdverseReaction 17178 17204	infusion-related reactions
+T155	AdverseReaction 17319 17345	infusion-related reactions
+T156	AdverseReaction 17351 17357	chills
+T157	AdverseReaction 17364 17370	nausea
+T158	AdverseReaction 17377 17384	dyspnea
+T159	AdverseReaction 17391 17399	pruritus
+T160	AdverseReaction 17406 17413	pyrexia
+T161	AdverseReaction 17424 17429	cough
+T162	AdverseReaction 17452 17478	infusion-related reactions
+T163	AdverseReaction 17673 17699	infusion-related reactions
+T164	Negation 17701 17703	No
+T165	Severity 17704 17711	Grade 4
+T166	AdverseReaction 17712 17738	infusion-related reactions
+T167	AdverseReaction 17811 17837	infusion-related reactions
+T168	AdverseReaction 17843 17849	nausea
+T169	AdverseReaction 17856 17862	chills
+T170	AdverseReaction 17869 17876	dyspnea
+T171	AdverseReaction 17883 17891	headache
+T172	AdverseReaction 17898 17906	pruritus
+T173	AdverseReaction 17913 17917	rash
+T174	AdverseReaction 17924 17933	back pain
+T175	AdverseReaction 17944 17952	vomiting
+T176	AdverseReaction 18114 18147	non-infectious pulmonary toxicity
+T177	AdverseReaction 18287 18292	cough
+T178	AdverseReaction 18297 18304	dyspnea
+T179	AdverseReaction 18306 18331;18414 18426	Interstitial infiltration and/or inflammation were observed on radiographs and computed tomographic imaging of the chest
+T180	AdverseReaction 18306 18318;18339 18351;18414 18426	Interstitial infiltration and/or inflammation were observed on radiographs and computed tomographic imaging of the chest
+T181	AdverseReaction 18602 18620	pulmonary toxicity
+T182	AdverseReaction 18689 18707	pulmonary toxicity
+T183	AdverseReaction 19137 19164	peripheral motor neuropathy
+T184	AdverseReaction 19171 19185	abdominal pain
+T185	AdverseReaction 19192 19210	pulmonary embolism
+T186	AdverseReaction 19217 19228	pneumonitis
+T187	AdverseReaction 19235 19247	pneumothorax
+T188	AdverseReaction 19254 19268	pyelonephritis
+T189	AdverseReaction 19279 19286	pyrexia
+T190	AdverseReaction 19375 19387	septic shock
+T191	AdverseReaction 19394 19421	supraventricular arrhythmia
+T192	AdverseReaction 19428 19445	pain in extremity
+T193	AdverseReaction 19456 19479	urinary tract infection
+T194	AdverseReaction 19545 19548	PML
+T195	AdverseReaction 19550 19574	Stevens-Johnson syndrome
+T196	AdverseReaction 19580 19600	tumor lysis syndrome
+T197	AdverseReaction 19768 19777	pneumonia
+T198	AdverseReaction 19784 19791	pyrexia
+T199	AdverseReaction 19798 19806	vomiting
+T200	AdverseReaction 19813 19819	nausea
+T201	AdverseReaction 19826 19840	hepatotoxicity
+T202	AdverseReaction 19850 19879	peripheral sensory neuropathy
+T203	AdverseReaction 20011 20022	neutropenia
+T204	AdverseReaction 20033 20062	peripheral sensory neuropathy
+T205	AdverseReaction 20237 20248	neutropenia
+T206	AdverseReaction 20256 20285	peripheral sensory neuropathy
+T207	AdverseReaction 20293 20326	upper respiratory tract infection
+T208	AdverseReaction 20337 20364	peripheral motor neuropathy
+T209	AdverseReaction 20660 20689	peripheral sensory neuropathy
+T210	AdverseReaction 20699 20726	peripheral motor neuropathy
+T211	AdverseReaction 20919 20948	peripheral sensory neuropathy
+T212	AdverseReaction 20956 20983	peripheral motor neuropathy
+T213	AdverseReaction 20990 21025	acute respiratory distress syndrome
+T214	AdverseReaction 21032 21044	paraesthesia
+T215	AdverseReaction 21054 21062	vomiting
+T216	AdverseReaction 21448 21467	febrile neutropenia
+T217	AdverseReaction 21561 21575	hepatotoxicity
+T218	AdverseReaction 21656 21659	PML
+T219	Severity 21723 21730	serious
+T220	AdverseReaction 21731 21741	infections
+T221	AdverseReaction 21746 21770	opportunistic infections
+T222	AdverseReaction 21875 21888	hyperglycemia
+T223	AdverseReaction 21926 21938	Pancreatitis
+T224	AdverseReaction 21950 21955	fatal
+T225	AdverseReaction 22116 22148	noninfectious pulmonary toxicity
+T226	AdverseReaction 22159 22170	pneumonitis
+T227	AdverseReaction 22172 22197	interstitial lung disease
+T228	AdverseReaction 22203 22207	ARDS
+T229	AdverseReaction 22219 22224	fatal
+T230	AdverseReaction 22374 22400	Toxic epidermal necrolysis
+T231	AdverseReaction 22412 22417	fatal
+T232	AdverseReaction 23222 23240	infusion reactions
+T233	AdverseReaction 23314 23340	infusion related reactions
+T234	AdverseReaction 24210 24252	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+T235	AdverseReaction 24254 24257	PML
+T236	AdverseReaction 24273 24315	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+T237	AdverseReaction 24317 24320	PML
+T238	AdverseReaction 24329 24347	JC virus infection
+T239	AdverseReaction 24361 24364	PML
+T240	AdverseReaction 24369 24374	death
+T241	Factor 24375 24378	can
+T242	AdverseReaction 24548 24590	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY
+T243	AdverseReaction 24592 24595	PML
+T244	AdverseReaction 24678 24696	JC virus infection
+T245	AdverseReaction 24710 24713	PML
+T246	AdverseReaction 24718 24723	death
+T247	Factor 24724 24727	can
+T248	AdverseReaction 24842 24863	Peripheral neuropathy
+T249	AdverseReaction 24959 24970	Anaphylaxis
+T250	AdverseReaction 24975 24993	infusion reactions
+T251	AdverseReaction 25129 25151	Hematologic toxicities
+T252	Severity 25402 25409	Serious
+T253	AdverseReaction 25410 25420	infections
+T254	AdverseReaction 25425 25449	opportunistic infections
+T255	AdverseReaction 25552 25572	Tumor lysis syndrome
+T256	AdverseReaction 25670 25684	Hepatotoxicity
+T257	AdverseReaction 25739 25757	Pulmonary Toxicity
+T258	Severity 25824 25831	Serious
+T259	AdverseReaction 25832 25854	dermatologic reactions
+T260	AdverseReaction 25951 25972	Embryo-fetal toxicity
+T261	AdverseReaction 25975 25985	Fetal harm
+T262	Factor 25986 25989	can
+T263	AdverseReaction 26139 26160	peripheral neuropathy
+T264	AdverseReaction 26139 26160;26183 26190	peripheral neuropathy that is predominantly sensory
+T265	AdverseReaction 26201 26228	peripheral motor neuropathy
+T266	AdverseReaction 26271 26292	peripheral neuropathy
+T267	AdverseReaction 26405 26415	neuropathy
+T268	AdverseReaction 26551 26561	neuropathy
+T269	AdverseReaction 26571 26590	residual neuropathy
+T270	AdverseReaction 27056 27082	Infusion-related reactions
+T271	AdverseReaction 27094 27105	anaphylaxis
+T272	Severity 27680 27686	severe
+T273	AdverseReaction 27687 27698	neutropenia
+T274	Severity 27703 27710	Grade 3
+T275	Severity 27714 27721	Grade 4
+T276	AdverseReaction 27722 27738	thrombocytopenia
+T277	AdverseReaction 27742 27748	anemia
+T278	Factor 27749 27752	can
+T279	AdverseReaction 27774 27793	Febrile neutropenia
+T280	Severity 28300 28307	Serious
+T281	AdverseReaction 28308 28318	infections
+T282	AdverseReaction 28323 28347	opportunistic infections
+T283	AdverseReaction 28356 28365	pneumonia
+T284	AdverseReaction 28367 28377	bacteremia
+T285	AdverseReaction 28383 28389	sepsis
+T286	AdverseReaction 28393 28405	septic shock
+T287	AdverseReaction 28417 28422	fatal
+T288	Factor 28712 28715	may
+T289	AdverseReaction 28740 28760	tumor lysis syndrome
+T290	AdverseReaction 28940 28946	deaths
+T291	AdverseReaction 29532 29538	deaths
+T292	Severity 29866 29873	Serious
+T293	AdverseReaction 29883 29897	hepatotoxicity
+T294	AdverseReaction 29909 29914	fatal
+T295	AdverseReaction 29998 30019	hepatocellular injury
+T296	AdverseReaction 30031 30058	elevations of transaminases
+T297	AdverseReaction 30031 30044;30066 30075	elevations of transaminases and/or bilirubin
+T298	AdverseReaction 30512 30530	JC virus infection
+T299	AdverseReaction 30544 30547	PML
+T300	AdverseReaction 30552 30557	death
+T301	AdverseReaction 31208 31240	noninfectious pulmonary toxicity
+T302	AdverseReaction 31251 31262	pneumonitis
+T303	AdverseReaction 31264 31289	interstitial lung disease
+T304	AdverseReaction 31295 31330	acute respiratory distress syndrome
+T305	AdverseReaction 31332 31336	ARDS
+T306	AdverseReaction 31349 31354	fatal
+T307	AdverseReaction 31658 31682	Stevens-Johnson syndrome
+T308	AdverseReaction 31684 31687	SJS
+T309	AdverseReaction 31693 31719	toxic epidermal necrolysis
+T310	AdverseReaction 31721 31724	TEN
+T311	AdverseReaction 31737 31742	fatal
+T312	Factor 32072 32075	can
+T313	AdverseReaction 32082 32092	fetal harm
+T314	AdverseReaction 32159 32182	embryo-fetal toxicities
+T315	Severity 32194 32207	significantly
+T316	AdverseReaction 32208 32234	decreased embryo viability
+T317	AdverseReaction 32239 32258	fetal malformations
+T318	Animal 32263 32270	animals
+R1	Effect arg1:T6 arg2:T5
+R2	Effect arg1:T15 arg2:T14
+R3	Effect arg1:T151 arg2:T149
+R4	Effect arg1:T151 arg2:T150
+R5	Negated arg1:T151 arg2:T148
+R6	Effect arg1:T154 arg2:T153
+R7	Effect arg1:T154 arg2:T152
+R8	Effect arg1:T166 arg2:T165
+R9	Negated arg1:T166 arg2:T164
+R10	Effect arg1:T220 arg2:T219
+R11	Hypothetical arg1:T238 arg2:T241
+R12	Hypothetical arg1:T239 arg2:T241
+R13	Hypothetical arg1:T240 arg2:T241
+R14	Hypothetical arg1:T244 arg2:T247
+R15	Hypothetical arg1:T245 arg2:T247
+R16	Hypothetical arg1:T246 arg2:T247
+R17	Effect arg1:T253 arg2:T252
+R18	Effect arg1:T259 arg2:T258
+R19	Hypothetical arg1:T261 arg2:T262
+R20	Effect arg1:T273 arg2:T272
+R21	Hypothetical arg1:T273 arg2:T278
+R22	Effect arg1:T276 arg2:T274
+R23	Effect arg1:T276 arg2:T275
+R24	Hypothetical arg1:T276 arg2:T278
+R25	Hypothetical arg1:T277 arg2:T278
+R26	Effect arg1:T277 arg2:T275
+R27	Effect arg1:T277 arg2:T274
+R28	Effect arg1:T281 arg2:T280
+R29	Hypothetical arg1:T289 arg2:T288
+R30	Effect arg1:T293 arg2:T292
+R31	Hypothetical arg1:T313 arg2:T312
+R32	Hypothetical arg1:T314 arg2:T318
+R33	Hypothetical arg1:T316 arg2:T318
+R34	Effect arg1:T316 arg2:T315
+R35	Hypothetical arg1:T317 arg2:T318
+N1	Reference T1 meddra:10029331	Neuropathy peripheral
+N2	Reference T2 meddra:10002198	Anaphylactic reaction
+N3	Reference T3 meddra:10051792	Infusion related reaction
+N4	Reference T4 meddra:10061188	Haematotoxicity
+N5	Reference T6 meddra:10021789	Infection
+N6	Reference T7 meddra:10030901	Opportunistic infection
+N7	Reference T8 meddra:10045170	Tumour lysis syndrome
+N8	Reference T9 meddra:10070863	Toxicity to various agents
+N9	Reference T11 meddra:10019851	Hepatotoxicity
+N10	Reference T12 meddra:10036807	Progressive multifocal leukoencephalopathy
+N11	Reference T13 meddra:10061924	Pulmonary toxicity
+N12	Reference T15 meddra:10040914	Skin reaction
+N13	Reference T16 meddra:10029354	Neutropenia
+N14	Reference T17 meddra:10034620	Peripheral sensory neuropathy
+N15	Reference T18 meddra:10016256	Fatigue
+N16	Reference T19 meddra:10028813	Nausea
+N17	Reference T20 meddra:10002034	Anaemia
+N18	Reference T21 meddra:10046306	Upper respiratory tract infection
+N19	Reference T22 meddra:10012735	Diarrhoea
+N20	Reference T23 meddra:10037660	Pyrexia
+N21	Reference T24 meddra:10037844	Rash
+N22	Reference T25 meddra:10043554	Thrombocytopenia
+N23	Reference T26 meddra:10011224	Cough
+N24	Reference T27 meddra:10047700	Vomiting
+N25	Reference T34 meddra:10034580	Peripheral motor neuropathy
+N26	Reference T70 meddra:10000081	Abdominal pain
+N27	Reference T81 meddra:10033371	Pain
+N28	Reference T85 meddra:10025197	Lymphadenopathy
+N29	Reference T88 meddra:10019211	Headache
+N30	Reference T89 meddra:10013573	Dizziness
+N31	Reference T92 meddra:10008531	Chills
+N32	Reference T94 meddra:10030124	Oedema peripheral
+N33	Reference T100 meddra:10010774	Constipation
+N34	Reference T102 meddra:10037087	Pruritus
+N35	Reference T103 meddra:10001760	Alopecia
+N36	Reference T104 meddra:10029410	Night sweats
+N37	Reference T105 meddra:10013786	Dry skin
+N38	Reference T107 meddra:10013968	Dyspnoea
+N39	Reference T108 meddra:10068319	Oropharyngeal pain
+N40	Reference T109 meddra:10003239	Arthralgia
+N41	Reference T110 meddra:10028411	Myalgia
+N42	Reference T111 meddra:10003988	Back pain
+N43	Reference T112 meddra:10033425	Pain in extremity
+N44	Reference T113 meddra:10028334	Muscle spasms
+N45	Reference T114 meddra:10022437	Insomnia
+N46	Reference T115 meddra:10002855	Anxiety
+N47	Reference T116 meddra:10061428	Decreased appetite
+N48	Reference T117 meddra:10047895	Weight decreased
+N49	Reference T141 meddra:10029331	Neuropathy peripheral
+N50	Reference T143 meddra:10029331	Neuropathy peripheral
+N51	Reference T151 meddra:10051792	Infusion related reaction
+N52	Reference T176 meddra:10061924	Pulmonary toxicity
+N53	Reference T179 meddra:10025102	Lung infiltration
+N54	Reference T180 meddra:10022611	Interstitial lung disease
+N55	Reference T185 meddra:10037377	Pulmonary embolism
+N56	Reference T186 meddra:10035742	Pneumonitis
+N57	Reference T187 meddra:10035759	Pneumothorax
+N58	Reference T188 meddra:10037596	Pyelonephritis
+N59	Reference T190 meddra:10040070	Septic shock
+N60	Reference T191 meddra:10003130	Arrhythmia supraventricular
+N61	Reference T193 meddra:10046571	Urinary tract infection
+N62	Reference T194 meddra:10036807	Progressive multifocal leukoencephalopathy
+N63	Reference T195 meddra:10042033	Stevens-Johnson syndrome
+N64	Reference T197 meddra:10035664	Pneumonia
+N65	Reference T213 meddra:10001052	Acute respiratory distress syndrome
+N66	Reference T214 meddra:10033775	Paraesthesia
+N67	Reference T216 meddra:10016288	Febrile neutropenia
+N68	Reference T222 meddra:10020635	Hyperglycaemia
+N69	Reference T223 meddra:10033645	Pancreatitis
+N70	Reference T224 meddra:10011906	Death
+N71	Reference T225 meddra:10061924	Pulmonary toxicity
+N72	Reference T227 meddra:10022611	Interstitial lung disease
+N73	Reference T228 meddra:10001052	Acute respiratory distress syndrome
+N74	Reference T230 meddra:10044223	Toxic epidermal necrolysis
+N75	Reference T233 meddra:10051792	Infusion related reaction
+N76	Reference T238 meddra:10023163	JC virus infection
+N77	Reference T240 meddra:10011906	Death
+N78	Reference T260 meddra:10026923	Maternal drugs affecting foetus
+N79	Reference T261 meddra:10016852	Foetal damage
+N80	Reference T264 meddra:10034620	Peripheral sensory neuropathy
+N81	Reference T284 meddra:10003997	Bacteraemia
+N82	Reference T285 meddra:10040047	Sepsis
+N83	Reference T290 meddra:10011906	Death
+N84	Reference T295 meddra:10019837	Hepatocellular injury
+N85	Reference T296 meddra:10054889	Transaminases increased
+N86	Reference T297 meddra:10005364	Blood bilirubin increased
+N87	Reference T308 meddra:10042033	Stevens-Johnson syndrome
+N88	Reference T310 meddra:10044223	Toxic epidermal necrolysis

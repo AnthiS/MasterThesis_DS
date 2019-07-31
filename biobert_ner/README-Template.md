@@ -10,7 +10,7 @@ The code regarding the traditional methods (traditional_methods.py) is based on 
 
 ## Authors
 
-* *Anthi Symeonidou*
-* *Slava Sazonau*
-* *Paul Gorth*
+* *Anthi Symeonidou*, an_syme@hotmail.com
+* *Slava Sazonau*, s.sazonau@elsevier.com
+* *Paul Gorth*, p.groth@uva.nl
 
